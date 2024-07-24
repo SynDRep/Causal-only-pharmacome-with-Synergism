@@ -1,0 +1,1947 @@
+:ID,:LABEL,namespace:string,pure:boolean,involved_other:string,chebi:float,bel:string,name:string
+1638,Abundance,MESHA,False,Microglia,,"a(MESHA:""Microglia"")",Microglia
+1639,Abundance,PUBCHEM,False,3086007,,"a(PUBCHEM:""3086007"")",3086007
+1640,Abundance,CHEBI,False,vitamin E,33234.0,"a(CHEBI:""vitamin E"")",vitamin E
+1641,Abundance,CHEBI,False,fisetin,42567.0,"a(CHEBI:""fisetin"")",fisetin
+1642,Abundance,CHEBI,False,lipopolysaccharide,16412.0,"a(CHEBI:""lipopolysaccharide"")",lipopolysaccharide
+1643,Abundance,CHEBI,False,Geniposide,5299.0,"a(CHEBI:""Geniposide"")",Geniposide
+1644,Abundance,MESHC,False,Copper,,"a(MESHC:""Copper"")",Copper
+1645,Abundance,PUBCHEM,False,2880983,,"a(PUBCHEM:""2880983"")",2880983
+1646,Abundance,CHEBI,,sialic acid,,"a(CHEBI:""sialic acid"",loc(MESHA:""Neurons""))",sialic acid
+1647,Abundance,CHEBI,False,nitrate,17632.0,"a(CHEBI:""nitrate"")",nitrate
+1648,Abundance,CHEBI,False,44932,,"a(CHEBI:""44932"")",44932
+1649,Abundance,PUBCHEM,False,355052570,,"a(PUBCHEM:""355052570"")",355052570
+1650,Abundance,CHEBI,False,amyloid-beta,64645.0,"a(CHEBI:""amyloid-beta"")",amyloid-beta
+1651,Abundance,PUBCHEM,False,6440944,,"a(PUBCHEM:""6440944"")",6440944
+1652,Abundance,CHEBI,False,losartan,6541.0,"a(CHEBI:""losartan"")",losartan
+1653,Abundance,CONSO,False,CONSO00021,,"a(CONSO:""CONSO00021"")",CONSO00021
+1654,Abundance,MESH,False,Cholinergic Neurons,,"a(MESH:""Cholinergic Neurons"")",Cholinergic Neurons
+1655,Abundance,CHEBI,False,sulforaphane,47807.0,"a(CHEBI:""sulforaphane"")",sulforaphane
+1656,Abundance,CHEBI,False,morphine,17303.0,"a(CHEBI:""morphine"")",morphine
+1657,Abundance,CHEBI,False,112284,,"a(CHEBI:""112284"")",112284
+1658,Abundance,PUBCHEM,False,3108148,,"a(PUBCHEM:""3108148"")",3108148
+1659,Abundance,MESHA,False,Monocytes,,"a(MESHA:""Monocytes"")",Monocytes
+1660,Abundance,MESH,,Autophagy-Related Proteins,,"a(MESH:""Autophagy-Related Proteins"",loc(GO:""phagophore assembly site""))",Autophagy-Related Proteins
+1661,Abundance,CHEBI,False,1D-chiro-inositol,27372.0,"a(CHEBI:""1D-chiro-inositol"")",1D-chiro-inositol
+1662,Abundance,CHEBI,False,N-oleoyldopamine,31883.0,"a(CHEBI:""N-oleoyldopamine"")",N-oleoyldopamine
+1663,Abundance,CHEBI,False,doxycycline,50845.0,"a(CHEBI:""doxycycline"")",doxycycline
+1664,Abundance,CHEBI,False,transfer RNA,17843.0,"a(CHEBI:""transfer RNA"")",transfer RNA
+1665,Abundance,CHEBI,False,allyl isothiocyanate,73224.0,"a(CHEBI:""allyl isothiocyanate"")",allyl isothiocyanate
+1666,Abundance,CHEBI,False,1H-pyrazole,17241.0,"a(CHEBI:""1H-pyrazole"")",1H-pyrazole
+1667,Abundance,CHEBI,False,Bombesin,80229.0,"a(CHEBI:""Bombesin"")",Bombesin
+1668,Abundance,MESH,False,Autophagosomes,,"a(MESH:""Autophagosomes"")",Autophagosomes
+1669,Abundance,PUBCHEM,False,6913994,,"a(PUBCHEM:""6913994"")",6913994
+1670,Abundance,CHEBI,False,linsidomine,136004.0,"a(CHEBI:""linsidomine"")",linsidomine
+1671,Abundance,CHEBI,False,leukotriene B4,15647.0,"a(CHEBI:""leukotriene B4"")",leukotriene B4
+1672,Abundance,MESH,False,Neurofibrillary Tangles,,"a(MESH:""Neurofibrillary Tangles"")",Neurofibrillary Tangles
+1673,Abundance,CC,False,GI254023X,,"a(CC:""GI254023X"")",GI254023X
+1674,Abundance,CHEBI,False,polyamine,88061.0,"a(CHEBI:""polyamine"")",polyamine
+1675,Abundance,CHEBI,False,manganese(II) chloride,63041.0,"a(CHEBI:""manganese(II) chloride"")",manganese(II) chloride
+1676,Abundance,CHEBI,False,sirolimus,9168.0,"a(CHEBI:""sirolimus"")",sirolimus
+1677,Abundance,MESH,False,BSc 3094,,"a(MESH:""BSc 3094"")",BSc 3094
+1678,Abundance,MESH,False,Paraquat,,"a(MESH:""Paraquat"")",Paraquat
+1679,Abundance,CHEBI,False,wortmannin,52289.0,"a(CHEBI:""wortmannin"")",wortmannin
+1680,Abundance,CHEBI,False,docosahexaenoic acid,36005.0,"a(CHEBI:""docosahexaenoic acid"")",docosahexaenoic acid
+1681,Abundance,MESH,False,jasplakinolide,,"a(MESH:""jasplakinolide"")",jasplakinolide
+1682,Abundance,PUBCHEM,False,9821250,,"a(PUBCHEM:""9821250"")",9821250
+1683,Abundance,CHEBI,False,quetiapine,8707.0,"a(CHEBI:""quetiapine"")",quetiapine
+1684,Abundance,CHEBI,False,Guanabenz,5553.0,"a(CHEBI:""Guanabenz"")",Guanabenz
+1685,Abundance,PUBCHEM,False,329970430,,"a(PUBCHEM:""329970430"")",329970430
+1686,Abundance,MESH,False,Denervation,,"a(MESH:""Denervation"")",Denervation
+1687,Abundance,CONSO,False,LDN-213843,,"a(CONSO:""LDN-213843"")",LDN-213843
+1688,Abundance,CHEBI,False,flavonoids,72544.0,"a(CHEBI:""flavonoids"")",flavonoids
+1689,Abundance,PUBCHEM,False,25195348,,"a(PUBCHEM:""25195348"")",25195348
+1690,Abundance,CHEBI,False,ATP,15422.0,"a(CHEBI:""ATP"")",ATP
+1691,Abundance,CHEBI,False,salsalate,9014.0,"a(CHEBI:""salsalate"")",salsalate
+1692,Abundance,CHEBI,False,N-methyl-D-aspartic acid,31882.0,"a(CHEBI:""N-methyl-D-aspartic acid"")",N-methyl-D-aspartic acid
+1693,Abundance,CHEBI,False,celastrol,63959.0,"a(CHEBI:""celastrol"")",celastrol
+1694,Abundance,PUBCHEM,False,49850262,,"a(PUBCHEM:""49850262"")",49850262
+1695,Abundance,CHEBI,False,dobutamine,4670.0,"a(CHEBI:""dobutamine"")",dobutamine
+1696,Abundance,CONSO,False,"Tau antibody, 6C5",,"a(CONSO:""Tau antibody, 6C5"")","Tau antibody, 6C5"
+1697,Abundance,CHEBI,False,ketanserin,6123.0,"a(CHEBI:""ketanserin"")",ketanserin
+1698,Abundance,MESHA,,Leukocytes,,"a(MESHA:""Leukocytes"",loc(MESHA:""Spleen""))",Leukocytes
+1699,Abundance,GO,False,endosome,,"a(GO:""endosome"")",endosome
+1700,Abundance,NNS,False,YENPTY endocytosis motif (APP),,"a(NNS:""YENPTY endocytosis motif (APP)"")",YENPTY endocytosis motif (APP)
+1701,Abundance,PUBCHEM,False,9804992,,"a(PUBCHEM:""9804992"")",9804992
+1702,Abundance,CHEBI,False,leptomycin B,52646.0,"a(CHEBI:""leptomycin B"")",leptomycin B
+1703,Abundance,MESHC,False,Chemokines,,"a(MESHC:""Chemokines"")",Chemokines
+1704,Abundance,PUBCHEM,False,71729974,,"a(PUBCHEM:""71729974"")",71729974
+1705,Abundance,MESH,False,Inclusion Bodies,,"a(MESH:""Inclusion Bodies"")",Inclusion Bodies
+1706,Abundance,CC,False,GW3965,,"a(CC:""GW3965"")",GW3965
+1707,Abundance,MESH,False,Deubiquitinating Enzymes,,"a(MESH:""Deubiquitinating Enzymes"")",Deubiquitinating Enzymes
+1708,Abundance,CHEBI,False,methylglyoxal,17158.0,"a(CHEBI:""methylglyoxal"")",methylglyoxal
+1709,Abundance,PUBCHEM,False,9880,,"a(PUBCHEM:""9880"")",9880
+1710,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Cerebral Cortex""))",amyloid-beta
+1711,Abundance,CHEBI,False,fluphenazine,5123.0,"a(CHEBI:""fluphenazine"")",fluphenazine
+1712,Abundance,CHEBI,False,peptide,16670.0,"a(CHEBI:""peptide"")",peptide
+1713,Abundance,PUBCHEM,False,5833,,"a(PUBCHEM:""5833"")",5833
+1714,Abundance,MESH,False,Anti-Inflammatory Agents,,"a(MESH:""Anti-Inflammatory Agents"")",Anti-Inflammatory Agents
+1715,Abundance,MESHA,False,Pluripotent Stem Cells,,"a(MESHA:""Pluripotent Stem Cells"")",Pluripotent Stem Cells
+1716,Abundance,CHEBI,False,azaperone,88301.0,"a(CHEBI:""azaperone"")",azaperone
+1717,Abundance,MESH,False,4'-azidothymidine,,"a(MESH:""4'-azidothymidine"")",4'-azidothymidine
+1718,Abundance,CHEBI,False,phenethyl caffeate,8062.0,"a(CHEBI:""phenethyl caffeate"")",phenethyl caffeate
+1719,Abundance,PUBCHEM,False,9576811,,"a(PUBCHEM:""9576811"")",9576811
+1720,Abundance,CHEBI,False,thiazolidinediones,50990.0,"a(CHEBI:""thiazolidinediones"")",thiazolidinediones
+1721,Abundance,CHEBI,False,acetyl-CoA,15351.0,"a(CHEBI:""acetyl-CoA"")",acetyl-CoA
+1722,Abundance,CHEBI,False,amantadine,2618.0,"a(CHEBI:""amantadine"")",amantadine
+1723,Abundance,MESHA,False,Oligodendroglia,,"a(MESHA:""Oligodendroglia"")",Oligodendroglia
+1724,Abundance,TAXONOMY,False,92736,,"a(TAXONOMY:""92736"")",92736
+1725,Abundance,CONSO,False,EC102,,"a(CONSO:""EC102"")",EC102
+1726,Abundance,MESHA,False,Schwann Cells,,"a(MESHA:""Schwann Cells"")",Schwann Cells
+1727,Abundance,CHEBI,False,glycine,15428.0,"a(CHEBI:""glycine"")",glycine
+1728,Abundance,MESHA,False,Myelin Sheath,,"a(MESHA:""Myelin Sheath"")",Myelin Sheath
+1729,Abundance,CHEBI,False,codeine,16714.0,"a(CHEBI:""codeine"")",codeine
+1730,Abundance,CHEBI,False,iproclozide,134988.0,"a(CHEBI:""iproclozide"")",iproclozide
+1731,Abundance,CHEBI,False,phenothiazines,38093.0,"a(CHEBI:""phenothiazines"")",phenothiazines
+1732,Abundance,GOCC,False,ssRNA viral genome,,"a(GOCC:""ssRNA viral genome"")",ssRNA viral genome
+1733,Abundance,CHEBI,,glutamate(2-),,"a(CHEBI:""glutamate(2-)"",loc(MESH:""Pyramidal Cells""))",glutamate(2-)
+1734,Abundance,DRUGBANK,False,Pridopidine,,"a(DRUGBANK:""Pridopidine"")",Pridopidine
+1735,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MESHD:""Plaque, Amyloid""))",Microglia
+1736,Abundance,CHEBI,False,hexadecanoic acid,15756.0,"a(CHEBI:""hexadecanoic acid"")",hexadecanoic acid
+1737,Abundance,CHEBI,False,iron(0),82664.0,"a(CHEBI:""iron(0)"")",iron(0)
+1738,Abundance,CHEBI,False,U0126,90693.0,"a(CHEBI:""U0126"")",U0126
+1739,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Neurons""))",amyloid-beta
+1740,Abundance,CHEBI,False,celecoxib,41423.0,"a(CHEBI:""celecoxib"")",celecoxib
+1741,Abundance,CHEBI,False,ketotifen,92511.0,"a(CHEBI:""ketotifen"")",ketotifen
+1742,Abundance,MESHA,False,Th2 Cells,,"a(MESHA:""Th2 Cells"")",Th2 Cells
+1743,Abundance,CHEBI,False,calcium(1+),39099.0,"a(CHEBI:""calcium(1+)"")",calcium(1+)
+1744,Abundance,CHEBI,False,lead(0),27889.0,"a(CHEBI:""lead(0)"")",lead(0)
+1745,Abundance,MESH,False,tenuigenin,,"a(MESH:""tenuigenin"")",tenuigenin
+1746,Abundance,CHEBI,False,iron chelator,38157.0,"a(CHEBI:""iron chelator"")",iron chelator
+1747,Abundance,MESH,False,Gallamine Triethiodide,,"a(MESH:""Gallamine Triethiodide"")",Gallamine Triethiodide
+1748,Abundance,CHEBI,False,trichostatin A,46024.0,"a(CHEBI:""trichostatin A"")",trichostatin A
+1749,Abundance,CHEBI,False,disodium cromoglycate,128458.0,"a(CHEBI:""disodium cromoglycate"")",disodium cromoglycate
+1750,Abundance,CHEBI,False,"3,4-dihydroxybenzoate",36241.0,"a(CHEBI:""3,4-dihydroxybenzoate"")","3,4-dihydroxybenzoate"
+1751,Abundance,MESH,False,Gastrointestinal Tract,,"a(MESH:""Gastrointestinal Tract"")",Gastrointestinal Tract
+1752,Abundance,CHEBI,False,manganese(0),35154.0,"a(CHEBI:""manganese(0)"")",manganese(0)
+1753,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""cytoplasm""))",calcium(2+)
+1754,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""intracellular""))",calcium(2+)
+1755,Abundance,MESH,False,"1-(4-methoxybenzyl)-4-oxo-1,4-dihydroquinoline-3-carboxylic acid",,"a(MESH:""1-(4-methoxybenzyl)-4-oxo-1,4-dihydroquinoline-3-carboxylic acid"")","1-(4-methoxybenzyl)-4-oxo-1,4-dihydroquinoline-3-carboxylic acid"
+1756,Abundance,NIFT,False,Hippocampal atrophy,,"a(NIFT:""Hippocampal atrophy"")",Hippocampal atrophy
+1757,Abundance,CHEBI,False,arsenic(3+),35828.0,"a(CHEBI:""arsenic(3+)"")",arsenic(3+)
+1758,Abundance,CHEBI,False,RNA fragment,82726.0,"a(CHEBI:""RNA fragment"")",RNA fragment
+1759,Abundance,GOCC,False,neurofibrillary tangle,,"a(GOCC:""neurofibrillary tangle"")",neurofibrillary tangle
+1760,Abundance,MESH,False,"3-amino-N-(4-methoxybenzyl)-4,6-dimethylthieno(2,3-b)pyridine-2-carboxamide",,"a(MESH:""3-amino-N-(4-methoxybenzyl)-4,6-dimethylthieno(2,3-b)pyridine-2-carboxamide"")","3-amino-N-(4-methoxybenzyl)-4,6-dimethylthieno(2,3-b)pyridine-2-carboxamide"
+1761,Abundance,BRCO,False,Hippocampus,,"a(BRCO:""Hippocampus"")",Hippocampus
+1762,Abundance,MESH,False,Bacteria,,"a(MESH:""Bacteria"")",Bacteria
+1763,Abundance,CHEBI,False,Colibactin,156303.0,"a(CHEBI:""Colibactin"")",Colibactin
+1764,Abundance,CHEBI,False,TA-65,,"a(CHEBI:""TA-65"")",TA-65
+1765,Abundance,NCIT,False,Presenilin-1,,"a(NCIT:""Presenilin-1"")",Presenilin-1
+1766,Abundance,CHEBI,False,PPARalpha agonist,70782.0,"a(CHEBI:""PPARalpha agonist"")",PPARalpha agonist
+1767,Abundance,CHEBI,False,polyphenols,,"a(CHEBI:""polyphenols"")",polyphenols
+1768,Abundance,MESHA,False,Cholinergic Neurons,,"a(MESHA:""Cholinergic Neurons"")",Cholinergic Neurons
+1769,Abundance,NNS,False,misfolded proteins,,"a(NNS:""misfolded proteins"")",misfolded proteins
+1770,Abundance,CHEBI,False,probenecid,8426.0,"a(CHEBI:""probenecid"")",probenecid
+1771,Abundance,CHEBI,False,BAPTA,60888.0,"a(CHEBI:""BAPTA"")",BAPTA
+1772,Abundance,MESH,False,cotinine N-glucuronide,,"a(MESH:""cotinine N-glucuronide"")",cotinine N-glucuronide
+1773,Abundance,CHEBI,False,thalidomide,9513.0,"a(CHEBI:""thalidomide"")",thalidomide
+1774,Abundance,MESH,False,T-Lymphocytes,,"a(MESH:""T-Lymphocytes"")",T-Lymphocytes
+1775,Abundance,CHEMBLA,False,CHEMBL3640772,,"a(CHEMBLA:""CHEMBL3640772"")",CHEMBL3640772
+1776,Abundance,CHEBI,False,antidote,50247.0,"a(CHEBI:""antidote"")",antidote
+1777,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""intracellular""))",amyloid-beta
+1778,Abundance,FIXME,False,escape-latency,,"a(FIXME:""escape-latency"")",escape-latency
+1779,Abundance,CHEBI,False,kainic acid,31746.0,"a(CHEBI:""kainic acid"")",kainic acid
+1780,Abundance,GOBP,False,neuron projection development,,"a(GOBP:""neuron projection development"")",neuron projection development
+1781,Abundance,MESH,False,Nerve Growth Factor,,"a(MESH:""Nerve Growth Factor"")",Nerve Growth Factor
+1782,Abundance,PUBCHEM,False,24978557,,"a(PUBCHEM:""24978557"")",24978557
+1783,Abundance,CHEBI,False,epibatidine,4803.0,"a(CHEBI:""epibatidine"")",epibatidine
+1784,Abundance,MESHF,False,Spatial Processing,,"a(MESHF:""Spatial Processing"")",Spatial Processing
+1785,Abundance,MESH,False,talsaclidine fumarate,,"a(MESH:""talsaclidine fumarate"")",talsaclidine fumarate
+1786,Abundance,OMIT,False,0016987,,"a(OMIT:""0016987"")",0016987
+1787,Abundance,FIXME,False,"InChI=1S/C11H17NO3/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8/h3-5,7,11-15H,6H2,1-2H3",,"a(FIXME:""InChI=1S/C11H17NO3/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8/h3-5,7,11-15H,6H2,1-2H3"")","InChI=1S/C11H17NO3/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8/h3-5,7,11-15H,6H2,1-2H3"
+1788,Abundance,CHEBI,False,nifedipine,7565.0,"a(CHEBI:""nifedipine"")",nifedipine
+1789,Abundance,PUBCHEM,False,23697816,,"a(PUBCHEM:""23697816"")",23697816
+1790,Abundance,FIXME,False,"InChI=1S/C24H28ClN5O/c1-28(15-20-11-13-29(14-12-20)16-19-7-3-2-4-8-19)24(31)23-18-30(27-26-23)17-21-9-5-6-10-22(21)25/h2-10,18,20H,11-17H2,1H3",,"a(FIXME:""InChI=1S/C24H28ClN5O/c1-28(15-20-11-13-29(14-12-20)16-19-7-3-2-4-8-19)24(31)23-18-30(27-26-23)17-21-9-5-6-10-22(21)25/h2-10,18,20H,11-17H2,1H3"")","InChI=1S/C24H28ClN5O/c1-28(15-20-11-13-29(14-12-20)16-19-7-3-2-4-8-19)24(31)23-18-30(27-26-23)17-21-9-5-6-10-22(21)25/h2-10,18,20H,11-17H2,1H3"
+1791,Abundance,CONSO,False,4-OH-GTS-21,,"a(CONSO:""4-OH-GTS-21"")",4-OH-GTS-21
+1792,Abundance,NNS,False,CRH-IR,,"a(NNS:""CRH-IR"")",CRH-IR
+1793,Abundance,CHEBI,False,mycophenolic acid,168396.0,"a(CHEBI:""mycophenolic acid"")",mycophenolic acid
+1794,Abundance,FIXME,False,"InChI=1S/C25H31ClN5O/c1-29(16-20-12-14-31(2,15-13-20)19-21-8-4-3-5-9-21)25(32)24-18-30(28-27-24)17-22-10-6-7-11-23(22)26/h3-11,18,20H,12-17,19H2,1-2H3/q+1",,"a(FIXME:""InChI=1S/C25H31ClN5O/c1-29(16-20-12-14-31(2,15-13-20)19-21-8-4-3-5-9-21)25(32)24-18-30(28-27-24)17-22-10-6-7-11-23(22)26/h3-11,18,20H,12-17,19H2,1-2H3/q+1"")","InChI=1S/C25H31ClN5O/c1-29(16-20-12-14-31(2,15-13-20)19-21-8-4-3-5-9-21)25(32)24-18-30(28-27-24)17-22-10-6-7-11-23(22)26/h3-11,18,20H,12-17,19H2,1-2H3/q+1"
+1795,Abundance,CHEBI,False,nicotine N(1')-oxide,30734.0,"a(CHEBI:""nicotine N(1')-oxide"")",nicotine N(1')-oxide
+1796,Abundance,CHEBI,False,desferrioxamine B,4356.0,"a(CHEBI:""desferrioxamine B"")",desferrioxamine B
+1797,Abundance,PUBCHEM,False,107970,,"a(PUBCHEM:""107970"")",107970
+1798,Abundance,CHEBI,False,cotinine N-oxide,89087.0,"a(CHEBI:""cotinine N-oxide"")",cotinine N-oxide
+1799,Abundance,GO,False,dendritic shaft,,"a(GO:""dendritic shaft"")",dendritic shaft
+1800,Abundance,CHEBI,False,(R)-3-hydroxybutyric acid,17066.0,"a(CHEBI:""(R)-3-hydroxybutyric acid"")",(R)-3-hydroxybutyric acid
+1801,Abundance,MESH,False,Glatiramer Acetate,,"a(MESH:""Glatiramer Acetate"")",Glatiramer Acetate
+1802,Abundance,CHEBI,False,ethylene glycol bis(2-aminoethyl)tetraacetic acid,30740.0,"a(CHEBI:""ethylene glycol bis(2-aminoethyl)tetraacetic acid"")",ethylene glycol bis(2-aminoethyl)tetraacetic acid
+1803,Abundance,MESH,False,alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid,,"a(MESH:""alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid"")",alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid
+1804,Abundance,MESH,False,"Nerve Fibers, Myelinated",,"a(MESH:""Nerve Fibers, Myelinated"")","Nerve Fibers, Myelinated"
+1805,Abundance,DRUGBANK,False,Alemtuzumab,,"a(DRUGBANK:""Alemtuzumab"")",Alemtuzumab
+1806,Abundance,BRCO,False,Microglia,,"a(BRCO:""Microglia"")",Microglia
+1807,Abundance,CHEBI,False,vanoxerine,64089.0,"a(CHEBI:""vanoxerine"")",vanoxerine
+1808,Abundance,CHEBI,False,amyloid-beta polypeptide 40,64646.0,"a(CHEBI:""amyloid-beta polypeptide 40"")",amyloid-beta polypeptide 40
+1809,Abundance,PUBCHEM,False,4212,,"a(PUBCHEM:""4212"")",4212
+1810,Abundance,CHEBI,False,24-hydroxycholesterol,50515.0,"a(CHEBI:""24-hydroxycholesterol"")",24-hydroxycholesterol
+1811,Abundance,CHEBI,False,Honokiol,5759.0,"a(CHEBI:""Honokiol"")",Honokiol
+1812,Abundance,GO,False,axon,,"a(GO:""axon"")",axon
+1813,Abundance,PUBCHEM,False,44599207,,"a(PUBCHEM:""44599207"")",44599207
+1814,Abundance,CHEBI,False,ganglioside,28892.0,"a(CHEBI:""ganglioside"")",ganglioside
+1815,Abundance,CHEBI,False,chloride,17996.0,"a(CHEBI:""chloride"")",chloride
+1816,Abundance,CHEBI,False,polyphenol,26195.0,"a(CHEBI:""polyphenol"")",polyphenol
+1817,Abundance,CHEBI,False,lead atom,25016.0,"a(CHEBI:""lead atom"")",lead atom
+1818,Abundance,CHEBI,False,cytisine,4055.0,"a(CHEBI:""cytisine"")",cytisine
+1819,Abundance,DRUGBANK,False,Methylprednisolone,,"a(DRUGBANK:""Methylprednisolone"")",Methylprednisolone
+1820,Abundance,BRCO,False,Astrocyte,,"a(BRCO:""Astrocyte"")",Astrocyte
+1821,Abundance,GO,False,perikaryon,,"a(GO:""perikaryon"")",perikaryon
+1822,Abundance,PUBCHEM,False,5288811,,"a(PUBCHEM:""5288811"")",5288811
+1823,Abundance,CHEBI,False,teriflunomide,68540.0,"a(CHEBI:""teriflunomide"")",teriflunomide
+1824,Abundance,CHEBI,False,dexamethasone,41879.0,"a(CHEBI:""dexamethasone"")",dexamethasone
+1825,Abundance,MESH,False,Erythrocytes,,"a(MESH:""Erythrocytes"")",Erythrocytes
+1826,Abundance,CHEBI,False,varenicline,84500.0,"a(CHEBI:""varenicline"")",varenicline
+1827,Abundance,MESH,,Sodium,,"a(MESH:""Sodium"",loc(GO:""axon cytoplasm""))",Sodium
+1828,Abundance,MESH,False,Glutamates,,"a(MESH:""Glutamates"")",Glutamates
+1829,Abundance,MESH,False,Blastocyst,,"a(MESH:""Blastocyst"")",Blastocyst
+1830,Abundance,MESH,False,Pericytes,,"a(MESH:""Pericytes"")",Pericytes
+1831,Abundance,CHEBI,False,exendin-4,64073.0,"a(CHEBI:""exendin-4"")",exendin-4
+1832,Abundance,PUBCHEM,False,11249342,,"a(PUBCHEM:""11249342"")",11249342
+1833,Abundance,CHEBI,False,advanced glycation end-product,84123.0,"a(CHEBI:""advanced glycation end-product"")",advanced glycation end-product
+1834,Abundance,CHEBI,,2 L-glutamate,,"a(CHEBI:""2 L-glutamate"",loc(MESH:""Synapses""))",2 L-glutamate
+1835,Abundance,CHEBI,False,liraglutide,71193.0,"a(CHEBI:""liraglutide"")",liraglutide
+1836,Abundance,PUBCHEM,False,9942427,,"a(PUBCHEM:""9942427"")",9942427
+1837,Abundance,CONSO,False,AG18051,,"a(CONSO:""AG18051"")",AG18051
+1838,Abundance,NCIT,,C123783,,"a(NCIT:""C123783"",loc(MESH:""Spinal Cord""))",C123783
+1839,Abundance,CHEBI,False,catechin,23053.0,"a(CHEBI:""catechin"")",catechin
+1840,Abundance,CHEBI,,calcium ion,,"a(CHEBI:""calcium ion"",loc(MESH:""Intracellular Space""))",calcium ion
+1841,Abundance,CONSO,False,CONSO00075,,"a(CONSO:""CONSO00075"")",CONSO00075
+1842,Abundance,CHEBI,False,ergoloid mesylate,34706.0,"a(CHEBI:""ergoloid mesylate"")",ergoloid mesylate
+1843,Abundance,MESH,,Cytoskeleton,,"a(MESH:""Cytoskeleton"",loc(MESH:""Synapses""))",Cytoskeleton
+1844,Abundance,CHEBI,,iron(3+),,"a(CHEBI:""iron(3+)"",loc(GO:""extracellular space""))",iron(3+)
+1845,Abundance,PMICHEM,False,cerebrolysin,,"a(PMICHEM:""cerebrolysin"")",cerebrolysin
+1846,Abundance,DRUGBANK,False,Galantamine,,"a(DRUGBANK:""Galantamine"")",Galantamine
+1847,Abundance,PUBCHEM,False,363907627,,"a(PUBCHEM:""363907627"")",363907627
+1848,Abundance,CHEBI,False,NMDA receptor antagonist,60643.0,"a(CHEBI:""NMDA receptor antagonist"")",NMDA receptor antagonist
+1849,Abundance,CHEBI,False,GW 501516,73726.0,"a(CHEBI:""GW 501516"")",GW 501516
+1850,Abundance,PUBCHEM,False,16231,,"a(PUBCHEM:""16231"")",16231
+1851,Abundance,CHEBI,False,antipsychotic agent,35476.0,"a(CHEBI:""antipsychotic agent"")",antipsychotic agent
+1852,Abundance,MESH,False,Oxidants,,"a(MESH:""Oxidants"")",Oxidants
+1853,Abundance,MESH,False,"Receptors, N-Methyl-D-Aspartate",,"a(MESH:""Receptors, N-Methyl-D-Aspartate"")","Receptors, N-Methyl-D-Aspartate"
+1854,Abundance,CHEBI,False,paroxetine,7936.0,"a(CHEBI:""paroxetine"")",paroxetine
+1855,Abundance,CHEBI,False,3-methyladenine,38635.0,"a(CHEBI:""3-methyladenine"")",3-methyladenine
+1856,Abundance,MESH,False,JNK Mitogen-Activated Protein Kinases,,"a(MESH:""JNK Mitogen-Activated Protein Kinases"")",JNK Mitogen-Activated Protein Kinases
+1857,Abundance,CHEBI,,dopamine,,"a(CHEBI:""dopamine"",loc(GO:""cytosol""))",dopamine
+1858,Abundance,MESHC,False,calyculin A,,"a(MESHC:""calyculin A"")",calyculin A
+1859,Abundance,CHEBI,False,torin 1,84327.0,"a(CHEBI:""torin 1"")",torin 1
+1860,Abundance,CONSO,,amyloid-beta aggregates,,"a(CONSO:""amyloid-beta aggregates"",loc(MESH:""Plaque, Amyloid""))",amyloid-beta aggregates
+1861,Abundance,CHEBI,False,trifluoperazine,45951.0,"a(CHEBI:""trifluoperazine"")",trifluoperazine
+1862,Abundance,CHEBI,False,physostigmine,27953.0,"a(CHEBI:""physostigmine"")",physostigmine
+1863,Abundance,CHEBI,False,etacrynic acid,4876.0,"a(CHEBI:""etacrynic acid"")",etacrynic acid
+1864,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""cytosol""))",calcium(2+)
+1865,Abundance,CHEBI,False,edaravone,31530.0,"a(CHEBI:""edaravone"")",edaravone
+1866,Abundance,MESH,False,"Plaque, Amyloid",,"a(MESH:""Plaque, Amyloid"")","Plaque, Amyloid"
+1867,Abundance,CHEBI,False,17beta-hydroxy-5alpha-androstan-3-one,16330.0,"a(CHEBI:""17beta-hydroxy-5alpha-androstan-3-one"")",17beta-hydroxy-5alpha-androstan-3-one
+1868,Abundance,PUBCHEM,False,44584733,,"a(PUBCHEM:""44584733"")",44584733
+1869,Abundance,CHEBI,False,isoflavone,18220.0,"a(CHEBI:""isoflavone"")",isoflavone
+1870,Abundance,CONSO,False,CONSO00006,,"a(CONSO:""CONSO00006"")",CONSO00006
+1871,Abundance,CONSO,,amyloid-beta oligomers,,"a(CONSO:""amyloid-beta oligomers"",loc(GO:""extracellular region""))",amyloid-beta oligomers
+1872,Abundance,PUBCHEM,False,73078,,"a(PUBCHEM:""73078"")",73078
+1873,Abundance,NCIT,False,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,,"a(NCIT:""Microtubule-Associated Proteins 1A/1B Light Chain 3-II"")",Microtubule-Associated Proteins 1A/1B Light Chain 3-II
+1874,Abundance,NCIT,False,Oxidative Stress,,"a(NCIT:""Oxidative Stress"")",Oxidative Stress
+1875,Abundance,CHEBI,False,Partially-correct level2adaic acid,,"a(CHEBI:""Partially-correct level2adaic acid "")",Partially-correct level2adaic acid
+1876,Abundance,CHEBI,False,vitamin C,176783.0,"a(CHEBI:""vitamin C"")",vitamin C
+1877,Abundance,MESH,False,Amyloid beta-Polypeptides,,"a(MESH:""Amyloid beta-Polypeptides"")",Amyloid beta-Polypeptides
+1878,Abundance,CHEBI,False,"1D-myo-inositol 1,4,5-trisphosphate",16595.0,"a(CHEBI:""1D-myo-inositol 1,4,5-trisphosphate"")","1D-myo-inositol 1,4,5-trisphosphate"
+1879,Abundance,PUBCHEM,False,164676,,"a(PUBCHEM:""164676"")",164676
+1880,Abundance,CHEBI,False,testosterone,17347.0,"a(CHEBI:""testosterone"")",testosterone
+1881,Abundance,PUBCHEM,False,129688311,,"a(PUBCHEM:""129688311"")",129688311
+1882,Abundance,CHEBI,False,pyridoxal 5'-phosphate,18405.0,"a(CHEBI:""pyridoxal 5'-phosphate"")",pyridoxal 5'-phosphate
+1883,Abundance,MESHC,False,Natalizumab,,"a(MESHC:""Natalizumab"")",Natalizumab
+1884,Abundance,PUBCHEM,False,442534,,"a(PUBCHEM:""442534"")",442534
+1885,Abundance,CHEBI,False,reactive nitrogen species,62764.0,"a(CHEBI:""reactive nitrogen species"")",reactive nitrogen species
+1886,Abundance,CHEBI,False,(-)-epigallocatechin,42255.0,"a(CHEBI:""(-)-epigallocatechin"")",(-)-epigallocatechin
+1887,Abundance,PUBCHEM,False,3968,,"a(PUBCHEM:""3968"")",3968
+1888,Abundance,CHEBI,False,angiotensin,48433.0,"a(CHEBI:""angiotensin"")",angiotensin
+1889,Abundance,CHEBI,False,10642,,"a(CHEBI:""10642"")",10642
+1890,Abundance,MESH,,I-kappa B Proteins,,"a(MESH:""I-kappa B Proteins"",loc(GO:""cytoplasm""))",I-kappa B Proteins
+1891,Abundance,CHEBI,False,monosodium glutamate,64220.0,"a(CHEBI:""monosodium glutamate"")",monosodium glutamate
+1892,Abundance,CHEBI,False,6710,,"a(CHEBI:""6710"")",6710
+1893,Abundance,PUBCHEM,False,5283344,,"a(PUBCHEM:""5283344"")",5283344
+1894,Abundance,CHEBI,False,mifepristone,50692.0,"a(CHEBI:""mifepristone"")",mifepristone
+1895,Abundance,CHEBI,False,2-acetyl-1-alkyl-sn-glycero-3-phosphocholine,36707.0,"a(CHEBI:""2-acetyl-1-alkyl-sn-glycero-3-phosphocholine"")",2-acetyl-1-alkyl-sn-glycero-3-phosphocholine
+1896,Abundance,CHEBI,False,leupeptin,6426.0,"a(CHEBI:""leupeptin"")",leupeptin
+1897,Abundance,CONSO,False,"Tau antibody, HT7",,"a(CONSO:""Tau antibody, HT7"")","Tau antibody, HT7"
+1898,Abundance,MESHA,False,Dendritic Cells,,"a(MESHA:""Dendritic Cells"")",Dendritic Cells
+1899,Abundance,HBP,False,huntingtin aggregates,,"a(HBP:""huntingtin aggregates"")",huntingtin aggregates
+1900,Abundance,CHEBI,False,(-)-menthol,15409.0,"a(CHEBI:""(-)-menthol"")",(-)-menthol
+1901,Abundance,CHEBI,False,silver nanoparticle,50826.0,"a(CHEBI:""silver nanoparticle"")",silver nanoparticle
+1902,Abundance,MESH,False,Proteins,,"a(MESH:""Proteins"")",Proteins
+1903,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MESHA:""Neurons""))",Microglia
+1904,Abundance,CHEBI,False,microcystin,48041.0,"a(CHEBI:""microcystin"")",microcystin
+1905,Abundance,CONSO,False,GA-AGE,,"a(CONSO:""GA-AGE"")",GA-AGE
+1906,Abundance,CHEBI,False,dotarizine,138033.0,"a(CHEBI:""dotarizine"")",dotarizine
+1907,Abundance,CONSO,False,amyloid-beta derived diffusible ligands,,"a(CONSO:""amyloid-beta derived diffusible ligands"")",amyloid-beta derived diffusible ligands
+1908,Abundance,CHEBI,False,tunicamycin,29699.0,"a(CHEBI:""tunicamycin"")",tunicamycin
+1909,Abundance,CHEBI,False,Phenylglyoxal,88868.0,"a(CHEBI:""Phenylglyoxal"")",Phenylglyoxal
+1910,Abundance,CHEBI,False,montelukast,50730.0,"a(CHEBI:""montelukast"")",montelukast
+1911,Abundance,PUBCHEM,False,40009526,,"a(PUBCHEM:""40009526"")",40009526
+1912,Abundance,CONSO,False,indirubin,,"a(CONSO:""indirubin"")",indirubin
+1913,Abundance,CHEBI,False,arachidonic acid,15843.0,"a(CHEBI:""arachidonic acid"")",arachidonic acid
+1914,Abundance,CONSO,False,bb14,,"a(CONSO:""bb14"")",bb14
+1915,Abundance,CONSO,False,alpha-synuclein oligomers,,"a(CONSO:""alpha-synuclein oligomers"")",alpha-synuclein oligomers
+1916,Abundance,CONSO,,Tau fibrils,,"a(CONSO:""Tau fibrils"",loc(GO:""lysosome""))",Tau fibrils
+1917,Abundance,MESH,False,Protein Aggregates,,"a(MESH:""Protein Aggregates"")",Protein Aggregates
+1918,Abundance,PUBCHEM,False,346930780,,"a(PUBCHEM:""346930780"")",346930780
+1919,Abundance,CHEBI,False,epothilone,60831.0,"a(CHEBI:""epothilone"")",epothilone
+1920,Abundance,PUBCHEM,False,54581340,,"a(PUBCHEM:""54581340"")",54581340
+1921,Abundance,CHEBI,False,benzothiazoles,37947.0,"a(CHEBI:""benzothiazoles"")",benzothiazoles
+1922,Abundance,CHEBI,False,epothilone D,29579.0,"a(CHEBI:""epothilone D"")",epothilone D
+1923,Abundance,PUBCHEM,False,329970435,,"a(PUBCHEM:""329970435"")",329970435
+1924,Abundance,CHEBI,False,alkylating agent,22333.0,"a(CHEBI:""alkylating agent"")",alkylating agent
+1925,Abundance,CONSO,False,Trithiocarbonates,,"a(CONSO:""Trithiocarbonates"")",Trithiocarbonates
+1926,Abundance,CHEBI,False,lithium(1+),49713.0,"a(CHEBI:""lithium(1+)"")",lithium(1+)
+1927,Abundance,PUBCHEM,False,9549213,,"a(PUBCHEM:""9549213"")",9549213
+1928,Abundance,PUBCHEM,False,10487,,"a(PUBCHEM:""10487"")",10487
+1929,Abundance,CHEBI,,prostaglandin E2,,"a(CHEBI:""prostaglandin E2"",loc(MESHA:""Microglia""))",prostaglandin E2
+1930,Abundance,MESH,False,Prions,,"a(MESH:""Prions"")",Prions
+1931,Abundance,CONSO,False,8-nitro-cGMP,,"a(CONSO:""8-nitro-cGMP"")",8-nitro-cGMP
+1932,Abundance,CHEBI,False,liquiritigenin,28777.0,"a(CHEBI:""liquiritigenin"")",liquiritigenin
+1933,Abundance,PUBCHEM,False,134164107,,"a(PUBCHEM:""134164107"")",134164107
+1934,Abundance,CHEBI,False,iron(3+),29034.0,"a(CHEBI:""iron(3+)"")",iron(3+)
+1935,Abundance,CHEBI,False,Nilvadipine,31911.0,"a(CHEBI:""Nilvadipine"")",Nilvadipine
+1936,Abundance,CONSO,False,Tau fibrils,,"a(CONSO:""Tau fibrils"")",Tau fibrils
+1937,Abundance,GO,False,amphisome,,"a(GO:""amphisome"")",amphisome
+1938,Abundance,PUBCHEM,False,71295844,,"a(PUBCHEM:""71295844"")",71295844
+1939,Abundance,PUBCHEM,False,5186,,"a(PUBCHEM:""5186"")",5186
+1940,Abundance,MESHA,,Macrophages,,"a(MESHA:""Macrophages"",loc(CHEBI:""amyloid-beta""))",Macrophages
+1941,Abundance,PUBCHEM,False,5288382,,"a(PUBCHEM:""5288382"")",5288382
+1942,Abundance,MESHC,False,Interleukins,,"a(MESHC:""Interleukins"")",Interleukins
+1943,Abundance,PUBCHEM,False,6321424,,"a(PUBCHEM:""6321424"")",6321424
+1944,Abundance,MESH,False,Alarmins,,"a(MESH:""Alarmins"")",Alarmins
+1945,Abundance,MESHA,,Monocytes,,"a(MESHA:""Monocytes"",loc(MESHA:""Blood""))",Monocytes
+1946,Abundance,CHEBI,False,tanespimycin,64153.0,"a(CHEBI:""tanespimycin"")",tanespimycin
+1947,Abundance,PUBCHEM,False,447966,,"a(PUBCHEM:""447966"")",447966
+1948,Abundance,PUBCHEM,False,443101,,"a(PUBCHEM:""443101"")",443101
+1949,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MESHA:""Spinal Cord""))",Microglia
+1950,Abundance,PUBCHEM,False,675434,,"a(PUBCHEM:""675434"")",675434
+1951,Abundance,CHEBI,False,EC 3.4.22.36 (caspase-1) inhibitor,76795.0,"a(CHEBI:""EC 3.4.22.36 (caspase-1) inhibitor"")",EC 3.4.22.36 (caspase-1) inhibitor
+1952,Abundance,CHEBI,False,adenosine triphosphate,22258.0,"a(CHEBI:""adenosine triphosphate"")",adenosine triphosphate
+1953,Abundance,CHEBI,False,d(CG)12,76059.0,"a(CHEBI:""d(CG)12"")",d(CG)12
+1954,Abundance,CONSO,False,2-O-sulfated heparin,,"a(CONSO:""2-O-sulfated heparin"")",2-O-sulfated heparin
+1955,Abundance,EFO,False,mitochondrial DNA,,"a(EFO:""mitochondrial DNA"")",mitochondrial DNA
+1956,Abundance,CHEBI,False,Muscarine,7034.0,"a(CHEBI:""Muscarine"")",Muscarine
+1957,Abundance,CHEBI,False,ethanol,16236.0,"a(CHEBI:""ethanol"")",ethanol
+1958,Abundance,MESH,False,"1,2-dideoxy-2'-propylglucopyranoso(2,1-d)-delta 2'-thiazoline",,"a(MESH:""1,2-dideoxy-2'-propylglucopyranoso(2,1-d)-delta 2'-thiazoline"")","1,2-dideoxy-2'-propylglucopyranoso(2,1-d)-delta 2'-thiazoline"
+1959,Abundance,MESH,False,Serotonin Uptake Inhibitors,,"a(MESH:""Serotonin Uptake Inhibitors"")",Serotonin Uptake Inhibitors
+1960,Abundance,MESH,False,Conotoxins,,"a(MESH:""Conotoxins"")",Conotoxins
+1961,Abundance,CHEBI,False,colchicine,23359.0,"a(CHEBI:""colchicine"")",colchicine
+1962,Abundance,CONSO,False,Tau annular protofibrils,,"a(CONSO:""Tau annular protofibrils"")",Tau annular protofibrils
+1963,Abundance,CHEBI,False,"alpha-2,8-linked polymer of sialic acid",48428.0,"a(CHEBI:""alpha-2,8-linked polymer of sialic acid"")","alpha-2,8-linked polymer of sialic acid"
+1964,Abundance,CL,False,0000129,,"a(CL:""0000129"")",0000129
+1965,Abundance,CONSO,False,Purkinje cell layer of cerebellar cortex,,"a(CONSO:""Purkinje cell layer of cerebellar cortex"")",Purkinje cell layer of cerebellar cortex
+1966,Abundance,CHEBI,False,phosphatidylinositol trisphosphate,60169.0,"a(CHEBI:""phosphatidylinositol trisphosphate"")",phosphatidylinositol trisphosphate
+1967,Abundance,MESH,False,Keratinocytes,,"a(MESH:""Keratinocytes"")",Keratinocytes
+1968,Abundance,CHEBI,False,messenger RNA,33699.0,"a(CHEBI:""messenger RNA"")",messenger RNA
+1969,Abundance,CONSO,False,sudoxicam,,"a(CONSO:""sudoxicam"")",sudoxicam
+1970,Abundance,GO,False,cilium,,"a(GO:""cilium"")",cilium
+1971,Abundance,MESHC,False,Polyubiquitin,,"a(MESHC:""Polyubiquitin"")",Polyubiquitin
+1972,Abundance,CHEBI,False,kynurenine,28683.0,"a(CHEBI:""kynurenine"")",kynurenine
+1973,Abundance,CHEBI,False,capsaicin,3374.0,"a(CHEBI:""capsaicin"")",capsaicin
+1974,Abundance,CHEBI,False,quinalizarin,37495.0,"a(CHEBI:""quinalizarin"")",quinalizarin
+1975,Abundance,CHEBI,False,1-phosphatidyl-1D-myo-inositol 3-phosphate,17283.0,"a(CHEBI:""1-phosphatidyl-1D-myo-inositol 3-phosphate"")",1-phosphatidyl-1D-myo-inositol 3-phosphate
+1976,Abundance,PUBCHEM,False,5467,,"a(PUBCHEM:""5467"")",5467
+1977,Abundance,MESHA,False,Microvessels,,"a(MESHA:""Microvessels"")",Microvessels
+1978,Abundance,MESH,False,"N-(1,2,3,4-tetrahydro-1-naphthyl)-4-nitroaniline",,"a(MESH:""N-(1,2,3,4-tetrahydro-1-naphthyl)-4-nitroaniline"")","N-(1,2,3,4-tetrahydro-1-naphthyl)-4-nitroaniline"
+1979,Abundance,CHEBI,False,1-acyl-sn-glycerol 3-phosphate,16975.0,"a(CHEBI:""1-acyl-sn-glycerol 3-phosphate"")",1-acyl-sn-glycerol 3-phosphate
+1980,Abundance,CHEBI,False,glutathione disulfide,17858.0,"a(CHEBI:""glutathione disulfide"")",glutathione disulfide
+1981,Abundance,MESH,False,Cerebrospinal Fluid,,"a(MESH:""Cerebrospinal Fluid"")",Cerebrospinal Fluid
+1982,Abundance,CHEBI,False,cyproheptadine,4046.0,"a(CHEBI:""cyproheptadine"")",cyproheptadine
+1983,Abundance,MESHA,False,"Myocytes, Cardiac",,"a(MESHA:""Myocytes, Cardiac"")","Myocytes, Cardiac"
+1984,Abundance,MESH,False,Bungarotoxins,,"a(MESH:""Bungarotoxins"")",Bungarotoxins
+1985,Abundance,CHEBI,False,estradiol,23965.0,"a(CHEBI:""estradiol"")",estradiol
+1986,Abundance,MESH,False,Tight Junctions,,"a(MESH:""Tight Junctions"")",Tight Junctions
+1987,Abundance,CHEBI,False,promethazine,8461.0,"a(CHEBI:""promethazine"")",promethazine
+1988,Abundance,CHEBI,,nitric oxide,,"a(CHEBI:""nitric oxide"",loc(MESHA:""Microglia""))",nitric oxide
+1989,Abundance,MESH,False,A-582941,,"a(MESH:""A-582941"")",A-582941
+1990,Abundance,NIFT,False,Cortical Thickness,,"a(NIFT:""Cortical Thickness"")",Cortical Thickness
+1991,Abundance,MESHC,False,"DNA, Mitochondrial",,"a(MESHC:""DNA, Mitochondrial"")","DNA, Mitochondrial"
+1992,Abundance,CHEBI,False,4-(N-Maleimido)phenyltrimethylammonium iodide,34382.0,"a(CHEBI:""4-(N-Maleimido)phenyltrimethylammonium iodide"")",4-(N-Maleimido)phenyltrimethylammonium iodide
+1993,Abundance,CHEBI,False,cobalamin,30411.0,"a(CHEBI:""cobalamin"")",cobalamin
+1994,Abundance,CHEBI,False,ginsenoside Rg1,67987.0,"a(CHEBI:""ginsenoside Rg1"")",ginsenoside Rg1
+1995,Abundance,PUBCHEM,False,137275695,,"a(PUBCHEM:""137275695"")",137275695
+1996,Abundance,MESH,False,"Inositol 1,4,5-Trisphosphate",,"a(MESH:""Inositol 1,4,5-Trisphosphate"")","Inositol 1,4,5-Trisphosphate"
+1997,Abundance,CHEBI,False,(-)-anisomycin,338412.0,"a(CHEBI:""(-)-anisomycin"")",(-)-anisomycin
+1998,Abundance,PUBCHEM,False,6918819,,"a(PUBCHEM:""6918819"")",6918819
+1999,Abundance,NIFT,False,Cortical Thinning,,"a(NIFT:""Cortical Thinning"")",Cortical Thinning
+2000,Abundance,CHEBI,False,phosphoramidon,45353.0,"a(CHEBI:""phosphoramidon"")",phosphoramidon
+2001,Abundance,HGNC,False,MAPT,,"a(HGNC:""MAPT"")",MAPT
+2002,Abundance,CHEMBLA,False,CHEMBL1096418,,"a(CHEMBLA:""CHEMBL1096418"")",CHEMBL1096418
+2003,Abundance,CHEBI,False,paeoniflorin,7889.0,"a(CHEBI:""paeoniflorin"")",paeoniflorin
+2004,Abundance,MESH,False,Interferons,,"a(MESH:""Interferons"")",Interferons
+2005,Abundance,NCIT,False,Cathepsin D,,"a(NCIT:""Cathepsin D"")",Cathepsin D
+2006,Abundance,NCIT,False,Interleukin-1 Beta,,"a(NCIT:""Interleukin-1 Beta"")",Interleukin-1 Beta
+2007,Abundance,NCIT,False,Inflammation,,"a(NCIT:""Inflammation"")",Inflammation
+2008,Abundance,NCIT,False,Olive Oil,,"a(NCIT:""Olive Oil"")",Olive Oil
+2009,Abundance,CHEBI,False,Magnolol,6643.0,"a(CHEBI:""Magnolol"")",Magnolol
+2010,Abundance,CHEBI,False,cobalt,,"a(CHEBI:""cobalt"")",cobalt
+2011,Abundance,CHEBI,False,cytochrome P450,38559.0,"a(CHEBI:""cytochrome P450"")",cytochrome P450
+2012,Abundance,CHEBI,False,L-glutamic acid,16015.0,"a(CHEBI:""L-glutamic acid"")",L-glutamic acid
+2013,Abundance,FIXME,False,short term depression,,"a(FIXME:""short term depression"")",short term depression
+2014,Abundance,ADO,False,amyloid_plaque,,"a(ADO:""amyloid_plaque"")",amyloid_plaque
+2015,Abundance,CHEBI,False,trimetrexate,9737.0,"a(CHEBI:""trimetrexate"")",trimetrexate
+2016,Abundance,MESH,False,Extracellular Vesicles,,"a(MESH:""Extracellular Vesicles"")",Extracellular Vesicles
+2017,Abundance,CHEBI,False,nicotine,18723.0,"a(CHEBI:""nicotine"")",nicotine
+2018,Abundance,CHEBI,False,proton,24636.0,"a(CHEBI:""proton"")",proton
+2019,Abundance,CHEBI,False,raloxifene,8772.0,"a(CHEBI:""raloxifene"")",raloxifene
+2020,Abundance,MESH,False,Streptococcus pyogenes,,"a(MESH:""Streptococcus pyogenes"")",Streptococcus pyogenes
+2021,Abundance,CHEBI,False,tubocurarine,9774.0,"a(CHEBI:""tubocurarine"")",tubocurarine
+2022,Abundance,CHEBI,False,Midazolam,6931.0,"a(CHEBI:""Midazolam"")",Midazolam
+2023,Abundance,MESH,False,"B-Lymphocytes, Regulatory",,"a(MESH:""B-Lymphocytes, Regulatory"")","B-Lymphocytes, Regulatory"
+2024,Abundance,FIXME,False,reference memory,,"a(FIXME:""reference memory"")",reference memory
+2025,Abundance,PUBCHEM,False,10013505,,"a(PUBCHEM:""10013505"")",10013505
+2026,Abundance,CHEBI,False,immunosuppressive agent,35705.0,"a(CHEBI:""immunosuppressive agent"")",immunosuppressive agent
+2027,Abundance,CHEBI,False,carbachol,3385.0,"a(CHEBI:""carbachol"")",carbachol
+2028,Abundance,MESH,False,D002800,,"a(MESH:""D002800"")",D002800
+2029,Abundance,CHEBI,False,alpha-tocopherol,22470.0,"a(CHEBI:""alpha-tocopherol"")",alpha-tocopherol
+2030,Abundance,CHEBI,False,verteporfin,32293.0,"a(CHEBI:""verteporfin"")",verteporfin
+2031,Abundance,MESHF,False,Executive Function,,"a(MESHF:""Executive Function"")",Executive Function
+2032,Abundance,MESH,False,cevimeline,,"a(MESH:""cevimeline"")",cevimeline
+2033,Abundance,PUBCHEM,False,4124851,,"a(PUBCHEM:""4124851"")",4124851
+2034,Abundance,CHEBI,False,Ile(5)-angiotensin II (1-7),55438.0,"a(CHEBI:""Ile(5)-angiotensin II (1-7)"")",Ile(5)-angiotensin II (1-7)
+2035,Abundance,FIXME,False,"InChI=1S/C9H11NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,6,11-12H,3,10H2,(H,13,14)/t6-/m0/s1",,"a(FIXME:""InChI=1S/C9H11NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,6,11-12H,3,10H2,(H,13,14)/t6-/m0/s1"")","InChI=1S/C9H11NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,6,11-12H,3,10H2,(H,13,14)/t6-/m0/s1"
+2036,Abundance,CONSO,False,VU0184670,,"a(CONSO:""VU0184670"")",VU0184670
+2037,Abundance,PUBCHEM,False,3081884,,"a(PUBCHEM:""3081884"")",3081884
+2038,Abundance,CHEBI,False,(S)-malic acid,30797.0,"a(CHEBI:""(S)-malic acid"")",(S)-malic acid
+2039,Abundance,FIXME,False,"InChI=1S/C29H28N4O3/c34-28(31-24-15-17-32(18-16-24)20-21-11-13-23(14-12-21)29(35)36)26-19-30-33(25-9-5-2-6-10-25)27(26)22-7-3-1-4-8-22/h1-14,19,24H,15-18,20H2,(H,31,34)(H,35,36)",,"a(FIXME:""InChI=1S/C29H28N4O3/c34-28(31-24-15-17-32(18-16-24)20-21-11-13-23(14-12-21)29(35)36)26-19-30-33(25-9-5-2-6-10-25)27(26)22-7-3-1-4-8-22/h1-14,19,24H,15-18,20H2,(H,31,34)(H,35,36)"")","InChI=1S/C29H28N4O3/c34-28(31-24-15-17-32(18-16-24)20-21-11-13-23(14-12-21)29(35)36)26-19-30-33(25-9-5-2-6-10-25)27(26)22-7-3-1-4-8-22/h1-14,19,24H,15-18,20H2,(H,31,34)(H,35,36)"
+2040,Abundance,NNS,False,hippocampus atrophy,,"a(NNS:""hippocampus atrophy"")",hippocampus atrophy
+2041,Abundance,PUBCHEM,False,135314782,,"a(PUBCHEM:""135314782"")",135314782
+2042,Abundance,FIXME,False,"InChI=1S/C26H31N5O3/c1-2-23-24(28-29-31(23)18-20-6-4-3-5-7-20)25(32)27-16-19-12-14-30(15-13-19)17-21-8-10-22(11-9-21)26(33)34/h3-11,19H,2,12-18H2,1H3,(H,27,32)(H,33,34)",,"a(FIXME:""InChI=1S/C26H31N5O3/c1-2-23-24(28-29-31(23)18-20-6-4-3-5-7-20)25(32)27-16-19-12-14-30(15-13-19)17-21-8-10-22(11-9-21)26(33)34/h3-11,19H,2,12-18H2,1H3,(H,27,32)(H,33,34)"")","InChI=1S/C26H31N5O3/c1-2-23-24(28-29-31(23)18-20-6-4-3-5-7-20)25(32)27-16-19-12-14-30(15-13-19)17-21-8-10-22(11-9-21)26(33)34/h3-11,19H,2,12-18H2,1H3,(H,27,32)(H,33,34)"
+2043,Abundance,CHEBI,False,trans-3-hydroxycotinine,71182.0,"a(CHEBI:""trans-3-hydroxycotinine"")",trans-3-hydroxycotinine
+2044,Abundance,CHEBI,False,vitamin B6,27306.0,"a(CHEBI:""vitamin B6"")",vitamin B6
+2045,Abundance,PUBCHEM,False,135330159,,"a(PUBCHEM:""135330159"")",135330159
+2046,Abundance,CHEBI,False,gamma-secretase modulator,48668.0,"a(CHEBI:""gamma-secretase modulator"")",gamma-secretase modulator
+2047,Abundance,CHEBI,False,Evans blue,82467.0,"a(CHEBI:""Evans blue"")",Evans blue
+2048,Abundance,DRUGBANK,False,Fingolimod,,"a(DRUGBANK:""Fingolimod"")",Fingolimod
+2049,Abundance,CHEBI,False,nefazodone,7494.0,"a(CHEBI:""nefazodone"")",nefazodone
+2050,Abundance,GO,False,microtubule,,"a(GO:""microtubule"")",microtubule
+2051,Abundance,DRUGBANK,False,Rituximab,,"a(DRUGBANK:""Rituximab"")",Rituximab
+2052,Abundance,CHEBI,False,cholesterol,16113.0,"a(CHEBI:""cholesterol"")",cholesterol
+2053,Abundance,CHEBI,False,high-density lipoprotein,39025.0,"a(CHEBI:""high-density lipoprotein"")",high-density lipoprotein
+2054,Abundance,MESH,False,Microglia,,"a(MESH:""Microglia"")",Microglia
+2055,Abundance,PUBCHEM,False,20279,,"a(PUBCHEM:""20279"")",20279
+2056,Abundance,CHEBI,False,ceramide,17761.0,"a(CHEBI:""ceramide"")",ceramide
+2057,Abundance,MESH,False,Astrocytes,,"a(MESH:""Astrocytes"")",Astrocytes
+2058,Abundance,MESH,False,Sanitation,,"a(MESH:""Sanitation"")",Sanitation
+2059,Abundance,MESH,False,gambogic amide,,"a(MESH:""gambogic amide"")",gambogic amide
+2060,Abundance,MESH,False,Toxic Actions,,"a(MESH:""Toxic Actions"")",Toxic Actions
+2061,Abundance,HP,False,Senile plaques,,"a(HP:""Senile plaques"")",Senile plaques
+2062,Abundance,CHEBI,False,cadmium atom,22977.0,"a(CHEBI:""cadmium atom"")",cadmium atom
+2063,Abundance,CONSO,False,B-973,,"a(CONSO:""B-973"")",B-973
+2064,Abundance,CHEBI,False,mitoxantrone,50729.0,"a(CHEBI:""mitoxantrone"")",mitoxantrone
+2065,Abundance,CHEBI,False,copper(0),30052.0,"a(CHEBI:""copper(0)"")",copper(0)
+2066,Abundance,MESH,False,alpha-conotoxin PnIA,,"a(MESH:""alpha-conotoxin PnIA"")",alpha-conotoxin PnIA
+2067,Abundance,MESH,False,Carbachol,,"a(MESH:""Carbachol"")",Carbachol
+2068,Abundance,MESH,False,Embryonic Structures,,"a(MESH:""Embryonic Structures"")",Embryonic Structures
+2069,Abundance,DRUGBANK,False,Clemastine,,"a(DRUGBANK:""Clemastine"")",Clemastine
+2070,Abundance,MESH,False,Phosphorylcholine,,"a(MESH:""Phosphorylcholine"")",Phosphorylcholine
+2071,Abundance,CHEBI,False,antalarmin,139557.0,"a(CHEBI:""antalarmin"")",antalarmin
+2072,Abundance,NCIT,False,C123783,,"a(NCIT:""C123783"")",C123783
+2073,Abundance,CHEBI,False,erlotinib,114785.0,"a(CHEBI:""erlotinib"")",erlotinib
+2074,Abundance,MESH,,Macrophages,,"a(MESH:""Macrophages"",loc(MESH:""Blood-Brain Barrier""))",Macrophages
+2075,Abundance,CHEBI,False,triglyceride,17855.0,"a(CHEBI:""triglyceride"")",triglyceride
+2076,Abundance,PUBCHEM,False,3075702,,"a(PUBCHEM:""3075702"")",3075702
+2077,Abundance,MESH,,Monocytes,,"a(MESH:""Monocytes"",loc(GO:""node of Ranvier""))",Monocytes
+2078,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(MESH:""Cytoplasm""))",calcium(2+)
+2079,Abundance,CONSO,False,CONSO00074,,"a(CONSO:""CONSO00074"")",CONSO00074
+2080,Abundance,MESH,,Macrophages,,"a(MESH:""Macrophages"",loc(MESH:""Brain""))",Macrophages
+2081,Abundance,PUBCHEM,False,9795278,,"a(PUBCHEM:""9795278"")",9795278
+2082,Abundance,CHEBI,False,rosuvastatin,38545.0,"a(CHEBI:""rosuvastatin"")",rosuvastatin
+2083,Abundance,CHEBI,False,nicotinic acid-adenine dinucleotide phosphate,76072.0,"a(CHEBI:""nicotinic acid-adenine dinucleotide phosphate"")",nicotinic acid-adenine dinucleotide phosphate
+2084,Abundance,PUBCHEM,False,20057304,,"a(PUBCHEM:""20057304"")",20057304
+2085,Abundance,CHEBI,False,dipyridamole,4653.0,"a(CHEBI:""dipyridamole"")",dipyridamole
+2086,Abundance,PUBCHEM,False,11173546,,"a(PUBCHEM:""11173546"")",11173546
+2087,Abundance,MESH,False,Calpain,,"a(MESH:""Calpain"")",Calpain
+2088,Abundance,CHEBI,False,galanthamine,42944.0,"a(CHEBI:""galanthamine"")",galanthamine
+2089,Abundance,CONSO,False,CONSO00016,,"a(CONSO:""CONSO00016"")",CONSO00016
+2090,Abundance,CHEBI,False,desmosterol,17737.0,"a(CHEBI:""desmosterol"")",desmosterol
+2091,Abundance,PUBCHEM,False,3878,,"a(PUBCHEM:""3878"")",3878
+2092,Abundance,CHEBI,False,risperidone,8871.0,"a(CHEBI:""risperidone"")",risperidone
+2093,Abundance,CHEBI,False,glutaraldehyde,64276.0,"a(CHEBI:""glutaraldehyde"")",glutaraldehyde
+2094,Abundance,PUBCHEM,False,166558,,"a(PUBCHEM:""166558"")",166558
+2095,Abundance,MESH,False,Nerve Growth Factors,,"a(MESH:""Nerve Growth Factors"")",Nerve Growth Factors
+2096,Abundance,CHEBI,False,Maprotiline,6690.0,"a(CHEBI:""Maprotiline"")",Maprotiline
+2097,Abundance,CHEBI,False,autophagy inhibitor,88230.0,"a(CHEBI:""autophagy inhibitor"")",autophagy inhibitor
+2098,Abundance,CHEBI,False,mTOR inhibitor,68481.0,"a(CHEBI:""mTOR inhibitor"")",mTOR inhibitor
+2099,Abundance,CHEBI,False,okadaic acid,44658.0,"a(CHEBI:""okadaic acid"")",okadaic acid
+2100,Abundance,CHEBI,False,tamoxifen,41774.0,"a(CHEBI:""tamoxifen"")",tamoxifen
+2101,Abundance,CONSO,,amyloid-beta aggregates,,"a(CONSO:""amyloid-beta aggregates"",loc(MESH:""Presynaptic Terminals""))",amyloid-beta aggregates
+2102,Abundance,CHEBI,False,amphetamine,2679.0,"a(CHEBI:""amphetamine"")",amphetamine
+2103,Abundance,CHEBI,False,N-acetylgalactosamine,28800.0,"a(CHEBI:""N-acetylgalactosamine"")",N-acetylgalactosamine
+2104,Abundance,CHEBI,False,nicotinic antagonist,48878.0,"a(CHEBI:""nicotinic antagonist"")",nicotinic antagonist
+2105,Abundance,CHEBI,False,arsenite ion,22633.0,"a(CHEBI:""arsenite ion"")",arsenite ion
+2106,Abundance,PUBCHEM,False,135314623,,"a(PUBCHEM:""135314623"")",135314623
+2107,Abundance,MESH,False,"Anti-Inflammatory Agents, Non-Steroidal",,"a(MESH:""Anti-Inflammatory Agents, Non-Steroidal"")","Anti-Inflammatory Agents, Non-Steroidal"
+2108,Abundance,CHEBI,False,vasopressin,9937.0,"a(CHEBI:""vasopressin"")",vasopressin
+2109,Abundance,PUBCHEM,False,6860,,"a(PUBCHEM:""6860"")",6860
+2110,Abundance,CHEBI,False,L-ascorbic acid,29073.0,"a(CHEBI:""L-ascorbic acid"")",L-ascorbic acid
+2111,Abundance,CHEBI,False,hydrogen chloride,17883.0,"a(CHEBI:""hydrogen chloride"")",hydrogen chloride
+2112,Abundance,CHEBI,False,gamma-aminobutyric acid,16865.0,"a(CHEBI:""gamma-aminobutyric acid"")",gamma-aminobutyric acid
+2113,Abundance,PUBCHEM,False,137275684,,"a(PUBCHEM:""137275684"")",137275684
+2114,Abundance,CHEBI,False,20-HETE,34306.0,"a(CHEBI:""20-HETE"")",20-HETE
+2115,Abundance,MESH,False,Axons,,"a(MESH:""Axons"")",Axons
+2116,Abundance,CHEBI,False,gallic acid,30778.0,"a(CHEBI:""gallic acid"")",gallic acid
+2117,Abundance,GOCC,False,NF-kappaB complex,,"a(GOCC:""NF-kappaB complex"")",NF-kappaB complex
+2118,Abundance,CHEBI,False,Calpeptin,3330.0,"a(CHEBI:""Calpeptin"")",Calpeptin
+2119,Abundance,CHEBI,False,Arginine,29016.0,"a(CHEBI:""Arginine"")",Arginine
+2120,Abundance,CHEBI,False,heroin,27808.0,"a(CHEBI:""heroin"")",heroin
+2121,Abundance,CHEBI,False,crocin,,"a(CHEBI:""crocin"")",crocin
+2122,Abundance,NCIT,False,Cathepsin,,"a(NCIT:""Cathepsin"")",Cathepsin
+2123,Abundance,NCIT,False,KHDRBS1 wt Allele,,"a(NCIT:""KHDRBS1 wt Allele"")",KHDRBS1 wt Allele
+2124,Abundance,NCIT,False,Learning,,"a(NCIT:""Learning"")",Learning
+2125,Abundance,CHEBI,False,antihypertensive agent,35674.0,"a(CHEBI:""antihypertensive agent"")",antihypertensive agent
+2126,Abundance,CHEBI,False,ibudilast,31684.0,"a(CHEBI:""ibudilast"")",ibudilast
+2127,Abundance,MGI,False,amyloid-beta,,"a(MGI:""amyloid-beta"")",amyloid-beta
+2128,Abundance,PUBCHEM,False,9918693,,"a(PUBCHEM:""9918693"")",9918693
+2129,Abundance,CHEBI,False,homocysteine,17230.0,"a(CHEBI:""homocysteine"")",homocysteine
+2130,Abundance,PUBCHEM,False,16240819,,"a(PUBCHEM:""16240819"")",16240819
+2131,Abundance,CONSO,,amyloid-beta oligomers,,"a(CONSO:""amyloid-beta oligomers"",loc(MESH:""Synapses""))",amyloid-beta oligomers
+2132,Abundance,CHEBI,False,reactive oxygen species,26523.0,"a(CHEBI:""reactive oxygen species"")",reactive oxygen species
+2133,Abundance,CHEBI,False,nitrotyrosine,86267.0,"a(CHEBI:""nitrotyrosine"")",nitrotyrosine
+2134,Abundance,CHEBI,False,tacrine,45980.0,"a(CHEBI:""tacrine"")",tacrine
+2135,Abundance,CHEBI,False,ambroxol,135590.0,"a(CHEBI:""ambroxol"")",ambroxol
+2136,Abundance,NIFT,False,Alzheimers disease assessment scale,,"a(NIFT:""Alzheimers disease assessment scale"")",Alzheimers disease assessment scale
+2137,Abundance,CHEBI,False,Trolox,82625.0,"a(CHEBI:""Trolox"")",Trolox
+2138,Abundance,CHEBI,False,(+)-Tetrandrine,49.0,"a(CHEBI:""(+)-Tetrandrine"")",(+)-Tetrandrine
+2139,Abundance,CHEBI,False,EC 3.1.3.16 (phosphoprotein phosphatase) inhibitor,37153.0,"a(CHEBI:""EC 3.1.3.16 (phosphoprotein phosphatase) inhibitor"")",EC 3.1.3.16 (phosphoprotein phosphatase) inhibitor
+2140,Abundance,CHEBI,False,87637,,"a(CHEBI:""87637"")",87637
+2141,Abundance,MESH,False,Free Radicals,,"a(MESH:""Free Radicals"")",Free Radicals
+2142,Abundance,CHEBI,False,90,,"a(CHEBI:""90"")",90
+2143,Abundance,CHEBI,False,antigen,59132.0,"a(CHEBI:""antigen"")",antigen
+2144,Abundance,PUBCHEM,False,400769,,"a(PUBCHEM:""400769"")",400769
+2145,Abundance,GOCC,False,cyclin-dependent protein kinase holoenzyme complex,,"a(GOCC:""cyclin-dependent protein kinase holoenzyme complex"")",cyclin-dependent protein kinase holoenzyme complex
+2146,Abundance,CHEBI,False,gefitinib,49668.0,"a(CHEBI:""gefitinib"")",gefitinib
+2147,Abundance,CONSO,False,CONSO00100,,"a(CONSO:""CONSO00100"")",CONSO00100
+2148,Abundance,CHEBI,False,"3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide",53233.0,"a(CHEBI:""3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide"")","3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide"
+2149,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MESHA:""Brain""))",Microglia
+2150,Abundance,HBP,,amyloid-beta aggregates,,"a(HBP:""amyloid-beta aggregates"",loc(MESH:""Extracellular Space""))",amyloid-beta aggregates
+2151,Abundance,CHEBI,False,Resiniferatoxin,8809.0,"a(CHEBI:""Resiniferatoxin"")",Resiniferatoxin
+2152,Abundance,CHEBI,False,acetylcysteine,22198.0,"a(CHEBI:""acetylcysteine"")",acetylcysteine
+2153,Abundance,CHEBI,False,prostaglandin D2,15555.0,"a(CHEBI:""prostaglandin D2"")",prostaglandin D2
+2154,Abundance,CHEBI,,Thrombin,,"a(CHEBI:""Thrombin"",loc(MESH:""Microvessels""))",Thrombin
+2155,Abundance,MESH,False,Motor Neurons,,"a(MESH:""Motor Neurons"")",Motor Neurons
+2156,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(MESHA:""Cytosol""))",calcium(2+)
+2157,Abundance,CHEBI,False,cinnamaldehydes,23245.0,"a(CHEBI:""cinnamaldehydes"")",cinnamaldehydes
+2158,Abundance,CHEBI,False,fatty acid,35366.0,"a(CHEBI:""fatty acid"")",fatty acid
+2159,Abundance,MESH,False,3-methyladenine,,"a(MESH:""3-methyladenine"")",3-methyladenine
+2160,Abundance,GO,False,phagophore,,"a(GO:""phagophore"")",phagophore
+2161,Abundance,PUBCHEM,False,71361092,,"a(PUBCHEM:""71361092"")",71361092
+2162,Abundance,CONSO,False,3-3 dityrosine cross-linking,,"a(CONSO:""3-3 dityrosine cross-linking"")",3-3 dityrosine cross-linking
+2163,Abundance,CHEBI,False,pyrazole,14973.0,"a(CHEBI:""pyrazole"")",pyrazole
+2164,Abundance,GO,False,autophagosome,,"a(GO:""autophagosome"")",autophagosome
+2165,Abundance,CC,,GI254023X,,"a(CC:""GI254023X"",loc(MESHA:""Macrophages""))",GI254023X
+2166,Abundance,CHEBI,False,folates,67011.0,"a(CHEBI:""folates"")",folates
+2167,Abundance,CHEBI,False,dextran,52071.0,"a(CHEBI:""dextran"")",dextran
+2168,Abundance,CHEBI,False,oxidopamine,78741.0,"a(CHEBI:""oxidopamine"")",oxidopamine
+2169,Abundance,GO,False,autolysosome,,"a(GO:""autolysosome"")",autolysosome
+2170,Abundance,CONSO,False,ID-8,,"a(CONSO:""ID-8"")",ID-8
+2171,Abundance,ADO,False,beta-soluble amyloid precursor protein,,"a(ADO:""beta-soluble amyloid precursor protein"")",beta-soluble amyloid precursor protein
+2172,Abundance,MESH,,Actins,,"a(MESH:""Actins"",loc(GO:""synapse""))",Actins
+2173,Abundance,GO,False,mitochondrion,,"a(GO:""mitochondrion"")",mitochondrion
+2174,Abundance,CONSO,False,Thiamet G,,"a(CONSO:""Thiamet G"")",Thiamet G
+2175,Abundance,CHEBI,False,glycosaminoglycan,18085.0,"a(CHEBI:""glycosaminoglycan"")",glycosaminoglycan
+2176,Abundance,CONSO,False,Phenylthiazolyl-hydrazide,,"a(CONSO:""Phenylthiazolyl-hydrazide"")",Phenylthiazolyl-hydrazide
+2177,Abundance,PUBCHEM,False,57381425,,"a(PUBCHEM:""57381425"")",57381425
+2178,Abundance,CHEBI,False,sorafenib,50924.0,"a(CHEBI:""sorafenib"")",sorafenib
+2179,Abundance,CHEBI,False,beta-alanine,16958.0,"a(CHEBI:""beta-alanine"")",beta-alanine
+2180,Abundance,CHEBI,False,cyclic ADP-ribose,,"a(CHEBI:""cyclic ADP-ribose"")",cyclic ADP-ribose
+2181,Abundance,CONSO,False,C-30-27,,"a(CONSO:""C-30-27"")",C-30-27
+2182,Abundance,CHEBI,False,bradykinin,3165.0,"a(CHEBI:""bradykinin"")",bradykinin
+2183,Abundance,PUBCHEM,False,1056,,"a(PUBCHEM:""1056"")",1056
+6552,Abundance,PUBCHEM,False,462382,,"a(PUBCHEM:""462382"")",462382
+6553,Abundance,CHEBI,,(1->3)-beta-D-glucan,,"a(CHEBI:""(1->3)-beta-D-glucan"",loc(MESHA:""Macrophages""))",(1->3)-beta-D-glucan
+6554,Abundance,PUBCHEM,False,56650312,,"a(PUBCHEM:""56650312"")",56650312
+6555,Abundance,CHEBI,False,acetylsalicylic acid,15365.0,"a(CHEBI:""acetylsalicylic acid"")",acetylsalicylic acid
+6556,Abundance,PUBCHEM,False,355052571,,"a(PUBCHEM:""355052571"")",355052571
+6557,Abundance,CONSO,False,"Tau antibody, pS396",,"a(CONSO:""Tau antibody, pS396"")","Tau antibody, pS396"
+6558,Abundance,PUBCHEM,False,91844718,,"a(PUBCHEM:""91844718"")",91844718
+6559,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MGI:""Ccl21a""))",Microglia
+6560,Abundance,SCOMP,False,gamma Secretase Complex,,"a(SCOMP:""gamma Secretase Complex"")",gamma Secretase Complex
+6561,Abundance,PUBCHEM,False,24756910,,"a(PUBCHEM:""24756910"")",24756910
+6562,Abundance,CONSO,False,RGFP136,,"a(CONSO:""RGFP136"")",RGFP136
+6563,Abundance,CHEBI,False,thromboxane A2,15627.0,"a(CHEBI:""thromboxane A2"")",thromboxane A2
+6564,Abundance,MESH,False,"Receptors, AMPA",,"a(MESH:""Receptors, AMPA"")","Receptors, AMPA"
+6565,Abundance,PUBCHEM,False,4521392,,"a(PUBCHEM:""4521392"")",4521392
+6566,Abundance,CHEBI,False,amyloid fibril,60425.0,"a(CHEBI:""amyloid fibril"")",amyloid fibril
+6567,Abundance,CHEBI,False,N-retinylidene-N-retinylethanolamine,71980.0,"a(CHEBI:""N-retinylidene-N-retinylethanolamine"")",N-retinylidene-N-retinylethanolamine
+6568,Abundance,CHEBI,False,8-hydroxy-2'-deoxyguanosine,40304.0,"a(CHEBI:""8-hydroxy-2'-deoxyguanosine"")",8-hydroxy-2'-deoxyguanosine
+6569,Abundance,PUBCHEM,False,5311272,,"a(PUBCHEM:""5311272"")",5311272
+6570,Abundance,PUBCHEM,False,799645,,"a(PUBCHEM:""799645"")",799645
+6571,Abundance,CHEBI,False,sphingosine,16393.0,"a(CHEBI:""sphingosine"")",sphingosine
+6572,Abundance,PUBCHEM,False,4878,,"a(PUBCHEM:""4878"")",4878
+6573,Abundance,CONSO,False,huntingtin aggregates,,"a(CONSO:""huntingtin aggregates"")",huntingtin aggregates
+6574,Abundance,CHEBI,False,"N-palmitoyl-S-[2,3-bis(palmitoyloxy)propyl]-Cys-Ser-Lys-Lys-Lys-Lys",134411.0,"a(CHEBI:""N-palmitoyl-S-[2,3-bis(palmitoyloxy)propyl]-Cys-Ser-Lys-Lys-Lys-Lys"")","N-palmitoyl-S-[2,3-bis(palmitoyloxy)propyl]-Cys-Ser-Lys-Lys-Lys-Lys"
+6575,Abundance,CHEBI,False,progesterone,17026.0,"a(CHEBI:""progesterone"")",progesterone
+6576,Abundance,PUBCHEM,False,135566354,,"a(PUBCHEM:""135566354"")",135566354
+6577,Abundance,CHEBI,False,L-leucine,15603.0,"a(CHEBI:""L-leucine"")",L-leucine
+6578,Abundance,TAXONOMY,False,8616,,"a(TAXONOMY:""8616"")",8616
+6579,Abundance,MESH,False,Heparan Sulfate Proteoglycans,,"a(MESH:""Heparan Sulfate Proteoglycans"")",Heparan Sulfate Proteoglycans
+6580,Abundance,MESH,False,Basal Ganglia,,"a(MESH:""Basal Ganglia"")",Basal Ganglia
+6581,Abundance,MESH,False,Fetus,,"a(MESH:""Fetus"")",Fetus
+6582,Abundance,PUBCHEM,False,162859,,"a(PUBCHEM:""162859"")",162859
+6583,Abundance,CHEBI,False,calcineurin,53439.0,"a(CHEBI:""calcineurin"")",calcineurin
+6584,Abundance,CHEBI,False,somatostatin,64628.0,"a(CHEBI:""somatostatin"")",somatostatin
+6585,Abundance,CONSO,False,oxazolidinedione,,"a(CONSO:""oxazolidinedione"")",oxazolidinedione
+6586,Abundance,GO,,inclusion body,,"a(GO:""inclusion body"",loc(MESH:""Neurons""))",inclusion body
+6587,Abundance,MESHA,False,Erythrocytes,,"a(MESHA:""Erythrocytes"")",Erythrocytes
+6588,Abundance,CHEBI,False,kynurenic acid,18344.0,"a(CHEBI:""kynurenic acid"")",kynurenic acid
+6589,Abundance,CHEBI,False,myricetin,18152.0,"a(CHEBI:""myricetin"")",myricetin
+6590,Abundance,CHEBI,False,lithium carbonate,6504.0,"a(CHEBI:""lithium carbonate"")",lithium carbonate
+6591,Abundance,MESHA,,"T-Lymphocytes, Regulatory",,"a(MESHA:""T-Lymphocytes, Regulatory"",loc(MESHA:""Thymus Gland""))","T-Lymphocytes, Regulatory"
+6592,Abundance,MESH,False,Acetylcholine,,"a(MESH:""Acetylcholine"")",Acetylcholine
+6593,Abundance,CHEBI,False,Nicardipine,7550.0,"a(CHEBI:""Nicardipine"")",Nicardipine
+6594,Abundance,MESH,False,Endosomes,,"a(MESH:""Endosomes"")",Endosomes
+6595,Abundance,CHEBI,False,creatine,16919.0,"a(CHEBI:""creatine"")",creatine
+6596,Abundance,MESHA,,Astrocytes,,"a(MESHA:""Astrocytes"",loc(MESHA:""Brain""))",Astrocytes
+6597,Abundance,CHEBI,False,prostaglandin H2,15554.0,"a(CHEBI:""prostaglandin H2"")",prostaglandin H2
+6598,Abundance,CHEBI,False,dopamine,18243.0,"a(CHEBI:""dopamine"")",dopamine
+6599,Abundance,CHEBI,False,polyanionic polymer,61469.0,"a(CHEBI:""polyanionic polymer"")",polyanionic polymer
+6600,Abundance,DRUGBANK,False,Robalzotan,,"a(DRUGBANK:""Robalzotan"")",Robalzotan
+6601,Abundance,CHEBI,False,adenosine,16335.0,"a(CHEBI:""adenosine"")",adenosine
+6602,Abundance,MESH,False,Nicotinic Antagonists,,"a(MESH:""Nicotinic Antagonists"")",Nicotinic Antagonists
+6603,Abundance,CHEBI,False,indometacin,49662.0,"a(CHEBI:""indometacin"")",indometacin
+6604,Abundance,MESH,False,"Receptors, Scavenger",,"a(MESH:""Receptors, Scavenger"")","Receptors, Scavenger"
+6605,Abundance,CHEBI,False,levochlorpheniramine,52013.0,"a(CHEBI:""levochlorpheniramine"")",levochlorpheniramine
+6606,Abundance,PUBCHEM,False,254741260,,"a(PUBCHEM:""254741260"")",254741260
+6607,Abundance,CHEBI,False,taurine,15891.0,"a(CHEBI:""taurine"")",taurine
+6608,Abundance,MESHC,False,Pore Forming Cytotoxic Proteins,,"a(MESHC:""Pore Forming Cytotoxic Proteins"")",Pore Forming Cytotoxic Proteins
+6609,Abundance,CHEBI,False,4-(trimethylammonium)benzenediazonium,60610.0,"a(CHEBI:""4-(trimethylammonium)benzenediazonium"")",4-(trimethylammonium)benzenediazonium
+6610,Abundance,CHEBI,False,omega-3 fatty acid,25681.0,"a(CHEBI:""omega-3 fatty acid"")",omega-3 fatty acid
+6611,Abundance,PUBCHEM,False,6918822,,"a(PUBCHEM:""6918822"")",6918822
+6612,Abundance,MESH,False,Ivermectin,,"a(MESH:""Ivermectin"")",Ivermectin
+6613,Abundance,CHEBI,False,vorinostat,45716.0,"a(CHEBI:""vorinostat"")",vorinostat
+6614,Abundance,CONSO,,protein aggregates,,"a(CONSO:""protein aggregates"",loc(MESH:""Central Nervous System""))",protein aggregates
+6615,Abundance,MESH,False,"4-(3-(4-butylpiperidin-1-yl)propyl)-7-fluoro-4H-benzo(1,4)oxazin-3-one",,"a(MESH:""4-(3-(4-butylpiperidin-1-yl)propyl)-7-fluoro-4H-benzo(1,4)oxazin-3-one"")","4-(3-(4-butylpiperidin-1-yl)propyl)-7-fluoro-4H-benzo(1,4)oxazin-3-one"
+6616,Abundance,CHEBI,False,thyroid hormone,60311.0,"a(CHEBI:""thyroid hormone"")",thyroid hormone
+6617,Abundance,PUBCHEM,False,90479739,,"a(PUBCHEM:""90479739"")",90479739
+6618,Abundance,CHEBI,,amyloid-beta polypeptide 40,,"a(CHEBI:""amyloid-beta polypeptide 40"",loc(GO:""secretory vesicle""))",amyloid-beta polypeptide 40
+6619,Abundance,MESH,False,VU 0405652,,"a(MESH:""VU 0405652"")",VU 0405652
+6620,Abundance,NIFT,False,Cerebral blood flow,,"a(NIFT:""Cerebral blood flow"")",Cerebral blood flow
+6621,Abundance,PUBCHEM,False,17755052,,"a(PUBCHEM:""17755052"")",17755052
+6622,Abundance,CHEBI,False,LPS with O-antigen,89981.0,"a(CHEBI:""LPS with O-antigen"")",LPS with O-antigen
+6623,Abundance,CHEMBLA,False,CHEMBL38380,,"a(CHEMBLA:""CHEMBL38380"")",CHEMBL38380
+6624,Abundance,MESH,False,"3-amino-5-chloro-6-methoxy-4-methyl-thieno(2,3-b)pyridine-2-carboxylic acid cyclopropylamide",,"a(MESH:""3-amino-5-chloro-6-methoxy-4-methyl-thieno(2,3-b)pyridine-2-carboxylic acid cyclopropylamide"")","3-amino-5-chloro-6-methoxy-4-methyl-thieno(2,3-b)pyridine-2-carboxylic acid cyclopropylamide"
+6625,Abundance,NIFT,False,Hippocampal Formation,,"a(NIFT:""Hippocampal Formation"")",Hippocampal Formation
+6626,Abundance,NCIT,False,Memory,,"a(NCIT:""Memory"")",Memory
+6627,Abundance,NCIT,False,Curcumin,,"a(NCIT:""Curcumin"")",Curcumin
+6628,Abundance,CHEBI,False,peptidoglycan,,"a(CHEBI:"" peptidoglycan"")",peptidoglycan
+6629,Abundance,MESH,False,Fungi,,"a(MESH:""Fungi"")",Fungi
+6630,Abundance,CHEMBLA,False,CHEMBL510275,,"a(CHEMBLA:""CHEMBL510275"")",CHEMBL510275
+6631,Abundance,PUBCHEM,False,5311278,,"a(PUBCHEM:""5311278"")",5311278
+6632,Abundance,BRCO,False,Gray_matter,,"a(BRCO:""Gray_matter"")",Gray_matter
+6633,Abundance,MESH,False,Neuropathology,,"a(MESH:""Neuropathology"")",Neuropathology
+6634,Abundance,FIXME,False,pep2m,,"a(FIXME:""pep2m"")",pep2m
+6635,Abundance,MESH,False,3-(4-dimethylaminobenzylidene)anabaseine,,"a(MESH:""3-(4-dimethylaminobenzylidene)anabaseine"")",3-(4-dimethylaminobenzylidene)anabaseine
+6636,Abundance,MESHC,False,2-butenal,,"a(MESHC:""2-butenal"")",2-butenal
+6637,Abundance,MESH,False,B-Lymphocytes,,"a(MESH:""B-Lymphocytes"")",B-Lymphocytes
+6638,Abundance,CHEBI,False,succinylcholine,45652.0,"a(CHEBI:""succinylcholine"")",succinylcholine
+6639,Abundance,CHEBI,False,trichlorfon,6908.0,"a(CHEBI:""trichlorfon"")",trichlorfon
+6640,Abundance,CHEBI,False,IMP,17202.0,"a(CHEBI:""IMP"")",IMP
+6641,Abundance,MESH,False,Cerebral Cortex,,"a(MESH:""Cerebral Cortex"")",Cerebral Cortex
+6642,Abundance,FIXME,False,acquisition performance,,"a(FIXME:""acquisition performance"")",acquisition performance
+6643,Abundance,MESH,False,Quinuclidinyl Benzilate,,"a(MESH:""Quinuclidinyl Benzilate"")",Quinuclidinyl Benzilate
+6644,Abundance,CHEBI,False,amphotericin B,2682.0,"a(CHEBI:""amphotericin B"")",amphotericin B
+6645,Abundance,MESH,False,Th17 Cells,,"a(MESH:""Th17 Cells"")",Th17 Cells
+6646,Abundance,CHEMBLA,False,CHEMBL177611,,"a(CHEMBLA:""CHEMBL177611"")",CHEMBL177611
+6647,Abundance,CHEMBLA,False,CHEMBL257591,,"a(CHEMBLA:""CHEMBL257591"")",CHEMBL257591
+6648,Abundance,CHEBI,False,poly(ethylene imine),53231.0,"a(CHEBI:""poly(ethylene imine)"")",poly(ethylene imine)
+6649,Abundance,MESH,False,"RNA, Long Noncoding",,"a(MESH:""RNA, Long Noncoding"")","RNA, Long Noncoding"
+6650,Abundance,CHEBI,False,Ile(5)-angiotensin II,2719.0,"a(CHEBI:""Ile(5)-angiotensin II"")",Ile(5)-angiotensin II
+6651,Abundance,FIXME,False,"InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1",,"a(FIXME:""InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1"")","InChI=1S/C9H13NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,9-13H,5H2,1H3/t9-/m0/s1"
+6652,Abundance,CONSO,False,VU0029767,,"a(CONSO:""VU0029767"")",VU0029767
+6653,Abundance,FIXME,False,"InChI=1S/C25H30N4O/c1-2-9-24-23(18-26-29(24)22-12-7-4-8-13-22)25(30)27-21-14-16-28(17-15-21)19-20-10-5-3-6-11-20/h3-8,10-13,18,21H,2,9,14-17,19H2,1H3,(H,27,30)",,"a(FIXME:""InChI=1S/C25H30N4O/c1-2-9-24-23(18-26-29(24)22-12-7-4-8-13-22)25(30)27-21-14-16-28(17-15-21)19-20-10-5-3-6-11-20/h3-8,10-13,18,21H,2,9,14-17,19H2,1H3,(H,27,30)"")","InChI=1S/C25H30N4O/c1-2-9-24-23(18-26-29(24)22-12-7-4-8-13-22)25(30)27-21-14-16-28(17-15-21)19-20-10-5-3-6-11-20/h3-8,10-13,18,21H,2,9,14-17,19H2,1H3,(H,27,30)"
+6654,Abundance,HP,False,cholinergic neuron,,"a(HP:""cholinergic neuron"")",cholinergic neuron
+6655,Abundance,CHEBI,False,HPV-16,,"a(CHEBI:""HPV-16"")",HPV-16
+6656,Abundance,FIXME,False,"InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)16-29-17-22(26-27-29)23(30)25-14-18-10-12-28(13-11-18)15-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H2,24,31,32)",,"a(FIXME:""InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)16-29-17-22(26-27-29)23(30)25-14-18-10-12-28(13-11-18)15-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H2,24,31,32)"")","InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)16-29-17-22(26-27-29)23(30)25-14-18-10-12-28(13-11-18)15-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H2,24,31,32)"
+6657,Abundance,CHEBI,False,pregnenolone sulfate,35420.0,"a(CHEBI:""pregnenolone sulfate"")",pregnenolone sulfate
+6658,Abundance,NNS,False,ISF Abeta,,"a(NNS:""ISF Abeta"")",ISF Abeta
+6659,Abundance,MESH,False,Oligoclonal Bands,,"a(MESH:""Oligoclonal Bands"")",Oligoclonal Bands
+6660,Abundance,FIXME,False,"InChI=1S/C24H27N5O3/c30-23(22-15-26-29(27-22)17-20-6-8-21(9-7-20)24(31)32)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)(H,31,32)",,"a(FIXME:""InChI=1S/C24H27N5O3/c30-23(22-15-26-29(27-22)17-20-6-8-21(9-7-20)24(31)32)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)(H,31,32)"")","InChI=1S/C24H27N5O3/c30-23(22-15-26-29(27-22)17-20-6-8-21(9-7-20)24(31)32)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)(H,31,32)"
+6661,Abundance,CHEBI,False,4-oxo-4-(pyridin-3-yl)butanoic acid,66951.0,"a(CHEBI:""4-oxo-4-(pyridin-3-yl)butanoic acid"")",4-oxo-4-(pyridin-3-yl)butanoic acid
+6662,Abundance,CHEBI,False,vitamin D,27300.0,"a(CHEBI:""vitamin D"")",vitamin D
+6663,Abundance,PUBCHEM,False,637568,,"a(PUBCHEM:""637568"")",637568
+6664,Abundance,PUBCHEM,False,3398121,,"a(PUBCHEM:""3398121"")",3398121
+6665,Abundance,GO,False,synapse,,"a(GO:""synapse"")",synapse
+6666,Abundance,DRUGBANK,False,Teriflunomide,,"a(DRUGBANK:""Teriflunomide"")",Teriflunomide
+6667,Abundance,CHEBI,False,iron(2+),29033.0,"a(CHEBI:""iron(2+)"")",iron(2+)
+6668,Abundance,DRUGBANK,False,Acyclovir,,"a(DRUGBANK:""Acyclovir"")",Acyclovir
+6669,Abundance,CHEBI,False,nitrogen dioxide,33101.0,"a(CHEBI:""nitrogen dioxide"")",nitrogen dioxide
+6670,Abundance,MESH,False,"3-(5,6-dichloropyridin-3-yl)-3,6-diazabicyclo(3.2.0)heptane",,"a(MESH:""3-(5,6-dichloropyridin-3-yl)-3,6-diazabicyclo(3.2.0)heptane"")","3-(5,6-dichloropyridin-3-yl)-3,6-diazabicyclo(3.2.0)heptane"
+6671,Abundance,MESH,False,"Receptors, Nicotinic",,"a(MESH:""Receptors, Nicotinic"")","Receptors, Nicotinic"
+6672,Abundance,PUBCHEM,False,5284373,,"a(PUBCHEM:""5284373"")",5284373
+6673,Abundance,CHEBI,False,copper(2+),29036.0,"a(CHEBI:""copper(2+)"")",copper(2+)
+6674,Abundance,MESH,False,alpha6beta2 nicotinic acetylcholine receptor,,"a(MESH:""alpha6beta2 nicotinic acetylcholine receptor"")",alpha6beta2 nicotinic acetylcholine receptor
+6675,Abundance,PUBCHEM,False,172232576,,"a(PUBCHEM:""172232576"")",172232576
+6676,Abundance,MESH,False,Blood Glucose,,"a(MESH:""Blood Glucose"")",Blood Glucose
+6677,Abundance,MESH,False,CD4-Positive T-Lymphocytes,,"a(MESH:""CD4-Positive T-Lymphocytes"")",CD4-Positive T-Lymphocytes
+6678,Abundance,CHEBI,False,phosphatidylinositol bisphosphate,37328.0,"a(CHEBI:""phosphatidylinositol bisphosphate"")",phosphatidylinositol bisphosphate
+6679,Abundance,PUBCHEM,False,132228,,"a(PUBCHEM:""132228"")",132228
+6680,Abundance,MESH,False,Lung,,"a(MESH:""Lung"")",Lung
+6681,Abundance,CHEBI,False,minocycline,50694.0,"a(CHEBI:""minocycline"")",minocycline
+6682,Abundance,MESH,False,nicotinic receptor alpha3beta2,,"a(MESH:""nicotinic receptor alpha3beta2"")",nicotinic receptor alpha3beta2
+6683,Abundance,CHEBI,False,leflunomide,6402.0,"a(CHEBI:""leflunomide"")",leflunomide
+6684,Abundance,CHEBI,False,streptozocin,9288.0,"a(CHEBI:""streptozocin"")",streptozocin
+6685,Abundance,MESH,False,Placenta,,"a(MESH:""Placenta"")",Placenta
+6686,Abundance,CHEBI,False,arginine,29016.0,"a(CHEBI:""arginine"")",arginine
+6687,Abundance,GO,False,cytoskeleton,,"a(GO:""cytoskeleton"")",cytoskeleton
+6688,Abundance,CHEBI,False,dorsomorphin,78510.0,"a(CHEBI:""dorsomorphin"")",dorsomorphin
+6689,Abundance,CHEBI,,calcium cation,,"a(CHEBI:""calcium cation"",loc(GO:""intracellular""))",calcium cation
+6690,Abundance,MESH,False,Progesterone,,"a(MESH:""Progesterone"")",Progesterone
+6691,Abundance,NCIT,False,C120869,,"a(NCIT:""C120869"")",C120869
+6692,Abundance,CHEBI,False,nutrient,33284.0,"a(CHEBI:""nutrient"")",nutrient
+6693,Abundance,PUBCHEM,False,5310971,,"a(PUBCHEM:""5310971"")",5310971
+6694,Abundance,CHEBI,False,non-steroidal anti-inflammatory drug,35475.0,"a(CHEBI:""non-steroidal anti-inflammatory drug"")",non-steroidal anti-inflammatory drug
+6695,Abundance,PUBCHEM,False,46196517,,"a(PUBCHEM:""46196517"")",46196517
+6696,Abundance,PUBCHEM,False,5757,,"a(PUBCHEM:""5757"")",5757
+6697,Abundance,CHEBI,False,lixisenatide,85662.0,"a(CHEBI:""lixisenatide"")",lixisenatide
+6698,Abundance,PUBCHEM,False,33334,,"a(PUBCHEM:""33334"")",33334
+6699,Abundance,CHEBI,False,spermidine,16610.0,"a(CHEBI:""spermidine"")",spermidine
+6700,Abundance,PMICHEM,False,N-AcGIP,,"a(PMICHEM:""N-AcGIP"")",N-AcGIP
+6701,Abundance,MESH,False,Cytotoxins,,"a(MESH:""Cytotoxins"")",Cytotoxins
+6702,Abundance,MESH,False,Cyclic AMP,,"a(MESH:""Cyclic AMP"")",Cyclic AMP
+6703,Abundance,PUBCHEM,False,439400,,"a(PUBCHEM:""439400"")",439400
+6704,Abundance,CHEBI,,sodium(1+),,"a(CHEBI:""sodium(1+)"",loc(GO:""axon""))",sodium(1+)
+6705,Abundance,CHEBI,False,EC 3.1.1.7 (acetylcholinesterase) inhibitor,38462.0,"a(CHEBI:""EC 3.1.1.7 (acetylcholinesterase) inhibitor"")",EC 3.1.1.7 (acetylcholinesterase) inhibitor
+6706,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""extracellular space""))",amyloid-beta
+6707,Abundance,PUBCHEM,False,439423,,"a(PUBCHEM:""439423"")",439423
+6708,Abundance,CHEBI,,reactive oxygen species,,"a(CHEBI:""reactive oxygen species"",loc(GO:""mitochondrion""))",reactive oxygen species
+6709,Abundance,CHEBI,False,fluvoxamine,5138.0,"a(CHEBI:""fluvoxamine"")",fluvoxamine
+6710,Abundance,CHEBI,False,(-)-epigallocatechin 3-gallate,4806.0,"a(CHEBI:""(-)-epigallocatechin 3-gallate"")",(-)-epigallocatechin 3-gallate
+6711,Abundance,PUBCHEM,False,65728,,"a(PUBCHEM:""65728"")",65728
+6712,Abundance,PUBCHEM,False,3272524,,"a(PUBCHEM:""3272524"")",3272524
+6713,Abundance,CHEBI,False,chlorpromazine,3647.0,"a(CHEBI:""chlorpromazine"")",chlorpromazine
+6714,Abundance,CONSO,False,CONSO00038,,"a(CONSO:""CONSO00038"")",CONSO00038
+6715,Abundance,MESH,False,Enzymes,,"a(MESH:""Enzymes"")",Enzymes
+6716,Abundance,GO,False,Golgi apparatus,,"a(GO:""Golgi apparatus"")",Golgi apparatus
+6717,Abundance,GO,False,dendrite,,"a(GO:""dendrite"")",dendrite
+6718,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""interstitial matrix""))",amyloid-beta
+6719,Abundance,CHEBI,False,clozapine,3766.0,"a(CHEBI:""clozapine"")",clozapine
+6720,Abundance,CHEBI,False,corticotropin,3892.0,"a(CHEBI:""corticotropin"")",corticotropin
+6721,Abundance,CHEBI,False,zinc ion,27365.0,"a(CHEBI:""zinc ion"")",zinc ion
+6722,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""presynapse""))",calcium(2+)
+6723,Abundance,MESH,False,Transcription Factor AP-1,,"a(MESH:""Transcription Factor AP-1"")",Transcription Factor AP-1
+6724,Abundance,CHEBI,False,(R)-adrenaline,28918.0,"a(CHEBI:""(R)-adrenaline"")",(R)-adrenaline
+6725,Abundance,PUBCHEM,False,9568077,,"a(PUBCHEM:""9568077"")",9568077
+6726,Abundance,CHEBI,False,2-arachidonoylglycerol,52392.0,"a(CHEBI:""2-arachidonoylglycerol"")",2-arachidonoylglycerol
+6727,Abundance,PUBCHEM,False,155160,,"a(PUBCHEM:""155160"")",155160
+6728,Abundance,CHEBI,False,Salidroside,9009.0,"a(CHEBI:""Salidroside"")",Salidroside
+6729,Abundance,GO,False,lysosomal membrane,,"a(GO:""lysosomal membrane"")",lysosomal membrane
+6730,Abundance,CHEBI,False,pesticide,25944.0,"a(CHEBI:""pesticide"")",pesticide
+6731,Abundance,NCIT,False,Apoptosis,,"a(NCIT:""Apoptosis"")",Apoptosis
+6732,Abundance,CHEBI,False,rottlerin,8899.0,"a(CHEBI:""rottlerin"")",rottlerin
+6733,Abundance,CHEBI,False,Insulin,145810.0,"a(CHEBI:""Insulin"")",Insulin
+6734,Abundance,PUBCHEM,False,444795,,"a(PUBCHEM:""444795"")",444795
+6735,Abundance,CHEBI,False,antioxidant,22586.0,"a(CHEBI:""antioxidant"")",antioxidant
+6736,Abundance,PUBCHEM,False,55310,,"a(PUBCHEM:""55310"")",55310
+6737,Abundance,CHEBI,,amyoid-beta,,"a(CHEBI:""amyoid-beta"",loc(GO:""mitochondrion""))",amyoid-beta
+6738,Abundance,PUBCHEM,False,440312,,"a(PUBCHEM:""440312"")",440312
+6739,Abundance,CHEBI,False,proteasome inhibitor,52726.0,"a(CHEBI:""proteasome inhibitor"")",proteasome inhibitor
+6740,Abundance,CHEBI,False,"poly(D,L-lactic acid-co-glycolic acid)",53493.0,"a(CHEBI:""poly(D,L-lactic acid-co-glycolic acid)"")","poly(D,L-lactic acid-co-glycolic acid)"
+6741,Abundance,CONSO,False,CDR - Sum of Boxes,,"a(CONSO:""CDR - Sum of Boxes"")",CDR - Sum of Boxes
+6742,Abundance,CHEBI,False,malonyl-CoA,15531.0,"a(CHEBI:""malonyl-CoA"")",malonyl-CoA
+6743,Abundance,CHEBI,False,superoxide,18421.0,"a(CHEBI:""superoxide"")",superoxide
+6744,Abundance,CHEBI,False,"anthra[1,9-cd]pyrazol-6(2H)-one",90695.0,"a(CHEBI:""anthra[1,9-cd]pyrazol-6(2H)-one"")","anthra[1,9-cd]pyrazol-6(2H)-one"
+6745,Abundance,CHEBI,False,nitrite,16301.0,"a(CHEBI:""nitrite"")",nitrite
+6746,Abundance,CHEBI,False,8028,,"a(CHEBI:""8028"")",8028
+6747,Abundance,CHEBI,False,manganese(2+),29035.0,"a(CHEBI:""manganese(2+)"")",manganese(2+)
+6748,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(CHEBI:""amyloid-beta""))",Microglia
+6749,Abundance,CHEBI,False,nicorandil,31905.0,"a(CHEBI:""nicorandil"")",nicorandil
+6750,Abundance,CHEBI,False,74460,,"a(CHEBI:""74460"")",74460
+6751,Abundance,KEGG,False,gl:G13115,,"a(KEGG:""gl:G13115"")",gl:G13115
+6752,Abundance,MESHA,False,Myeloid Cells,,"a(MESHA:""Myeloid Cells"")",Myeloid Cells
+6753,Abundance,PUBCHEM,False,354398,,"a(PUBCHEM:""354398"")",354398
+6754,Abundance,CHEBI,False,palmitoyl ethanolamide,71464.0,"a(CHEBI:""palmitoyl ethanolamide"")",palmitoyl ethanolamide
+6755,Abundance,MESH,False,Stem Cells,,"a(MESH:""Stem Cells"")",Stem Cells
+6756,Abundance,CHEBI,False,2-bromohexadecanoic acid,133152.0,"a(CHEBI:""2-bromohexadecanoic acid"")",2-bromohexadecanoic acid
+6757,Abundance,CHEBI,False,(E)-cinnamaldehyde,16731.0,"a(CHEBI:""(E)-cinnamaldehyde"")",(E)-cinnamaldehyde
+6758,Abundance,CHEBI,False,kynurenamines,24990.0,"a(CHEBI:""kynurenamines"")",kynurenamines
+6759,Abundance,MESH,False,9-deoxy-delta-9-prostaglandin D2,,"a(MESH:""9-deoxy-delta-9-prostaglandin D2"")",9-deoxy-delta-9-prostaglandin D2
+6760,Abundance,MESH,False,Reactive Oxygen Species,,"a(MESH:""Reactive Oxygen Species"")",Reactive Oxygen Species
+6761,Abundance,PUBCHEM,False,4162,,"a(PUBCHEM:""4162"")",4162
+6762,Abundance,CONSO,False,maitotoxin,,"a(CONSO:""maitotoxin"")",maitotoxin
+6763,Abundance,GOCC,False,5-lipoxygenase complex,,"a(GOCC:""5-lipoxygenase complex"")",5-lipoxygenase complex
+6764,Abundance,MESH,False,"4-amino-5-(4-methylphenyl)-7-(tert-butyl)pyrazolo(3,4-d)pyrimidine",,"a(MESH:""4-amino-5-(4-methylphenyl)-7-(tert-butyl)pyrazolo(3,4-d)pyrimidine"")","4-amino-5-(4-methylphenyl)-7-(tert-butyl)pyrazolo(3,4-d)pyrimidine"
+6765,Abundance,MESHA,,Cytoplasmic Granules,,"a(MESHA:""Cytoplasmic Granules"",loc(MESHA:""Neurons""))",Cytoplasmic Granules
+6766,Abundance,CHEBI,False,metal cation,25213.0,"a(CHEBI:""metal cation"")",metal cation
+6767,Abundance,CHEBI,False,sodium chloride,26710.0,"a(CHEBI:""sodium chloride"")",sodium chloride
+6768,Abundance,CHEBI,False,calcitriol,17823.0,"a(CHEBI:""calcitriol"")",calcitriol
+6769,Abundance,PUBCHEM,False,64627,,"a(PUBCHEM:""64627"")",64627
+6770,Abundance,MESH,False,Ubiquitinated Proteins,,"a(MESH:""Ubiquitinated Proteins"")",Ubiquitinated Proteins
+6771,Abundance,CONSO,False,olomoucine,,"a(CONSO:""olomoucine"")",olomoucine
+6772,Abundance,GOCC,False,calcineurin complex,,"a(GOCC:""calcineurin complex"")",calcineurin complex
+6773,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESH:""Intracellular Space""))",amyloid-beta
+6774,Abundance,GOCC,False,autophagic vacuole,,"a(GOCC:""autophagic vacuole"")",autophagic vacuole
+6775,Abundance,PUBCHEM,False,100984821,,"a(PUBCHEM:""100984821"")",100984821
+6776,Abundance,CONSO,False,LDN-193665,,"a(CONSO:""LDN-193665"")",LDN-193665
+6777,Abundance,MESH,False,Dyneins,,"a(MESH:""Dyneins"")",Dyneins
+6778,Abundance,CHEBI,False,phosphagen,64618.0,"a(CHEBI:""phosphagen"")",phosphagen
+6779,Abundance,PUBCHEM,False,6419718,,"a(PUBCHEM:""6419718"")",6419718
+6780,Abundance,CHEBI,False,17beta-estradiol,16469.0,"a(CHEBI:""17beta-estradiol"")",17beta-estradiol
+6781,Abundance,PUBCHEM,False,501026,,"a(PUBCHEM:""501026"")",501026
+6782,Abundance,PUBCHEM,False,6675804,,"a(PUBCHEM:""6675804"")",6675804
+6783,Abundance,CHEBI,False,terbutaline,9449.0,"a(CHEBI:""terbutaline"")",terbutaline
+6784,Abundance,MESH,False,Pyramidal Tracts,,"a(MESH:""Pyramidal Tracts"")",Pyramidal Tracts
+6785,Abundance,CHEBI,False,2-oxoglutaric acid,30915.0,"a(CHEBI:""2-oxoglutaric acid"")",2-oxoglutaric acid
+6786,Abundance,CONSO,False,"Tau antibody, Tau-13",,"a(CONSO:""Tau antibody, Tau-13"")","Tau antibody, Tau-13"
+6787,Abundance,MESHA,False,Natural Killer T-Cells,,"a(MESHA:""Natural Killer T-Cells"")",Natural Killer T-Cells
+6788,Abundance,GO,False,caveola,,"a(GO:""caveola"")",caveola
+6789,Abundance,CHEBI,False,"2-[[7-(3,4-dimethoxyphenyl)-5-imidazo[1,2-c]pyrimidinyl]amino]-3-pyridinecarboxamide",91426.0,"a(CHEBI:""2-[[7-(3,4-dimethoxyphenyl)-5-imidazo[1,2-c]pyrimidinyl]amino]-3-pyridinecarboxamide"")","2-[[7-(3,4-dimethoxyphenyl)-5-imidazo[1,2-c]pyrimidinyl]amino]-3-pyridinecarboxamide"
+6790,Abundance,CHEBI,False,D-glutamate(1-),29986.0,"a(CHEBI:""D-glutamate(1-)"")",D-glutamate(1-)
+6791,Abundance,CHEBI,False,piceatannol,28814.0,"a(CHEBI:""piceatannol"")",piceatannol
+6792,Abundance,CHEBI,False,L-fucopyranose,2181.0,"a(CHEBI:""L-fucopyranose"")",L-fucopyranose
+6793,Abundance,PUBCHEM,False,2746,,"a(PUBCHEM:""2746"")",2746
+6794,Abundance,MESH,False,Lewy Bodies,,"a(MESH:""Lewy Bodies"")",Lewy Bodies
+6795,Abundance,CHEBI,False,pioglitazone,8228.0,"a(CHEBI:""pioglitazone"")",pioglitazone
+6796,Abundance,CHEBI,False,geldanamycin,5292.0,"a(CHEBI:""geldanamycin"")",geldanamycin
+6797,Abundance,CHEBI,False,glyoxal,34779.0,"a(CHEBI:""glyoxal"")",glyoxal
+6798,Abundance,PUBCHEM,False,156422,,"a(PUBCHEM:""156422"")",156422
+6799,Abundance,MESHA,,Myeloid Cells,,"a(MESHA:""Myeloid Cells"",loc(MESHA:""Blood""))",Myeloid Cells
+6800,Abundance,PUBCHEM,False,10521421,,"a(PUBCHEM:""10521421"")",10521421
+6801,Abundance,NNS,False,Physical activity,,"a(NNS:""Physical activity"")",Physical activity
+6802,Abundance,PUBCHEM,False,10435235,,"a(PUBCHEM:""10435235"")",10435235
+6803,Abundance,CHEBI,False,chetomin,68741.0,"a(CHEBI:""chetomin"")",chetomin
+6804,Abundance,CHEBI,False,amino acid,33709.0,"a(CHEBI:""amino acid"")",amino acid
+6805,Abundance,CHEBI,False,O-acetyl-L-serine,17981.0,"a(CHEBI:""O-acetyl-L-serine"")",O-acetyl-L-serine
+6806,Abundance,PUBCHEM,False,66766582,,"a(PUBCHEM:""66766582"")",66766582
+6807,Abundance,CHEBI,False,hydroxy-fatty acyl-L-carnitine,133449.0,"a(CHEBI:""hydroxy-fatty acyl-L-carnitine"")",hydroxy-fatty acyl-L-carnitine
+6808,Abundance,CHEBI,,aluminium sulfate (anhydrous),,"a(CHEBI:""aluminium sulfate (anhydrous)"",loc(MESHA:""Microglia""))",aluminium sulfate (anhydrous)
+6809,Abundance,PUBCHEM,False,23624255,,"a(PUBCHEM:""23624255"")",23624255
+6810,Abundance,MESH,False,Heparitin Sulfate,,"a(MESH:""Heparitin Sulfate"")",Heparitin Sulfate
+6811,Abundance,CHEBI,False,bongkrekic acid,77742.0,"a(CHEBI:""bongkrekic acid"")",bongkrekic acid
+6812,Abundance,PUBCHEM,False,33032,,"a(PUBCHEM:""33032"")",33032
+6813,Abundance,MESHA,False,Monocyte-Macrophage Precursor Cells,,"a(MESHA:""Monocyte-Macrophage Precursor Cells"")",Monocyte-Macrophage Precursor Cells
+6814,Abundance,CHEBI,False,Anatoxin a,2706.0,"a(CHEBI:""Anatoxin a"")",Anatoxin a
+6815,Abundance,MESH,False,Corpus Striatum,,"a(MESH:""Corpus Striatum"")",Corpus Striatum
+6816,Abundance,CHEBI,False,simazine,27496.0,"a(CHEBI:""simazine"")",simazine
+6817,Abundance,CHEBI,False,L-cysteine,17561.0,"a(CHEBI:""L-cysteine"")",L-cysteine
+6818,Abundance,MESHA,False,Lymphocytes,,"a(MESHA:""Lymphocytes"")",Lymphocytes
+6819,Abundance,CONSO,False,FK1 antibody,,"a(CONSO:""FK1 antibody"")",FK1 antibody
+6820,Abundance,CHEBI,False,Iproniazid,5958.0,"a(CHEBI:""Iproniazid"")",Iproniazid
+6821,Abundance,CHEBI,False,tetrabenazine,9467.0,"a(CHEBI:""tetrabenazine"")",tetrabenazine
+6822,Abundance,CHEBI,False,muramyl dipeptide,59414.0,"a(CHEBI:""muramyl dipeptide"")",muramyl dipeptide
+6823,Abundance,MESH,False,"Mossy Fibers, Hippocampal",,"a(MESH:""Mossy Fibers, Hippocampal"")","Mossy Fibers, Hippocampal"
+6824,Abundance,CHEBI,False,muscimol,7035.0,"a(CHEBI:""muscimol"")",muscimol
+6825,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Extracellular Space""))",amyloid-beta
+6826,Abundance,MESH,False,Skin,,"a(MESH:""Skin"")",Skin
+6827,Abundance,PUBCHEM,False,39484,,"a(PUBCHEM:""39484"")",39484
+6828,Abundance,CHEBI,False,dimethyl sulfoxide,28262.0,"a(CHEBI:""dimethyl sulfoxide"")",dimethyl sulfoxide
+6829,Abundance,MESHA,,Neurons,,"a(MESHA:""Neurons"",loc(MESHA:""Cerebral Cortex""))",Neurons
+6830,Abundance,MESH,False,Oxygen,,"a(MESH:""Oxygen"")",Oxygen
+6831,Abundance,CHEBI,False,isotretinoin,6067.0,"a(CHEBI:""isotretinoin"")",isotretinoin
+6832,Abundance,CONSO,False,APOE e4,,"a(CONSO:""APOE e4"")",APOE e4
+6833,Abundance,CHEBI,False,diphenhydramine,4636.0,"a(CHEBI:""diphenhydramine"")",diphenhydramine
+6834,Abundance,MESHA,False,Th1 Cells,,"a(MESHA:""Th1 Cells"")",Th1 Cells
+6835,Abundance,MESH,False,3-methyl-5-(1-methyl-2-pyrrolidinyl)isoxazole,,"a(MESH:""3-methyl-5-(1-methyl-2-pyrrolidinyl)isoxazole"")",3-methyl-5-(1-methyl-2-pyrrolidinyl)isoxazole
+6836,Abundance,CHEBI,False,curcumin,3962.0,"a(CHEBI:""curcumin"")",curcumin
+6837,Abundance,MESH,False,Thrombin,,"a(MESH:""Thrombin"")",Thrombin
+6838,Abundance,CHEBI,False,trans-resveratrol,45713.0,"a(CHEBI:""trans-resveratrol"")",trans-resveratrol
+6839,Abundance,CHEBI,False,decamethonium,41934.0,"a(CHEBI:""decamethonium"")",decamethonium
+6840,Abundance,CHEBI,False,5-aza-2'-deoxycytidine,50131.0,"a(CHEBI:""5-aza-2'-deoxycytidine"")",5-aza-2'-deoxycytidine
+6841,Abundance,CHEBI,False,cobalt dichloride,35696.0,"a(CHEBI:""cobalt dichloride"")",cobalt dichloride
+6842,Abundance,NNS,False,apple juice concentrate,,"a(NNS:""apple juice concentrate"")",apple juice concentrate
+6843,Abundance,CONSO,False,Alz50,,"a(CONSO:""Alz50"")",Alz50
+6844,Abundance,CHEBI,False,sucrose,17992.0,"a(CHEBI:""sucrose"")",sucrose
+6845,Abundance,CHEBI,False,(+)-artemisinin,223316.0,"a(CHEBI:""(+)-artemisinin"")",(+)-artemisinin
+6846,Abundance,FIXME,False,"5-Amino-3-(4-chlorophenyl)-N-ethyl-4-oxo-3,4-dihydrothieno[3,4-d]pyridazine-1-carboxamide",,"a(FIXME:""5-Amino-3-(4-chlorophenyl)-N-ethyl-4-oxo-3,4-dihydrothieno[3,4-d]pyridazine-1-carboxamide"")","5-Amino-3-(4-chlorophenyl)-N-ethyl-4-oxo-3,4-dihydrothieno[3,4-d]pyridazine-1-carboxamide"
+6847,Abundance,CONSO,False,VU10010,,"a(CONSO:""VU10010"")",VU10010
+6848,Abundance,NNS,False,Ser 447 Ter polymorphisms,,"a(NNS:""Ser 447 Ter polymorphisms"")",Ser 447 Ter polymorphisms
+6849,Abundance,MESH,False,Pathogen-Associated Molecular Pattern Molecules,,"a(MESH:""Pathogen-Associated Molecular Pattern Molecules"")",Pathogen-Associated Molecular Pattern Molecules
+6850,Abundance,MESHF,False,Spatial Memory,,"a(MESHF:""Spatial Memory"")",Spatial Memory
+6851,Abundance,CHEBI,False,insulin,145810.0,"a(CHEBI:""insulin"")",insulin
+6852,Abundance,CHEBI,False,ROS,,"a(CHEBI:""ROS"")",ROS
+6853,Abundance,CHEBI,False,Scopolamine,16794.0,"a(CHEBI:""Scopolamine"")",Scopolamine
+6854,Abundance,NCIT,False,PIK3C3 Gene,,"a(NCIT:""PIK3C3 Gene"")",PIK3C3 Gene
+6855,Abundance,EFO,False,MDA,,"a(EFO:""MDA"")",MDA
+6856,Abundance,GO,False,ESCRT III complex,,"a(GO:""ESCRT III complex"")",ESCRT III complex
+6857,Abundance,CHEBI,False,apigenin,18388.0,"a(CHEBI:""apigenin"")",apigenin
+6858,Abundance,CHEBI,False,Glucocorticoid,24261.0,"a(CHEBI:""Glucocorticoid"")",Glucocorticoid
+6859,Abundance,CHEBI,False,saturated fatty acid,26607.0,"a(CHEBI:""saturated fatty acid"")",saturated fatty acid
+6860,Abundance,CHEBI,False,calcium ion,39124.0,"a(CHEBI:""calcium ion"")",calcium ion
+6861,Abundance,PUBCHEM,False,10219774,,"a(PUBCHEM:""10219774"")",10219774
+6862,Abundance,CHEBI,False,sulindac sulfide,75408.0,"a(CHEBI:""sulindac sulfide"")",sulindac sulfide
+6863,Abundance,PUBCHEM,False,318172285,,"a(PUBCHEM:""318172285"")",318172285
+6864,Abundance,MESH,False,Antigen-Presenting Cells,,"a(MESH:""Antigen-Presenting Cells"")",Antigen-Presenting Cells
+6865,Abundance,CHEBI,False,anabasine,28986.0,"a(CHEBI:""anabasine"")",anabasine
+6866,Abundance,CHEBI,False,organophosphorus compound,25710.0,"a(CHEBI:""organophosphorus compound"")",organophosphorus compound
+6867,Abundance,CHEBI,False,nicotinic acid,15940.0,"a(CHEBI:""nicotinic acid"")",nicotinic acid
+6868,Abundance,MESH,False,"Herpesvirus 2, Human",,"a(MESH:""Herpesvirus 2, Human"")","Herpesvirus 2, Human"
+6869,Abundance,MESHF,False,Visual Perception,,"a(MESHF:""Visual Perception"")",Visual Perception
+6870,Abundance,CHEBI,False,myo-inositol,17268.0,"a(CHEBI:""myo-inositol"")",myo-inositol
+6871,Abundance,CHEBI,False,icariin,78420.0,"a(CHEBI:""icariin"")",icariin
+6872,Abundance,GO,False,postsynaptic density,,"a(GO:""postsynaptic density"")",postsynaptic density
+6873,Abundance,CHEMBLA,False,CHEMBL216458,,"a(CHEMBLA:""CHEMBL216458"")",CHEMBL216458
+6874,Abundance,PUBCHEM,False,1476756,,"a(PUBCHEM:""1476756"")",1476756
+6875,Abundance,CHEBI,False,high-density lipoprotein cholesterol,47775.0,"a(CHEBI:""high-density lipoprotein cholesterol"")",high-density lipoprotein cholesterol
+6876,Abundance,MESH,False,Synaptic Membranes,,"a(MESH:""Synaptic Membranes"")",Synaptic Membranes
+6877,Abundance,FIXME,False,nicotinic acid receptor activity,,"a(FIXME:""nicotinic acid receptor activity"")",nicotinic acid receptor activity
+6878,Abundance,MESH,False,Kidney,,"a(MESH:""Kidney"")",Kidney
+6879,Abundance,NIFT,False,White matter atrophy,,"a(NIFT:""White matter atrophy"")",White matter atrophy
+6880,Abundance,CHEBI,False,cevimeline,3568.0,"a(CHEBI:""cevimeline"")",cevimeline
+6881,Abundance,OMIT,False,0012627,,"a(OMIT:""0012627"")",0012627
+6882,Abundance,PUBCHEM,False,254741429,,"a(PUBCHEM:""254741429"")",254741429
+6883,Abundance,FIXME,False,"InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2/t8-/m0/s1",,"a(FIXME:""InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2/t8-/m0/s1"")","InChI=1S/C8H11NO3/c9-4-8(12)5-1-2-6(10)7(11)3-5/h1-3,8,10-12H,4,9H2/t8-/m0/s1"
+6884,Abundance,MESH,False,Barium,,"a(MESH:""Barium"")",Barium
+6885,Abundance,MESH,False,Immune System,,"a(MESH:""Immune System"")",Immune System
+6886,Abundance,FIXME,False,"InChI=1S/C26H30N4O3/c1-2-6-23-17-24(28-30(23)22-11-9-20(10-12-22)26(32)33)25(31)27-21-13-15-29(16-14-21)18-19-7-4-3-5-8-19/h3-5,7-12,17,21H,2,6,13-16,18H2,1H3,(H,27,31)(H,32,33)",,"a(FIXME:""InChI=1S/C26H30N4O3/c1-2-6-23-17-24(28-30(23)22-11-9-20(10-12-22)26(32)33)25(31)27-21-13-15-29(16-14-21)18-19-7-4-3-5-8-19/h3-5,7-12,17,21H,2,6,13-16,18H2,1H3,(H,27,31)(H,32,33)"")","InChI=1S/C26H30N4O3/c1-2-6-23-17-24(28-30(23)22-11-9-20(10-12-22)26(32)33)25(31)27-21-13-15-29(16-14-21)18-19-7-4-3-5-8-19/h3-5,7-12,17,21H,2,6,13-16,18H2,1H3,(H,27,31)(H,32,33)"
+6887,Abundance,CONSO,False,S 24795,,"a(CONSO:""S 24795"")",S 24795
+6888,Abundance,NNS,False,tau-associated neurofibrillary pathology,,"a(NNS:""tau-associated neurofibrillary pathology"")",tau-associated neurofibrillary pathology
+6889,Abundance,PUBCHEM,False,5280453,,"a(PUBCHEM:""5280453"")",5280453
+6890,Abundance,FIXME,False,"InChI=1S/C24H27N5O3/c30-23(22-17-29(27-26-22)16-20-6-8-21(9-7-20)24(31)32)25-14-18-10-12-28(13-11-18)15-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H,31,32)",,"a(FIXME:""InChI=1S/C24H27N5O3/c30-23(22-17-29(27-26-22)16-20-6-8-21(9-7-20)24(31)32)25-14-18-10-12-28(13-11-18)15-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H,31,32)"")","InChI=1S/C24H27N5O3/c30-23(22-17-29(27-26-22)16-20-6-8-21(9-7-20)24(31)32)25-14-18-10-12-28(13-11-18)15-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H,31,32)"
+6891,Abundance,CHEBI,False,Norcotinine,89406.0,"a(CHEBI:""Norcotinine"")",Norcotinine
+6892,Abundance,MESH,False,Tobacco Smoke Pollution,,"a(MESH:""Tobacco Smoke Pollution"")",Tobacco Smoke Pollution
+6893,Abundance,MESH,False,hydroxycotinine,,"a(MESH:""hydroxycotinine"")",hydroxycotinine
+6894,Abundance,PUBCHEM,False,9832404,,"a(PUBCHEM:""9832404"")",9832404
+6895,Abundance,CHEBI,False,ethylenediaminetetraacetic acid,4735.0,"a(CHEBI:""ethylenediaminetetraacetic acid"")",ethylenediaminetetraacetic acid
+6896,Abundance,DRUGBANK,False,Facinicline,,"a(DRUGBANK:""Facinicline"")",Facinicline
+6897,Abundance,CHEBI,False,prostaglandin F2alpha,15553.0,"a(CHEBI:""prostaglandin F2alpha"")",prostaglandin F2alpha
+6898,Abundance,MESH,False,Lymphocytes,,"a(MESH:""Lymphocytes"")",Lymphocytes
+6899,Abundance,CHEBI,False,isoprostane,138408.0,"a(CHEBI:""isoprostane"")",isoprostane
+6900,Abundance,CHEBI,False,nomifensine,116225.0,"a(CHEBI:""nomifensine"")",nomifensine
+6901,Abundance,CHEBI,False,amyloid-beta polypeptide 42,64647.0,"a(CHEBI:""amyloid-beta polypeptide 42"")",amyloid-beta polypeptide 42
+6902,Abundance,MESH,False,Cell Adhesion Molecules,,"a(MESH:""Cell Adhesion Molecules"")",Cell Adhesion Molecules
+6903,Abundance,CHEBI,False,glutathione,16856.0,"a(CHEBI:""glutathione"")",glutathione
+6904,Abundance,CHEBI,False,all-trans-retinoic acid,15367.0,"a(CHEBI:""all-trans-retinoic acid"")",all-trans-retinoic acid
+6905,Abundance,PUBCHEM,False,47206937,,"a(PUBCHEM:""47206937"")",47206937
+6906,Abundance,MESHCS,False,Lysosomes,,"a(MESHCS:""Lysosomes"")",Lysosomes
+6907,Abundance,CONSO,False,GTS-21,,"a(CONSO:""GTS-21"")",GTS-21
+6908,Abundance,CONSO,False,Tau oligomers,,"a(CONSO:""Tau oligomers"")",Tau oligomers
+6909,Abundance,CHEBI,False,lipid,18059.0,"a(CHEBI:""lipid"")",lipid
+6910,Abundance,HP,False,Focal white matter lesions,,"a(HP:""Focal white matter lesions"")",Focal white matter lesions
+6911,Abundance,CHEBI,False,glutamate(1-),14321.0,"a(CHEBI:""glutamate(1-)"")",glutamate(1-)
+6912,Abundance,GO,False,membrane,,"a(GO:""membrane"")",membrane
+6913,Abundance,MESH,False,Dihydro-beta-Erythroidine,,"a(MESH:""Dihydro-beta-Erythroidine"")",Dihydro-beta-Erythroidine
+6914,Abundance,CHEBI,False,fingolimod,63115.0,"a(CHEBI:""fingolimod"")",fingolimod
+6915,Abundance,CHEBI,False,glucocorticoid,24261.0,"a(CHEBI:""glucocorticoid"")",glucocorticoid
+6916,Abundance,MESH,False,Presynaptic Terminals,,"a(MESH:""Presynaptic Terminals"")",Presynaptic Terminals
+6917,Abundance,CHEBI,False,PPARgamma agonist,71554.0,"a(CHEBI:""PPARgamma agonist"")",PPARgamma agonist
+6918,Abundance,MESH,False,Mecamylamine,,"a(MESH:""Mecamylamine"")",Mecamylamine
+6919,Abundance,MESH,False,Morula,,"a(MESH:""Morula"")",Morula
+6920,Abundance,NCIT,False,C118474,,"a(NCIT:""C118474"")",C118474
+6921,Abundance,CHEBI,False,glucose,17234.0,"a(CHEBI:""glucose"")",glucose
+6922,Abundance,PUBCHEM,False,305,,"a(PUBCHEM:""305"")",305
+6923,Abundance,CHEBI,False,fasudil hydrochloride,31593.0,"a(CHEBI:""fasudil hydrochloride"")",fasudil hydrochloride
+6924,Abundance,MESH,,"Leukocytes, Mononuclear",,"a(MESH:""Leukocytes, Mononuclear"",loc(NCIT:""C74601""))","Leukocytes, Mononuclear"
+6925,Abundance,PMIPFAM,False,sphingomyelinase,,"a(PMIPFAM:""sphingomyelinase"")",sphingomyelinase
+6926,Abundance,PUBCHEM,False,311434,,"a(PUBCHEM:""311434"")",311434
+6927,Abundance,CHEBI,,adenosine triphosphate,,"a(CHEBI:""adenosine triphosphate"",loc(MESH:""Astrocytes""))",adenosine triphosphate
+6928,Abundance,CHEBI,False,cortisol,17650.0,"a(CHEBI:""cortisol"")",cortisol
+6929,Abundance,PUBCHEM,False,312468203,,"a(PUBCHEM:""312468203"")",312468203
+6930,Abundance,MESH,False,Choroid Plexus,,"a(MESH:""Choroid Plexus"")",Choroid Plexus
+6931,Abundance,CHEBI,False,saxagliptin,71272.0,"a(CHEBI:""saxagliptin"")",saxagliptin
+6932,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(MESH:""Endoplasmic Reticulum""))",calcium(2+)
+6933,Abundance,CONSO,False,CONSO00018,,"a(CONSO:""CONSO00018"")",CONSO00018
+6934,Abundance,CHEBI,False,gamma-aminobutyrate,30566.0,"a(CHEBI:""gamma-aminobutyrate"")",gamma-aminobutyrate
+6935,Abundance,MESH,False,"Dendritic Cells, Follicular",,"a(MESH:""Dendritic Cells, Follicular"")","Dendritic Cells, Follicular"
+6936,Abundance,GO,,actin cytoskeleton,,"a(GO:""actin cytoskeleton"",loc(MESH:""Synapses""))",actin cytoskeleton
+6937,Abundance,CHEBI,False,mevastatin,34848.0,"a(CHEBI:""mevastatin"")",mevastatin
+6938,Abundance,MESH,False,Free Radical Scavengers,,"a(MESH:""Free Radical Scavengers"")",Free Radical Scavengers
+6939,Abundance,PUBCHEM,False,10380472,,"a(PUBCHEM:""10380472"")",10380472
+6940,Abundance,CHEBI,False,1-phosphatidyl-1D-myo-inositol,16749.0,"a(CHEBI:""1-phosphatidyl-1D-myo-inositol"")",1-phosphatidyl-1D-myo-inositol
+6941,Abundance,PUBCHEM,False,9907532,,"a(PUBCHEM:""9907532"")",9907532
+6942,Abundance,PUBCHEM,False,65065,,"a(PUBCHEM:""65065"")",65065
+6943,Abundance,CHEBI,False,memantine,64312.0,"a(CHEBI:""memantine"")",memantine
+6944,Abundance,CONSO,False,CONSO00092,,"a(CONSO:""CONSO00092"")",CONSO00092
+6945,Abundance,PUBCHEM,False,447912,,"a(PUBCHEM:""447912"")",447912
+6946,Abundance,PUBCHEM,False,2554,,"a(PUBCHEM:""2554"")",2554
+6947,Abundance,CHEBI,False,fluoxetine,5118.0,"a(CHEBI:""fluoxetine"")",fluoxetine
+6948,Abundance,MESH,False,Caspases,,"a(MESH:""Caspases"")",Caspases
+6949,Abundance,PUBCHEM,False,310264704,,"a(PUBCHEM:""310264704"")",310264704
+6950,Abundance,CHEBI,False,serotonin,28790.0,"a(CHEBI:""serotonin"")",serotonin
+6951,Abundance,CONSO,,protein aggregates,,"a(CONSO:""protein aggregates"",loc(MESH:""Cytosol""))",protein aggregates
+6952,Abundance,CHEBI,,dopamine,,"a(CHEBI:""dopamine"",loc(MESH:""Nerve Endings""))",dopamine
+6953,Abundance,CHEBI,False,berberine,16118.0,"a(CHEBI:""berberine"")",berberine
+6954,Abundance,CONSO,,amyloid-beta aggregates,,"a(CONSO:""amyloid-beta aggregates"",loc(CONSO:""dense core plaques""))",amyloid-beta aggregates
+6955,Abundance,PUBCHEM,False,3396,,"a(PUBCHEM:""3396"")",3396
+6956,Abundance,MESH,False,Amyloid,,"a(MESH:""Amyloid"")",Amyloid
+6957,Abundance,CONSO,False,amyloid-beta 42 oligomers,,"a(CONSO:""amyloid-beta 42 oligomers"")",amyloid-beta 42 oligomers
+6958,Abundance,CHEBI,False,etoposide,4911.0,"a(CHEBI:""etoposide"")",etoposide
+6959,Abundance,CHEBI,False,double-stranded DNA,4705.0,"a(CHEBI:""double-stranded DNA"")",double-stranded DNA
+6960,Abundance,CHEBI,False,corticotropin-releasing hormone,65311.0,"a(CHEBI:""corticotropin-releasing hormone"")",corticotropin-releasing hormone
+6961,Abundance,CHEBI,False,mexiletine,6916.0,"a(CHEBI:""mexiletine"")",mexiletine
+6962,Abundance,CHEBI,False,histamine,18295.0,"a(CHEBI:""histamine"")",histamine
+6963,Abundance,CHEBI,False,N-[4-oxo-2-(2H-tetrazol-5-yl)-1-benzopyran-8-yl]-4-(4-phenylbutoxy)benzamide,94810.0,"a(CHEBI:""N-[4-oxo-2-(2H-tetrazol-5-yl)-1-benzopyran-8-yl]-4-(4-phenylbutoxy)benzamide"")",N-[4-oxo-2-(2H-tetrazol-5-yl)-1-benzopyran-8-yl]-4-(4-phenylbutoxy)benzamide
+6964,Abundance,CHEBI,False,epoxomicin,42265.0,"a(CHEBI:""epoxomicin"")",epoxomicin
+6965,Abundance,CONSO,False,amyloid-beta fibrils,,"a(CONSO:""amyloid-beta fibrils"")",amyloid-beta fibrils
+6966,Abundance,PUBCHEM,False,14193399,,"a(PUBCHEM:""14193399"")",14193399
+6967,Abundance,CHEBI,False,5-isoquinolinesulfonic acid [4-[2-[5-isoquinolinylsulfonyl(methyl)amino]-3-oxo-3-(4-phenyl-1-piperazinyl)propyl]phenyl] ester,91888.0,"a(CHEBI:""5-isoquinolinesulfonic acid [4-[2-[5-isoquinolinylsulfonyl(methyl)amino]-3-oxo-3-(4-phenyl-1-piperazinyl)propyl]phenyl] ester"")",5-isoquinolinesulfonic acid [4-[2-[5-isoquinolinylsulfonyl(methyl)amino]-3-oxo-3-(4-phenyl-1-piperazinyl)propyl]phenyl] ester
+6968,Abundance,CHEBI,False,regorafenib,68647.0,"a(CHEBI:""regorafenib"")",regorafenib
+6969,Abundance,CHEBI,False,phosphatidylinositol 3-phosphate,26034.0,"a(CHEBI:""phosphatidylinositol 3-phosphate"")",phosphatidylinositol 3-phosphate
+6970,Abundance,NCIT,False,Superoxide Dismutase,,"a(NCIT:""Superoxide Dismutase"")",Superoxide Dismutase
+6971,Abundance,NCIT,False,Adenosine Triphosphate,,"a(NCIT:""Adenosine Triphosphate"")",Adenosine Triphosphate
+6972,Abundance,NCIT,False,Caspase-3,,"a(NCIT:""Caspase-3"")",Caspase-3
+6973,Abundance,CHEBI,False,Ang II,,"a(CHEBI:""Ang II"")",Ang II
+6974,Abundance,PUBCHEM,False,54708532,,"a(PUBCHEM:""54708532"")",54708532
+6975,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""mitochondrion""))",amyloid-beta
+6976,Abundance,CHEBI,False,"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate",18348.0,"a(CHEBI:""1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate"")","1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate"
+6977,Abundance,PUBCHEM,False,24721561,,"a(PUBCHEM:""24721561"")",24721561
+6978,Abundance,CHEBI,False,epothilone A,31549.0,"a(CHEBI:""epothilone A"")",epothilone A
+6979,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESH:""Synapses""))",amyloid-beta
+6980,Abundance,CHEBI,False,"1,8-cineole",27961.0,"a(CHEBI:""1,8-cineole"")","1,8-cineole"
+6981,Abundance,CHEBI,False,quercetin 3-O-beta-D-galactopyranoside,67486.0,"a(CHEBI:""quercetin 3-O-beta-D-galactopyranoside"")",quercetin 3-O-beta-D-galactopyranoside
+6982,Abundance,PUBCHEM,False,3086599,,"a(PUBCHEM:""3086599"")",3086599
+6983,Abundance,MESHA,False,Astrocytes,,"a(MESHA:""Astrocytes"")",Astrocytes
+6984,Abundance,PUBCHEM,False,439378,,"a(PUBCHEM:""439378"")",439378
+6985,Abundance,CHEBI,False,carbazole,3391.0,"a(CHEBI:""carbazole"")",carbazole
+6986,Abundance,CHEBI,False,1457,,"a(CHEBI:""1457"")",1457
+6987,Abundance,MESHA,False,Macrophages,,"a(MESHA:""Macrophages"")",Macrophages
+6988,Abundance,CHEBI,False,dioxygen,15379.0,"a(CHEBI:""dioxygen"")",dioxygen
+6989,Abundance,CHEBI,False,3441,,"a(CHEBI:""3441"")",3441
+6990,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Brain""))",amyloid-beta
+6991,Abundance,CHEBI,False,cocaine,27958.0,"a(CHEBI:""cocaine"")",cocaine
+6992,Abundance,CHEBI,False,melatonin,16796.0,"a(CHEBI:""melatonin"")",melatonin
+6993,Abundance,CHEBI,False,ammonium chloride,31206.0,"a(CHEBI:""ammonium chloride"")",ammonium chloride
+6994,Abundance,CONSO,False,"Tau antibody, MC1",,"a(CONSO:""Tau antibody, MC1"")","Tau antibody, MC1"
+6995,Abundance,MESHA,False,Neutrophils,,"a(MESHA:""Neutrophils"")",Neutrophils
+6996,Abundance,HBP,False,alpha-synuclein aggregates,,"a(HBP:""alpha-synuclein aggregates"")",alpha-synuclein aggregates
+6997,Abundance,CONSO,False,ghost tangles,,"a(CONSO:""ghost tangles"")",ghost tangles
+6998,Abundance,CHEBI,False,phorbol,8116.0,"a(CHEBI:""phorbol"")",phorbol
+6999,Abundance,MESH,False,Molecular Chaperones,,"a(MESH:""Molecular Chaperones"")",Molecular Chaperones
+7000,Abundance,MESHCS,False,Neurofibrillary Tangles,,"a(MESHCS:""Neurofibrillary Tangles"")",Neurofibrillary Tangles
+7001,Abundance,PUBCHEM,False,5311365,,"a(PUBCHEM:""5311365"")",5311365
+7002,Abundance,CHEBI,False,glyceraldehyde,5445.0,"a(CHEBI:""glyceraldehyde"")",glyceraldehyde
+7003,Abundance,CHEBI,False,2-aminoethoxydiphenylborane,131184.0,"a(CHEBI:""2-aminoethoxydiphenylborane"")",2-aminoethoxydiphenylborane
+7004,Abundance,CHEBI,False,cyclopiazonic acid,38615.0,"a(CHEBI:""cyclopiazonic acid"")",cyclopiazonic acid
+7005,Abundance,CHEBI,,calcium cation,,"a(CHEBI:""calcium cation"",loc(GO:""cytoplasm""))",calcium cation
+7006,Abundance,MESHA,False,Endothelial Cells,,"a(MESHA:""Endothelial Cells"")",Endothelial Cells
+7007,Abundance,CHEBI,False,microcystin-LR,6925.0,"a(CHEBI:""microcystin-LR"")",microcystin-LR
+7008,Abundance,CHEBI,False,diethyl pyrocarbonate,59051.0,"a(CHEBI:""diethyl pyrocarbonate"")",diethyl pyrocarbonate
+7009,Abundance,CHEBI,False,paraquat,34905.0,"a(CHEBI:""paraquat"")",paraquat
+7010,Abundance,GO,False,Lewy body,,"a(GO:""Lewy body"")",Lewy body
+7011,Abundance,MESHC,False,cyclocreatine,,"a(MESHC:""cyclocreatine"")",cyclocreatine
+7012,Abundance,CONSO,False,straight filaments,,"a(CONSO:""straight filaments"")",straight filaments
+7013,Abundance,CHEBI,False,hypothemycin,83275.0,"a(CHEBI:""hypothemycin"")",hypothemycin
+7014,Abundance,CHEBI,False,Riluzole,8863.0,"a(CHEBI:""Riluzole"")",Riluzole
+7015,Abundance,PUBCHEM,False,25096749,,"a(PUBCHEM:""25096749"")",25096749
+7016,Abundance,MESH,False,Hydroxydopamines,,"a(MESH:""Hydroxydopamines"")",Hydroxydopamines
+7017,Abundance,GO,False,organelle,,"a(GO:""organelle"")",organelle
+7018,Abundance,PUBCHEM,False,10200390,,"a(PUBCHEM:""10200390"")",10200390
+7019,Abundance,ADO,False,senile_plaque,,"a(ADO:""senile_plaque"")",senile_plaque
+7020,Abundance,GO,False,postsynapse,,"a(GO:""postsynapse"")",postsynapse
+7021,Abundance,MESH,False,Endoplasmic Reticulum,,"a(MESH:""Endoplasmic Reticulum"")",Endoplasmic Reticulum
+7022,Abundance,PUBCHEM,False,346930781,,"a(PUBCHEM:""346930781"")",346930781
+7023,Abundance,CHEBI,False,"alpha,alpha-trehalose",16551.0,"a(CHEBI:""alpha,alpha-trehalose"")","alpha,alpha-trehalose"
+7024,Abundance,PUBCHEM,False,9549284,,"a(PUBCHEM:""9549284"")",9549284
+7025,Abundance,CHEBI,False,heparin,28304.0,"a(CHEBI:""heparin"")",heparin
+7026,Abundance,CHEBI,False,anthraquinone,22580.0,"a(CHEBI:""anthraquinone"")",anthraquinone
+7027,Abundance,MESH,False,Histone Deacetylase Inhibitors,,"a(MESH:""Histone Deacetylase Inhibitors"")",Histone Deacetylase Inhibitors
+7028,Abundance,PUBCHEM,False,329970431,,"a(PUBCHEM:""329970431"")",329970431
+7029,Abundance,CHEBI,,ATP,,"a(CHEBI:""ATP"",loc(MESHA:""Macrophages""))",ATP
+7030,Abundance,CONSO,False,Biphenyl-4-yl-acrylohydroxamoc acids,,"a(CONSO:""Biphenyl-4-yl-acrylohydroxamoc acids"")",Biphenyl-4-yl-acrylohydroxamoc acids
+7031,Abundance,CHEBI,False,alsterpaullone,138488.0,"a(CHEBI:""alsterpaullone"")",alsterpaullone
+7032,Abundance,PUBCHEM,False,6505803,,"a(PUBCHEM:""6505803"")",6505803
+7033,Abundance,CONSO,False,crebinostat,,"a(CONSO:""crebinostat"")",crebinostat
+7034,Abundance,CHEBI,False,noradrenaline,33569.0,"a(CHEBI:""noradrenaline"")",noradrenaline
+7035,Abundance,CHEBI,False,lactacystin,52722.0,"a(CHEBI:""lactacystin"")",lactacystin
+7036,Abundance,CONSO,False,USP14 Aptamer,,"a(CONSO:""USP14 Aptamer"")",USP14 Aptamer
+7037,Abundance,CHEBI,False,N-benzyloxycarbonyl-L-leucyl-L-leucyl-L-leucinal,75142.0,"a(CHEBI:""N-benzyloxycarbonyl-L-leucyl-L-leucyl-L-leucinal"")",N-benzyloxycarbonyl-L-leucyl-L-leucyl-L-leucinal
+7038,Abundance,PUBCHEM,False,4261,,"a(PUBCHEM:""4261"")",4261
+7039,Abundance,MESHC,False,Insulin,,"a(MESHC:""Insulin"")",Insulin
+7040,Abundance,CONSO,False,"Tau antibody, Tau46",,"a(CONSO:""Tau antibody, Tau46"")","Tau antibody, Tau46"
+7041,Abundance,CONSO,False,pretangles,,"a(CONSO:""pretangles"")",pretangles
+7042,Abundance,CHEBI,False,DAPT,86193.0,"a(CHEBI:""DAPT"")",DAPT
+7043,Abundance,PUBCHEM,False,5318517,,"a(PUBCHEM:""5318517"")",5318517
+7044,Abundance,PUBCHEM,False,444732,,"a(PUBCHEM:""444732"")",444732
+7045,Abundance,MESH,False,Heat-Shock Proteins,,"a(MESH:""Heat-Shock Proteins"")",Heat-Shock Proteins
+7046,Abundance,MESHA,False,Blood Platelets,,"a(MESHA:""Blood Platelets"")",Blood Platelets
+7047,Abundance,PUBCHEM,False,46209426,,"a(PUBCHEM:""46209426"")",46209426
+7048,Abundance,MGI,,Mertk,,"a(MGI:""Mertk"",loc(CHEBI:""amyloid-beta""))",Mertk
+7049,Abundance,CHEBI,False,radicicol,556075.0,"a(CHEBI:""radicicol"")",radicicol
+7050,Abundance,PUBCHEM,False,9839311,,"a(PUBCHEM:""9839311"")",9839311
+7051,Abundance,CHEBI,False,digoxin,4551.0,"a(CHEBI:""digoxin"")",digoxin
+7052,Abundance,MESHA,,Myeloid Cells,,"a(MESHA:""Myeloid Cells"",loc(MESHA:""Spinal Cord""))",Myeloid Cells
+7053,Abundance,PUBCHEM,False,1560402,,"a(PUBCHEM:""1560402"")",1560402
+7054,Abundance,CHEBI,False,Evodiamine,4948.0,"a(CHEBI:""Evodiamine"")",Evodiamine
+7055,Abundance,MESH,False,Survival,,"a(MESH:""Survival"")",Survival
+7056,Abundance,MESHC,False,loxoribine,,"a(MESHC:""loxoribine"")",loxoribine
+7057,Abundance,MESH,False,Air Pollution,,"a(MESH:""Air Pollution"")",Air Pollution
+7058,Abundance,CONSO,False,6-O-sulfated heparin,,"a(CONSO:""6-O-sulfated heparin"")",6-O-sulfated heparin
+7059,Abundance,CHEBI,False,lactate,24996.0,"a(CHEBI:""lactate"")",lactate
+7060,Abundance,CHEBI,False,L-aspartic acid,17053.0,"a(CHEBI:""L-aspartic acid"")",L-aspartic acid
+7061,Abundance,CHEBI,,poly(I:C),,"a(CHEBI:""poly(I:C)"",loc(MESHA:""Microglia""))",poly(I:C)
+7062,Abundance,CONSO,False,Q82 aggregates,,"a(CONSO:""Q82 aggregates"")",Q82 aggregates
+7063,Abundance,CHEBI,False,luteolin,15864.0,"a(CHEBI:""luteolin"")",luteolin
+7064,Abundance,CONSO,,Tau aggregates,,"a(CONSO:""Tau aggregates"",loc(MESH:""Brain""))",Tau aggregates
+7065,Abundance,CHEBI,False,carbamazepine,3387.0,"a(CHEBI:""carbamazepine"")",carbamazepine
+7066,Abundance,MESHC,False,Serine Proteases,,"a(MESHC:""Serine Proteases"")",Serine Proteases
+7067,Abundance,NNS,False,3NTyr(10)-Abeta,,"a(NNS:""3NTyr(10)-Abeta"")",3NTyr(10)-Abeta
+7068,Abundance,CHEBI,False,aldosterone,27584.0,"a(CHEBI:""aldosterone"")",aldosterone
+7069,Abundance,MESH,False,Muscles,,"a(MESH:""Muscles"")",Muscles
+7070,Abundance,CONSO,False,KU-177,,"a(CONSO:""KU-177"")",KU-177
+7071,Abundance,MESH,False,Interneurons,,"a(MESH:""Interneurons"")",Interneurons
+7072,Abundance,MESH,False,Neuroglia,,"a(MESH:""Neuroglia"")",Neuroglia
+7073,Abundance,CHEBI,False,rotenone,28201.0,"a(CHEBI:""rotenone"")",rotenone
+7074,Abundance,CHEBI,False,thiostrepton,29693.0,"a(CHEBI:""thiostrepton"")",thiostrepton
+7075,Abundance,CHEBI,False,nucleic acid,33696.0,"a(CHEBI:""nucleic acid"")",nucleic acid
+7076,Abundance,MESH,False,Probenecid,,"a(MESH:""Probenecid"")",Probenecid
+7077,Abundance,CHEBI,False,4-Hydroxy-N-desmethyltamoxifen,80555.0,"a(CHEBI:""4-Hydroxy-N-desmethyltamoxifen"")",4-Hydroxy-N-desmethyltamoxifen
+7078,Abundance,CHEBI,False,simvastatin,9150.0,"a(CHEBI:""simvastatin"")",simvastatin
+7079,Abundance,CHEBI,False,daunorubicin,41977.0,"a(CHEBI:""daunorubicin"")",daunorubicin
+7080,Abundance,PUBCHEM,False,254741397,,"a(PUBCHEM:""254741397"")",254741397
+7081,Abundance,CHEBI,False,pimozide,8212.0,"a(CHEBI:""pimozide"")",pimozide
+7082,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Intracellular Space""))",amyloid-beta
+7083,Abundance,CHEBI,False,rutin,28527.0,"a(CHEBI:""rutin"")",rutin
+7084,Abundance,MESH,False,"Muscle, Smooth, Vascular",,"a(MESH:""Muscle, Smooth, Vascular"")","Muscle, Smooth, Vascular"
+7085,Abundance,CHEBI,False,pizotifen,50212.0,"a(CHEBI:""pizotifen"")",pizotifen
+7086,Abundance,MESHA,,Neurons,,"a(MESHA:""Neurons"",loc(MESHA:""Central Nervous System""))",Neurons
+7087,Abundance,CONSO,False,Abeta*56,,"a(CONSO:""Abeta*56"")",Abeta*56
+7088,Abundance,CHEBI,False,corticosteroid,50858.0,"a(CHEBI:""corticosteroid"")",corticosteroid
+7089,Abundance,CONSO,False,20 S Proteasome,,"a(CONSO:""20 S Proteasome"")",20 S Proteasome
+7090,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(MESHA:""Intracellular Space""))",calcium(2+)
+7091,Abundance,MESH,False,"3-(2,4-dimethoxybenzylidene)anabaseine",,"a(MESH:""3-(2,4-dimethoxybenzylidene)anabaseine"")","3-(2,4-dimethoxybenzylidene)anabaseine"
+7092,Abundance,MESH,False,Lymph Nodes,,"a(MESH:""Lymph Nodes"")",Lymph Nodes
+7093,Abundance,CHEBI,False,Trypsin,9765.0,"a(CHEBI:""Trypsin"")",Trypsin
+7094,Abundance,CHEBI,False,potassium(1+),29103.0,"a(CHEBI:""potassium(1+)"")",potassium(1+)
+7095,Abundance,MESH,False,Curare,,"a(MESH:""Curare"")",Curare
+7096,Abundance,CHEBI,False,S-adenosyl-L-methionine,15414.0,"a(CHEBI:""S-adenosyl-L-methionine"")",S-adenosyl-L-methionine
+7097,Abundance,CHEBI,False,nobiletin,7602.0,"a(CHEBI:""nobiletin"")",nobiletin
+11466,Abundance,CHEBI,False,"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",17963.0,"a(CHEBI:""1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"")","1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"
+11467,Abundance,CHEBI,False,(S)-S-adenosyl-L-methionine,33442.0,"a(CHEBI:""(S)-S-adenosyl-L-methionine"")",(S)-S-adenosyl-L-methionine
+11468,Abundance,CHEBI,False,sodium arsenite,29678.0,"a(CHEBI:""sodium arsenite"")",sodium arsenite
+11469,Abundance,MESH,False,"1-(1'-(2-methylbenzyl)-1,4'-bipiperidin-4-yl)-1H-benzo(d)imidazol-2-(3H)-one",,"a(MESH:""1-(1'-(2-methylbenzyl)-1,4'-bipiperidin-4-yl)-1H-benzo(d)imidazol-2-(3H)-one"")","1-(1'-(2-methylbenzyl)-1,4'-bipiperidin-4-yl)-1H-benzo(d)imidazol-2-(3H)-one"
+11470,Abundance,CHEBI,False,B vitamin,75769.0,"a(CHEBI:""B vitamin"")",B vitamin
+11471,Abundance,CHEBI,False,quinacrine,8711.0,"a(CHEBI:""quinacrine"")",quinacrine
+11472,Abundance,CHEBI,False,all-trans-retinoate,35291.0,"a(CHEBI:""all-trans-retinoate"")",all-trans-retinoate
+11473,Abundance,CONSO,False,DC11,,"a(CONSO:""DC11"")",DC11
+11474,Abundance,CHEMBLA,False,CHEMBL1097062,,"a(CHEMBLA:""CHEMBL1097062"")",CHEMBL1097062
+11475,Abundance,MESH,False,"6-(4-butylthio-1,2,5-thiadiazol-3-yl)-1-azabicyclo(3.2.1)octane",,"a(MESH:""6-(4-butylthio-1,2,5-thiadiazol-3-yl)-1-azabicyclo(3.2.1)octane"")","6-(4-butylthio-1,2,5-thiadiazol-3-yl)-1-azabicyclo(3.2.1)octane"
+11476,Abundance,NIFT,False,Grey matter volume,,"a(NIFT:""Grey matter volume"")",Grey matter volume
+11477,Abundance,CHEBI,,glycogen,,"a(CHEBI:""glycogen"",loc(MESH:""Muscles""))",glycogen
+11478,Abundance,CHEBI,False,cycloheximide,27641.0,"a(CHEBI:""cycloheximide"")",cycloheximide
+11479,Abundance,FIXME,False,"InChI=1S/C18H18N2O2/c1-22-17-11-16(21)7-6-13(17)10-14-4-3-9-20-18(14)15-5-2-8-19-12-15/h2,5-8,10-12,20H,3-4,9H2,1H3",,"a(FIXME:""InChI=1S/C18H18N2O2/c1-22-17-11-16(21)7-6-13(17)10-14-4-3-9-20-18(14)15-5-2-8-19-12-15/h2,5-8,10-12,20H,3-4,9H2,1H3"")","InChI=1S/C18H18N2O2/c1-22-17-11-16(21)7-6-13(17)10-14-4-3-9-20-18(14)15-5-2-8-19-12-15/h2,5-8,10-12,20H,3-4,9H2,1H3"
+11480,Abundance,MESH,False,"Cations, Divalent",,"a(MESH:""Cations, Divalent"")","Cations, Divalent"
+11481,Abundance,NIFT,False,White matter,,"a(NIFT:""White matter"")",White matter
+11482,Abundance,UNKNOWN,False,lithium,,"a(UNKNOWN:""lithium"")",lithium
+11483,Abundance,CHEBI,False,dopaminergic neurons,,"a(CHEBI:""dopaminergic neurons"")",dopaminergic neurons
+11484,Abundance,NCIT,False,Fibroblast,,"a(NCIT:""Fibroblast"")",Fibroblast
+11485,Abundance,NCIT,False,Lipopolysaccharide,,"a(NCIT:""Lipopolysaccharide"")",Lipopolysaccharide
+11486,Abundance,NCIT,False,Microglia,,"a(NCIT:""Microglia"")",Microglia
+11487,Abundance,GO,False,AMP-activated protein kinase activity,,"a(GO:""AMP-activated protein kinase activity"")",AMP-activated protein kinase activity
+11488,Abundance,NCIT,False,mTOR Kinase Inhibitor PP242,,"a(NCIT:""mTOR Kinase Inhibitor PP242"")",mTOR Kinase Inhibitor PP242
+11489,Abundance,CHEBI,False,tenofovir(1−),,"a(CHEBI:""tenofovir(1−)"")",tenofovir(1−)
+11490,Abundance,CHEBI,False,L-glutamine,18050.0,"a(CHEBI:""L-glutamine"")",L-glutamine
+11491,Abundance,CHEBI,False,potassium aluminium sulfate,86463.0,"a(CHEBI:""potassium aluminium sulfate"")",potassium aluminium sulfate
+11492,Abundance,CHEBI,False,atropine,16684.0,"a(CHEBI:""atropine"")",atropine
+11493,Abundance,CONSO,False,SK and F 77434,,"a(CONSO:""SK and F 77434"")",SK and F 77434
+11494,Abundance,PUBCHEM,False,318172259,,"a(PUBCHEM:""318172259"")",318172259
+11495,Abundance,MESH,False,Chemokines,,"a(MESH:""Chemokines"")",Chemokines
+11496,Abundance,CHEBI,False,stattic,86989.0,"a(CHEBI:""stattic"")",stattic
+11497,Abundance,CHEBI,False,"(25R)-cholest-5-ene-3beta,26-diol",76591.0,"a(CHEBI:""(25R)-cholest-5-ene-3beta,26-diol"")","(25R)-cholest-5-ene-3beta,26-diol"
+11498,Abundance,MESH,False,Neural Pathways,,"a(MESH:""Neural Pathways"")",Neural Pathways
+11499,Abundance,MESH,False,Protein-Tyrosine Kinases,,"a(MESH:""Protein-Tyrosine Kinases"")",Protein-Tyrosine Kinases
+11500,Abundance,CHEBI,False,medroxyprogesterone acetate,6716.0,"a(CHEBI:""medroxyprogesterone acetate"")",medroxyprogesterone acetate
+11501,Abundance,CHEBI,False,L-homocysteine,17588.0,"a(CHEBI:""L-homocysteine"")",L-homocysteine
+11502,Abundance,MESH,False,"T-Lymphocytes, Regulatory",,"a(MESH:""T-Lymphocytes, Regulatory"")","T-Lymphocytes, Regulatory"
+11503,Abundance,FIXME,False,task acquisition,,"a(FIXME:""task acquisition"")",task acquisition
+11504,Abundance,CHEBI,False,sodium fluoride,28741.0,"a(CHEBI:""sodium fluoride"")",sodium fluoride
+11505,Abundance,CHEBI,False,cyclophosphamide,4027.0,"a(CHEBI:""cyclophosphamide"")",cyclophosphamide
+11506,Abundance,BRCO,False,Oligodendrocyte,,"a(BRCO:""Oligodendrocyte"")",Oligodendrocyte
+11507,Abundance,MESHF,False,"Memory, Short-Term",,"a(MESHF:""Memory, Short-Term"")","Memory, Short-Term"
+11508,Abundance,MESH,False,"(S)-2-ethyl-8-methyl-1-thia-4,8-diazaspiro(4.5)decan-3-one",,"a(MESH:""(S)-2-ethyl-8-methyl-1-thia-4,8-diazaspiro(4.5)decan-3-one"")","(S)-2-ethyl-8-methyl-1-thia-4,8-diazaspiro(4.5)decan-3-one"
+11509,Abundance,MESH,False,HSP70 Heat-Shock Proteins,,"a(MESH:""HSP70 Heat-Shock Proteins"")",HSP70 Heat-Shock Proteins
+11510,Abundance,PUBCHEM,False,47205168,,"a(PUBCHEM:""47205168"")",47205168
+11511,Abundance,FIXME,False,"InChI=1S/C19H14O7S/c20-14-7-5-11(9-16(14)22)19(12-6-8-15(21)17(23)10-12)13-3-1-2-4-18(13)27(24,25)26-19/h1-10,20-23H",,"a(FIXME:""InChI=1S/C19H14O7S/c20-14-7-5-11(9-16(14)22)19(12-6-8-15(21)17(23)10-12)13-3-1-2-4-18(13)27(24,25)26-19/h1-10,20-23H"")","InChI=1S/C19H14O7S/c20-14-7-5-11(9-16(14)22)19(12-6-8-15(21)17(23)10-12)13-3-1-2-4-18(13)27(24,25)26-19/h1-10,20-23H"
+11512,Abundance,PUBCHEM,False,223370366,,"a(PUBCHEM:""223370366"")",223370366
+11513,Abundance,CHEBI,False,fumarate(2-),29806.0,"a(CHEBI:""fumarate(2-)"")",fumarate(2-)
+11514,Abundance,FIXME,False,"InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)15-28-12-10-18(11-13-28)14-25-23(30)22-17-29(27-26-22)16-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H2,24,31,32)",,"a(FIXME:""InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)15-28-12-10-18(11-13-28)14-25-23(30)22-17-29(27-26-22)16-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H2,24,31,32)"")","InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)15-28-12-10-18(11-13-28)14-25-23(30)22-17-29(27-26-22)16-19-4-2-1-3-5-19/h1-9,17-18H,10-16H2,(H,25,30)(H2,24,31,32)"
+11515,Abundance,NNS,False,entorhinal cortex atrophy,,"a(NNS:""entorhinal cortex atrophy"")",entorhinal cortex atrophy
+11516,Abundance,CHEBI,False,L-thyroxine,18332.0,"a(CHEBI:""L-thyroxine"")",L-thyroxine
+11517,Abundance,MESH,False,Endothelial Cells,,"a(MESH:""Endothelial Cells"")",Endothelial Cells
+11518,Abundance,CHEBI,False,(S)-lactic acid,422.0,"a(CHEBI:""(S)-lactic acid"")",(S)-lactic acid
+11519,Abundance,FIXME,False,"InChI=1S/C26H34N6O3S/c1-3-24-25(29-30-32(24)18-22-7-5-4-6-19(22)2)26(33)28-16-20-12-14-31(15-13-20)17-21-8-10-23(11-9-21)36(27,34)35/h4-11,20H,3,12-18H2,1-2H3,(H,28,33)(H2,27,34,35)",,"a(FIXME:""InChI=1S/C26H34N6O3S/c1-3-24-25(29-30-32(24)18-22-7-5-4-6-19(22)2)26(33)28-16-20-12-14-31(15-13-20)17-21-8-10-23(11-9-21)36(27,34)35/h4-11,20H,3,12-18H2,1-2H3,(H,28,33)(H2,27,34,35)"")","InChI=1S/C26H34N6O3S/c1-3-24-25(29-30-32(24)18-22-7-5-4-6-19(22)2)26(33)28-16-20-12-14-31(15-13-20)17-21-8-10-23(11-9-21)36(27,34)35/h4-11,20H,3,12-18H2,1-2H3,(H,28,33)(H2,27,34,35)"
+11520,Abundance,CHEBI,False,paclitaxel,45863.0,"a(CHEBI:""paclitaxel"")",paclitaxel
+11521,Abundance,CHEBI,False,"24,25-Dihydroxyvitamin D",89324.0,"a(CHEBI:""24,25-Dihydroxyvitamin D"")","24,25-Dihydroxyvitamin D"
+11522,Abundance,FIXME,False,"InChI=1S/C23H26FN5O/c24-21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)",,"a(FIXME:""InChI=1S/C23H26FN5O/c24-21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)"")","InChI=1S/C23H26FN5O/c24-21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)"
+11523,Abundance,PUBCHEM,False,25203099,,"a(PUBCHEM:""25203099"")",25203099
+11524,Abundance,MESHC,False,Free Radicals,,"a(MESHC:""Free Radicals"")",Free Radicals
+11525,Abundance,PUBCHEM,False,2907,,"a(PUBCHEM:""2907"")",2907
+11526,Abundance,CHEBI,False,chlorobutanol,134813.0,"a(CHEBI:""chlorobutanol"")",chlorobutanol
+11527,Abundance,CHEBI,False,dimethyl fumarate,76004.0,"a(CHEBI:""dimethyl fumarate"")",dimethyl fumarate
+11528,Abundance,CHEBI,False,copper(1+),49552.0,"a(CHEBI:""copper(1+)"")",copper(1+)
+11529,Abundance,CHEBI,False,sertraline,9123.0,"a(CHEBI:""sertraline"")",sertraline
+11530,Abundance,DRUGBANK,False,Ocrelizumab,,"a(DRUGBANK:""Ocrelizumab"")",Ocrelizumab
+11531,Abundance,CHEBI,False,4-hydroxynon-2-enal,32585.0,"a(CHEBI:""4-hydroxynon-2-enal"")",4-hydroxynon-2-enal
+11532,Abundance,CHEBI,False,oxysterol,53030.0,"a(CHEBI:""oxysterol"")",oxysterol
+11533,Abundance,PUBCHEM,False,11957537,,"a(PUBCHEM:""11957537"")",11957537
+11534,Abundance,MESH,False,Immunoglobulins,,"a(MESH:""Immunoglobulins"")",Immunoglobulins
+11535,Abundance,CHEBI,False,iron atom,18248.0,"a(CHEBI:""iron atom"")",iron atom
+11536,Abundance,GO,False,myelin sheath,,"a(GO:""myelin sheath"")",myelin sheath
+11537,Abundance,MESH,False,Th1 Cells,,"a(MESH:""Th1 Cells"")",Th1 Cells
+11538,Abundance,MESH,False,"pro-nerve growth factor, human",,"a(MESH:""pro-nerve growth factor, human"")","pro-nerve growth factor, human"
+11539,Abundance,CHEBI,False,(S)-nicotine,17688.0,"a(CHEBI:""(S)-nicotine"")",(S)-nicotine
+11540,Abundance,MESH,False,CD8-Positive T-Lymphocytes,,"a(MESH:""CD8-Positive T-Lymphocytes"")",CD8-Positive T-Lymphocytes
+11541,Abundance,CHEBI,False,hydroxyl,29191.0,"a(CHEBI:""hydroxyl"")",hydroxyl
+11542,Abundance,PUBCHEM,False,119380,,"a(PUBCHEM:""119380"")",119380
+11543,Abundance,MESH,False,JC Virus,,"a(MESH:""JC Virus"")",JC Virus
+11544,Abundance,MESH,False,neuronal bungarotoxin,,"a(MESH:""neuronal bungarotoxin"")",neuronal bungarotoxin
+11545,Abundance,CHEBI,False,(-)-lobeline,48723.0,"a(CHEBI:""(-)-lobeline"")",(-)-lobeline
+11546,Abundance,MESH,False,Neutrophils,,"a(MESH:""Neutrophils"")",Neutrophils
+11547,Abundance,UNIPROT,False,Q9SEH4,,"a(UNIPROT:""Q9SEH4"")",Q9SEH4
+11548,Abundance,CHEBI,False,biotin,15956.0,"a(CHEBI:""biotin"")",biotin
+11549,Abundance,MESH,False,Choline,,"a(MESH:""Choline"")",Choline
+11550,Abundance,MESH,False,Glucocorticoids,,"a(MESH:""Glucocorticoids"")",Glucocorticoids
+11551,Abundance,MESH,False,Lipopolysaccharides,,"a(MESH:""Lipopolysaccharides"")",Lipopolysaccharides
+11552,Abundance,MESHC,False,Catalase,,"a(MESHC:""Catalase"")",Catalase
+11553,Abundance,PUBCHEM,False,5310985,,"a(PUBCHEM:""5310985"")",5310985
+11554,Abundance,CHEBI,False,NAD(+),15846.0,"a(CHEBI:""NAD(+)"")",NAD(+)
+11555,Abundance,MESH,,Monocytes,,"a(MESH:""Monocytes"",loc(MESH:""Blood-Brain Barrier""))",Monocytes
+11556,Abundance,CHEBI,False,benzo[a]pyrene,29865.0,"a(CHEBI:""benzo[a]pyrene"")",benzo[a]pyrene
+11557,Abundance,CHEBI,False,naloxone,7459.0,"a(CHEBI:""naloxone"")",naloxone
+11558,Abundance,MESH,,"Leukocytes, Mononuclear",,"a(MESH:""Leukocytes, Mononuclear"",loc(MESH:""Central Nervous System""))","Leukocytes, Mononuclear"
+11559,Abundance,CHEBI,False,Amylin,80342.0,"a(CHEBI:""Amylin"")",Amylin
+11560,Abundance,PUBCHEM,False,11998180,,"a(PUBCHEM:""11998180"")",11998180
+11561,Abundance,MESH,False,Amyloid beta-Peptides,,"a(MESH:""Amyloid beta-Peptides"")",Amyloid beta-Peptides
+11562,Abundance,PMICHEM,False,Pro3-GIP,,"a(PMICHEM:""Pro3-GIP"")",Pro3-GIP
+11563,Abundance,CHEBI,False,cholinergic antagonist,48873.0,"a(CHEBI:""cholinergic antagonist"")",cholinergic antagonist
+11564,Abundance,CHEBI,False,fluvastatin,38561.0,"a(CHEBI:""fluvastatin"")",fluvastatin
+11565,Abundance,CHEBI,False,EC 3.1.4.* (phosphoric diester hydrolase) inhibitor,50218.0,"a(CHEBI:""EC 3.1.4.* (phosphoric diester hydrolase) inhibitor"")",EC 3.1.4.* (phosphoric diester hydrolase) inhibitor
+11566,Abundance,PUBCHEM,False,9811606,,"a(PUBCHEM:""9811606"")",9811606
+11567,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""extracellular space""))",calcium(2+)
+11568,Abundance,CHEBI,False,rivastigmine,8874.0,"a(CHEBI:""rivastigmine"")",rivastigmine
+11569,Abundance,MESH,False,Antioxidants,,"a(MESH:""Antioxidants"")",Antioxidants
+11570,Abundance,CHEBI,False,lithium atom,30145.0,"a(CHEBI:""lithium atom"")",lithium atom
+11571,Abundance,CONSO,False,CONSO00095,,"a(CONSO:""CONSO00095"")",CONSO00095
+11572,Abundance,CHEBI,False,cholesteryl ester,17002.0,"a(CHEBI:""cholesteryl ester"")",cholesteryl ester
+11573,Abundance,PUBCHEM,False,3671,,"a(PUBCHEM:""3671"")",3671
+11574,Abundance,CHEBI,False,diazepam,49575.0,"a(CHEBI:""diazepam"")",diazepam
+11575,Abundance,MESH,,Proteins,,"a(MESH:""Proteins"",loc(GO:""phagophore""))",Proteins
+11576,Abundance,CHEBI,False,L-ascorbate,38290.0,"a(CHEBI:""L-ascorbate"")",L-ascorbate
+11577,Abundance,CONSO,False,Tau aggregates,,"a(CONSO:""Tau aggregates"")",Tau aggregates
+11578,Abundance,GO,False,microtubule cytoskeleton,,"a(GO:""microtubule cytoskeleton"")",microtubule cytoskeleton
+11579,Abundance,CHEBI,False,Hexamethonium,5700.0,"a(CHEBI:""Hexamethonium"")",Hexamethonium
+11580,Abundance,CHEBI,False,D-sorbitol-(13)C6,138264.0,"a(CHEBI:""D-sorbitol-(13)C6"")",D-sorbitol-(13)C6
+11581,Abundance,CHEBI,False,tetrodotoxin,9506.0,"a(CHEBI:""tetrodotoxin"")",tetrodotoxin
+11582,Abundance,CHEBI,False,9-cis-retinoic acid,50648.0,"a(CHEBI:""9-cis-retinoic acid"")",9-cis-retinoic acid
+11583,Abundance,CHEBI,False,Luteinizing hormone (human),,"a(CHEBI:""Luteinizing hormone (human)"")",Luteinizing hormone (human)
+11584,Abundance,CHEBI,False,tin atom,27007.0,"a(CHEBI:""tin atom"")",tin atom
+11585,Abundance,CHEBI,False,statins,,"a(CHEBI:""statins"")",statins
+11586,Abundance,GO,False,dendritic branch,,"a(GO:""dendritic branch"")",dendritic branch
+11587,Abundance,CHEBI,False,nefiracetam,135004.0,"a(CHEBI:""nefiracetam"")",nefiracetam
+11588,Abundance,PUBCHEM,False,9577280,,"a(PUBCHEM:""9577280"")",9577280
+11589,Abundance,CONSO,,amyloid-beta 40 oligomers,,"a(CONSO:""amyloid-beta 40 oligomers"",loc(GO:""extracellular region""))",amyloid-beta 40 oligomers
+11590,Abundance,PUBCHEM,False,45270574,,"a(PUBCHEM:""45270574"")",45270574
+11591,Abundance,CHEBI,False,D-galactose,12936.0,"a(CHEBI:""D-galactose"")",D-galactose
+11592,Abundance,CHEBI,False,Rilmenidine,8862.0,"a(CHEBI:""Rilmenidine"")",Rilmenidine
+11593,Abundance,CHEBI,False,rolipram,104872.0,"a(CHEBI:""rolipram"")",rolipram
+11594,Abundance,CHEBI,False,PhIP,76290.0,"a(CHEBI:""PhIP"")",PhIP
+11595,Abundance,NCIT,False,Mitochondrial Damage,,"a(NCIT:""Mitochondrial Damage"")",Mitochondrial Damage
+11596,Abundance,NCIT,False,Optineurin,,"a(NCIT:""Optineurin"")",Optineurin
+11597,Abundance,NCIT,False,Tumor Necrosis Factor,,"a(NCIT:""Tumor Necrosis Factor"")",Tumor Necrosis Factor
+11598,Abundance,NCIT,False,BCL-2 Inhibitor,,"a(NCIT:""BCL-2 Inhibitor"")",BCL-2 Inhibitor
+11599,Abundance,NCIT,False,Histone Acetylation,,"a(NCIT:""Histone Acetylation"")",Histone Acetylation
+11600,Abundance,NCIT,False,Lithium,,"a(NCIT:""Lithium"")",Lithium
+11601,Abundance,CHEBI,False,TMAO,,"a(CHEBI:""TMAO"")",TMAO
+11602,Abundance,CHEBI,False,artemether,195280.0,"a(CHEBI:""artemether"")",artemether
+11603,Abundance,PUBCHEM,False,441921,,"a(PUBCHEM:""441921"")",441921
+11604,Abundance,CHEBI,False,S-nitrosoglutathione,50091.0,"a(CHEBI:""S-nitrosoglutathione"")",S-nitrosoglutathione
+11605,Abundance,CHEBI,False,cilostazol,31401.0,"a(CHEBI:""cilostazol"")",cilostazol
+11606,Abundance,CHEBI,False,NAD(P)H,13392.0,"a(CHEBI:""NAD(P)H"")",NAD(P)H
+11607,Abundance,MESHA,,Myeloid Cells,,"a(MESHA:""Myeloid Cells"",loc(CHEBI:""amyloid-beta""))",Myeloid Cells
+11608,Abundance,PUBCHEM,False,102336202,,"a(PUBCHEM:""102336202"")",102336202
+11609,Abundance,CHEBI,False,caffeine,27732.0,"a(CHEBI:""caffeine"")",caffeine
+11610,Abundance,CHEBI,False,chlorohydroquinone,27675.0,"a(CHEBI:""chlorohydroquinone"")",chlorohydroquinone
+11611,Abundance,MESHA,False,Neurons,,"a(MESHA:""Neurons"")",Neurons
+11612,Abundance,MESHC,False,Glatiramer Acetate,,"a(MESHC:""Glatiramer Acetate"")",Glatiramer Acetate
+11613,Abundance,CHEBI,False,3647,,"a(CHEBI:""3647"")",3647
+11614,Abundance,KEGG,False,gl:G13114,,"a(KEGG:""gl:G13114"")",gl:G13114
+11615,Abundance,CHEBI,False,cytochalasin D,529996.0,"a(CHEBI:""cytochalasin D"")",cytochalasin D
+11616,Abundance,CHEBI,False,EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor,35457.0,"a(CHEBI:""EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor"")",EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor
+11617,Abundance,CONSO,False,CONSO00019,,"a(CONSO:""CONSO00019"")",CONSO00019
+11618,Abundance,MESH,False,Calcium,,"a(MESH:""Calcium"")",Calcium
+11619,Abundance,MESHA,False,Bacterial Structures,,"a(MESHA:""Bacterial Structures"")",Bacterial Structures
+11620,Abundance,PUBCHEM,False,135316034,,"a(PUBCHEM:""135316034"")",135316034
+11621,Abundance,CONSO,False,CONSO00020,,"a(CONSO:""CONSO00020"")",CONSO00020
+11622,Abundance,PUBCHEM,False,53469448,,"a(PUBCHEM:""53469448"")",53469448
+11623,Abundance,MESHA,,Macrophages,,"a(MESHA:""Macrophages"",loc(MESHA:""Brain""))",Macrophages
+11624,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESH:""Mitochondria""))",amyloid-beta
+11625,Abundance,CHEBI,False,thiethylperazine,9544.0,"a(CHEBI:""thiethylperazine"")",thiethylperazine
+11626,Abundance,CHEBI,False,Ac-Asp-Glu,73688.0,"a(CHEBI:""Ac-Asp-Glu"")",Ac-Asp-Glu
+11627,Abundance,CHEBI,False,Thrombin,9574.0,"a(CHEBI:""Thrombin"")",Thrombin
+11628,Abundance,OMIT,False,0023601,,"a(OMIT:""0023601"")",0023601
+11629,Abundance,CHEBI,False,phosphatidylinositol,28874.0,"a(CHEBI:""phosphatidylinositol"")",phosphatidylinositol
+11630,Abundance,MESH,False,Cell Membrane,,"a(MESH:""Cell Membrane"")",Cell Membrane
+11631,Abundance,CHEBI,False,allicin,28411.0,"a(CHEBI:""allicin"")",allicin
+11632,Abundance,CHEBI,False,acrolein,15368.0,"a(CHEBI:""acrolein"")",acrolein
+11633,Abundance,CHEBI,False,calcitonin,3306.0,"a(CHEBI:""calcitonin"")",calcitonin
+11634,Abundance,CHEBI,False,Hsp90 inhibitor,63962.0,"a(CHEBI:""Hsp90 inhibitor"")",Hsp90 inhibitor
+11635,Abundance,MESH,False,Lysosomes,,"a(MESH:""Lysosomes"")",Lysosomes
+11636,Abundance,CHEBI,False,D-mannopyranose,4208.0,"a(CHEBI:""D-mannopyranose"")",D-mannopyranose
+11637,Abundance,CHEBI,False,Tautomycin,9414.0,"a(CHEBI:""Tautomycin"")",Tautomycin
+11638,Abundance,CHEBI,False,uric acid,27226.0,"a(CHEBI:""uric acid"")",uric acid
+11639,Abundance,CHEBI,False,leukotriene,25029.0,"a(CHEBI:""leukotriene"")",leukotriene
+11640,Abundance,HP,False,Argyrophilic inclusion bodies,,"a(HP:""Argyrophilic inclusion bodies"")",Argyrophilic inclusion bodies
+11641,Abundance,CC,False,GM6001,,"a(CC:""GM6001"")",GM6001
+11642,Abundance,CHEBI,False,calcium dichloride,3312.0,"a(CHEBI:""calcium dichloride"")",calcium dichloride
+11643,Abundance,CHEBI,False,cytochrome c,18070.0,"a(CHEBI:""cytochrome c"")",cytochrome c
+11644,Abundance,CONSO,False,"Tau Protein Secondary Structure, Turn",,"a(CONSO:""Tau Protein Secondary Structure, Turn"")","Tau Protein Secondary Structure, Turn"
+11645,Abundance,CHEBI,False,LY294002,65329.0,"a(CHEBI:""LY294002"")",LY294002
+11646,Abundance,CONSO,False,dystrophic neurite,,"a(CONSO:""dystrophic neurite"")",dystrophic neurite
+11647,Abundance,ADO,False,neuroprotectin,,"a(ADO:""neuroprotectin"")",neuroprotectin
+11648,Abundance,CHEBI,False,latrunculin A,69136.0,"a(CHEBI:""latrunculin A"")",latrunculin A
+11649,Abundance,MESH,False,Prion Proteins,,"a(MESH:""Prion Proteins"")",Prion Proteins
+11650,Abundance,CHEBI,False,bis(7)-tacrine,138435.0,"a(CHEBI:""bis(7)-tacrine"")",bis(7)-tacrine
+11651,Abundance,CHEBI,False,rhodanine,8830.0,"a(CHEBI:""rhodanine"")",rhodanine
+11652,Abundance,PUBCHEM,False,9561611,,"a(PUBCHEM:""9561611"")",9561611
+11653,Abundance,CHEBI,False,coenzyme Q10,46245.0,"a(CHEBI:""coenzyme Q10"")",coenzyme Q10
+11654,Abundance,CHEBI,False,isoprenaline,64317.0,"a(CHEBI:""isoprenaline"")",isoprenaline
+11655,Abundance,PUBCHEM,False,132157820,,"a(PUBCHEM:""132157820"")",132157820
+11656,Abundance,CHEBI,False,(1->3)-beta-D-glucan,37671.0,"a(CHEBI:""(1->3)-beta-D-glucan"")",(1->3)-beta-D-glucan
+11657,Abundance,CHEBI,False,C646,132974.0,"a(CHEBI:""C646"")",C646
+11658,Abundance,CHEBI,False,NF-kappaB inhibitor,73240.0,"a(CHEBI:""NF-kappaB inhibitor"")",NF-kappaB inhibitor
+11659,Abundance,CONSO,False,Hsp27 oligomers,,"a(CONSO:""Hsp27 oligomers"")",Hsp27 oligomers
+11660,Abundance,PUBCHEM,False,53340666,,"a(PUBCHEM:""53340666"")",53340666
+11661,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MESHA:""Central Nervous System""))",Microglia
+11662,Abundance,CHEBI,False,Congo Red,34653.0,"a(CHEBI:""Congo Red"")",Congo Red
+11663,Abundance,CONSO,False,"Tau antibody, 40E8",,"a(CONSO:""Tau antibody, 40E8"")","Tau antibody, 40E8"
+11664,Abundance,CHEBI,False,cisplatin,27899.0,"a(CHEBI:""cisplatin"")",cisplatin
+11665,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(MGI:""Ccl19""))",Microglia
+11666,Abundance,CHEBI,False,copper atom,28694.0,"a(CHEBI:""copper atom"")",copper atom
+11667,Abundance,PUBCHEM,False,9865515,,"a(PUBCHEM:""9865515"")",9865515
+11668,Abundance,MESH,False,Nerve Endings,,"a(MESH:""Nerve Endings"")",Nerve Endings
+11669,Abundance,MESHA,False,Phagocytes,,"a(MESHA:""Phagocytes"")",Phagocytes
+11670,Abundance,MESHC,False,Cytokines,,"a(MESHC:""Cytokines"")",Cytokines
+11671,Abundance,PUBCHEM,False,11154925,,"a(PUBCHEM:""11154925"")",11154925
+11672,Abundance,CHEBI,False,N-methyl-4-phenylpyridinium,641.0,"a(CHEBI:""N-methyl-4-phenylpyridinium"")",N-methyl-4-phenylpyridinium
+11673,Abundance,MESHC,False,GW0742,,"a(MESHC:""GW0742"")",GW0742
+11674,Abundance,PUBCHEM,False,3033825,,"a(PUBCHEM:""3033825"")",3033825
+11675,Abundance,CHEBI,False,methotrimeprazine,6838.0,"a(CHEBI:""methotrimeprazine"")",methotrimeprazine
+11676,Abundance,CHEBI,False,sphingosine 1-phosphate,37550.0,"a(CHEBI:""sphingosine 1-phosphate"")",sphingosine 1-phosphate
+11677,Abundance,PUBCHEM,False,10341154,,"a(PUBCHEM:""10341154"")",10341154
+11678,Abundance,CHEBI,False,vanillin,18346.0,"a(CHEBI:""vanillin"")",vanillin
+11679,Abundance,CHEBI,False,prostaglandin,26333.0,"a(CHEBI:""prostaglandin"")",prostaglandin
+11680,Abundance,CHEBI,False,ethosuximide,4887.0,"a(CHEBI:""ethosuximide"")",ethosuximide
+11681,Abundance,MESHA,,Microglia,,"a(MESHA:""Microglia"",loc(BRCO:""Temporal_cortex""))",Microglia
+11682,Abundance,MESH,False,Argonaute Proteins,,"a(MESH:""Argonaute Proteins"")",Argonaute Proteins
+11683,Abundance,PUBCHEM,False,73437646,,"a(PUBCHEM:""73437646"")",73437646
+11684,Abundance,MESHA,False,Motor Neurons,,"a(MESHA:""Motor Neurons"")",Motor Neurons
+11685,Abundance,MESH,False,Manduca,,"a(MESH:""Manduca"")",Manduca
+11686,Abundance,CHEBI,False,prostaglandin J2,27485.0,"a(CHEBI:""prostaglandin J2"")",prostaglandin J2
+11687,Abundance,PUBCHEM,False,9795739,,"a(PUBCHEM:""9795739"")",9795739
+11688,Abundance,MESH,False,methyllycaconitine,,"a(MESH:""methyllycaconitine"")",methyllycaconitine
+11689,Abundance,PUBCHEM,False,14719853,,"a(PUBCHEM:""14719853"")",14719853
+11690,Abundance,MESH,False,GABAergic Neurons,,"a(MESH:""GABAergic Neurons"")",GABAergic Neurons
+11691,Abundance,MESH,,Electric Stimulation,,"a(MESH:""Electric Stimulation"",loc(GO:""Schaffer axon collateral""))",Electric Stimulation
+11692,Abundance,CONSO,False,thiohydantoin,,"a(CONSO:""thiohydantoin"")",thiohydantoin
+11693,Abundance,CHEBI,,sialic acid,,"a(CHEBI:""sialic acid"",loc(MESHA:""Monocytes""))",sialic acid
+11694,Abundance,MESH,False,Cholinesterases,,"a(MESH:""Cholinesterases"")",Cholinesterases
+11695,Abundance,CHEBI,False,(R)-noradrenaline,18357.0,"a(CHEBI:""(R)-noradrenaline"")",(R)-noradrenaline
+11696,Abundance,CONSO,False,isocarboxazide,,"a(CONSO:""isocarboxazide"")",isocarboxazide
+11697,Abundance,MESH,False,Butyrophenones,,"a(MESH:""Butyrophenones"")",Butyrophenones
+11698,Abundance,MESHA,False,B-Lymphocytes,,"a(MESHA:""B-Lymphocytes"")",B-Lymphocytes
+11699,Abundance,MESH,False,7-chlorothiokynurenic acid,,"a(MESH:""7-chlorothiokynurenic acid"")",7-chlorothiokynurenic acid
+11700,Abundance,CHEBI,False,phosphatidic acid,16337.0,"a(CHEBI:""phosphatidic acid"")",phosphatidic acid
+11701,Abundance,CHEBI,False,3-chloro-5-methyl-4-nitro-1H-pyrazole,,"a(CHEBI:""3-chloro-5-methyl-4-nitro-1H-pyrazole"")",3-chloro-5-methyl-4-nitro-1H-pyrazole
+11702,Abundance,DRUGBANK,False,Remacemide,,"a(DRUGBANK:""Remacemide"")",Remacemide
+11703,Abundance,MESHA,,Astrocytes,,"a(MESHA:""Astrocytes"",loc(MESHD:""Plaque, Amyloid""))",Astrocytes
+11704,Abundance,CHEBI,False,cysteamine,17141.0,"a(CHEBI:""cysteamine"")",cysteamine
+11705,Abundance,GO,False,actin filament bundle,,"a(GO:""actin filament bundle"")",actin filament bundle
+11706,Abundance,MESH,False,desmethyl-WAY 100635,,"a(MESH:""desmethyl-WAY 100635"")",desmethyl-WAY 100635
+11707,Abundance,CHEBI,False,ibuprofen,5855.0,"a(CHEBI:""ibuprofen"")",ibuprofen
+11708,Abundance,CHEBI,False,desloratadine,291342.0,"a(CHEBI:""desloratadine"")",desloratadine
+11709,Abundance,PUBCHEM,False,254741259,,"a(PUBCHEM:""254741259"")",254741259
+11710,Abundance,MESHA,False,Antigen-Presenting Cells,,"a(MESHA:""Antigen-Presenting Cells"")",Antigen-Presenting Cells
+11711,Abundance,CHEBI,False,methyllycaconitine,43931.0,"a(CHEBI:""methyllycaconitine"")",methyllycaconitine
+11712,Abundance,CHEBI,False,5-methylcytosine,27551.0,"a(CHEBI:""5-methylcytosine"")",5-methylcytosine
+11713,Abundance,CHEBI,False,wogonin,10043.0,"a(CHEBI:""wogonin"")",wogonin
+11714,Abundance,CHEBI,False,oleocanthal,85673.0,"a(CHEBI:""oleocanthal"")",oleocanthal
+11715,Abundance,CHEBI,False,NADPH,16474.0,"a(CHEBI:""NADPH"")",NADPH
+11716,Abundance,CHEBI,False,xanomeline,10056.0,"a(CHEBI:""xanomeline"")",xanomeline
+11717,Abundance,CHEBI,False,sodium butyrate,64103.0,"a(CHEBI:""sodium butyrate"")",sodium butyrate
+11718,Abundance,CHEBI,False,trehalose,27082.0,"a(CHEBI:""trehalose"")",trehalose
+11719,Abundance,GO,False,lysosome,,"a(GO:""lysosome"")",lysosome
+11720,Abundance,NIFT,False,Temporal lobe atrophy,,"a(NIFT:""Temporal lobe atrophy"")",Temporal lobe atrophy
+11721,Abundance,CHEBI,False,gemfibrozil,5296.0,"a(CHEBI:""gemfibrozil"")",gemfibrozil
+11722,Abundance,CHEBI,False,DNA polyanion,83828.0,"a(CHEBI:""DNA polyanion"")",DNA polyanion
+11723,Abundance,GOCC,False,dendritic spine,,"a(GOCC:""dendritic spine"")",dendritic spine
+11724,Abundance,CONSO,False,VU0152099,,"a(CONSO:""VU0152099"")",VU0152099
+11725,Abundance,NIFT,False,Grey matter atrophy,,"a(NIFT:""Grey matter atrophy"")",Grey matter atrophy
+11726,Abundance,CHEBI,False,hydrogencarbonate,17544.0,"a(CHEBI:""hydrogencarbonate"")",hydrogencarbonate
+11727,Abundance,MESH,False,Viruses,,"a(MESH:""Viruses"")",Viruses
+11728,Abundance,CHEBI,False,amyloid β,,"a(CHEBI:""amyloid β"")",amyloid β
+11729,Abundance,CHEBI,False,Isoorientin,17965.0,"a(CHEBI:""Isoorientin"")",Isoorientin
+11730,Abundance,CHEBI,False,AMPK activator PT 1,139579.0,"a(CHEBI:""AMPK activator PT 1"")",AMPK activator PT 1
+11731,Abundance,CHEBI,False,ethyl ester,23990.0,"a(CHEBI:""ethyl ester"")",ethyl ester
+11732,Abundance,NCIT,False,Calcineurin,,"a(NCIT:""Calcineurin"")",Calcineurin
+11733,Abundance,NCIT,False,NAD,,"a(NCIT:""NAD"")",NAD
+11734,Abundance,CHEBI,False,atomoxetine,127342.0,"a(CHEBI:""atomoxetine"")",atomoxetine
+11735,Abundance,CHEBI,False,Vitamin D,27300.0,"a(CHEBI:""Vitamin D"")",Vitamin D
+11736,Abundance,CHEBI,False,acetylcholine,15355.0,"a(CHEBI:""acetylcholine"")",acetylcholine
+11737,Abundance,CHEBI,False,"1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-methyl-3-isoxazolyl)urea",93263.0,"a(CHEBI:""1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-methyl-3-isoxazolyl)urea"")","1-(5-chloro-2,4-dimethoxyphenyl)-3-(5-methyl-3-isoxazolyl)urea"
+11738,Abundance,PUBCHEM,False,6324599,,"a(PUBCHEM:""6324599"")",6324599
+11739,Abundance,CHEBI,False,2-amino-5-phosphonopentanoic acid,138644.0,"a(CHEBI:""2-amino-5-phosphonopentanoic acid"")",2-amino-5-phosphonopentanoic acid
+11740,Abundance,DRUGBANK,False,GTS-21,,"a(DRUGBANK:""GTS-21"")",GTS-21
+11741,Abundance,CHEBI,False,tamibarotene,32181.0,"a(CHEBI:""tamibarotene"")",tamibarotene
+11742,Abundance,MESH,False,Th2 Cells,,"a(MESH:""Th2 Cells"")",Th2 Cells
+11743,Abundance,CHEBI,False,doxylamine,51380.0,"a(CHEBI:""doxylamine"")",doxylamine
+11744,Abundance,NNS,False,Ginkgo biloba extract 761,,"a(NNS:""Ginkgo biloba extract 761"")",Ginkgo biloba extract 761
+11745,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""extracellular matrix""))",amyloid-beta
+11746,Abundance,CHEMBLA,False,CHEMBL214268,,"a(CHEMBLA:""CHEMBL214268"")",CHEMBL214268
+11747,Abundance,CHEBI,False,aluminium trichloride,30114.0,"a(CHEBI:""aluminium trichloride"")",aluminium trichloride
+11748,Abundance,FIXME,False,neuron projection arborization,,"a(FIXME:""neuron projection arborization"")",neuron projection arborization
+11749,Abundance,MESH,False,Monocytes,,"a(MESH:""Monocytes"")",Monocytes
+11750,Abundance,GO,False,cytoplasmic vesicle,,"a(GO:""cytoplasmic vesicle"")",cytoplasmic vesicle
+11751,Abundance,MESH,False,WAY 132983,,"a(MESH:""WAY 132983"")",WAY 132983
+11752,Abundance,CHEBI,False,citric acid,30769.0,"a(CHEBI:""citric acid"")",citric acid
+11753,Abundance,FIXME,False,"InChI=1S/C11H17NO3.ClH/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8;/h3-5,7,11-15H,6H2,1-2H3;1H",,"a(FIXME:""InChI=1S/C11H17NO3.ClH/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8;/h3-5,7,11-15H,6H2,1-2H3;1H"")","InChI=1S/C11H17NO3.ClH/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8;/h3-5,7,11-15H,6H2,1-2H3;1H"
+11754,Abundance,MESH,False,xestospongin C,,"a(MESH:""xestospongin C"")",xestospongin C
+11755,Abundance,CHEBI,False,fructose,28757.0,"a(CHEBI:""fructose"")",fructose
+11756,Abundance,FIXME,False,"InChI=1S/C25H28ClN5O3/c1-29(14-19-9-11-30(12-10-19)15-18-5-3-2-4-6-18)24(32)23-17-31(28-27-23)16-21-8-7-20(25(33)34)13-22(21)26/h2-8,13,17,19H,9-12,14-16H2,1H3,(H,33,34)",,"a(FIXME:""InChI=1S/C25H28ClN5O3/c1-29(14-19-9-11-30(12-10-19)15-18-5-3-2-4-6-18)24(32)23-17-31(28-27-23)16-21-8-7-20(25(33)34)13-22(21)26/h2-8,13,17,19H,9-12,14-16H2,1H3,(H,33,34)"")","InChI=1S/C25H28ClN5O3/c1-29(14-19-9-11-30(12-10-19)15-18-5-3-2-4-6-18)24(32)23-17-31(28-27-23)16-21-8-7-20(25(33)34)13-22(21)26/h2-8,13,17,19H,9-12,14-16H2,1H3,(H,33,34)"
+11757,Abundance,PUBCHEM,False,9928899,,"a(PUBCHEM:""9928899"")",9928899
+11758,Abundance,CHEBI,False,(+)-alpha-tocopherol,,"a(CHEBI:""(+)-alpha-tocopherol"")",(+)-alpha-tocopherol
+11759,Abundance,NNS,False,ChAT activity,,"a(NNS:""ChAT activity"")",ChAT activity
+11760,Abundance,FIXME,False,"InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)(H2,24,31,32)",,"a(FIXME:""InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)(H2,24,31,32)"")","InChI=1S/C23H28N6O3S/c24-33(31,32)21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)(H2,24,31,32)"
+11761,Abundance,MESH,False,nicotine N-glucuronide,,"a(MESH:""nicotine N-glucuronide"")",nicotine N-glucuronide
+11762,Abundance,CHEBI,False,nilotinib,52172.0,"a(CHEBI:""nilotinib"")",nilotinib
+11763,Abundance,PUBCHEM,False,54684141,,"a(PUBCHEM:""54684141"")",54684141
+11764,Abundance,PUBCHEM,False,583,,"a(PUBCHEM:""583"")",583
+11765,Abundance,GO,False,excitatory synapse,,"a(GO:""excitatory synapse"")",excitatory synapse
+11766,Abundance,DRUGBANK,False,Leflunomide,,"a(DRUGBANK:""Leflunomide"")",Leflunomide
+11767,Abundance,CHEBI,False,magnesium(2+),18420.0,"a(CHEBI:""magnesium(2+)"")",magnesium(2+)
+11768,Abundance,GO,False,glutamatergic synapse,,"a(GO:""glutamatergic synapse"")",glutamatergic synapse
+11769,Abundance,MESH,False,Histamine Antagonists,,"a(MESH:""Histamine Antagonists"")",Histamine Antagonists
+11770,Abundance,CA,False,Z-Tyr-Val-Ala-Asp(OMe)-Fluoromethylketone,,"a(CA:""Z-Tyr-Val-Ala-Asp(OMe)-Fluoromethylketone"")",Z-Tyr-Val-Ala-Asp(OMe)-Fluoromethylketone
+11771,Abundance,MESH,False,5-(2-azetidinylmethoxy)-2-chloropyridine,,"a(MESH:""5-(2-azetidinylmethoxy)-2-chloropyridine"")",5-(2-azetidinylmethoxy)-2-chloropyridine
+11772,Abundance,PUBCHEM,False,71311633,,"a(PUBCHEM:""71311633"")",71311633
+11773,Abundance,PUBCHEM,False,2265,,"a(PUBCHEM:""2265"")",2265
+11774,Abundance,PMICOMP,False,Amyloid precursor protein intracellular domain,,"a(PMICOMP:""Amyloid precursor protein intracellular domain"")",Amyloid precursor protein intracellular domain
+11775,Abundance,MESH,False,Cytokines,,"a(MESH:""Cytokines"")",Cytokines
+11776,Abundance,CHEBI,False,salicylate,30762.0,"a(CHEBI:""salicylate"")",salicylate
+11777,Abundance,PUBCHEM,False,47206399,,"a(PUBCHEM:""47206399"")",47206399
+11778,Abundance,CHEBI,False,phosphatidylcholine,64482.0,"a(CHEBI:""phosphatidylcholine"")",phosphatidylcholine
+11779,Abundance,CHEBI,False,adrenaline,33568.0,"a(CHEBI:""adrenaline"")",adrenaline
+11780,Abundance,CHEBI,False,sodium salt,26714.0,"a(CHEBI:""sodium salt"")",sodium salt
+11781,Abundance,CHEBI,False,insulin (human),5931.0,"a(CHEBI:""insulin (human)"")",insulin (human)
+11782,Abundance,MESH,False,Liver,,"a(MESH:""Liver"")",Liver
+11783,Abundance,CA,False,Monocyte-Macrophage Precursor Cells,,"a(CA:""Monocyte-Macrophage Precursor Cells"")",Monocyte-Macrophage Precursor Cells
+11784,Abundance,MESH,False,"N-(1-azabicyclo(2.2.2)oct-3-yl)furo(2,3-c)pyridine-5-carboxamide",,"a(MESH:""N-(1-azabicyclo(2.2.2)oct-3-yl)furo(2,3-c)pyridine-5-carboxamide"")","N-(1-azabicyclo(2.2.2)oct-3-yl)furo(2,3-c)pyridine-5-carboxamide"
+11785,Abundance,PUBCHEM,False,4032,,"a(PUBCHEM:""4032"")",4032
+11786,Abundance,CHEBI,False,lithium chloride,48607.0,"a(CHEBI:""lithium chloride"")",lithium chloride
+11787,Abundance,MESH,False,Epithelial Cells,,"a(MESH:""Epithelial Cells"")",Epithelial Cells
+11788,Abundance,CHEBI,False,1-methylpyrrolinium,27435.0,"a(CHEBI:""1-methylpyrrolinium"")",1-methylpyrrolinium
+11789,Abundance,CHEBI,,calcium cation,,"a(CHEBI:""calcium cation"",loc(GO:""axon cytoplasm""))",calcium cation
+11790,Abundance,CHEBI,False,metformin,6801.0,"a(CHEBI:""metformin"")",metformin
+11791,Abundance,MESH,,Dopamine,,"a(MESH:""Dopamine"",loc(MESH:""Nucleus Accumbens""))",Dopamine
+11792,Abundance,MESH,False,"Leukocytes, Mononuclear",,"a(MESH:""Leukocytes, Mononuclear"")","Leukocytes, Mononuclear"
+11793,Abundance,CHEBI,False,glucagon-like peptide-1 receptor agonist,71196.0,"a(CHEBI:""glucagon-like peptide-1 receptor agonist"")",glucagon-like peptide-1 receptor agonist
+11794,Abundance,PUBCHEM,False,11243536,,"a(PUBCHEM:""11243536"")",11243536
+11795,Abundance,CONSO,False,amyloid-beta aggregates,,"a(CONSO:""amyloid-beta aggregates"")",amyloid-beta aggregates
+11796,Abundance,MESH,False,Reactive Nitrogen Species,,"a(MESH:""Reactive Nitrogen Species"")",Reactive Nitrogen Species
+11797,Abundance,CHEBI,False,"3',5'-cyclic AMP",17489.0,"a(CHEBI:""3',5'-cyclic AMP"")","3',5'-cyclic AMP"
+11798,Abundance,CHEBI,False,formaldehyde,16842.0,"a(CHEBI:""formaldehyde"")",formaldehyde
+11799,Abundance,CONSO,False,RM-532-46,,"a(CONSO:""RM-532-46"")",RM-532-46
+11800,Abundance,DRUGBANK,False,Ethyl pyruvate,,"a(DRUGBANK:""Ethyl pyruvate"")",Ethyl pyruvate
+11801,Abundance,CHEBI,False,xestospongin C,131784.0,"a(CHEBI:""xestospongin C"")",xestospongin C
+11802,Abundance,CONSO,False,CONSO00023,,"a(CONSO:""CONSO00023"")",CONSO00023
+11803,Abundance,CHEBI,,calcium ion,,"a(CHEBI:""calcium ion"",loc(GO:""nucleus""))",calcium ion
+11804,Abundance,CHEBI,False,mevalonate,25350.0,"a(CHEBI:""mevalonate"")",mevalonate
+11805,Abundance,CHEBI,,iron(2+),,"a(CHEBI:""iron(2+)"",loc(GO:""extracellular space""))",iron(2+)
+11806,Abundance,CHEBI,False,donepezil,53289.0,"a(CHEBI:""donepezil"")",donepezil
+11807,Abundance,PUBCHEM,False,16755766,,"a(PUBCHEM:""16755766"")",16755766
+11808,Abundance,PUBCHEM,False,9704,,"a(PUBCHEM:""9704"")",9704
+11809,Abundance,PUBCHEM,False,11388331,,"a(PUBCHEM:""11388331"")",11388331
+11810,Abundance,MESH,False,Golgi Apparatus,,"a(MESH:""Golgi Apparatus"")",Golgi Apparatus
+11811,Abundance,CHEBI,False,efavirenz,119486.0,"a(CHEBI:""efavirenz"")",efavirenz
+11812,Abundance,PUBCHEM,False,3488,,"a(PUBCHEM:""3488"")",3488
+11813,Abundance,CHEBI,False,haloperidol,5613.0,"a(CHEBI:""haloperidol"")",haloperidol
+11814,Abundance,CHEBI,False,phorbol ester,37532.0,"a(CHEBI:""phorbol ester"")",phorbol ester
+11815,Abundance,CHEBI,False,sodium(1+),29101.0,"a(CHEBI:""sodium(1+)"")",sodium(1+)
+11816,Abundance,CA,False,Etazolate Hydrochloride,,"a(CA:""Etazolate Hydrochloride"")",Etazolate Hydrochloride
+11817,Abundance,CHEBI,False,withaferin A,69120.0,"a(CHEBI:""withaferin A"")",withaferin A
+11818,Abundance,CHEBI,False,oxygen atom,25805.0,"a(CHEBI:""oxygen atom"")",oxygen atom
+11819,Abundance,MESH,False,Microtubule-Associated Proteins,,"a(MESH:""Microtubule-Associated Proteins"")",Microtubule-Associated Proteins
+11820,Abundance,CHEBI,False,malonaldehyde,566274.0,"a(CHEBI:""malonaldehyde"")",malonaldehyde
+11821,Abundance,CHEBI,False,bafilomycin A1,22689.0,"a(CHEBI:""bafilomycin A1"")",bafilomycin A1
+11822,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""extracellular region""))",amyloid-beta
+11823,Abundance,CHEBI,False,sertindole,9122.0,"a(CHEBI:""sertindole"")",sertindole
+11824,Abundance,CHEBI,False,EC 3.1.1.8 (cholinesterase) inhibitor,37733.0,"a(CHEBI:""EC 3.1.1.8 (cholinesterase) inhibitor"")",EC 3.1.1.8 (cholinesterase) inhibitor
+11825,Abundance,CHEBI,False,2-(2-amino-3-methoxyphenyl)chromen-4-one,77954.0,"a(CHEBI:""2-(2-amino-3-methoxyphenyl)chromen-4-one"")",2-(2-amino-3-methoxyphenyl)chromen-4-one
+11826,Abundance,CHEBI,False,masitinib,63450.0,"a(CHEBI:""masitinib"")",masitinib
+11827,Abundance,MESH,False,Neurites,,"a(MESH:""Neurites"")",Neurites
+11828,Abundance,CHEBI,False,"methyl 3,5-di-O-caffeoyl quinate",66708.0,"a(CHEBI:""methyl 3,5-di-O-caffeoyl quinate"")","methyl 3,5-di-O-caffeoyl quinate"
+11829,Abundance,CHEBI,False,p-cymene,28768.0,"a(CHEBI:""p-cymene"")",p-cymene
+11830,Abundance,GO,False,"symmetric, GABA-ergic, inhibitory synapse",,"a(GO:""symmetric, GABA-ergic, inhibitory synapse"")","symmetric, GABA-ergic, inhibitory synapse"
+11831,Abundance,CHEBI,False,oridonin,138236.0,"a(CHEBI:""oridonin"")",oridonin
+11832,Abundance,CHEBI,False,ghrelin,75431.0,"a(CHEBI:""ghrelin"")",ghrelin
+11833,Abundance,NCIT,False,Autophagosome,,"a(NCIT:""Autophagosome"")",Autophagosome
+11834,Abundance,NCIT,False,Calcium,,"a(NCIT:""Calcium"")",Calcium
+11835,Abundance,CHEBI,False,alborixin,77940.0,"a(CHEBI:""alborixin"")",alborixin
+11836,Abundance,CHEBI,False,ketone body,73693.0,"a(CHEBI:""ketone body"")",ketone body
+11837,Abundance,CHEBI,False,selenomethionine,27585.0,"a(CHEBI:""selenomethionine"")",selenomethionine
+11838,Abundance,MESH,False,Mitochondria,,"a(MESH:""Mitochondria"")",Mitochondria
+11839,Abundance,CHEBI,False,diglyceride,18035.0,"a(CHEBI:""diglyceride"")",diglyceride
+11840,Abundance,MESH,False,Nissl Bodies,,"a(MESH:""Nissl Bodies"")",Nissl Bodies
+11841,Abundance,CHEBI,False,androgen,50113.0,"a(CHEBI:""androgen"")",androgen
+11842,Abundance,CHEBI,False,poly(lactic acid) polymer,60159.0,"a(CHEBI:""poly(lactic acid) polymer"")",poly(lactic acid) polymer
+11843,Abundance,MESHC,False,Mitoxantrone,,"a(MESHC:""Mitoxantrone"")",Mitoxantrone
+11844,Abundance,CHEBI,False,SB-239063,90681.0,"a(CHEBI:""SB-239063"")",SB-239063
+11845,Abundance,CHEBI,False,6872,,"a(CHEBI:""6872"")",6872
+11846,Abundance,CHEBI,False,hydroxytyrosol,68889.0,"a(CHEBI:""hydroxytyrosol"")",hydroxytyrosol
+11847,Abundance,CHEBI,False,angiotensin II,48432.0,"a(CHEBI:""angiotensin II"")",angiotensin II
+11848,Abundance,CHEBI,False,4806,,"a(CHEBI:""4806"")",4806
+11849,Abundance,KEGG,False,gl:G13101,,"a(KEGG:""gl:G13101"")",gl:G13101
+11850,Abundance,MESHA,False,T-Lymphocytes,,"a(MESHA:""T-Lymphocytes"")",T-Lymphocytes
+11851,Abundance,GOCC,False,AMP-activated protein kinase complex,,"a(GOCC:""AMP-activated protein kinase complex"")",AMP-activated protein kinase complex
+11852,Abundance,CHEBI,False,76034,,"a(CHEBI:""76034"")",76034
+11853,Abundance,MESH,False,Oligodendroglia,,"a(MESH:""Oligodendroglia"")",Oligodendroglia
+11854,Abundance,CHEBI,False,12(S)-HPETE,15626.0,"a(CHEBI:""12(S)-HPETE"")",12(S)-HPETE
+11855,Abundance,CHEBI,False,porphyrin,8337.0,"a(CHEBI:""porphyrin"")",porphyrin
+11856,Abundance,MESH,False,Endopeptidases,,"a(MESH:""Endopeptidases"")",Endopeptidases
+11857,Abundance,CONSO,False,paired helical filaments,,"a(CONSO:""paired helical filaments"")",paired helical filaments
+11858,Abundance,MESHA,False,Osteoclasts,,"a(MESHA:""Osteoclasts"")",Osteoclasts
+11859,Abundance,PUBCHEM,False,124886,,"a(PUBCHEM:""124886"")",124886
+11860,Abundance,CHEBI,False,juglone,15794.0,"a(CHEBI:""juglone"")",juglone
+11861,Abundance,PUBCHEM,False,163311914,,"a(PUBCHEM:""163311914"")",163311914
+11862,Abundance,CHEBI,False,gold nanoparticle,50825.0,"a(CHEBI:""gold nanoparticle"")",gold nanoparticle
+11863,Abundance,CHEBI,False,calpain inhibitor,82824.0,"a(CHEBI:""calpain inhibitor"")",calpain inhibitor
+11864,Abundance,MESH,False,Apoptosomes,,"a(MESH:""Apoptosomes"")",Apoptosomes
+11865,Abundance,MESHA,False,Brain,,"a(MESHA:""Brain"")",Brain
+11866,Abundance,CHEBI,False,cantharidin,64213.0,"a(CHEBI:""cantharidin"")",cantharidin
+11867,Abundance,CHEBI,False,D-ribose,16988.0,"a(CHEBI:""D-ribose"")",D-ribose
+11868,Abundance,CHEBI,False,Flunarizine hydrochloride,31621.0,"a(CHEBI:""Flunarizine hydrochloride"")",Flunarizine hydrochloride
+11869,Abundance,CONSO,False,"amyloid-beta antibody, NU1",,"a(CONSO:""amyloid-beta antibody, NU1"")","amyloid-beta antibody, NU1"
+11870,Abundance,MESH,False,Proteasome Inhibitors,,"a(MESH:""Proteasome Inhibitors"")",Proteasome Inhibitors
+11871,Abundance,CHEBI,False,poly(lysine) polymer,61488.0,"a(CHEBI:""poly(lysine) polymer"")",poly(lysine) polymer
+11872,Abundance,CHEBI,False,glimepiride,5383.0,"a(CHEBI:""glimepiride"")",glimepiride
+11873,Abundance,GO,False,presynapse,,"a(GO:""presynapse"")",presynapse
+11874,Abundance,CONSO,False,alpha-synuclein aggregates,,"a(CONSO:""alpha-synuclein aggregates"")",alpha-synuclein aggregates
+11875,Abundance,CONSO,False,isopentanyladenine,,"a(CONSO:""isopentanyladenine"")",isopentanyladenine
+11876,Abundance,CHEBI,False,cyclosporin A,4031.0,"a(CHEBI:""cyclosporin A"")",cyclosporin A
+11877,Abundance,CONSO,False,cmp16,,"a(CONSO:""cmp16"")",cmp16
+11878,Abundance,CONSO,False,advanced glycation end product,,"a(CONSO:""advanced glycation end product"")",advanced glycation end product
+11879,Abundance,CHEBI,False,galactosylceramide sulfate,18318.0,"a(CHEBI:""galactosylceramide sulfate"")",galactosylceramide sulfate
+11880,Abundance,CHEBI,False,sodium chlorate,65242.0,"a(CHEBI:""sodium chlorate"")",sodium chlorate
+11881,Abundance,CHEBI,False,salubrinal,131923.0,"a(CHEBI:""salubrinal"")",salubrinal
+11882,Abundance,MESH,False,Ubiquitin,,"a(MESH:""Ubiquitin"")",Ubiquitin
+11883,Abundance,CONSO,False,diaminothiazole,,"a(CONSO:""diaminothiazole"")",diaminothiazole
+11884,Abundance,CHEBI,False,EC 3.4.23.46 (memapsin 2) inhibitor,74925.0,"a(CHEBI:""EC 3.4.23.46 (memapsin 2) inhibitor"")",EC 3.4.23.46 (memapsin 2) inhibitor
+11885,Abundance,MESH,False,Guanine Nucleotide Exchange Factors,,"a(MESH:""Guanine Nucleotide Exchange Factors"")",Guanine Nucleotide Exchange Factors
+11886,Abundance,MESH,,Microtubules,,"a(MESH:""Microtubules"",loc(MESH:""Axons""))",Microtubules
+11887,Abundance,CHEBI,False,N-phosphocreatine,17287.0,"a(CHEBI:""N-phosphocreatine"")",N-phosphocreatine
+11888,Abundance,PUBCHEM,False,136299192,,"a(PUBCHEM:""136299192"")",136299192
+11889,Abundance,PMICHEM,False,SecPS2NT,,"a(PMICHEM:""SecPS2NT"")",SecPS2NT
+11890,Abundance,CHEBI,False,novobiocin,28368.0,"a(CHEBI:""novobiocin"")",novobiocin
+11891,Abundance,PUBCHEM,False,16773791,,"a(PUBCHEM:""16773791"")",16773791
+11892,Abundance,CHEBI,False,prostaglandin E2,15551.0,"a(CHEBI:""prostaglandin E2"")",prostaglandin E2
+11893,Abundance,MESH,False,Brain Stem,,"a(MESH:""Brain Stem"")",Brain Stem
+11894,Abundance,CHEBI,False,lead diacetate,31767.0,"a(CHEBI:""lead diacetate"")",lead diacetate
+11895,Abundance,CHEBI,False,liquiritin,80845.0,"a(CHEBI:""liquiritin"")",liquiritin
+11896,Abundance,CHEBI,False,ketamine,6121.0,"a(CHEBI:""ketamine"")",ketamine
+11897,Abundance,CONSO,False,AβOs,,"a(CONSO:""AβOs"")",AβOs
+11898,Abundance,PUBCHEM,False,71656932,,"a(PUBCHEM:""71656932"")",71656932
+11899,Abundance,CHEBI,False,carbon atom,27594.0,"a(CHEBI:""carbon atom"")",carbon atom
+11900,Abundance,CHEBI,False,genistein,28088.0,"a(CHEBI:""genistein"")",genistein
+11901,Abundance,PUBCHEM,False,42640,,"a(PUBCHEM:""42640"")",42640
+11902,Abundance,CHEBI,False,L-homocysteic acid,132223.0,"a(CHEBI:""L-homocysteic acid"")",L-homocysteic acid
+11903,Abundance,CHEBI,False,N-acylsphingosine,52639.0,"a(CHEBI:""N-acylsphingosine"")",N-acylsphingosine
+11904,Abundance,CHEBI,False,bexarotene,50859.0,"a(CHEBI:""bexarotene"")",bexarotene
+11905,Abundance,PUBCHEM,False,6323491,,"a(PUBCHEM:""6323491"")",6323491
+11906,Abundance,CHEBI,False,quinolinic acid,16675.0,"a(CHEBI:""quinolinic acid"")",quinolinic acid
+11907,Abundance,PUBCHEM,False,11570805,,"a(PUBCHEM:""11570805"")",11570805
+11908,Abundance,MESHA,,Macrophages,,"a(MESHA:""Macrophages"",loc(MESHA:""Blood""))",Macrophages
+11909,Abundance,PUBCHEM,False,377503130,,"a(PUBCHEM:""377503130"")",377503130
+11910,Abundance,CHEBI,False,L-arginine,16467.0,"a(CHEBI:""L-arginine"")",L-arginine
+11911,Abundance,PUBCHEM,False,11655119,,"a(PUBCHEM:""11655119"")",11655119
+11912,Abundance,CHEBI,False,doxorubicin,28748.0,"a(CHEBI:""doxorubicin"")",doxorubicin
+11913,Abundance,MESHA,,Myeloid Cells,,"a(MESHA:""Myeloid Cells"",loc(MESHA:""Bone Marrow""))",Myeloid Cells
+11914,Abundance,PUBCHEM,False,6475963,,"a(PUBCHEM:""6475963"")",6475963
+11915,Abundance,DRUGBANK,,L-Carnitine,,"a(DRUGBANK:""L-Carnitine"",loc(GO:""intracellular""))",L-Carnitine
+11916,Abundance,CONSO,False,OSW-1,,"a(CONSO:""OSW-1"")",OSW-1
+11917,Abundance,CHEBI,False,chondroitin sulfate,37397.0,"a(CHEBI:""chondroitin sulfate"")",chondroitin sulfate
+11918,Abundance,CHEBI,False,ADP,16761.0,"a(CHEBI:""ADP"")",ADP
+11919,Abundance,CONSO,False,granular tau oligomers,,"a(CONSO:""granular tau oligomers"")",granular tau oligomers
+11920,Abundance,CHEBI,False,clomipramine,47780.0,"a(CHEBI:""clomipramine"")",clomipramine
+11921,Abundance,CHEBI,,heparan sulfates,,"a(CHEBI:""heparan sulfates"",loc(MESHA:""Cell Membrane""))",heparan sulfates
+11922,Abundance,TAXONOMY,False,1163,,"a(TAXONOMY:""1163"")",1163
+11923,Abundance,CHEBI,False,naproxen,7476.0,"a(CHEBI:""naproxen"")",naproxen
+11924,Abundance,MESH,False,Electron Transport Complex I,,"a(MESH:""Electron Transport Complex I"")",Electron Transport Complex I
+11925,Abundance,MESH,False,Neostriatum,,"a(MESH:""Neostriatum"")",Neostriatum
+11926,Abundance,MESHA,False,Neurites,,"a(MESHA:""Neurites"")",Neurites
+11927,Abundance,MESH,False,Ganglia,,"a(MESH:""Ganglia"")",Ganglia
+11928,Abundance,CHEBI,False,trans-5-O-caffeoyl-D-quinic acid,16384.0,"a(CHEBI:""trans-5-O-caffeoyl-D-quinic acid"")",trans-5-O-caffeoyl-D-quinic acid
+11929,Abundance,MESH,False,Hydroxyindoleacetic Acid,,"a(MESH:""Hydroxyindoleacetic Acid"")",Hydroxyindoleacetic Acid
+11930,Abundance,CHEBI,,sialic acid,,"a(CHEBI:""sialic acid"",loc(HGNC:""PTX3""))",sialic acid
+11931,Abundance,MESH,False,Cholinesterase Inhibitors,,"a(MESH:""Cholinesterase Inhibitors"")",Cholinesterase Inhibitors
+11932,Abundance,CHEBI,False,isoniazide,6030.0,"a(CHEBI:""isoniazide"")",isoniazide
+11933,Abundance,CHEBI,False,reserpine,28487.0,"a(CHEBI:""reserpine"")",reserpine
+11934,Abundance,CHEBI,False,3-hydroxykynurenine,1547.0,"a(CHEBI:""3-hydroxykynurenine"")",3-hydroxykynurenine
+11935,Abundance,CHEBI,False,monoamine,63534.0,"a(CHEBI:""monoamine"")",monoamine
+11936,Abundance,UBERON,False,glymphatic system,,"a(UBERON:""glymphatic system"")",glymphatic system
+11937,Abundance,DRUGBANK,False,Norepinephrine,,"a(DRUGBANK:""Norepinephrine"")",Norepinephrine
+11938,Abundance,CHEBI,False,calcium(2+),29108.0,"a(CHEBI:""calcium(2+)"")",calcium(2+)
+11939,Abundance,MESH,,Sodium,,"a(MESH:""Sodium"",loc(GO:""intracellular""))",Sodium
+11940,Abundance,CHEBI,False,L-cysteic acid,17285.0,"a(CHEBI:""L-cysteic acid"")",L-cysteic acid
+11941,Abundance,CONSO,False,Tau dimers,,"a(CONSO:""Tau dimers"")",Tau dimers
+11942,Abundance,CHEBI,False,loxapine,50841.0,"a(CHEBI:""loxapine"")",loxapine
+11943,Abundance,CHEBI,False,D-fructofuranose,37721.0,"a(CHEBI:""D-fructofuranose"")",D-fructofuranose
+11944,Abundance,MESHA,,Neurons,,"a(MESHA:""Neurons"",loc(MESHA:""Hippocampus""))",Neurons
+11945,Abundance,MESH,False,Serum,,"a(MESH:""Serum"")",Serum
+11946,Abundance,MESHC,False,"1,2,3,4-tetrachlorodibenzodioxin",,"a(MESHC:""1,2,3,4-tetrachlorodibenzodioxin"")","1,2,3,4-tetrachlorodibenzodioxin"
+11947,Abundance,HP,False,glymphatic system,,"a(HP:""glymphatic system"")",glymphatic system
+11948,Abundance,CHEBI,False,cetirizine,3561.0,"a(CHEBI:""cetirizine"")",cetirizine
+11949,Abundance,MESHC,False,Pathogen-Associated Molecular Pattern Molecules,,"a(MESHC:""Pathogen-Associated Molecular Pattern Molecules"")",Pathogen-Associated Molecular Pattern Molecules
+11950,Abundance,CHEBI,False,SL-327,92211.0,"a(CHEBI:""SL-327"")",SL-327
+11951,Abundance,CHEBI,False,resveratrol,27881.0,"a(CHEBI:""resveratrol"")",resveratrol
+11952,Abundance,MESH,False,Aminopeptidases,,"a(MESH:""Aminopeptidases"")",Aminopeptidases
+11953,Abundance,MESHC,False,lysosomal proteins,,"a(MESHC:""lysosomal proteins"")",lysosomal proteins
+11954,Abundance,CHEBI,False,S-adenosyl-L-homocysteine,16680.0,"a(CHEBI:""S-adenosyl-L-homocysteine"")",S-adenosyl-L-homocysteine
+11955,Abundance,MESH,False,Granulocyte Colony-Stimulating Factor,,"a(MESH:""Granulocyte Colony-Stimulating Factor"")",Granulocyte Colony-Stimulating Factor
+11956,Abundance,CHEBI,,dopamine,,"a(CHEBI:""dopamine"",loc(GO:""extracellular region""))",dopamine
+11957,Abundance,MESH,False,Muscarinic Antagonists,,"a(MESH:""Muscarinic Antagonists"")",Muscarinic Antagonists
+11958,Abundance,NNS,False,Dietary with apple juice,,"a(NNS:""Dietary with apple juice"")",Dietary with apple juice
+11959,Abundance,CONSO,False,MN423,,"a(CONSO:""MN423"")",MN423
+11960,Abundance,MESH,False,VU0357017,,"a(MESH:""VU0357017"")",VU0357017
+11961,Abundance,NIFT,False,Cerebral atrophy,,"a(NIFT:""Cerebral atrophy"")",Cerebral atrophy
+11962,Abundance,MESH,False,Toll-Like Receptors,,"a(MESH:""Toll-Like Receptors"")",Toll-Like Receptors
+11963,Abundance,NIFT,False,Mini mental state exam,,"a(NIFT:""Mini mental state exam"")",Mini mental state exam
+11964,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESH:""Astrocytes""))",amyloid-beta
+11965,Abundance,MESHF,False,Avoidance Learning,,"a(MESHF:""Avoidance Learning"")",Avoidance Learning
+11966,Abundance,CHEBI,False,anesthetics,,"a(CHEBI:""anesthetics"")",anesthetics
+11967,Abundance,CHEBI,False,Ghrelin,75431.0,"a(CHEBI:""Ghrelin"")",Ghrelin
+11968,Abundance,CHEBI,False,actinonin,41045.0,"a(CHEBI:""actinonin"")",actinonin
+11969,Abundance,NCIT,False,Mitochondrion,,"a(NCIT:""Mitochondrion"")",Mitochondrion
+11970,Abundance,NCIT,False,mTORC1,,"a(NCIT:""mTORC1"")",mTORC1
+11971,Abundance,CHEBI,False,aloxistatin,101381.0,"a(CHEBI:""aloxistatin"")",aloxistatin
+11972,Abundance,NCIT,False,Ubiquitin,,"a(NCIT:""Ubiquitin"")",Ubiquitin
+11973,Abundance,NCIT,False,Microtubule-Associated Proteins 1A/1B Light Chain 3,,"a(NCIT:""Microtubule-Associated Proteins 1A/1B Light Chain 3"")",Microtubule-Associated Proteins 1A/1B Light Chain 3
+11974,Abundance,CHEBI,False,CBD,,"a(CHEBI:""CBD"")",CBD
+11975,Abundance,CHEBI,False,hexadecanoate,7896.0,"a(CHEBI:""hexadecanoate"")",hexadecanoate
+11976,Abundance,MESH,False,Cotinine,,"a(MESH:""Cotinine"")",Cotinine
+11977,Abundance,CHEBI,False,acitretin,50172.0,"a(CHEBI:""acitretin"")",acitretin
+11978,Abundance,PUBCHEM,False,47207657,,"a(PUBCHEM:""47207657"")",47207657
+11979,Abundance,MESH,False,Inflammation Mediators,,"a(MESH:""Inflammation Mediators"")",Inflammation Mediators
+11980,Abundance,CHEBI,False,nornicotine,,"a(CHEBI:""nornicotine"")",nornicotine
+11981,Abundance,CHEBI,False,2-(4-phenyl-1-piperidinyl)-1-cyclohexanol,103974.0,"a(CHEBI:""2-(4-phenyl-1-piperidinyl)-1-cyclohexanol"")",2-(4-phenyl-1-piperidinyl)-1-cyclohexanol
+11982,Abundance,MESH,False,"Herpesvirus 1, Human",,"a(MESH:""Herpesvirus 1, Human"")","Herpesvirus 1, Human"
+11983,Abundance,MESHF,False,Language,,"a(MESHF:""Language"")",Language
+11984,Abundance,MESH,False,"Receptors, G-Protein-Coupled",,"a(MESH:""Receptors, G-Protein-Coupled"")","Receptors, G-Protein-Coupled"
+11985,Abundance,CHEBI,False,bisdemethoxycurcumin,71045.0,"a(CHEBI:""bisdemethoxycurcumin"")",bisdemethoxycurcumin
+11986,Abundance,MESH,False,"T-Lymphocytes, Cytotoxic",,"a(MESH:""T-Lymphocytes, Cytotoxic"")","T-Lymphocytes, Cytotoxic"
+11987,Abundance,CHEBI,False,choline,15354.0,"a(CHEBI:""choline"")",choline
+11988,Abundance,PUBCHEM,False,9867750,,"a(PUBCHEM:""9867750"")",9867750
+11989,Abundance,MESHC,False,NADPH Oxidase,,"a(MESHC:""NADPH Oxidase"")",NADPH Oxidase
+11990,Abundance,PUBCHEM,False,135305802,,"a(PUBCHEM:""135305802"")",135305802
+11991,Abundance,FIXME,False,"3-(3,4-difluorophenyl)-N-(1-(6-(4-(pyridin-2-yl)piperazin-1-yl)pyrazin-2-yl)ethyl)propanamide",,"a(FIXME:""3-(3,4-difluorophenyl)-N-(1-(6-(4-(pyridin-2-yl)piperazin-1-yl)pyrazin-2-yl)ethyl)propanamide"")","3-(3,4-difluorophenyl)-N-(1-(6-(4-(pyridin-2-yl)piperazin-1-yl)pyrazin-2-yl)ethyl)propanamide"
+11992,Abundance,CHEBI,False,acyl-CoA,17984.0,"a(CHEBI:""acyl-CoA"")",acyl-CoA
+11993,Abundance,MESH,False,1-((4-cyano-4-(pyridine-2-yl)piperidin-1-yl)methyl)-4-oxo-4H-quinolizine-3-carboxylic acid,,"a(MESH:""1-((4-cyano-4-(pyridine-2-yl)piperidin-1-yl)methyl)-4-oxo-4H-quinolizine-3-carboxylic acid"")",1-((4-cyano-4-(pyridine-2-yl)piperidin-1-yl)methyl)-4-oxo-4H-quinolizine-3-carboxylic acid
+11994,Abundance,MESHC,False,Cell-Penetrating Peptides,,"a(MESHC:""Cell-Penetrating Peptides"")",Cell-Penetrating Peptides
+11995,Abundance,MESH,,Mitochondria,,"a(MESH:""Mitochondria"",loc(GO:""synaptic vesicle""))",Mitochondria
+11996,Abundance,PUBCHEM,False,254741430,,"a(PUBCHEM:""254741430"")",254741430
+11997,Abundance,CHEBI,False,"beta-D-fructofuranose 2,6-bisphosphate",28602.0,"a(CHEBI:""beta-D-fructofuranose 2,6-bisphosphate"")","beta-D-fructofuranose 2,6-bisphosphate"
+11998,Abundance,FIXME,False,"InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2",,"a(FIXME:""InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2"")","InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2"
+11999,Abundance,MESH,False,GP Antagonist-2A peptide,,"a(MESH:""GP Antagonist-2A peptide"")",GP Antagonist-2A peptide
+12000,Abundance,PUBCHEM,False,53787563,,"a(PUBCHEM:""53787563"")",53787563
+12001,Abundance,FIXME,False,"InChI=1S/C26H32N4O/c1-3-10-24-19-25(28-29(24)23-13-8-5-9-14-23)26(31)27-22-15-17-30(2,18-16-22)20-21-11-6-4-7-12-21/h4-9,11-14,19,22H,3,10,15-18,20H2,1-2H3/p+1",,"a(FIXME:""InChI=1S/C26H32N4O/c1-3-10-24-19-25(28-29(24)23-13-8-5-9-14-23)26(31)27-22-15-17-30(2,18-16-22)20-21-11-6-4-7-12-21/h4-9,11-14,19,22H,3,10,15-18,20H2,1-2H3/p+1"")","InChI=1S/C26H32N4O/c1-3-10-24-19-25(28-29(24)23-13-8-5-9-14-23)26(31)27-22-15-17-30(2,18-16-22)20-21-11-6-4-7-12-21/h4-9,11-14,19,22H,3,10,15-18,20H2,1-2H3/p+1"
+12002,Abundance,PUBCHEM,False,637026,,"a(PUBCHEM:""637026"")",637026
+12003,Abundance,NNS,False,longitudinal medial temporal lobe atrophy,,"a(NNS:""longitudinal medial temporal lobe atrophy"")",longitudinal medial temporal lobe atrophy
+12004,Abundance,PUBCHEM,False,135335742,,"a(PUBCHEM:""135335742"")",135335742
+12005,Abundance,FIXME,False,"InChI=1S/C27H33N5O3/c1-3-24-25(29-30-32(24)18-23-7-5-4-6-19(23)2)26(33)28-16-20-12-14-31(15-13-20)17-21-8-10-22(11-9-21)27(34)35/h4-11,20H,3,12-18H2,1-2H3,(H,28,33)(H,34,35)",,"a(FIXME:""InChI=1S/C27H33N5O3/c1-3-24-25(29-30-32(24)18-23-7-5-4-6-19(23)2)26(33)28-16-20-12-14-31(15-13-20)17-21-8-10-22(11-9-21)27(34)35/h4-11,20H,3,12-18H2,1-2H3,(H,28,33)(H,34,35)"")","InChI=1S/C27H33N5O3/c1-3-24-25(29-30-32(24)18-23-7-5-4-6-19(23)2)26(33)28-16-20-12-14-31(15-13-20)17-21-8-10-22(11-9-21)27(34)35/h4-11,20H,3,12-18H2,1-2H3,(H,28,33)(H,34,35)"
+12006,Abundance,CHEBI,False,L-dopa,15765.0,"a(CHEBI:""L-dopa"")",L-dopa
+12007,Abundance,MESH,False,"Tobacco, Smokeless",,"a(MESH:""Tobacco, Smokeless"")","Tobacco, Smokeless"
+12008,Abundance,CHEBI,False,trans-3-hydroxycotinine beta-D-glucuronide,133206.0,"a(CHEBI:""trans-3-hydroxycotinine beta-D-glucuronide"")",trans-3-hydroxycotinine beta-D-glucuronide
+12009,Abundance,GO,False,dendritic spine,,"a(GO:""dendritic spine"")",dendritic spine
+12010,Abundance,PUBCHEM,False,46504469,,"a(PUBCHEM:""46504469"")",46504469
+12011,Abundance,CHEBI,False,phenanthroline,36417.0,"a(CHEBI:""phenanthroline"")",phenanthroline
+14196,Abundance,MESH,False,AR-R 17779,,"a(MESH:""AR-R 17779"")",AR-R 17779
+14197,Abundance,MESH,False,Blood-Brain Barrier,,"a(MESH:""Blood-Brain Barrier"")",Blood-Brain Barrier
+14198,Abundance,DRUGBANK,False,Natalizumab,,"a(DRUGBANK:""Natalizumab"")",Natalizumab
+14199,Abundance,CHEBI,False,hydroxy group,43176.0,"a(CHEBI:""hydroxy group"")",hydroxy group
+14200,Abundance,CHEBI,False,nisoxetine,73410.0,"a(CHEBI:""nisoxetine"")",nisoxetine
+14201,Abundance,MESH,False,Thyroglobulin,,"a(MESH:""Thyroglobulin"")",Thyroglobulin
+14202,Abundance,CHEBI,False,6-methylprednisolone,50366.0,"a(CHEBI:""6-methylprednisolone"")",6-methylprednisolone
+14203,Abundance,CHEBI,False,probucol,8427.0,"a(CHEBI:""probucol"")",probucol
+14204,Abundance,CHEBI,False,GW 3965,79995.0,"a(CHEBI:""GW 3965"")",GW 3965
+14205,Abundance,MESH,False,alpha7 Nicotinic Acetylcholine Receptor,,"a(MESH:""alpha7 Nicotinic Acetylcholine Receptor"")",alpha7 Nicotinic Acetylcholine Receptor
+14206,Abundance,MESH,False,Immunologic Factors,,"a(MESH:""Immunologic Factors"")",Immunologic Factors
+14207,Abundance,HP,False,inhibitory interneuron,,"a(HP:""inhibitory interneuron"")",inhibitory interneuron
+14208,Abundance,GO,False,neurofibrillary tangle,,"a(GO:""neurofibrillary tangle"")",neurofibrillary tangle
+14209,Abundance,MESH,False,latrepirdine,,"a(MESH:""latrepirdine"")",latrepirdine
+14210,Abundance,CHEBI,False,(R)-nicotine,39162.0,"a(CHEBI:""(R)-nicotine"")",(R)-nicotine
+14211,Abundance,CHEBI,False,glutamate(2-),29987.0,"a(CHEBI:""glutamate(2-)"")",glutamate(2-)
+14212,Abundance,CHEBI,False,Mecamylamine,6706.0,"a(CHEBI:""Mecamylamine"")",Mecamylamine
+14213,Abundance,MESHC,False,27-hydroxycholesterol,,"a(MESHC:""27-hydroxycholesterol"")",27-hydroxycholesterol
+14214,Abundance,MESH,False,Nicotine,,"a(MESH:""Nicotine"")",Nicotine
+14215,Abundance,CHEBI,False,bupropion,3219.0,"a(CHEBI:""bupropion"")",bupropion
+14216,Abundance,MESH,False,Aspirin,,"a(MESH:""Aspirin"")",Aspirin
+14217,Abundance,CHEBI,False,rosiglitazone,50122.0,"a(CHEBI:""rosiglitazone"")",rosiglitazone
+14218,Abundance,MESH,False,Varenicline,,"a(MESH:""Varenicline"")",Varenicline
+14219,Abundance,MESH,False,antalarmin,,"a(MESH:""antalarmin"")",antalarmin
+14220,Abundance,MESH,False,Phagocytes,,"a(MESH:""Phagocytes"")",Phagocytes
+14221,Abundance,CHEBI,False,seliciclib,45307.0,"a(CHEBI:""seliciclib"")",seliciclib
+14222,Abundance,MESH,False,"Ganglia, Spinal",,"a(MESH:""Ganglia, Spinal"")","Ganglia, Spinal"
+14223,Abundance,MESH,False,Dendritic Spines,,"a(MESH:""Dendritic Spines"")",Dendritic Spines
+14224,Abundance,CHEBI,False,estrogen,50114.0,"a(CHEBI:""estrogen"")",estrogen
+14225,Abundance,CHEBI,False,2 L-glutamate,11376.0,"a(CHEBI:""2 L-glutamate"")",2 L-glutamate
+14226,Abundance,CHEBI,False,statin,87631.0,"a(CHEBI:""statin"")",statin
+14227,Abundance,PUBCHEM,False,131801091,,"a(PUBCHEM:""131801091"")",131801091
+14228,Abundance,CHEBI,False,methylene blue,6872.0,"a(CHEBI:""methylene blue"")",methylene blue
+14229,Abundance,CHEBI,,clondronate(2-),,"a(CHEBI:""clondronate(2-)"",loc(MESH:""Liposomes""))",clondronate(2-)
+14230,Abundance,CHEBI,False,5-chloro-7-iodoquinolin-8-ol,74460.0,"a(CHEBI:""5-chloro-7-iodoquinolin-8-ol"")",5-chloro-7-iodoquinolin-8-ol
+14231,Abundance,DRUGBANK,False,Dantrolene,,"a(DRUGBANK:""Dantrolene"")",Dantrolene
+14232,Abundance,MESH,False,Synapses,,"a(MESH:""Synapses"")",Synapses
+14233,Abundance,CHEBI,False,D-glucopyranose,4167.0,"a(CHEBI:""D-glucopyranose"")",D-glucopyranose
+14234,Abundance,MESH,,Chemokines,,"a(MESH:""Chemokines"",loc(NCIT:""C74601""))",Chemokines
+14235,Abundance,CHEBI,False,lipopigment,,"a(CHEBI:""lipopigment"")",lipopigment
+14236,Abundance,CHEBI,,calcium ion,,"a(CHEBI:""calcium ion"",loc(MESH:""Cytoplasm""))",calcium ion
+14237,Abundance,CHEBI,False,lovastatin,40303.0,"a(CHEBI:""lovastatin"")",lovastatin
+14238,Abundance,MESH,False,Neurotoxins,,"a(MESH:""Neurotoxins"")",Neurotoxins
+14239,Abundance,CHEBI,False,"3',5'-cyclic GMP",16356.0,"a(CHEBI:""3',5'-cyclic GMP"")","3',5'-cyclic GMP"
+14240,Abundance,CHEBI,False,4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one,32692.0,"a(CHEBI:""4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one"")",4-(N-nitrosomethylamino)-1-(3-pyridyl)butan-1-one
+14241,Abundance,DRUGBANK,False,Encenicline,,"a(DRUGBANK:""Encenicline"")",Encenicline
+14242,Abundance,CHEBI,False,adenosine 5'-monophosphate,16027.0,"a(CHEBI:""adenosine 5'-monophosphate"")",adenosine 5'-monophosphate
+14243,Abundance,MESH,False,Phospholipases,,"a(MESH:""Phospholipases"")",Phospholipases
+14244,Abundance,CHEBI,False,nicotinic acetylcholine receptor agonist,47958.0,"a(CHEBI:""nicotinic acetylcholine receptor agonist"")",nicotinic acetylcholine receptor agonist
+14245,Abundance,CONSO,False,CONSO00093,,"a(CONSO:""CONSO00093"")",CONSO00093
+14246,Abundance,PUBCHEM,False,1889993,,"a(PUBCHEM:""1889993"")",1889993
+14247,Abundance,PUBCHEM,False,1775,,"a(PUBCHEM:""1775"")",1775
+14248,Abundance,CHEBI,False,olanzapine,7735.0,"a(CHEBI:""olanzapine"")",olanzapine
+14249,Abundance,MESH,False,"DNA, Viral",,"a(MESH:""DNA, Viral"")","DNA, Viral"
+14250,Abundance,MESH,False,Amyloid Precursor Protein Secretases,,"a(MESH:""Amyloid Precursor Protein Secretases"")",Amyloid Precursor Protein Secretases
+14251,Abundance,PUBCHEM,False,10074640,,"a(PUBCHEM:""10074640"")",10074640
+14252,Abundance,CHEBI,False,methamphetamine,6809.0,"a(CHEBI:""methamphetamine"")",methamphetamine
+14253,Abundance,MESH,,Microglia,,"a(MESH:""Microglia"",loc(CONSO:""amyloid-beta oligomers""))",Microglia
+14254,Abundance,CONSO,False,amyloid-beta oligomers,,"a(CONSO:""amyloid-beta oligomers"")",amyloid-beta oligomers
+14255,Abundance,MESH,False,Antipsychotic Agents,,"a(MESH:""Antipsychotic Agents"")",Antipsychotic Agents
+14256,Abundance,CHEBI,False,arecoline,2814.0,"a(CHEBI:""arecoline"")",arecoline
+14257,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(GO:""cell surface""))",amyloid-beta
+14258,Abundance,PUBCHEM,False,3715,,"a(PUBCHEM:""3715"")",3715
+14259,Abundance,CHEBI,False,cholinergic agonist,38324.0,"a(CHEBI:""cholinergic agonist"")",cholinergic agonist
+14260,Abundance,CONSO,False,amyloid-beta 40 oligomers,,"a(CONSO:""amyloid-beta 40 oligomers"")",amyloid-beta 40 oligomers
+14261,Abundance,MESH,False,Calcineurin,,"a(MESH:""Calcineurin"")",Calcineurin
+14262,Abundance,CHEBI,False,protein,36080.0,"a(CHEBI:""protein"")",protein
+14263,Abundance,CHEBI,False,prostaglandin I2,15552.0,"a(CHEBI:""prostaglandin I2"")",prostaglandin I2
+14264,Abundance,MESH,False,Cholinergic Agents,,"a(MESH:""Cholinergic Agents"")",Cholinergic Agents
+14265,Abundance,CHEBI,False,atorvastatin,39548.0,"a(CHEBI:""atorvastatin"")",atorvastatin
+14266,Abundance,CHEBI,False,AICA ribonucleotide,18406.0,"a(CHEBI:""AICA ribonucleotide"")",AICA ribonucleotide
+14267,Abundance,CHEBI,False,EGCG,,"a(CHEBI:""EGCG"")",EGCG
+14268,Abundance,CHEBI,False,Ceftriaxone,29007.0,"a(CHEBI:""Ceftriaxone"")",Ceftriaxone
+14269,Abundance,CHEBI,False,Taurine,15891.0,"a(CHEBI:""Taurine"")",Taurine
+14270,Abundance,NCIT,False,Interleukin-6,,"a(NCIT:""Interleukin-6"")",Interleukin-6
+14271,Abundance,NCIT,False,Cytochrome C Oxidase,,"a(NCIT:""Cytochrome C Oxidase"")",Cytochrome C Oxidase
+14272,Abundance,CHEBI,False,liver X receptor agonist,86029.0,"a(CHEBI:""liver X receptor agonist"")",liver X receptor agonist
+14273,Abundance,CHEBI,False,BMAA,,"a(CHEBI:""BMAA"")",BMAA
+14274,Abundance,CHEBI,False,TEMPO,32849.0,"a(CHEBI:""TEMPO"")",TEMPO
+14275,Abundance,CHEBI,False,streptozotocin,,"a(CHEBI:""streptozotocin"")",streptozotocin
+14276,Abundance,CHEBI,False,"(1R,3S)-1-(aminomethyl)-3-phenyl-3,4-dihydro-1H-2-benzopyran-5,6-diol",103966.0,"a(CHEBI:""(1R,3S)-1-(aminomethyl)-3-phenyl-3,4-dihydro-1H-2-benzopyran-5,6-diol"")","(1R,3S)-1-(aminomethyl)-3-phenyl-3,4-dihydro-1H-2-benzopyran-5,6-diol"
+14277,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""presynaptic cytosol""))",calcium(2+)
+14278,Abundance,PUBCHEM,False,441923,,"a(PUBCHEM:""441923"")",441923
+14279,Abundance,GO,False,autophagosome membrane,,"a(GO:""autophagosome membrane"")",autophagosome membrane
+14280,Abundance,CHEBI,False,"2,4-dinitrophenol",42017.0,"a(CHEBI:""2,4-dinitrophenol"")","2,4-dinitrophenol"
+14281,Abundance,CHEBI,False,N(5)-ethyl-L-glutamine,17394.0,"a(CHEBI:""N(5)-ethyl-L-glutamine"")",N(5)-ethyl-L-glutamine
+14282,Abundance,PUBCHEM,False,46216556,,"a(PUBCHEM:""46216556"")",46216556
+14283,Abundance,CHEBI,,superoxide,,"a(CHEBI:""superoxide"",loc(MESHA:""Microglia""))",superoxide
+14284,Abundance,MESH,False,Morphine,,"a(MESH:""Morphine"")",Morphine
+14285,Abundance,CHEBI,False,sulfamide,29368.0,"a(CHEBI:""sulfamide"")",sulfamide
+14286,Abundance,CHEBI,False,22580,,"a(CHEBI:""22580"")",22580
+14287,Abundance,MESH,False,amyloid beta-protein (25-35),,"a(MESH:""amyloid beta-protein (25-35)"")",amyloid beta-protein (25-35)
+14288,Abundance,CHEBI,False,radical,26519.0,"a(CHEBI:""radical"")",radical
+14289,Abundance,CHEBI,False,18152,,"a(CHEBI:""18152"")",18152
+14290,Abundance,MESH,False,Hippocampus,,"a(MESH:""Hippocampus"")",Hippocampus
+14291,Abundance,CHEBI,False,nitric oxide,16480.0,"a(CHEBI:""nitric oxide"")",nitric oxide
+14292,Abundance,CHEBI,False,cystine,17376.0,"a(CHEBI:""cystine"")",cystine
+14293,Abundance,PUBCHEM,False,8493,,"a(PUBCHEM:""8493"")",8493
+14294,Abundance,CONSO,False,CONSO00009,,"a(CONSO:""CONSO00009"")",CONSO00009
+14295,Abundance,PUBCHEM,False,71772353,,"a(PUBCHEM:""71772353"")",71772353
+14296,Abundance,MESHA,False,"Killer Cells, Natural",,"a(MESHA:""Killer Cells, Natural"")","Killer Cells, Natural"
+14297,Abundance,CHEBI,False,Arachidonoyl dopamine,31231.0,"a(CHEBI:""Arachidonoyl dopamine"")",Arachidonoyl dopamine
+14298,Abundance,CHEBI,False,lipoxin A4,6498.0,"a(CHEBI:""lipoxin A4"")",lipoxin A4
+14299,Abundance,CHEBI,,Thrombin,,"a(CHEBI:""Thrombin"",loc(MESH:""Cerebrospinal Fluid""))",Thrombin
+14300,Abundance,CHEBI,False,(-)-epicatechin,90.0,"a(CHEBI:""(-)-epicatechin"")",(-)-epicatechin
+14301,Abundance,CHEBI,False,thapsigargin,9516.0,"a(CHEBI:""thapsigargin"")",thapsigargin
+14302,Abundance,MESH,False,Trehalose,,"a(MESH:""Trehalose"")",Trehalose
+14303,Abundance,CHEBI,False,calcium cation,39123.0,"a(CHEBI:""calcium cation"")",calcium cation
+14304,Abundance,CHEBI,False,bortezomib,52717.0,"a(CHEBI:""bortezomib"")",bortezomib
+14305,Abundance,CHEBI,False,glycerol 2-phosphate,17270.0,"a(CHEBI:""glycerol 2-phosphate"")",glycerol 2-phosphate
+14306,Abundance,CHEBI,False,astragaloside IV,65457.0,"a(CHEBI:""astragaloside IV"")",astragaloside IV
+14307,Abundance,MESH,False,Dopaminergic Neurons,,"a(MESH:""Dopaminergic Neurons"")",Dopaminergic Neurons
+14308,Abundance,CONSO,False,tideglusib,,"a(CONSO:""tideglusib"")",tideglusib
+14309,Abundance,CHEBI,False,L-glutamate(1-),29985.0,"a(CHEBI:""L-glutamate(1-)"")",L-glutamate(1-)
+14310,Abundance,CHEBI,False,dynasore,132754.0,"a(CHEBI:""dynasore"")",dynasore
+14311,Abundance,MESH,False,1-Methyl-4-phenylpyridinium,,"a(MESH:""1-Methyl-4-phenylpyridinium"")",1-Methyl-4-phenylpyridinium
+14312,Abundance,MESH,False,Vacuolar Proton-Translocating ATPases,,"a(MESH:""Vacuolar Proton-Translocating ATPases"")",Vacuolar Proton-Translocating ATPases
+14313,Abundance,CHEBI,False,harmine,28121.0,"a(CHEBI:""harmine"")",harmine
+14314,Abundance,CHEBI,False,(−)-epigallocatechin 3-gallate,,"a(CHEBI:""(−)-epigallocatechin 3-gallate"")",(−)-epigallocatechin 3-gallate
+14315,Abundance,MESH,False,Microtubules,,"a(MESH:""Microtubules"")",Microtubules
+14316,Abundance,CHEBI,False,Temsirolimus,79699.0,"a(CHEBI:""Temsirolimus"")",Temsirolimus
+14317,Abundance,CHEBI,False,sodium azide,278547.0,"a(CHEBI:""sodium azide"")",sodium azide
+14318,Abundance,PUBCHEM,False,53789478,,"a(PUBCHEM:""53789478"")",53789478
+14319,Abundance,CHEBI,False,nicotinamide,17154.0,"a(CHEBI:""nicotinamide"")",nicotinamide
+14320,Abundance,CHEBI,False,sulfasalazine,9334.0,"a(CHEBI:""sulfasalazine"")",sulfasalazine
+14321,Abundance,CHEBI,False,paullone,138487.0,"a(CHEBI:""paullone"")",paullone
+14322,Abundance,PUBCHEM,False,6444403,,"a(PUBCHEM:""6444403"")",6444403
+14323,Abundance,PUBCHEM,False,5311,,"a(PUBCHEM:""5311"")",5311
+14324,Abundance,MESHC,,cyclocreatine,,"a(MESHC:""cyclocreatine"",loc(MESHA:""Microglia""))",cyclocreatine
+14325,Abundance,CONSO,False,alpha-synuclein fibrils,,"a(CONSO:""alpha-synuclein fibrils"")",alpha-synuclein fibrils
+14326,Abundance,CHEBI,False,(E)-3-tosylacrylonitrile,85928.0,"a(CHEBI:""(E)-3-tosylacrylonitrile"")",(E)-3-tosylacrylonitrile
+14327,Abundance,CHEBI,False,valproic acid,39867.0,"a(CHEBI:""valproic acid"")",valproic acid
+14328,Abundance,MESHCS,,Neurofibrillary Tangles,,"a(MESHCS:""Neurofibrillary Tangles"",loc(MESHA:""Brain""))",Neurofibrillary Tangles
+14329,Abundance,MESH,False,Neuropil Threads,,"a(MESH:""Neuropil Threads"")",Neuropil Threads
+14330,Abundance,GOCC,False,excitatory synapse,,"a(GOCC:""excitatory synapse"")",excitatory synapse
+14331,Abundance,CONSO,False,"Tau antibody, 4E4",,"a(CONSO:""Tau antibody, 4E4"")","Tau antibody, 4E4"
+14332,Abundance,MESH,False,Brain,,"a(MESH:""Brain"")",Brain
+14333,Abundance,CHEBI,False,marimastat,50662.0,"a(CHEBI:""marimastat"")",marimastat
+14334,Abundance,GO,False,late endosome,,"a(GO:""late endosome"")",late endosome
+14335,Abundance,CHEBI,False,linoleic acid,17351.0,"a(CHEBI:""linoleic acid"")",linoleic acid
+14336,Abundance,PUBCHEM,False,448537,,"a(PUBCHEM:""448537"")",448537
+14337,Abundance,CHEBI,False,peroxides,25940.0,"a(CHEBI:""peroxides"")",peroxides
+14338,Abundance,PUBCHEM,False,172232364,,"a(PUBCHEM:""172232364"")",172232364
+14339,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Hippocampus""))",amyloid-beta
+14340,Abundance,CHEBI,False,icosanoid,23899.0,"a(CHEBI:""icosanoid"")",icosanoid
+14341,Abundance,PUBCHEM,False,11234052,,"a(PUBCHEM:""11234052"")",11234052
+14342,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(MESH:""Cytosol""))",calcium(2+)
+14343,Abundance,MGI,,Ptprc,,"a(MGI:""Ptprc"",loc(CHEBI:""amyloid-beta""))",Ptprc
+14344,Abundance,CHEBI,False,chloroquine,3638.0,"a(CHEBI:""chloroquine"")",chloroquine
+14345,Abundance,PUBCHEM,False,49806720,,"a(PUBCHEM:""49806720"")",49806720
+14346,Abundance,MESH,False,Lipofuscin,,"a(MESH:""Lipofuscin"")",Lipofuscin
+14347,Abundance,PUBCHEM,False,877863,,"a(PUBCHEM:""877863"")",877863
+14348,Abundance,CHEBI,False,meldonium,131843.0,"a(CHEBI:""meldonium"")",meldonium
+14349,Abundance,CHEBI,False,poly(I:C),84491.0,"a(CHEBI:""poly(I:C)"")",poly(I:C)
+14350,Abundance,CHEBI,False,palbociclib,85993.0,"a(CHEBI:""palbociclib"")",palbociclib
+14351,Abundance,MESH,False,Insulins,,"a(MESH:""Insulins"")",Insulins
+14352,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESHA:""Microglia""))",amyloid-beta
+14353,Abundance,CONSO,False,polyQ aggregates,,"a(CONSO:""polyQ aggregates"")",polyQ aggregates
+14354,Abundance,CHEBI,False,iron cation,24875.0,"a(CHEBI:""iron cation"")",iron cation
+14355,Abundance,CHEBI,False,valproate,60654.0,"a(CHEBI:""valproate"")",valproate
+14356,Abundance,CHEBI,False,phorbol 13-acetate 12-myristate,37537.0,"a(CHEBI:""phorbol 13-acetate 12-myristate"")",phorbol 13-acetate 12-myristate
+14357,Abundance,CHEBI,False,Bisphenol A diglycidyl ether,34578.0,"a(CHEBI:""Bisphenol A diglycidyl ether"")",Bisphenol A diglycidyl ether
+14358,Abundance,MESH,False,Adult,,"a(MESH:""Adult"")",Adult
+14359,Abundance,PUBCHEM,False,4456430,,"a(PUBCHEM:""4456430"")",4456430
+14360,Abundance,CHEBI,False,Adenosine 5'-phosphate disodium,81690.0,"a(CHEBI:""Adenosine 5'-phosphate disodium"")",Adenosine 5'-phosphate disodium
+14361,Abundance,CHEBI,,glutamate(2-),,"a(CHEBI:""glutamate(2-)"",loc(MESH:""Dopaminergic Neurons""))",glutamate(2-)
+14362,Abundance,CHEBI,False,rifampicin,28077.0,"a(CHEBI:""rifampicin"")",rifampicin
+14363,Abundance,CONSO,False,thioxooxazolidine,,"a(CONSO:""thioxooxazolidine"")",thioxooxazolidine
+14364,Abundance,CHEBI,False,SB 203580,90705.0,"a(CHEBI:""SB 203580"")",SB 203580
+14365,Abundance,CHEBI,False,L-kynurenine,16946.0,"a(CHEBI:""L-kynurenine"")",L-kynurenine
+14366,Abundance,CHEBI,False,fulvestrant,31638.0,"a(CHEBI:""fulvestrant"")",fulvestrant
+14367,Abundance,CHEBI,False,emodin,42223.0,"a(CHEBI:""emodin"")",emodin
+14368,Abundance,MESH,False,Placebos,,"a(MESH:""Placebos"")",Placebos
+14369,Abundance,MESHA,False,Th17 Cells,,"a(MESHA:""Th17 Cells"")",Th17 Cells
+14370,Abundance,CHEBI,False,anandamide,2700.0,"a(CHEBI:""anandamide"")",anandamide
+14371,Abundance,CHEBI,,amyloid-beta,,"a(CHEBI:""amyloid-beta"",loc(MESH:""Extracellular Fluid""))",amyloid-beta
+14372,Abundance,MESHA,False,Ependymoglial Cells,,"a(MESHA:""Ependymoglial Cells"")",Ependymoglial Cells
+14373,Abundance,CHEBI,False,NS-398,73458.0,"a(CHEBI:""NS-398"")",NS-398
+14374,Abundance,MESHA,False,Neuroglia,,"a(MESHA:""Neuroglia"")",Neuroglia
+14375,Abundance,MESH,False,Ubiquitin-Protein Ligases,,"a(MESH:""Ubiquitin-Protein Ligases"")",Ubiquitin-Protein Ligases
+14376,Abundance,CHEBI,False,D-serine,16523.0,"a(CHEBI:""D-serine"")",D-serine
+14377,Abundance,CHEBI,False,prostaglandin E2(1-),606564.0,"a(CHEBI:""prostaglandin E2(1-)"")",prostaglandin E2(1-)
+14378,Abundance,HP,False,blood-cerebrospinal fluid barrier,,"a(HP:""blood-cerebrospinal fluid barrier"")",blood-cerebrospinal fluid barrier
+14379,Abundance,MESHC,False,"RNA, Viral",,"a(MESHC:""RNA, Viral"")","RNA, Viral"
+14380,Abundance,CHEBI,False,folic acid,27470.0,"a(CHEBI:""folic acid"")",folic acid
+14381,Abundance,CHEBI,False,"all-cis-5,8,11,14,17-icosapentaenoic acid",28364.0,"a(CHEBI:""all-cis-5,8,11,14,17-icosapentaenoic acid"")","all-cis-5,8,11,14,17-icosapentaenoic acid"
+14382,Abundance,PUBCHEM,False,2973,,"a(PUBCHEM:""2973"")",2973
+14383,Abundance,MESH,False,Anesthetics,,"a(MESH:""Anesthetics"")",Anesthetics
+14384,Abundance,NNS,False,Amyloid beta-derived diffusible ligands,,"a(NNS:""Amyloid beta-derived diffusible ligands"")",Amyloid beta-derived diffusible ligands
+14385,Abundance,CHEBI,False,3-nitropropanoic acid,16348.0,"a(CHEBI:""3-nitropropanoic acid"")",3-nitropropanoic acid
+14386,Abundance,MESH,False,"1-(3-(4-butyl-1-piperidinyl)propyl)-3,4-dihydro-2(1H)-quinolinone",,"a(MESH:""1-(3-(4-butyl-1-piperidinyl)propyl)-3,4-dihydro-2(1H)-quinolinone"")","1-(3-(4-butyl-1-piperidinyl)propyl)-3,4-dihydro-2(1H)-quinolinone"
+14387,Abundance,PUBCHEM,False,277318041,,"a(PUBCHEM:""277318041"")",277318041
+14388,Abundance,PUBCHEM,False,10476,,"a(PUBCHEM:""10476"")",10476
+14389,Abundance,CONSO,False,VU0456940,,"a(CONSO:""VU0456940"")",VU0456940
+14390,Abundance,NIFT,False,Glucose hypometabolism,,"a(NIFT:""Glucose hypometabolism"")",Glucose hypometabolism
+14391,Abundance,GO,False,endolysosome,,"a(GO:""endolysosome"")",endolysosome
+14392,Abundance,MESH,False,Interferon Type I,,"a(MESH:""Interferon Type I"")",Interferon Type I
+14393,Abundance,MESHA,False,GABAergic Neurons,,"a(MESHA:""GABAergic Neurons"")",GABAergic Neurons
+14394,Abundance,NIFT,False,Clinical dementia rating,,"a(NIFT:""Clinical dementia rating"")",Clinical dementia rating
+14395,Abundance,CHEBI,False,GW0742,,"a(CHEBI:""GW0742"")",GW0742
+14396,Abundance,NCIT,False,Caspase-1,,"a(NCIT:""Caspase-1"")",Caspase-1
+14397,Abundance,CHEBI,False,valinomycin,28545.0,"a(CHEBI:""valinomycin"")",valinomycin
+14398,Abundance,NCIT,False,Trehalose,,"a(NCIT:""Trehalose"")",Trehalose
+14399,Abundance,CHEBI,False,cerebrosterol,,"a(CHEBI:""cerebrosterol"")",cerebrosterol
+14400,Abundance,CHEBI,False,Sodium arsenite,29678.0,"a(CHEBI:""Sodium arsenite"")",Sodium arsenite
+14401,Abundance,CHEBI,False,oxygen radical,61073.0,"a(CHEBI:""oxygen radical"")",oxygen radical
+14402,Abundance,MESH,False,RNA,,"a(MESH:""RNA"")",RNA
+14403,Abundance,CHEBI,False,dihydro-beta-erythroidine,34705.0,"a(CHEBI:""dihydro-beta-erythroidine"")",dihydro-beta-erythroidine
+14404,Abundance,MESH,False,"8-iodo-2,3,4,5-tetrahydro-3-methyl-5-phenyl-1H-3-benzazepine-7-ol",,"a(MESH:""8-iodo-2,3,4,5-tetrahydro-3-methyl-5-phenyl-1H-3-benzazepine-7-ol"")","8-iodo-2,3,4,5-tetrahydro-3-methyl-5-phenyl-1H-3-benzazepine-7-ol"
+14405,Abundance,MESH,False,Interleukins,,"a(MESH:""Interleukins"")",Interleukins
+14406,Abundance,CHEBI,False,Anatabine,2705.0,"a(CHEBI:""Anatabine"")",Anatabine
+14407,Abundance,DRUGBANK,False,1-Anilino-8-Naphthalene Sulfonate,,"a(DRUGBANK:""1-Anilino-8-Naphthalene Sulfonate"")",1-Anilino-8-Naphthalene Sulfonate
+14408,Abundance,CHEBI,False,copper(II) sulfate pentahydrate,31440.0,"a(CHEBI:""copper(II) sulfate pentahydrate"")",copper(II) sulfate pentahydrate
+14409,Abundance,MESH,False,Waste Products,,"a(MESH:""Waste Products"")",Waste Products
+14410,Abundance,CHEBI,False,bryostatin 1,88353.0,"a(CHEBI:""bryostatin 1"")",bryostatin 1
+14411,Abundance,CHEBI,False,guanosine 5'-monophosphate,17345.0,"a(CHEBI:""guanosine 5'-monophosphate"")",guanosine 5'-monophosphate
+14412,Abundance,MESH,,Th17 Cells,,"a(MESH:""Th17 Cells"",loc(MESH:""Central Nervous System""))",Th17 Cells
+14413,Abundance,CHEMBLA,False,CHEMBL659,,"a(CHEMBLA:""CHEMBL659"")",CHEMBL659
+14414,Abundance,MESH,False,"Receptors, Cholinergic",,"a(MESH:""Receptors, Cholinergic"")","Receptors, Cholinergic"
+14415,Abundance,CHEBI,False,carvedilol,3441.0,"a(CHEBI:""carvedilol"")",carvedilol
+14416,Abundance,MESH,False,Steroids,,"a(MESH:""Steroids"")",Steroids
+14417,Abundance,GOCC,False,microtubule plus-end,,"a(GOCC:""microtubule plus-end"")",microtubule plus-end
+14418,Abundance,CHEBI,False,glutamine,28300.0,"a(CHEBI:""glutamine"")",glutamine
+14419,Abundance,NIFT,False,Fractional anisotropy,,"a(NIFT:""Fractional anisotropy"")",Fractional anisotropy
+14420,Abundance,MESH,False,Lymphatic Vessels,,"a(MESH:""Lymphatic Vessels"")",Lymphatic Vessels
+14421,Abundance,MESHF,False,"Memory, Episodic",,"a(MESHF:""Memory, Episodic"")","Memory, Episodic"
+14422,Abundance,CHEBI,False,benzoxazine,46969.0,"a(CHEBI:""benzoxazine"")",benzoxazine
+14423,Abundance,CHEBI,False,staurosporine,15738.0,"a(CHEBI:""staurosporine"")",staurosporine
+14424,Abundance,CHEBI,False,Angiotensin IV,80127.0,"a(CHEBI:""Angiotensin IV"")",Angiotensin IV
+14425,Abundance,FIXME,False,Tau aggregation,,"a(FIXME:""Tau aggregation"")",Tau aggregation
+14426,Abundance,CONSO,False,VU0090157,,"a(CONSO:""VU0090157"")",VU0090157
+14427,Abundance,NCIT,False,C13281,,"a(NCIT:""C13281"")",C13281
+14428,Abundance,CHEBI,False,succinic acid,15741.0,"a(CHEBI:""succinic acid"")",succinic acid
+14429,Abundance,FIXME,False,"InChI=1S/C25H30ClN5O3S/c1-2-3-24-23(16-28-31(24)21-8-6-19(26)7-9-21)25(32)29-20-12-14-30(15-13-20)17-18-4-10-22(11-5-18)35(27,33)34/h4-11,16,20H,2-3,12-15,17H2,1H3,(H,29,32)(H2,27,33,34)",,"a(FIXME:""InChI=1S/C25H30ClN5O3S/c1-2-3-24-23(16-28-31(24)21-8-6-19(26)7-9-21)25(32)29-20-12-14-30(15-13-20)17-18-4-10-22(11-5-18)35(27,33)34/h4-11,16,20H,2-3,12-15,17H2,1H3,(H,29,32)(H2,27,33,34)"")","InChI=1S/C25H30ClN5O3S/c1-2-3-24-23(16-28-31(24)21-8-6-19(26)7-9-21)25(32)29-20-12-14-30(15-13-20)17-18-4-10-22(11-5-18)35(27,33)34/h4-11,16,20H,2-3,12-15,17H2,1H3,(H,29,32)(H2,27,33,34)"
+14430,Abundance,NNS,False,loss of extracellular striatal dopamine,,"a(NNS:""loss of extracellular striatal dopamine"")",loss of extracellular striatal dopamine
+14431,Abundance,CHEBI,False,"3,3',5-triiodo-L-thyronine",18258.0,"a(CHEBI:""3,3',5-triiodo-L-thyronine"")","3,3',5-triiodo-L-thyronine"
+14432,Abundance,CHEBI,False,oxidised LDL,60151.0,"a(CHEBI:""oxidised LDL"")",oxidised LDL
+14433,Abundance,FIXME,False,"InChI=1S/C25H32N6O3S/c1-2-23-24(28-29-31(23)18-20-6-4-3-5-7-20)25(32)27-16-19-12-14-30(15-13-19)17-21-8-10-22(11-9-21)35(26,33)34/h3-11,19H,2,12-18H2,1H3,(H,27,32)(H2,26,33,34)",,"a(FIXME:""InChI=1S/C25H32N6O3S/c1-2-23-24(28-29-31(23)18-20-6-4-3-5-7-20)25(32)27-16-19-12-14-30(15-13-19)17-21-8-10-22(11-9-21)35(26,33)34/h3-11,19H,2,12-18H2,1H3,(H,27,32)(H2,26,33,34)"")","InChI=1S/C25H32N6O3S/c1-2-23-24(28-29-31(23)18-20-6-4-3-5-7-20)25(32)27-16-19-12-14-30(15-13-19)17-21-8-10-22(11-9-21)35(26,33)34/h3-11,19H,2,12-18H2,1H3,(H,27,32)(H2,26,33,34)"
+14434,Abundance,CONSO,False,PTI-125,,"a(CONSO:""PTI-125"")",PTI-125
+14435,Abundance,MESH,False,Ultraviolet Rays,,"a(MESH:""Ultraviolet Rays"")",Ultraviolet Rays
+14436,Abundance,FIXME,False,"InChI=1S/C23H26ClN5O/c24-21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)",,"a(FIXME:""InChI=1S/C23H26ClN5O/c24-21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)"")","InChI=1S/C23H26ClN5O/c24-21-8-6-20(7-9-21)17-29-26-15-22(27-29)23(30)25-14-18-10-12-28(13-11-18)16-19-4-2-1-3-5-19/h1-9,15,18H,10-14,16-17H2,(H,25,30)"
+14437,Abundance,CHEBI,False,butyric acid,30772.0,"a(CHEBI:""butyric acid"")",butyric acid
+14438,Abundance,MESHC,False,Antioxidants,,"a(MESHC:""Antioxidants"")",Antioxidants
+14439,Abundance,PUBCHEM,False,135341754,,"a(PUBCHEM:""135341754"")",135341754
+14440,Abundance,CHEBI,False,hydrogen peroxide,16240.0,"a(CHEBI:""hydrogen peroxide"")",hydrogen peroxide
+14441,Abundance,CHEBI,False,tropisetron,32269.0,"a(CHEBI:""tropisetron"")",tropisetron
+14442,Abundance,DRUGBANK,False,Daclizumab,,"a(DRUGBANK:""Daclizumab"")",Daclizumab
+14443,Abundance,CHEBI,False,peroxynitrite,25941.0,"a(CHEBI:""peroxynitrite"")",peroxynitrite
+14444,Abundance,CONSO,False,CONSO00089,,"a(CONSO:""CONSO00089"")",CONSO00089
+14445,Abundance,PUBCHEM,False,56972222,,"a(PUBCHEM:""56972222"")",56972222
+14446,Abundance,PUBCHEM,False,44151255,,"a(PUBCHEM:""44151255"")",44151255
+14447,Abundance,CHEBI,False,zinc(2+),29105.0,"a(CHEBI:""zinc(2+)"")",zinc(2+)
+14448,Abundance,MESH,False,alpha-conotoxin MII,,"a(MESH:""alpha-conotoxin MII"")",alpha-conotoxin MII
+14449,Abundance,MESH,False,Macrophages,,"a(MESH:""Macrophages"")",Macrophages
+14450,Abundance,PUBCHEM,False,50070200,,"a(PUBCHEM:""50070200"")",50070200
+14451,Abundance,MESH,False,Autoantigens,,"a(MESH:""Autoantigens"")",Autoantigens
+14452,Abundance,CHEBI,False,Ondansetron,7773.0,"a(CHEBI:""Ondansetron"")",Ondansetron
+14453,Abundance,CHEBI,False,(-)-cotinine,68641.0,"a(CHEBI:""(-)-cotinine"")",(-)-cotinine
+14454,Abundance,GOCC,False,cell,,"a(GOCC:""cell"")",cell
+14455,Abundance,MESH,False,nicotinic receptor alpha3beta4,,"a(MESH:""nicotinic receptor alpha3beta4"")",nicotinic receptor alpha3beta4
+14456,Abundance,MESH,False,Pyrimidines,,"a(MESH:""Pyrimidines"")",Pyrimidines
+14457,Abundance,MESH,False,Choline O-Acetyltransferase,,"a(MESH:""Choline O-Acetyltransferase"")",Choline O-Acetyltransferase
+14458,Abundance,CHEBI,False,ornithine,18257.0,"a(CHEBI:""ornithine"")",ornithine
+14459,Abundance,MESH,False,Adrenocorticotropic Hormone,,"a(MESH:""Adrenocorticotropic Hormone"")",Adrenocorticotropic Hormone
+14460,Abundance,NCIT,False,C156004,,"a(NCIT:""C156004"")",C156004
+14461,Abundance,CHEBI,False,"1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate",16618.0,"a(CHEBI:""1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate"")","1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate"
+14462,Abundance,PUBCHEM,False,9797360,,"a(PUBCHEM:""9797360"")",9797360
+14463,Abundance,GO,False,hippocampal mossy fiber,,"a(GO:""hippocampal mossy fiber"")",hippocampal mossy fiber
+14464,Abundance,CHEBI,False,quercetin,16243.0,"a(CHEBI:""quercetin"")",quercetin
+14465,Abundance,PUBCHEM,False,310378,,"a(PUBCHEM:""310378"")",310378
+14466,Abundance,CHEBI,False,forskolin,42471.0,"a(CHEBI:""forskolin"")",forskolin
+14467,Abundance,CHEBI,False,laquinimod,134738.0,"a(CHEBI:""laquinimod"")",laquinimod
+14468,Abundance,CHEBI,False,Genisteine,81074.0,"a(CHEBI:""Genisteine"")",Genisteine
+14469,Abundance,PUBCHEM,False,439418,,"a(PUBCHEM:""439418"")",439418
+14470,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""axon""))",calcium(2+)
+14471,Abundance,PUBCHEM,False,5997,,"a(PUBCHEM:""5997"")",5997
+14472,Abundance,PUBCHEM,False,3686,,"a(PUBCHEM:""3686"")",3686
+14473,Abundance,CONSO,False,CONSO00017,,"a(CONSO:""CONSO00017"")",CONSO00017
+14474,Abundance,CHEBI,False,9704,,"a(CHEBI:""9704"")",9704
+14475,Abundance,CHEBI,False,imipramine,47499.0,"a(CHEBI:""imipramine"")",imipramine
+14476,Abundance,CONSO,False,CONSO00022,,"a(CONSO:""CONSO00022"")",CONSO00022
+14477,Abundance,CHEBI,False,Molindone,6965.0,"a(CHEBI:""Molindone"")",Molindone
+14478,Abundance,MESH,False,RNA Splicing Factors,,"a(MESH:""RNA Splicing Factors"")",RNA Splicing Factors
+14479,Abundance,GO,False,endoplasmic reticulum,,"a(GO:""endoplasmic reticulum"")",endoplasmic reticulum
+14480,Abundance,CHEBI,False,corticosterone,16827.0,"a(CHEBI:""corticosterone"")",corticosterone
+14481,Abundance,CONSO,False,protein aggregates,,"a(CONSO:""protein aggregates"")",protein aggregates
+14482,Abundance,MESH,False,Neurons,,"a(MESH:""Neurons"")",Neurons
+14483,Abundance,PUBCHEM,False,14235,,"a(PUBCHEM:""14235"")",14235
+14484,Abundance,CHEBI,False,growth hormone,37845.0,"a(CHEBI:""growth hormone"")",growth hormone
+14485,Abundance,CHEBI,False,mercury atom,25195.0,"a(CHEBI:""mercury atom"")",mercury atom
+14486,Abundance,CHEBI,,calcium(2+),,"a(CHEBI:""calcium(2+)"",loc(GO:""mitochondrion""))",calcium(2+)
+14487,Abundance,MESH,False,Dendritic Cells,,"a(MESH:""Dendritic Cells"")",Dendritic Cells
+14488,Abundance,CHEBI,False,(R)-flurbiprofen,38666.0,"a(CHEBI:""(R)-flurbiprofen"")",(R)-flurbiprofen
+14489,Abundance,PUBCHEM,False,68476,,"a(PUBCHEM:""68476"")",68476
+14490,Abundance,CONSO,,amyloid-beta 42 oligomers,,"a(CONSO:""amyloid-beta 42 oligomers"",loc(GO:""intracellular""))",amyloid-beta 42 oligomers
+14491,Abundance,CHEBI,False,lycopene,15948.0,"a(CHEBI:""lycopene"")",lycopene
+14492,Abundance,CHEBI,False,Isorhynchophylline,70071.0,"a(CHEBI:""Isorhynchophylline"")",Isorhynchophylline
+14493,Abundance,CHEBI,False,clonidine,46631.0,"a(CHEBI:""clonidine"")",clonidine
+14494,Abundance,CHEBI,False,L-glutamate(1−),,"a(CHEBI:""L-glutamate(1−)"")",L-glutamate(1−)
+14495,Abundance,CHEBI,False,Empagliflozin,82720.0,"a(CHEBI:""Empagliflozin"")",Empagliflozin
+14496,Abundance,HGNC,False,NLRP3,,"a(HGNC:""NLRP3"")",NLRP3
+14497,Abundance,NCIT,False,Membrane Potential,,"a(NCIT:""Membrane Potential"")",Membrane Potential
+14498,Abundance,CHEBI,False,pirinixic acid,32509.0,"a(CHEBI:""pirinixic acid"")",pirinixic acid
+14499,Abundance,CHEBI,False,oleuropein aglycone,139162.0,"a(CHEBI:""oleuropein aglycone"")",oleuropein aglycone
+14500,Abundance,CHEBI,False,arsenic,,"a(CHEBI:""arsenic"")",arsenic
+14501,Abundance,CHEBI,False,Amitriptyline,2666.0,"a(CHEBI:""Amitriptyline"")",Amitriptyline
+14502,Abundance,CHEBI,False,Paeonol,69581.0,"a(CHEBI:""Paeonol"")",Paeonol
+14503,Abundance,CHEBI,False,insulin receptor signaling pathway,,"a(CHEBI:""insulin receptor signaling pathway"")",insulin receptor signaling pathway

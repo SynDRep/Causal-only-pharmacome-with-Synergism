@@ -1,0 +1,1177 @@
+:ID,:LABEL,namespace:string,bel:string,name:string,involved_other:string
+2184,BiologicalProcess,GOBP,"bp(GOBP:""inflammatory response"")",inflammatory response,inflammatory response
+2185,BiologicalProcess,GOBP,"bp(GOBP:""neuron differentiation"")",neuron differentiation,neuron differentiation
+2186,BiologicalProcess,MESHPP,"bp(MESHPP:""Stress, Physiological"")","Stress, Physiological","Stress, Physiological"
+2187,BiologicalProcess,GOBP,"bp(GOBP:""cell activation"")",cell activation,cell activation
+2188,BiologicalProcess,GOBP,"bp(GOBP:""macrophage differentiation"")",macrophage differentiation,macrophage differentiation
+2189,BiologicalProcess,GOBP,"bp(GOBP:""memory"")",memory,memory
+2190,BiologicalProcess,MESHPP,"bp(MESHPP:""Neuroprotection"")",Neuroprotection,Neuroprotection
+2191,BiologicalProcess,GOBP,"bp(GOBP:""cell chemotaxis"")",cell chemotaxis,cell chemotaxis
+2192,BiologicalProcess,GOBP,"bp(GOBP:""phospholipase C-activating G-protein coupled receptor signaling pathway"")",phospholipase C-activating G-protein coupled receptor signaling pathway,phospholipase C-activating G-protein coupled receptor signaling pathway
+2193,BiologicalProcess,GOBP,"bp(GOBP:""intrinsic apoptotic signaling pathway by p53 class mediator"")",intrinsic apoptotic signaling pathway by p53 class mediator,intrinsic apoptotic signaling pathway by p53 class mediator
+2194,BiologicalProcess,GOBP,"bp(GOBP:""B cell activation"")",B cell activation,B cell activation
+2195,BiologicalProcess,FIXME,"bp(FIXME:""nicotine withdrawal"")",nicotine withdrawal,nicotine withdrawal
+2196,BiologicalProcess,GOBP,"bp(GOBP:""regulation of energy homeostasis"")",regulation of energy homeostasis,regulation of energy homeostasis
+2197,BiologicalProcess,GOBP,"bp(GOBP:""chemokine biosynthetic process"")",chemokine biosynthetic process,chemokine biosynthetic process
+2198,BiologicalProcess,MESHPP,"bp(MESHPP:""Long-Term Potentiation"")",Long-Term Potentiation,Long-Term Potentiation
+2199,BiologicalProcess,GOBP,"bp(GOBP:""neurotrophin production"")",neurotrophin production,neurotrophin production
+2200,BiologicalProcess,GOBP,"bp(GOBP:""dopamine uptake"")",dopamine uptake,dopamine uptake
+2201,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of leukocyte apoptotic process"")",positive regulation of leukocyte apoptotic process,positive regulation of leukocyte apoptotic process
+2202,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of viral reproduction"")",negative regulation of viral reproduction,negative regulation of viral reproduction
+2203,BiologicalProcess,PMIBP,"bp(PMIBP:""Neuronal injury-induced glial apoE secretion"")",Neuronal injury-induced glial apoE secretion,Neuronal injury-induced glial apoE secretion
+2204,BiologicalProcess,CBP,"bp(CBP:""immune mediated tissue damage"")",immune mediated tissue damage,immune mediated tissue damage
+2205,BiologicalProcess,GOBP,"bp(GOBP:""synapsis"")",synapsis,synapsis
+2206,BiologicalProcess,GO,"bp(GO:""inflammatory response"")",inflammatory response,inflammatory response
+2207,BiologicalProcess,GO,"bp(GO:""neurogenesis"")",neurogenesis,neurogenesis
+2208,BiologicalProcess,GO,"bp(GO:""mitochondrial depolarization"")",mitochondrial depolarization,mitochondrial depolarization
+2209,BiologicalProcess,GO,"bp(GO:""regulation of ryanodine-sensitive calcium-release channel activity"")",regulation of ryanodine-sensitive calcium-release channel activity,regulation of ryanodine-sensitive calcium-release channel activity
+2210,BiologicalProcess,GO,"bp(GO:""proteasomal protein catabolic process"")",proteasomal protein catabolic process,proteasomal protein catabolic process
+2211,BiologicalProcess,GO,"bp(GO:""retrograde axonal transport"")",retrograde axonal transport,retrograde axonal transport
+2212,BiologicalProcess,MESH,"bp(MESH:""Cell Hypoxia"")",Cell Hypoxia,Cell Hypoxia
+2213,BiologicalProcess,GO,"bp(GO:""neutrophil activation"")",neutrophil activation,neutrophil activation
+2214,BiologicalProcess,GO,"bp(GO:""pathogenesis"")",pathogenesis,pathogenesis
+2215,BiologicalProcess,GO,"bp(GO:""response to oxygen-glucose deprivation"")",response to oxygen-glucose deprivation,response to oxygen-glucose deprivation
+2216,BiologicalProcess,GO,"bp(GO:""positive regulation of oligodendrocyte apoptotic process"")",positive regulation of oligodendrocyte apoptotic process,positive regulation of oligodendrocyte apoptotic process
+2217,BiologicalProcess,GO,"bp(GO:""neuron remodeling"")",neuron remodeling,neuron remodeling
+2218,BiologicalProcess,GO,"bp(GO:""phosphorylation"")",phosphorylation,phosphorylation
+2219,BiologicalProcess,MESH,"bp(MESH:""Ultraviolet Rays"")",Ultraviolet Rays,Ultraviolet Rays
+2220,BiologicalProcess,GO,"bp(GO:""calcineurin-mediated signaling"")",calcineurin-mediated signaling,calcineurin-mediated signaling
+2221,BiologicalProcess,GO,"bp(GO:""GO:0008292"")",GO:0008292,GO:0008292
+2222,BiologicalProcess,GO,"bp(GO:""mitochondrion distribution"")",mitochondrion distribution,mitochondrion distribution
+2223,BiologicalProcess,GO,"bp(GO:""response to growth factor"")",response to growth factor,response to growth factor
+2224,BiologicalProcess,GO,"bp(GO:""amino acid activation"")",amino acid activation,amino acid activation
+2225,BiologicalProcess,MESH,"bp(MESH:""Hot Temperature"")",Hot Temperature,Hot Temperature
+2226,BiologicalProcess,GOBP,"bp(GOBP:""glucose metabolic process"")",glucose metabolic process,glucose metabolic process
+2227,BiologicalProcess,GOBP,"bp(GOBP:""JAK-STAT cascade"")",JAK-STAT cascade,JAK-STAT cascade
+2228,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial translocation"")",mitochondrial translocation,mitochondrial translocation
+2229,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of synaptic growth at neuromuscular junction"")",negative regulation of synaptic growth at neuromuscular junction,negative regulation of synaptic growth at neuromuscular junction
+2230,BiologicalProcess,MESHPP,"bp(MESHPP:""Wnt Signaling Pathway"")",Wnt Signaling Pathway,Wnt Signaling Pathway
+2231,BiologicalProcess,GOBP,"bp(GOBP:""insulin receptor signaling pathway"")",insulin receptor signaling pathway,insulin receptor signaling pathway
+2232,BiologicalProcess,GOBP,"bp(GOBP:""cellular senescence"")",cellular senescence,cellular senescence
+2233,BiologicalProcess,GOBP,"bp(GOBP:""metabolic process"")",metabolic process,metabolic process
+2234,BiologicalProcess,GOBP,"bp(GOBP:""protein kinase A signaling"")",protein kinase A signaling,protein kinase A signaling
+2235,BiologicalProcess,GOBP,"bp(GOBP:""cell cycle checkpoint"")",cell cycle checkpoint,cell cycle checkpoint
+2236,BiologicalProcess,GOBP,"bp(GOBP:""axon cargo transport"")",axon cargo transport,axon cargo transport
+2237,BiologicalProcess,GOBP,"bp(GOBP:""DNA biosynthetic process"")",DNA biosynthetic process,DNA biosynthetic process
+2238,BiologicalProcess,ADO,"bp(ADO:""Mild_cognitive_impairment"")",Mild_cognitive_impairment,Mild_cognitive_impairment
+2239,BiologicalProcess,GOBP,"bp(GOBP:""migration in host"")",migration in host,migration in host
+2240,BiologicalProcess,GO,"bp(GO:""nicotine metabolic process"")",nicotine metabolic process,nicotine metabolic process
+2241,BiologicalProcess,CONSO,"bp(CONSO:""CONSO00077"")",CONSO00077,CONSO00077
+2242,BiologicalProcess,GO,"bp(GO:""carbohydrate utilization"")",carbohydrate utilization,carbohydrate utilization
+2243,BiologicalProcess,GO,"bp(GO:""endocytosis"")",endocytosis,endocytosis
+2244,BiologicalProcess,GO,"bp(GO:""cholesterol metabolic process"")",cholesterol metabolic process,cholesterol metabolic process
+2245,BiologicalProcess,GO,"bp(GO:""axonal transport"")",axonal transport,axonal transport
+2246,BiologicalProcess,GO,"bp(GO:""autophagosome-lysosome fusion"")",autophagosome-lysosome fusion,autophagosome-lysosome fusion
+2247,BiologicalProcess,GO,"bp(GO:""cell proliferation"")",cell proliferation,cell proliferation
+2248,BiologicalProcess,GO,"bp(GO:""cerebrospinal fluid secretion"")",cerebrospinal fluid secretion,cerebrospinal fluid secretion
+2249,BiologicalProcess,GO,"bp(GO:""exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-independent decay"")",exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-independent decay,exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-independent decay
+2250,BiologicalProcess,GO,"bp(GO:""mast cell degranulation"")",mast cell degranulation,mast cell degranulation
+2251,BiologicalProcess,GO,"bp(GO:""protein dephosphorylation"")",protein dephosphorylation,protein dephosphorylation
+2252,BiologicalProcess,GO,"bp(GO:""bulk synaptic vesicle endocytosis"")",bulk synaptic vesicle endocytosis,bulk synaptic vesicle endocytosis
+2253,BiologicalProcess,CONSO,"bp(CONSO:""non-enzymatic protein modification"")",non-enzymatic protein modification,non-enzymatic protein modification
+2254,BiologicalProcess,GO,"bp(GO:""locomotor rhythm"")",locomotor rhythm,locomotor rhythm
+2255,BiologicalProcess,GO,"bp(GO:""spontaneous synaptic transmission"")",spontaneous synaptic transmission,spontaneous synaptic transmission
+2256,BiologicalProcess,GO,"bp(GO:""glial cell-derived neurotrophic factor receptor signaling pathway"")",glial cell-derived neurotrophic factor receptor signaling pathway,glial cell-derived neurotrophic factor receptor signaling pathway
+2257,BiologicalProcess,GO,"bp(GO:""late endosomal microautophagy"")",late endosomal microautophagy,late endosomal microautophagy
+2258,BiologicalProcess,GO,"bp(GO:""protein modification process"")",protein modification process,protein modification process
+2259,BiologicalProcess,GO,"bp(GO:""bone growth"")",bone growth,bone growth
+2260,BiologicalProcess,GOBP,"bp(GOBP:""regulation of mitochondrial membrane potential"")",regulation of mitochondrial membrane potential,regulation of mitochondrial membrane potential
+2261,BiologicalProcess,MESHPP,"bp(MESHPP:""Synaptic Transmission"")",Synaptic Transmission,Synaptic Transmission
+2262,BiologicalProcess,GOBP,"bp(GOBP:""production of molecular mediator involved in inflammatory response"")",production of molecular mediator involved in inflammatory response,production of molecular mediator involved in inflammatory response
+2263,BiologicalProcess,GOBP,"bp(GOBP:""regulation of catalytic activity"")",regulation of catalytic activity,regulation of catalytic activity
+2264,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of insulin secretion involved in cellular response to glucose stimulus"")",negative regulation of insulin secretion involved in cellular response to glucose stimulus,negative regulation of insulin secretion involved in cellular response to glucose stimulus
+2265,BiologicalProcess,GOBP,"bp(GOBP:""Notch signaling pathway"")",Notch signaling pathway,Notch signaling pathway
+2266,BiologicalProcess,GOBP,"bp(GOBP:""lipid metabolic process"")",lipid metabolic process,lipid metabolic process
+2267,BiologicalProcess,GOBP,"bp(GOBP:""maintenance of permeability of blood-brain barrier"")",maintenance of permeability of blood-brain barrier,maintenance of permeability of blood-brain barrier
+2268,BiologicalProcess,HP,"bp(HP:""cholinesterase activity"")",cholinesterase activity,cholinesterase activity
+2269,BiologicalProcess,GOBP,"bp(GOBP:""leukotriene production involved in inflammatory response"")",leukotriene production involved in inflammatory response,leukotriene production involved in inflammatory response
+2270,BiologicalProcess,GOBP,"bp(GOBP:""superoxide dismutase activity"")",superoxide dismutase activity,superoxide dismutase activity
+2271,BiologicalProcess,GOBP,"bp(GOBP:""peptidyl-cysteine S-trans-nitrosylation"")",peptidyl-cysteine S-trans-nitrosylation,peptidyl-cysteine S-trans-nitrosylation
+2272,BiologicalProcess,PTS,"bp(PTS:""amyloidogenic pathway"")",amyloidogenic pathway,amyloidogenic pathway
+2273,BiologicalProcess,GOBP,"bp(GOBP:""hormone secretion"")",hormone secretion,hormone secretion
+2274,BiologicalProcess,MESHPP,"bp(MESHPP:""Mitochondrial Swelling"")",Mitochondrial Swelling,Mitochondrial Swelling
+2275,BiologicalProcess,GO,"bp(GO:""action potential"")",action potential,action potential
+2276,BiologicalProcess,GO,"bp(GO:""apoptotic DNA fragmentation"")",apoptotic DNA fragmentation,apoptotic DNA fragmentation
+2277,BiologicalProcess,GO,"bp(GO:""synapse pruning"")",synapse pruning,synapse pruning
+2278,BiologicalProcess,GO,"bp(GO:""positive regulation of short-term neuronal synaptic plasticity"")",positive regulation of short-term neuronal synaptic plasticity,positive regulation of short-term neuronal synaptic plasticity
+2279,BiologicalProcess,GO,"bp(GO:""microtubule cytoskeleton organization"")",microtubule cytoskeleton organization,microtubule cytoskeleton organization
+2280,BiologicalProcess,MESH,"bp(MESH:""Apoptosis"")",Apoptosis,Apoptosis
+2281,BiologicalProcess,GO,"bp(GO:""ubiquitin-dependent protein catabolic process"")",ubiquitin-dependent protein catabolic process,ubiquitin-dependent protein catabolic process
+2282,BiologicalProcess,GO,"bp(GO:""synaptic vesicle membrane organization"")",synaptic vesicle membrane organization,synaptic vesicle membrane organization
+2283,BiologicalProcess,GO,"bp(GO:""negative regulation of cell volume"")",negative regulation of cell volume,negative regulation of cell volume
+2284,BiologicalProcess,GO,"bp(GO:""central nervous system development"")",central nervous system development,central nervous system development
+2285,BiologicalProcess,GO,"bp(GO:""ectoderm development"")",ectoderm development,ectoderm development
+2286,BiologicalProcess,MESH,"bp(MESH:""Vision, Ocular"")","Vision, Ocular","Vision, Ocular"
+2287,BiologicalProcess,GO,"bp(GO:""tissue remodeling"")",tissue remodeling,tissue remodeling
+2288,BiologicalProcess,GO,"bp(GO:""autophagosome assembly"")",autophagosome assembly,autophagosome assembly
+2289,BiologicalProcess,GO,"bp(GO:""DNA replication initiation"")",DNA replication initiation,DNA replication initiation
+2290,BiologicalProcess,GO,"bp(GO:""selective autophagy"")",selective autophagy,selective autophagy
+2291,BiologicalProcess,GO,"bp(GO:""actin filament polymerization"")",actin filament polymerization,actin filament polymerization
+2292,BiologicalProcess,GO,"bp(GO:""actin cytoskeleton reorganization"")",actin cytoskeleton reorganization,actin cytoskeleton reorganization
+2293,BiologicalProcess,GOBP,"bp(GOBP:""microglial cell activation involved in immune response"")",microglial cell activation involved in immune response,microglial cell activation involved in immune response
+2294,BiologicalProcess,GOBP,"bp(GOBP:""misfolded protein transport"")",misfolded protein transport,misfolded protein transport
+2295,BiologicalProcess,GOBP,"bp(GOBP:""type III interferon production"")",type III interferon production,type III interferon production
+2296,BiologicalProcess,GOBP,"bp(GOBP:""canonical Wnt signaling pathway"")",canonical Wnt signaling pathway,canonical Wnt signaling pathway
+2297,BiologicalProcess,GOBP,"bp(GOBP:""regulation of synaptic activity"")",regulation of synaptic activity,regulation of synaptic activity
+2298,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of synaptic plasticity"")",positive regulation of synaptic plasticity,positive regulation of synaptic plasticity
+2299,BiologicalProcess,MESHPP,"bp(MESHPP:""Longevity"")",Longevity,Longevity
+2300,BiologicalProcess,HP,"bp(HP:""kinase activity"")",kinase activity,kinase activity
+2301,BiologicalProcess,PMIBP,"bp(PMIBP:""glycogen synthase kinase-3 beta intracellular signaling pathway"")",glycogen synthase kinase-3 beta intracellular signaling pathway,glycogen synthase kinase-3 beta intracellular signaling pathway
+2302,BiologicalProcess,GOBP,"bp(GOBP:""nagative regulation of blood pressure"")",nagative regulation of blood pressure,nagative regulation of blood pressure
+2303,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of mitochondrial membrane permeability involved in apoptotic process"")",positive regulation of mitochondrial membrane permeability involved in apoptotic process,positive regulation of mitochondrial membrane permeability involved in apoptotic process
+2304,BiologicalProcess,GOBP,"bp(GOBP:""phospholipid-hydroperoxide glutathione peroxidase activity"")",phospholipid-hydroperoxide glutathione peroxidase activity,phospholipid-hydroperoxide glutathione peroxidase activity
+2305,BiologicalProcess,MESHPP,"bp(MESHPP:""Long-Term Synaptic Depression"")",Long-Term Synaptic Depression,Long-Term Synaptic Depression
+2306,BiologicalProcess,GO,"bp(GO:""behavior"")",behavior,behavior
+2307,BiologicalProcess,GO,"bp(GO:""neuronal signal transduction"")",neuronal signal transduction,neuronal signal transduction
+2308,BiologicalProcess,GO,"bp(GO:""dendritic spine development"")",dendritic spine development,dendritic spine development
+2309,BiologicalProcess,GO,"bp(GO:""hypermethylation of CpG island"")",hypermethylation of CpG island,hypermethylation of CpG island
+2310,BiologicalProcess,MESH,"bp(MESH:""Neuroprotection"")",Neuroprotection,Neuroprotection
+2311,BiologicalProcess,GO,"bp(GO:""histone H4-K12 acetylation"")",histone H4-K12 acetylation,histone H4-K12 acetylation
+2312,BiologicalProcess,GO,"bp(GO:""maintenance of cell number"")",maintenance of cell number,maintenance of cell number
+2313,BiologicalProcess,GO,"bp(GO:""cellular response to oxidative stress"")",cellular response to oxidative stress,cellular response to oxidative stress
+2314,BiologicalProcess,GO,"bp(GO:""monoamine transport"")",monoamine transport,monoamine transport
+2315,BiologicalProcess,GO,"bp(GO:""mitochondrial fusion"")",mitochondrial fusion,mitochondrial fusion
+2316,BiologicalProcess,MESH,"bp(MESH:""Immunomodulation"")",Immunomodulation,Immunomodulation
+2317,BiologicalProcess,GO,"bp(GO:""regulatory T cell differentiation"")",regulatory T cell differentiation,regulatory T cell differentiation
+2318,BiologicalProcess,GO,"bp(GO:""phosphatidylinositol 3-kinase signaling"")",phosphatidylinositol 3-kinase signaling,phosphatidylinositol 3-kinase signaling
+2319,BiologicalProcess,GO,"bp(GO:""response to nicotine"")",response to nicotine,response to nicotine
+2320,BiologicalProcess,MESH,"bp(MESH:""Calcium Signaling"")",Calcium Signaling,Calcium Signaling
+2321,BiologicalProcess,GOBP,"bp(GOBP:""phagocytosis, engulfment"")","phagocytosis, engulfment","phagocytosis, engulfment"
+2322,BiologicalProcess,GOBP,"bp(GOBP:""activation of immune response"")",activation of immune response,activation of immune response
+2323,BiologicalProcess,GOBP,"bp(GOBP:""calcium-mediated signaling"")",calcium-mediated signaling,calcium-mediated signaling
+2324,BiologicalProcess,GOBP,"bp(GOBP:""B cell proliferation"")",B cell proliferation,B cell proliferation
+2325,BiologicalProcess,GO,"bp(GO:""lipid droplet formation"")",lipid droplet formation,lipid droplet formation
+2326,BiologicalProcess,MESHPP,"bp(MESHPP:""PA"")",PA,PA
+2327,BiologicalProcess,GOBP,"bp(GOBP:""protein kinase B signaling"")",protein kinase B signaling,protein kinase B signaling
+2328,BiologicalProcess,GOBP,"bp(GOBP:""amyloid fibril formation"")",amyloid fibril formation,amyloid fibril formation
+2329,BiologicalProcess,PMIBP,"bp(PMIBP:""neurological decline"")",neurological decline,neurological decline
+2330,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial genome maintenance"")",mitochondrial genome maintenance,mitochondrial genome maintenance
+2331,BiologicalProcess,GOBP,"bp(GOBP:""phosphatidylinositol 3-kinase signaling"")",phosphatidylinositol 3-kinase signaling,phosphatidylinositol 3-kinase signaling
+2332,BiologicalProcess,GOBP,"bp(GOBP:""cell proliferattion"")",cell proliferattion,cell proliferattion
+2333,BiologicalProcess,GO,"bp(GO:""lipid metabolic process"")",lipid metabolic process,lipid metabolic process
+2334,BiologicalProcess,GO,"bp(GO:""regulation of mitochondrial membrane potential"")",regulation of mitochondrial membrane potential,regulation of mitochondrial membrane potential
+2335,BiologicalProcess,GOBP,"bp(GOBP:""gamma-aminobutyric acid signaling pathway"")",gamma-aminobutyric acid signaling pathway,gamma-aminobutyric acid signaling pathway
+2336,BiologicalProcess,GOBP,"bp(GOBP:""synaptic transmission, glutamatergic"")","synaptic transmission, glutamatergic","synaptic transmission, glutamatergic"
+2337,BiologicalProcess,GOBP,"bp(GOBP:""regulation of adenosine receptor signaling pathway"")",regulation of adenosine receptor signaling pathway,regulation of adenosine receptor signaling pathway
+2338,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial electron transport, cytochrome c to oxygen"")","mitochondrial electron transport, cytochrome c to oxygen","mitochondrial electron transport, cytochrome c to oxygen"
+2339,BiologicalProcess,GO,"bp(GO:""autophagy"")",autophagy,autophagy
+2340,BiologicalProcess,GO,"bp(GO:""amyloid-beta formation"")",amyloid-beta formation,amyloid-beta formation
+2341,BiologicalProcess,GO,"bp(GO:""protein farnesylation"")",protein farnesylation,protein farnesylation
+2342,BiologicalProcess,MESH,"bp(MESH:""Cell Survival"")",Cell Survival,Cell Survival
+2343,BiologicalProcess,GO,"bp(GO:""superoxide anion generation"")",superoxide anion generation,superoxide anion generation
+2344,BiologicalProcess,GO,"bp(GO:""phagocytosis"")",phagocytosis,phagocytosis
+2345,BiologicalProcess,GO,"bp(GO:""mitophagy"")",mitophagy,mitophagy
+2346,BiologicalProcess,GO,"bp(GO:""axonal transport of mitochondrion"")",axonal transport of mitochondrion,axonal transport of mitochondrion
+2347,BiologicalProcess,GO,"bp(GO:""energy homeostasis"")",energy homeostasis,energy homeostasis
+2348,BiologicalProcess,GO,"bp(GO:""nucleocytoplasmic transport"")",nucleocytoplasmic transport,nucleocytoplasmic transport
+2349,BiologicalProcess,GO,"bp(GO:""negative regulation of NIK/NF-kappaB signaling"")",negative regulation of NIK/NF-kappaB signaling,negative regulation of NIK/NF-kappaB signaling
+2350,BiologicalProcess,HP,"bp(HP:""Autoimmune antibody positivity"")",Autoimmune antibody positivity,Autoimmune antibody positivity
+2351,BiologicalProcess,GO,"bp(GO:""spinal cord development"")",spinal cord development,spinal cord development
+2352,BiologicalProcess,GO,"bp(GO:""dopamine secretion"")",dopamine secretion,dopamine secretion
+2353,BiologicalProcess,GO,"bp(GO:""GO:0051935"")",GO:0051935,GO:0051935
+2354,BiologicalProcess,GO,"bp(GO:""actin rod assembly"")",actin rod assembly,actin rod assembly
+2355,BiologicalProcess,GO,"bp(GO:""mitochondrion localization"")",mitochondrion localization,mitochondrion localization
+2356,BiologicalProcess,GO,"bp(GO:""aggresome assembly"")",aggresome assembly,aggresome assembly
+2357,BiologicalProcess,GO,"bp(GO:""bile acid biosynthetic process"")",bile acid biosynthetic process,bile acid biosynthetic process
+2358,BiologicalProcess,GO,"bp(GO:""response to chloroquine"")",response to chloroquine,response to chloroquine
+2359,BiologicalProcess,GOBP,"bp(GOBP:""actin polymerization or depolymerization"")",actin polymerization or depolymerization,actin polymerization or depolymerization
+2360,BiologicalProcess,GOBP,"bp(GOBP:""multinuclear osteoclast differentiation"")",multinuclear osteoclast differentiation,multinuclear osteoclast differentiation
+2361,BiologicalProcess,GOBP,"bp(GOBP:""long-term synaptic potentiation"")",long-term synaptic potentiation,long-term synaptic potentiation
+2362,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial calcium ion transport"")",mitochondrial calcium ion transport,mitochondrial calcium ion transport
+2363,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrion disassembly"")",mitochondrion disassembly,mitochondrion disassembly
+2364,BiologicalProcess,GOBP,"bp(GOBP:""generation of neurons"")",generation of neurons,generation of neurons
+2365,BiologicalProcess,GOBP,"bp(GOBP:""transmission of nerve impulse"")",transmission of nerve impulse,transmission of nerve impulse
+2366,BiologicalProcess,PMIBP,"bp(PMIBP:""neurite retraction"")",neurite retraction,neurite retraction
+2367,BiologicalProcess,GOBP,"bp(GOBP:""learning"")",learning,learning
+2368,BiologicalProcess,GOBP,"bp(GOBP:""vasodilation"")",vasodilation,vasodilation
+2369,BiologicalProcess,HP,"bp(HP:""DNA binding"")",DNA binding,DNA binding
+2370,BiologicalProcess,MESHD,"bp(MESHD:""Insulin Resistance"")",Insulin Resistance,Insulin Resistance
+2371,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of cellular process"")",positive regulation of cellular process,positive regulation of cellular process
+2372,BiologicalProcess,GOBP,"bp(GOBP:""retrograde axon cargo transport"")",retrograde axon cargo transport,retrograde axon cargo transport
+2373,BiologicalProcess,GOBP,"bp(GOBP:""neuron remodeling"")",neuron remodeling,neuron remodeling
+2374,BiologicalProcess,GOBP,"bp(GOBP:""Wnt signaling pathway"")",Wnt signaling pathway,Wnt signaling pathway
+2375,BiologicalProcess,GOBP,"bp(GOBP:""stress fiber assembly"")",stress fiber assembly,stress fiber assembly
+2376,BiologicalProcess,GO,"bp(GO:""learning"")",learning,learning
+2377,BiologicalProcess,GO,"bp(GO:""locomotion"")",locomotion,locomotion
+2378,BiologicalProcess,GO,"bp(GO:""calcium ion homeostasis"")",calcium ion homeostasis,calcium ion homeostasis
+2379,BiologicalProcess,CONSO,"bp(CONSO:""PI3K-Akt signaling pathway"")",PI3K-Akt signaling pathway,PI3K-Akt signaling pathway
+2380,BiologicalProcess,GO,"bp(GO:""neuron differentiation"")",neuron differentiation,neuron differentiation
+2381,BiologicalProcess,MESH,"bp(MESH:""Unfolded Protein Response"")",Unfolded Protein Response,Unfolded Protein Response
+2382,BiologicalProcess,GO,"bp(GO:""microtubule bundle formation"")",microtubule bundle formation,microtubule bundle formation
+2383,BiologicalProcess,GO,"bp(GO:""stress granule assembly"")",stress granule assembly,stress granule assembly
+2384,BiologicalProcess,CONSO,"bp(CONSO:""Proteostasis"")",Proteostasis,Proteostasis
+2385,BiologicalProcess,GO,"bp(GO:""DNA conformation change"")",DNA conformation change,DNA conformation change
+2386,BiologicalProcess,MESH,"bp(MESH:""Glycolysis"")",Glycolysis,Glycolysis
+2387,BiologicalProcess,GO,"bp(GO:""evasion or tolerance of host defenses by virus"")",evasion or tolerance of host defenses by virus,evasion or tolerance of host defenses by virus
+2388,BiologicalProcess,MESH,"bp(MESH:""Remyelination"")",Remyelination,Remyelination
+2389,BiologicalProcess,CONSO,"bp(CONSO:""amyloidogenesis"")",amyloidogenesis,amyloidogenesis
+2390,BiologicalProcess,GO,"bp(GO:""cellular response to heat"")",cellular response to heat,cellular response to heat
+2391,BiologicalProcess,MESH,"bp(MESH:""Neurofibrillary Tangles"")",Neurofibrillary Tangles,Neurofibrillary Tangles
+2392,BiologicalProcess,GO,"bp(GO:""acetylcholine catabolic process"")",acetylcholine catabolic process,acetylcholine catabolic process
+2393,BiologicalProcess,GO,"bp(GO:""response to ischemia"")",response to ischemia,response to ischemia
+2394,BiologicalProcess,GO,"bp(GO:""SNARE complex assembly"")",SNARE complex assembly,SNARE complex assembly
+2395,BiologicalProcess,MESH,"bp(MESH:""Protein Structure, Secondary"")","Protein Structure, Secondary","Protein Structure, Secondary"
+2396,BiologicalProcess,GO,"bp(GO:""response to lipopolysaccharide"")",response to lipopolysaccharide,response to lipopolysaccharide
+2397,BiologicalProcess,GOBP,"bp(GOBP:""apoptotic process"")",apoptotic process,apoptotic process
+2398,BiologicalProcess,MESHPP,"bp(MESHPP:""Apoptosis"")",Apoptosis,Apoptosis
+2399,BiologicalProcess,MESHPP,"bp(MESHPP:""Lipid Peroxidation"")",Lipid Peroxidation,Lipid Peroxidation
+2400,BiologicalProcess,GOBP,"bp(GOBP:""macrophage activation"")",macrophage activation,macrophage activation
+2401,BiologicalProcess,GOBP,"bp(GOBP:""protein stabilization"")",protein stabilization,protein stabilization
+2402,BiologicalProcess,GOBP,"bp(GOBP:""ERK1 and ERK2 cascade"")",ERK1 and ERK2 cascade,ERK1 and ERK2 cascade
+2403,BiologicalProcess,GOBP,"bp(GOBP:""T cell differentiation"")",T cell differentiation,T cell differentiation
+2404,BiologicalProcess,GOBP,"bp(GOBP:""neuronal signal transduction"")",neuronal signal transduction,neuronal signal transduction
+2405,BiologicalProcess,GOBP,"bp(GOBP:""cell differentiation"")",cell differentiation,cell differentiation
+2406,BiologicalProcess,GOBP,"bp(GOBP:""regulation of synaptic plasticity"")",regulation of synaptic plasticity,regulation of synaptic plasticity
+2407,BiologicalProcess,GOBP,"bp(GOBP:""cellular response to oxidative stress"")",cellular response to oxidative stress,cellular response to oxidative stress
+2408,BiologicalProcess,GOBP,"bp(GOBP:""response to insulin"")",response to insulin,response to insulin
+2409,BiologicalProcess,GOBP,"bp(GOBP:""platelet aggregation"")",platelet aggregation,platelet aggregation
+2410,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of androgen receptor activity"")",negative regulation of androgen receptor activity,negative regulation of androgen receptor activity
+2411,BiologicalProcess,NCIT,"bp(NCIT:""Proteolysis"")",Proteolysis,Proteolysis
+2412,BiologicalProcess,NCIT,"bp(NCIT:""Aggregation"")",Aggregation,Aggregation
+2413,BiologicalProcess,GO,"bp(GO:""myelination"")",myelination,myelination
+2414,BiologicalProcess,GO,"bp(GO:""parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization"")",parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization,parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+2415,BiologicalProcess,MESH,"bp(MESH:""Growth"")",Growth,Growth
+2416,BiologicalProcess,GO,"bp(GO:""angiogenesis"")",angiogenesis,angiogenesis
+2417,BiologicalProcess,GO,"bp(GO:""mitochondrial fragmentation involved in apoptotic process"")",mitochondrial fragmentation involved in apoptotic process,mitochondrial fragmentation involved in apoptotic process
+2418,BiologicalProcess,GO,"bp(GO:""neurofibrillary tangle assembly"")",neurofibrillary tangle assembly,neurofibrillary tangle assembly
+2419,BiologicalProcess,GO,"bp(GO:""long-term memory"")",long-term memory,long-term memory
+2420,BiologicalProcess,GO,"bp(GO:""oxidative phosphorylation"")",oxidative phosphorylation,oxidative phosphorylation
+2421,BiologicalProcess,GO,"bp(GO:""ERAD pathway"")",ERAD pathway,ERAD pathway
+2422,BiologicalProcess,GO,"bp(GO:""mitochondrial unfolded protein response"")",mitochondrial unfolded protein response,mitochondrial unfolded protein response
+2423,BiologicalProcess,GO,"bp(GO:""locomotory behavior"")",locomotory behavior,locomotory behavior
+2424,BiologicalProcess,GO,"bp(GO:""calcium import into the mitochondrion"")",calcium import into the mitochondrion,calcium import into the mitochondrion
+2425,BiologicalProcess,GO,"bp(GO:""neuron cellular homeostasis"")",neuron cellular homeostasis,neuron cellular homeostasis
+2426,BiologicalProcess,GO,"bp(GO:""regulation of cellular component movement"")",regulation of cellular component movement,regulation of cellular component movement
+2427,BiologicalProcess,GO,"bp(GO:""Fas signaling pathway"")",Fas signaling pathway,Fas signaling pathway
+2428,BiologicalProcess,GO,"bp(GO:""short-term memory"")",short-term memory,short-term memory
+2429,BiologicalProcess,GO,"bp(GO:""ATP metabolic process"")",ATP metabolic process,ATP metabolic process
+2430,BiologicalProcess,GO,"bp(GO:""circadian sleep/wake cycle, wakefulness"")","circadian sleep/wake cycle, wakefulness","circadian sleep/wake cycle, wakefulness"
+2431,BiologicalProcess,GO,"bp(GO:""microglial cell activation involved in immune response"")",microglial cell activation involved in immune response,microglial cell activation involved in immune response
+2432,BiologicalProcess,GO,"bp(GO:""dorsal spinal cord development"")",dorsal spinal cord development,dorsal spinal cord development
+2433,BiologicalProcess,GOBP,"bp(GOBP:""immune response"")",immune response,immune response
+2434,BiologicalProcess,GOBP,"bp(GOBP:""membrane protein ectodomain proteolysis"")",membrane protein ectodomain proteolysis,membrane protein ectodomain proteolysis
+2435,BiologicalProcess,GOBP,"bp(GOBP:""ATP biosynthetic process"")",ATP biosynthetic process,ATP biosynthetic process
+2436,BiologicalProcess,GOBP,"bp(GOBP:""cell adhesion"")",cell adhesion,cell adhesion
+2437,BiologicalProcess,GOBP,"bp(GOBP:""T cell proliferation"")",T cell proliferation,T cell proliferation
+2438,BiologicalProcess,GOBP,"bp(GOBP:""synaptic transmission, cholinergic"")","synaptic transmission, cholinergic","synaptic transmission, cholinergic"
+2439,BiologicalProcess,GOBP,"bp(GOBP:""hydroxymethylglutaryl-CoA reductase kinase activity"")",hydroxymethylglutaryl-CoA reductase kinase activity,hydroxymethylglutaryl-CoA reductase kinase activity
+2440,BiologicalProcess,HP,"bp(HP:""NMDA glutamate receptor activity"")",NMDA glutamate receptor activity,NMDA glutamate receptor activity
+2441,BiologicalProcess,GOBP,"bp(GOBP:""membrane lipid catabolic process"")",membrane lipid catabolic process,membrane lipid catabolic process
+2442,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of endocytosis"")",positive regulation of endocytosis,positive regulation of endocytosis
+2443,BiologicalProcess,GOBP,"bp(GOBP:""activation of GTPase activity"")",activation of GTPase activity,activation of GTPase activity
+2444,BiologicalProcess,GOBP,"bp(GOBP:""behavior"")",behavior,behavior
+2445,BiologicalProcess,HP,"bp(HP:""telomerase activity"")",telomerase activity,telomerase activity
+2446,BiologicalProcess,GOBP,"bp(GOBP:""actin crosslink formation"")",actin crosslink formation,actin crosslink formation
+2447,BiologicalProcess,GOBP,"bp(GOBP:""axon regeneration"")",axon regeneration,axon regeneration
+2448,BiologicalProcess,GOBP,"bp(GOBP:""gamma-aminobutyric acid receptor clustering"")",gamma-aminobutyric acid receptor clustering,gamma-aminobutyric acid receptor clustering
+2449,BiologicalProcess,GOBP,"bp(GOBP:""iron assimilation by chelation and transport"")",iron assimilation by chelation and transport,iron assimilation by chelation and transport
+2450,BiologicalProcess,GO,"bp(GO:""L-glutamate import"")",L-glutamate import,L-glutamate import
+2451,BiologicalProcess,GO,"bp(GO:""signal release from synapse"")",signal release from synapse,signal release from synapse
+2452,BiologicalProcess,GO,"bp(GO:""neuron-neuron synaptic transmission"")",neuron-neuron synaptic transmission,neuron-neuron synaptic transmission
+2453,BiologicalProcess,GO,"bp(GO:""dendritic spine morphogenesis"")",dendritic spine morphogenesis,dendritic spine morphogenesis
+2454,BiologicalProcess,GO,"bp(GO:""complement activation"")",complement activation,complement activation
+2455,BiologicalProcess,GO,"bp(GO:""lysosomal protein catabolic process"")",lysosomal protein catabolic process,lysosomal protein catabolic process
+2456,BiologicalProcess,GO,"bp(GO:""tubulin complex assembly"")",tubulin complex assembly,tubulin complex assembly
+2457,BiologicalProcess,GO,"bp(GO:""synapse maturation"")",synapse maturation,synapse maturation
+2458,BiologicalProcess,GO,"bp(GO:""motor learning"")",motor learning,motor learning
+2459,BiologicalProcess,NCIT,"bp(NCIT:""C17741"")",C17741,C17741
+2460,BiologicalProcess,GO,"bp(GO:""activation of immune response"")",activation of immune response,activation of immune response
+2461,BiologicalProcess,GO,"bp(GO:""transport across blood-brain barrier"")",transport across blood-brain barrier,transport across blood-brain barrier
+2462,BiologicalProcess,GO,"bp(GO:""peroxisome proliferator activated receptor signaling pathway"")",peroxisome proliferator activated receptor signaling pathway,peroxisome proliferator activated receptor signaling pathway
+2463,BiologicalProcess,GO,"bp(GO:""receptor clustering"")",receptor clustering,receptor clustering
+2464,BiologicalProcess,GO,"bp(GO:""neuron maturation"")",neuron maturation,neuron maturation
+2465,BiologicalProcess,GO,"bp(GO:""peptidyl-cysteine oxidation"")",peptidyl-cysteine oxidation,peptidyl-cysteine oxidation
+2466,BiologicalProcess,GO,"bp(GO:""amyloid-beta clearance by transcytosis"")",amyloid-beta clearance by transcytosis,amyloid-beta clearance by transcytosis
+2467,BiologicalProcess,GO,"bp(GO:""autophagosome membrane docking"")",autophagosome membrane docking,autophagosome membrane docking
+2468,BiologicalProcess,GOBP,"bp(GOBP:""beta-amyloid clearance"")",beta-amyloid clearance,beta-amyloid clearance
+2469,BiologicalProcess,GOBP,"bp(GOBP:""dendritic cell migration"")",dendritic cell migration,dendritic cell migration
+2470,BiologicalProcess,MESHF,"bp(MESHF:""Memory, Short-Term"")","Memory, Short-Term","Memory, Short-Term"
+2471,BiologicalProcess,GOBP,"bp(GOBP:""response to reactive oxygen species"")",response to reactive oxygen species,response to reactive oxygen species
+2472,BiologicalProcess,GOBP,"bp(GOBP:""zinc ion homeostasis"")",zinc ion homeostasis,zinc ion homeostasis
+2473,BiologicalProcess,GOBP,"bp(GOBP:""cholesterol efflux"")",cholesterol efflux,cholesterol efflux
+2474,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of insulin receptor signaling pathway"")",negative regulation of insulin receptor signaling pathway,negative regulation of insulin receptor signaling pathway
+2475,BiologicalProcess,GOBP,"bp(GOBP:""wound healing"")",wound healing,wound healing
+2476,BiologicalProcess,GOBP,"bp(GOBP:""stress response to copper ion"")",stress response to copper ion,stress response to copper ion
+2477,BiologicalProcess,HP,"bp(HP:""calcium channel activity"")",calcium channel activity,calcium channel activity
+2478,BiologicalProcess,GOBP,"bp(GOBP:""synaptic vesicle to endosome fusion"")",synaptic vesicle to endosome fusion,synaptic vesicle to endosome fusion
+2479,BiologicalProcess,GOBP,"bp(GOBP:""potassium ion import"")",potassium ion import,potassium ion import
+2480,BiologicalProcess,CBP,"bp(CBP:""glutamate excitotoxicity"")",glutamate excitotoxicity,glutamate excitotoxicity
+2481,BiologicalProcess,GOBP,"bp(GOBP:""viral entry into host cell"")",viral entry into host cell,viral entry into host cell
+2482,BiologicalProcess,GO,"bp(GO:""immune response"")",immune response,immune response
+2483,BiologicalProcess,GO,"bp(GO:""cytokine production"")",cytokine production,cytokine production
+2484,BiologicalProcess,GO,"bp(GO:""blood vessel development"")",blood vessel development,blood vessel development
+2485,BiologicalProcess,MESH,"bp(MESH:""Transendothelial and Transepithelial Migration"")",Transendothelial and Transepithelial Migration,Transendothelial and Transepithelial Migration
+2486,BiologicalProcess,GO,"bp(GO:""T cell antigen processing and presentation"")",T cell antigen processing and presentation,T cell antigen processing and presentation
+2487,BiologicalProcess,GO,"bp(GO:""excitatory postsynaptic potential"")",excitatory postsynaptic potential,excitatory postsynaptic potential
+2488,BiologicalProcess,GO,"bp(GO:""astrocyte development"")",astrocyte development,astrocyte development
+2489,BiologicalProcess,GO,"bp(GO:""protein K48-linked ubiquitination"")",protein K48-linked ubiquitination,protein K48-linked ubiquitination
+2490,BiologicalProcess,GO,"bp(GO:""response to type I interferon"")",response to type I interferon,response to type I interferon
+2491,BiologicalProcess,GO,"bp(GO:""T-helper 2 cell cytokine production"")",T-helper 2 cell cytokine production,T-helper 2 cell cytokine production
+2492,BiologicalProcess,GO,"bp(GO:""positive regulation of calcium ion import"")",positive regulation of calcium ion import,positive regulation of calcium ion import
+2493,BiologicalProcess,GO,"bp(GO:""cell cycle arrest"")",cell cycle arrest,cell cycle arrest
+2494,BiologicalProcess,GO,"bp(GO:""Hsp90 deacetylation"")",Hsp90 deacetylation,Hsp90 deacetylation
+2495,BiologicalProcess,GO,"bp(GO:""positive regulation of voltage-gated calcium channel activity"")",positive regulation of voltage-gated calcium channel activity,positive regulation of voltage-gated calcium channel activity
+2496,BiologicalProcess,MESH,"bp(MESH:""D017774"")",D017774,D017774
+2497,BiologicalProcess,GO,"bp(GO:""membrane hyperpolarization"")",membrane hyperpolarization,membrane hyperpolarization
+2498,BiologicalProcess,MESH,"bp(MESH:""Membrane Potentials"")",Membrane Potentials,Membrane Potentials
+2499,BiologicalProcess,GO,"bp(GO:""response to amino acid starvation"")",response to amino acid starvation,response to amino acid starvation
+2500,BiologicalProcess,GO,"bp(GO:""glycosaminoglycan catabolic process"")",glycosaminoglycan catabolic process,glycosaminoglycan catabolic process
+2501,BiologicalProcess,GO,"bp(GO:""histone acetylation"")",histone acetylation,histone acetylation
+2502,BiologicalProcess,GOBP,"bp(GOBP:""macrophage cytokine production"")",macrophage cytokine production,macrophage cytokine production
+2503,BiologicalProcess,GOBP,"bp(GOBP:""electron transport chain"")",electron transport chain,electron transport chain
+2504,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of mitochondrial translation in response to stress"")",positive regulation of mitochondrial translation in response to stress,positive regulation of mitochondrial translation in response to stress
+2505,BiologicalProcess,GOBP,"bp(GOBP:""regulation of natural killer cell apoptotic process"")",regulation of natural killer cell apoptotic process,regulation of natural killer cell apoptotic process
+2506,BiologicalProcess,GOBP,"bp(GOBP:""axon guidance"")",axon guidance,axon guidance
+2507,BiologicalProcess,GOBP,"bp(GOBP:""adrenergic receptor signaling pathway"")",adrenergic receptor signaling pathway,adrenergic receptor signaling pathway
+2508,BiologicalProcess,GOBP,"bp(GOBP:""regulation of catalase activity"")",regulation of catalase activity,regulation of catalase activity
+2509,BiologicalProcess,GOBP,"bp(GOBP:""iron ion homeostasis"")",iron ion homeostasis,iron ion homeostasis
+2510,BiologicalProcess,PMIBP,"bp(PMIBP:""alpha synuclein fibrillation"")",alpha synuclein fibrillation,alpha synuclein fibrillation
+2511,BiologicalProcess,GOBP,"bp(GOBP:""stem cell proliferation"")",stem cell proliferation,stem cell proliferation
+2512,BiologicalProcess,GOBP,"bp(GOBP:""necrotic cell death"")",necrotic cell death,necrotic cell death
+2513,BiologicalProcess,PTS,"bp(PTS:""ERK cascade"")",ERK cascade,ERK cascade
+2514,BiologicalProcess,MESHPP,"bp(MESHPP:""Gene Transfer, Horizontal"")","Gene Transfer, Horizontal","Gene Transfer, Horizontal"
+2515,BiologicalProcess,GO,"bp(GO:""social behavior"")",social behavior,social behavior
+2516,BiologicalProcess,GO,"bp(GO:""canonical Wnt signaling pathway"")",canonical Wnt signaling pathway,canonical Wnt signaling pathway
+2517,BiologicalProcess,GO,"bp(GO:""anterograde axonal protein transport"")",anterograde axonal protein transport,anterograde axonal protein transport
+2518,BiologicalProcess,GO,"bp(GO:""calcium ion import into cytosol"")",calcium ion import into cytosol,calcium ion import into cytosol
+2519,BiologicalProcess,GO,"bp(GO:""stress-activated protein kinase signaling cascade"")",stress-activated protein kinase signaling cascade,stress-activated protein kinase signaling cascade
+2520,BiologicalProcess,GO,"bp(GO:""chromatin organization"")",chromatin organization,chromatin organization
+2521,BiologicalProcess,GO,"bp(GO:""response to drug"")",response to drug,response to drug
+2522,BiologicalProcess,GO,"bp(GO:""neuron-glial cell signaling"")",neuron-glial cell signaling,neuron-glial cell signaling
+2523,BiologicalProcess,GO,"bp(GO:""sphingosine-1-phosphate receptor signaling pathway"")",sphingosine-1-phosphate receptor signaling pathway,sphingosine-1-phosphate receptor signaling pathway
+2524,BiologicalProcess,MESH,"bp(MESH:""Neuronal Plasticity"")",Neuronal Plasticity,Neuronal Plasticity
+2525,BiologicalProcess,GO,"bp(GO:""dendritic spine organization"")",dendritic spine organization,dendritic spine organization
+2526,BiologicalProcess,GO,"bp(GO:""one-carbon metabolic process"")",one-carbon metabolic process,one-carbon metabolic process
+2527,BiologicalProcess,GO,"bp(GO:""sodium ion transport"")",sodium ion transport,sodium ion transport
+2528,BiologicalProcess,GO,"bp(GO:""coagulation"")",coagulation,coagulation
+2529,BiologicalProcess,GOBP,"bp(GOBP:""immune response-regulating cell surface receptor signaling pathway involved in phagocytosis"")",immune response-regulating cell surface receptor signaling pathway involved in phagocytosis,immune response-regulating cell surface receptor signaling pathway involved in phagocytosis
+2530,BiologicalProcess,GOBP,"bp(GOBP:""calcium ion import into cell"")",calcium ion import into cell,calcium ion import into cell
+2531,BiologicalProcess,GOBP,"bp(GOBP:""erythrocyte clearance"")",erythrocyte clearance,erythrocyte clearance
+2532,BiologicalProcess,GOBP,"bp(GOBP:""CD4-positive, alpha-beta T cell activation"")","CD4-positive, alpha-beta T cell activation","CD4-positive, alpha-beta T cell activation"
+2533,BiologicalProcess,GOBP,"bp(GOBP:""response to unfolded protein"")",response to unfolded protein,response to unfolded protein
+2534,BiologicalProcess,GOBP,"bp(GOBP:""pre-B cell receptor expression"")",pre-B cell receptor expression,pre-B cell receptor expression
+2535,BiologicalProcess,GOBP,"bp(GOBP:""induction of apoptotic process"")",induction of apoptotic process,induction of apoptotic process
+2536,BiologicalProcess,GOBP,"bp(GOBP:""regulation of cAMP-dependent protein kinase activity"")",regulation of cAMP-dependent protein kinase activity,regulation of cAMP-dependent protein kinase activity
+2537,BiologicalProcess,GOBP,"bp(GOBP:""platelet activation"")",platelet activation,platelet activation
+2538,BiologicalProcess,GOBP,"bp(GOBP:""apoptotic signaling pathway"")",apoptotic signaling pathway,apoptotic signaling pathway
+2539,BiologicalProcess,GOBP,"bp(GOBP:""phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway"")",phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway,phospholipase C-activating G-protein coupled acetylcholine receptor signaling pathway
+2540,BiologicalProcess,HP,"bp(HP:""spatial memory"")",spatial memory,spatial memory
+2541,BiologicalProcess,GOBP,"bp(GOBP:""energy reserve metabolic process"")",energy reserve metabolic process,energy reserve metabolic process
+2542,BiologicalProcess,GOBP,"bp(GOBP:""SNARE complex assembly"")",SNARE complex assembly,SNARE complex assembly
+2543,BiologicalProcess,GO,"bp(GO:""cellular calcium ion homeostasis"")",cellular calcium ion homeostasis,cellular calcium ion homeostasis
+2544,BiologicalProcess,GO,"bp(GO:""synaptic vesicle endocytosis"")",synaptic vesicle endocytosis,synaptic vesicle endocytosis
+2545,BiologicalProcess,GO,"bp(GO:""ERK1 and ERK2 cascade"")",ERK1 and ERK2 cascade,ERK1 and ERK2 cascade
+2546,BiologicalProcess,GO,"bp(GO:""cAMP-mediated signaling"")",cAMP-mediated signaling,cAMP-mediated signaling
+2547,BiologicalProcess,GO,"bp(GO:""pre-B cell receptor expression"")",pre-B cell receptor expression,pre-B cell receptor expression
+2548,BiologicalProcess,GO,"bp(GO:""apoptotic signaling pathway"")",apoptotic signaling pathway,apoptotic signaling pathway
+2549,BiologicalProcess,GO,"bp(GO:""cell redox homeostasis"")",cell redox homeostasis,cell redox homeostasis
+2550,BiologicalProcess,MESHPP,"bp(MESHPP:""exercise"")",exercise,exercise
+2551,BiologicalProcess,NCIT,"bp(NCIT:""Protein Truncation"")",Protein Truncation,Protein Truncation
+2552,BiologicalProcess,MESHPP,"bp(MESHPP:""Gastrointestinal Microbiome"")",Gastrointestinal Microbiome,Gastrointestinal Microbiome
+2553,BiologicalProcess,MESHPP,"bp(MESHPP:""neuroprotective agents"")",neuroprotective agents,neuroprotective agents
+2554,BiologicalProcess,GO,"bp(GO:""intracellular receptor signaling pathway"")",intracellular receptor signaling pathway,intracellular receptor signaling pathway
+2555,BiologicalProcess,GO,"bp(GO:""keratinocyte migration"")",keratinocyte migration,keratinocyte migration
+2556,BiologicalProcess,GO,"bp(GO:""modulation of chemical synaptic transmission"")",modulation of chemical synaptic transmission,modulation of chemical synaptic transmission
+2557,BiologicalProcess,GO,"bp(GO:""mast cell activation"")",mast cell activation,mast cell activation
+2558,BiologicalProcess,GO,"bp(GO:""cargo loading into vesicle"")",cargo loading into vesicle,cargo loading into vesicle
+2559,BiologicalProcess,GO,"bp(GO:""mRNA stabilization"")",mRNA stabilization,mRNA stabilization
+2560,BiologicalProcess,MESH,"bp(MESH:""Long-Term Potentiation"")",Long-Term Potentiation,Long-Term Potentiation
+2561,BiologicalProcess,GO,"bp(GO:""response to insulin"")",response to insulin,response to insulin
+2562,BiologicalProcess,GO,"bp(GO:""regulation of phosphatidylinositol 3-kinase signaling"")",regulation of phosphatidylinositol 3-kinase signaling,regulation of phosphatidylinositol 3-kinase signaling
+2563,BiologicalProcess,GO,"bp(GO:""lysosomal lumen acidification"")",lysosomal lumen acidification,lysosomal lumen acidification
+2564,BiologicalProcess,GO,"bp(GO:""intracellular distribution of mitochondria"")",intracellular distribution of mitochondria,intracellular distribution of mitochondria
+2565,BiologicalProcess,GO,"bp(GO:""proteasomal ubiquitin-independent protein catabolic process"")",proteasomal ubiquitin-independent protein catabolic process,proteasomal ubiquitin-independent protein catabolic process
+2566,BiologicalProcess,GOBP,"bp(GOBP:""aging"")",aging,aging
+2567,BiologicalProcess,GOBP,"bp(GOBP:""cytoskeleton organization"")",cytoskeleton organization,cytoskeleton organization
+2568,BiologicalProcess,GOBP,"bp(GOBP:""synapse assembly"")",synapse assembly,synapse assembly
+2569,BiologicalProcess,GOBP,"bp(GOBP:""cell-cell signaling"")",cell-cell signaling,cell-cell signaling
+2570,BiologicalProcess,GOBP,"bp(GOBP:""DNA damage response, detection of DNA damage"")","DNA damage response, detection of DNA damage","DNA damage response, detection of DNA damage"
+2571,BiologicalProcess,GOBP,"bp(GOBP:""short-term synaptic potentiation"")",short-term synaptic potentiation,short-term synaptic potentiation
+2572,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of glial cell apoptotic process"")",positive regulation of glial cell apoptotic process,positive regulation of glial cell apoptotic process
+2573,BiologicalProcess,GOBP,"bp(GOBP:""calcium ion transport"")",calcium ion transport,calcium ion transport
+2574,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of lysosomal membrane permeability"")",positive regulation of lysosomal membrane permeability,positive regulation of lysosomal membrane permeability
+2575,BiologicalProcess,GOBP,"bp(GOBP:""phosphatidylinositol 3-kinase activity"")",phosphatidylinositol 3-kinase activity,phosphatidylinositol 3-kinase activity
+2576,BiologicalProcess,GOBP,"bp(GOBP:""cellular potassium ion transport"")",cellular potassium ion transport,cellular potassium ion transport
+2577,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of vasodilation"")",positive regulation of vasodilation,positive regulation of vasodilation
+2578,BiologicalProcess,GOBP,"bp(GOBP:""memory deficits"")",memory deficits,memory deficits
+2579,BiologicalProcess,GOBP,"bp(GOBP:""blood coagulation"")",blood coagulation,blood coagulation
+2580,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of synaptic transmission, cholinergic"")","positive regulation of synaptic transmission, cholinergic","positive regulation of synaptic transmission, cholinergic"
+2581,BiologicalProcess,GOBP,"bp(GOBP:""neuroblast proliferation"")",neuroblast proliferation,neuroblast proliferation
+2582,BiologicalProcess,GO,"bp(GO:""walking behavior"")",walking behavior,walking behavior
+2583,BiologicalProcess,GO,"bp(GO:""astrocyte activation"")",astrocyte activation,astrocyte activation
+2584,BiologicalProcess,GO,"bp(GO:""synaptic signaling"")",synaptic signaling,synaptic signaling
+2585,BiologicalProcess,GO,"bp(GO:""ion homeostasis"")",ion homeostasis,ion homeostasis
+2586,BiologicalProcess,GO,"bp(GO:""regulation of calcium-mediated signaling"")",regulation of calcium-mediated signaling,regulation of calcium-mediated signaling
+2587,BiologicalProcess,GO,"bp(GO:""protein catabolic process"")",protein catabolic process,protein catabolic process
+2588,BiologicalProcess,GO,"bp(GO:""anterograde dendritic transport"")",anterograde dendritic transport,anterograde dendritic transport
+2589,BiologicalProcess,GO,"bp(GO:""vesicle transport along microtubule"")",vesicle transport along microtubule,vesicle transport along microtubule
+2590,BiologicalProcess,GO,"bp(GO:""chemical synaptic transmission"")",chemical synaptic transmission,chemical synaptic transmission
+2591,BiologicalProcess,NCIT,"bp(NCIT:""C16407"")",C16407,C16407
+2592,BiologicalProcess,GO,"bp(GO:""activation of innate immune response"")",activation of innate immune response,activation of innate immune response
+2593,BiologicalProcess,GO,"bp(GO:""response to amyloid-beta"")",response to amyloid-beta,response to amyloid-beta
+2594,BiologicalProcess,GO,"bp(GO:""sodium ion import across plasma membrane"")",sodium ion import across plasma membrane,sodium ion import across plasma membrane
+2595,BiologicalProcess,GO,"bp(GO:""hyperpolarization of postsynaptic membrane"")",hyperpolarization of postsynaptic membrane,hyperpolarization of postsynaptic membrane
+2596,BiologicalProcess,GO,"bp(GO:""GO:0007271"")",GO:0007271,GO:0007271
+2597,BiologicalProcess,GO,"bp(GO:""cellular response to mechanical stimulus"")",cellular response to mechanical stimulus,cellular response to mechanical stimulus
+2598,BiologicalProcess,GO,"bp(GO:""biosynthetic process"")",biosynthetic process,biosynthetic process
+2599,BiologicalProcess,GO,"bp(GO:""cellular response to ethanol"")",cellular response to ethanol,cellular response to ethanol
+2600,BiologicalProcess,GOBP,"bp(GOBP:""regulation of inflammatory response"")",regulation of inflammatory response,regulation of inflammatory response
+2601,BiologicalProcess,GOBP,"bp(GOBP:""microglial cell migration"")",microglial cell migration,microglial cell migration
+2602,BiologicalProcess,GOBP,"bp(GOBP:""angiogenesis"")",angiogenesis,angiogenesis
+2603,BiologicalProcess,GOBP,"bp(GOBP:""neuron projection morphogenesis"")",neuron projection morphogenesis,neuron projection morphogenesis
+2604,BiologicalProcess,GOBP,"bp(GOBP:""myeloid dendritic cell activation"")",myeloid dendritic cell activation,myeloid dendritic cell activation
+2605,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrion organization"")",mitochondrion organization,mitochondrion organization
+2606,BiologicalProcess,GOBP,"bp(GOBP:""ER-associated protein catabolic process"")",ER-associated protein catabolic process,ER-associated protein catabolic process
+2607,BiologicalProcess,GOBP,"bp(GOBP:""synaptic vesicle budding from endosome"")",synaptic vesicle budding from endosome,synaptic vesicle budding from endosome
+2608,BiologicalProcess,GOBP,"bp(GOBP:""RNA metabolic process"")",RNA metabolic process,RNA metabolic process
+2609,BiologicalProcess,MESHPP,"bp(MESHPP:""Membrane Potential, Mitochondrial"")","Membrane Potential, Mitochondrial","Membrane Potential, Mitochondrial"
+2610,BiologicalProcess,GOBP,"bp(GOBP:""prolactin secretion"")",prolactin secretion,prolactin secretion
+2611,BiologicalProcess,GOBP,"bp(GOBP:""histone deacetylase activity"")",histone deacetylase activity,histone deacetylase activity
+2612,BiologicalProcess,GOBP,"bp(GOBP:""phospholipase A2 activity"")",phospholipase A2 activity,phospholipase A2 activity
+2613,BiologicalProcess,GOCC,"bp(GOCC:""potassium channel complex"")",potassium channel complex,potassium channel complex
+2614,BiologicalProcess,GOBP,"bp(GOBP:""gliogenesis"")",gliogenesis,gliogenesis
+2615,BiologicalProcess,GOBP,"bp(GOBP:""oxidative phosphorylation"")",oxidative phosphorylation,oxidative phosphorylation
+2616,BiologicalProcess,MESHPP,"bp(MESHPP:""Cell Transformation, Viral"")","Cell Transformation, Viral","Cell Transformation, Viral"
+2617,BiologicalProcess,GO,"bp(GO:""synapse assembly"")",synapse assembly,synapse assembly
+2618,BiologicalProcess,CONSO,"bp(CONSO:""Microgliosis"")",Microgliosis,Microgliosis
+2619,BiologicalProcess,COSNO,"bp(COSNO:""APP processing"")",APP processing,APP processing
+2620,BiologicalProcess,GO,"bp(GO:""regulation of oxidative phosphorylation"")",regulation of oxidative phosphorylation,regulation of oxidative phosphorylation
+2621,BiologicalProcess,GO,"bp(GO:""detection of redox state"")",detection of redox state,detection of redox state
+2622,BiologicalProcess,GO,"bp(GO:""actin filament organization"")",actin filament organization,actin filament organization
+2623,BiologicalProcess,GO,"bp(GO:""necrotic cell death"")",necrotic cell death,necrotic cell death
+2624,BiologicalProcess,GO,"bp(GO:""cytosolic ciliogenesis"")",cytosolic ciliogenesis,cytosolic ciliogenesis
+2625,BiologicalProcess,GO,"bp(GO:""cellular response to DNA damage stimulus"")",cellular response to DNA damage stimulus,cellular response to DNA damage stimulus
+2626,BiologicalProcess,GO,"bp(GO:""cerebrospinal fluid circulation"")",cerebrospinal fluid circulation,cerebrospinal fluid circulation
+2627,BiologicalProcess,GO,"bp(GO:""positive regulation of blood pressure"")",positive regulation of blood pressure,positive regulation of blood pressure
+2628,BiologicalProcess,GO,"bp(GO:""axon development"")",axon development,axon development
+2629,BiologicalProcess,MESH,"bp(MESH:""Organelle Biogenesis"")",Organelle Biogenesis,Organelle Biogenesis
+2630,BiologicalProcess,GOBP,"bp(GOBP:""tissue homeostasis"")",tissue homeostasis,tissue homeostasis
+2631,BiologicalProcess,GOBP,"bp(GOBP:""toll-like receptor signaling pathway"")",toll-like receptor signaling pathway,toll-like receptor signaling pathway
+2632,BiologicalProcess,GOBP,"bp(GOBP:""homeostatic process"")",homeostatic process,homeostatic process
+2633,BiologicalProcess,GOBP,"bp(GOBP:""central nervous system development"")",central nervous system development,central nervous system development
+2634,BiologicalProcess,GOBP,"bp(GOBP:""dendrite regeneration"")",dendrite regeneration,dendrite regeneration
+2635,BiologicalProcess,GOBP,"bp(GOBP:""reactive oxygen species metabolic process"")",reactive oxygen species metabolic process,reactive oxygen species metabolic process
+2636,BiologicalProcess,GOBP,"bp(GOBP:""cell communication"")",cell communication,cell communication
+2637,BiologicalProcess,GOBP,"bp(GOBP:""phosphatidylinositol 3-kinase cascade"")",phosphatidylinositol 3-kinase cascade,phosphatidylinositol 3-kinase cascade
+2638,BiologicalProcess,GOBP,"bp(GOBP:""regulation of neuronal synaptic plasticity"")",regulation of neuronal synaptic plasticity,regulation of neuronal synaptic plasticity
+2639,BiologicalProcess,PMIBP,"bp(PMIBP:""neuroprotection"")",neuroprotection,neuroprotection
+2640,BiologicalProcess,GOBP,"bp(GOBP:""neuron development"")",neuron development,neuron development
+2641,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of mitosis"")",negative regulation of mitosis,negative regulation of mitosis
+2642,BiologicalProcess,GOBP,"bp(GOBP:""lipid transport"")",lipid transport,lipid transport
+2643,BiologicalProcess,GOBP,"bp(GOBP:""detection of misfolded protein"")",detection of misfolded protein,detection of misfolded protein
+2644,BiologicalProcess,GOBP,"bp(GOBP:""Wnt receptor signaling pathway"")",Wnt receptor signaling pathway,Wnt receptor signaling pathway
+2645,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of phagocytosis"")",negative regulation of phagocytosis,negative regulation of phagocytosis
+2646,BiologicalProcess,GOBP,"bp(GOBP:""regulation of cAMP biosynthetic process"")",regulation of cAMP biosynthetic process,regulation of cAMP biosynthetic process
+2647,BiologicalProcess,GO,"bp(GO:""non-canonical Wnt signaling pathway"")",non-canonical Wnt signaling pathway,non-canonical Wnt signaling pathway
+2648,BiologicalProcess,GO,"bp(GO:""programmed cell death"")",programmed cell death,programmed cell death
+2649,BiologicalProcess,GO,"bp(GO:""pyroptosis"")",pyroptosis,pyroptosis
+2650,BiologicalProcess,MESH,"bp(MESH:""Endoplasmic Reticulum Stress"")",Endoplasmic Reticulum Stress,Endoplasmic Reticulum Stress
+2651,BiologicalProcess,GO,"bp(GO:""ATF6-mediated unfolded protein response"")",ATF6-mediated unfolded protein response,ATF6-mediated unfolded protein response
+2652,BiologicalProcess,GO,"bp(GO:""synaptic transmission, GABAergic"")","synaptic transmission, GABAergic","synaptic transmission, GABAergic"
+2653,BiologicalProcess,GO,"bp(GO:""striatal medium spiny neuron differentiation"")",striatal medium spiny neuron differentiation,striatal medium spiny neuron differentiation
+2654,BiologicalProcess,GO,"bp(GO:""embryo development"")",embryo development,embryo development
+2655,BiologicalProcess,MESH,"bp(MESH:""Immunologic Surveillance"")",Immunologic Surveillance,Immunologic Surveillance
+2656,BiologicalProcess,GO,"bp(GO:""macrophage migration"")",macrophage migration,macrophage migration
+2657,BiologicalProcess,GO,"bp(GO:""glomerular filtration"")",glomerular filtration,glomerular filtration
+2658,BiologicalProcess,GO,"bp(GO:""apoptotic cell clearance"")",apoptotic cell clearance,apoptotic cell clearance
+2659,BiologicalProcess,CONSO,"bp(CONSO:""misfolding"")",misfolding,misfolding
+2660,BiologicalProcess,GO,"bp(GO:""nerve growth factor signaling pathway"")",nerve growth factor signaling pathway,nerve growth factor signaling pathway
+2661,BiologicalProcess,GO,"bp(GO:""protein oxidation"")",protein oxidation,protein oxidation
+2662,BiologicalProcess,GO,"bp(GO:""prepulse inhibition"")",prepulse inhibition,prepulse inhibition
+2663,BiologicalProcess,GO,"bp(GO:""RNA splicing"")",RNA splicing,RNA splicing
+2664,BiologicalProcess,MESH,"bp(MESH:""Autophagy"")",Autophagy,Autophagy
+2665,BiologicalProcess,GO,"bp(GO:""cell death in response to oxidative stress"")",cell death in response to oxidative stress,cell death in response to oxidative stress
+2666,BiologicalProcess,MESHPP,"bp(MESHPP:""Cell Survival"")",Cell Survival,Cell Survival
+2667,BiologicalProcess,MESHPP,"bp(MESHPP:""Immunoreceptor Tyrosine-Based Inhibition Motif"")",Immunoreceptor Tyrosine-Based Inhibition Motif,Immunoreceptor Tyrosine-Based Inhibition Motif
+2668,BiologicalProcess,GOBP,"bp(GOBP:""pattern recognition receptor signaling pathway"")",pattern recognition receptor signaling pathway,pattern recognition receptor signaling pathway
+2669,BiologicalProcess,GOBP,"bp(GOBP:""signaling"")",signaling,signaling
+2670,BiologicalProcess,GOBP,"bp(GOBP:""T-helper 1 cell cytokine production"")",T-helper 1 cell cytokine production,T-helper 1 cell cytokine production
+2671,BiologicalProcess,GOBP,"bp(GOBP:""regulation of ryanodine-sensitive calcium-release channel activity"")",regulation of ryanodine-sensitive calcium-release channel activity,regulation of ryanodine-sensitive calcium-release channel activity
+2672,BiologicalProcess,GOBP,"bp(GOBP:""immune response to tumor cell"")",immune response to tumor cell,immune response to tumor cell
+2673,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of cellular response to oxidative stress"")",positive regulation of cellular response to oxidative stress,positive regulation of cellular response to oxidative stress
+2674,BiologicalProcess,GOBP,"bp(GOBP:""insulin secretion involved in cellular response to glucose stimulus"")",insulin secretion involved in cellular response to glucose stimulus,insulin secretion involved in cellular response to glucose stimulus
+2675,BiologicalProcess,GOBP,"bp(GOBP:""activation of adenylate cyclase activity"")",activation of adenylate cyclase activity,activation of adenylate cyclase activity
+2676,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of calcium-mediated signaling"")",positive regulation of calcium-mediated signaling,positive regulation of calcium-mediated signaling
+2677,BiologicalProcess,GOBP,"bp(GOBP:""synapse loss"")",synapse loss,synapse loss
+2678,BiologicalProcess,GO,"bp(GO:""translation"")",translation,translation
+2679,BiologicalProcess,GO,"bp(GO:""neuron projection development"")",neuron projection development,neuron projection development
+2680,BiologicalProcess,GO,"bp(GO:""clathrin-dependent endocytosis"")",clathrin-dependent endocytosis,clathrin-dependent endocytosis
+2681,BiologicalProcess,GO,"bp(GO:""regulation of oxidative stress-induced cell death"")",regulation of oxidative stress-induced cell death,regulation of oxidative stress-induced cell death
+2682,BiologicalProcess,GO,"bp(GO:""mitochondrial outer membrane permeabilization"")",mitochondrial outer membrane permeabilization,mitochondrial outer membrane permeabilization
+2683,BiologicalProcess,GO,"bp(GO:""positive regulation of protein folding"")",positive regulation of protein folding,positive regulation of protein folding
+2684,BiologicalProcess,GO,"bp(GO:""microtubule severing"")",microtubule severing,microtubule severing
+2685,BiologicalProcess,GO,"bp(GO:""detoxification"")",detoxification,detoxification
+2686,BiologicalProcess,GO,"bp(GO:""neuron death in response to oxidative stress"")",neuron death in response to oxidative stress,neuron death in response to oxidative stress
+2687,BiologicalProcess,MESH,"bp(MESH:""Sleep"")",Sleep,Sleep
+2688,BiologicalProcess,GO,"bp(GO:""DNA hypomethylation"")",DNA hypomethylation,DNA hypomethylation
+2689,BiologicalProcess,GO,"bp(GO:""oligodendrocyte development"")",oligodendrocyte development,oligodendrocyte development
+2690,BiologicalProcess,GO,"bp(GO:""protein catabolic process in the vacuole"")",protein catabolic process in the vacuole,protein catabolic process in the vacuole
+2691,BiologicalProcess,MESH,"bp(MESH:""Proteolysis"")",Proteolysis,Proteolysis
+2692,BiologicalProcess,MESH,"bp(MESH:""Serum Response Element"")",Serum Response Element,Serum Response Element
+2693,BiologicalProcess,GO,"bp(GO:""protein deubiquitination"")",protein deubiquitination,protein deubiquitination
+2694,BiologicalProcess,CONSO,"bp(CONSO:""mitochondrial dysfunction"")",mitochondrial dysfunction,mitochondrial dysfunction
+2695,BiologicalProcess,MESHPP,"bp(MESHPP:""Oxidative stress"")",Oxidative stress,Oxidative stress
+2696,BiologicalProcess,CONSO,"bp(CONSO:""cystein-dependent auto-acetylation"")",cystein-dependent auto-acetylation,cystein-dependent auto-acetylation
+2697,BiologicalProcess,GOBP,"bp(GOBP:""apoptotic cell clearance"")",apoptotic cell clearance,apoptotic cell clearance
+2698,BiologicalProcess,GOBP,"bp(GOBP:""actin cytoskeleton reorganization"")",actin cytoskeleton reorganization,actin cytoskeleton reorganization
+2699,BiologicalProcess,MESHPP,"bp(MESHPP:""Mitochondrial Degradation"")",Mitochondrial Degradation,Mitochondrial Degradation
+2700,BiologicalProcess,GOBP,"bp(GOBP:""MAPK cascade"")",MAPK cascade,MAPK cascade
+2701,BiologicalProcess,GOBP,"bp(GOBP:""cell proliferation"")",cell proliferation,cell proliferation
+2702,BiologicalProcess,GOBP,"bp(GOBP:""cytokine production"")",cytokine production,cytokine production
+2703,BiologicalProcess,HP,"bp(HP:""regulation of NMDA receptor activity"")",regulation of NMDA receptor activity,regulation of NMDA receptor activity
+2704,BiologicalProcess,GOBP,"bp(GOBP:""response to stress"")",response to stress,response to stress
+2705,BiologicalProcess,GOBP,"bp(GOBP:""reelin-mediated signaling pathway"")",reelin-mediated signaling pathway,reelin-mediated signaling pathway
+2706,BiologicalProcess,GOBP,"bp(GOBP:""response to dexamethasone"")",response to dexamethasone,response to dexamethasone
+2707,BiologicalProcess,GOBP,"bp(GOBP:""regulation of insulin-like growth factor receptor signaling pathway"")",regulation of insulin-like growth factor receptor signaling pathway,regulation of insulin-like growth factor receptor signaling pathway
+2708,BiologicalProcess,GOBP,"bp(GOBP:""glucose-6-phosphatase activity"")",glucose-6-phosphatase activity,glucose-6-phosphatase activity
+2709,BiologicalProcess,GOBP,"bp(GOBP:""norepinephrine uptake"")",norepinephrine uptake,norepinephrine uptake
+2710,BiologicalProcess,GOBP,"bp(GOBP:""natural killer cell activation"")",natural killer cell activation,natural killer cell activation
+2711,BiologicalProcess,GOBP,"bp(GOBP:""regulation of viral process"")",regulation of viral process,regulation of viral process
+2712,BiologicalProcess,GOBP,"bp(GOBP:""cell-cell adhesion involved in synapse maturation"")",cell-cell adhesion involved in synapse maturation,cell-cell adhesion involved in synapse maturation
+2713,BiologicalProcess,GOBP,"bp(GOBP:""T cell tolerance induction"")",T cell tolerance induction,T cell tolerance induction
+2714,BiologicalProcess,GOBP,"bp(GOBP:""regulation of sphingomyelin catabolic process"")",regulation of sphingomyelin catabolic process,regulation of sphingomyelin catabolic process
+2715,BiologicalProcess,GOBP,"bp(GOBP:""amyloidogenesis"")",amyloidogenesis,amyloidogenesis
+2716,BiologicalProcess,GO,"bp(GO:""sleep"")",sleep,sleep
+2717,BiologicalProcess,GO,"bp(GO:""regulation of cell growth"")",regulation of cell growth,regulation of cell growth
+2718,BiologicalProcess,GO,"bp(GO:""long-term synaptic depression"")",long-term synaptic depression,long-term synaptic depression
+2719,BiologicalProcess,GO,"bp(GO:""regulation of mitochondrial membrane permeability"")",regulation of mitochondrial membrane permeability,regulation of mitochondrial membrane permeability
+2720,BiologicalProcess,GO,"bp(GO:""regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"")","regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity","regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"
+2721,BiologicalProcess,GO,"bp(GO:""chaperone-mediated autophagy"")",chaperone-mediated autophagy,chaperone-mediated autophagy
+2722,BiologicalProcess,GO,"bp(GO:""anterograde axonal transport"")",anterograde axonal transport,anterograde axonal transport
+2723,BiologicalProcess,GO,"bp(GO:""proteolysis"")",proteolysis,proteolysis
+2724,BiologicalProcess,GO,"bp(GO:""cell growth"")",cell growth,cell growth
+2725,BiologicalProcess,GO,"bp(GO:""cell activation"")",cell activation,cell activation
+2726,BiologicalProcess,MESH,"bp(MESH:""Antibody Formation"")",Antibody Formation,Antibody Formation
+2727,BiologicalProcess,GO,"bp(GO:""necroptotic process"")",necroptotic process,necroptotic process
+2728,BiologicalProcess,GO,"bp(GO:""T cell activation"")",T cell activation,T cell activation
+2729,BiologicalProcess,GO,"bp(GO:""regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II"")",regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+4914,BiologicalProcess,GO,"bp(GO:""retrograde axonal transport of mitochondrion"")",retrograde axonal transport of mitochondrion,retrograde axonal transport of mitochondrion
+4915,BiologicalProcess,GO,"bp(GO:""response to unfolded protein"")",response to unfolded protein,response to unfolded protein
+4916,BiologicalProcess,GO,"bp(GO:""synaptic transmission, glycinergic"")","synaptic transmission, glycinergic","synaptic transmission, glycinergic"
+4917,BiologicalProcess,GO,"bp(GO:""GO:0015871"")",GO:0015871,GO:0015871
+4918,BiologicalProcess,GO,"bp(GO:""response to nerve growth factor"")",response to nerve growth factor,response to nerve growth factor
+4919,BiologicalProcess,GO,"bp(GO:""anterograde axonal transport of mitochondrion"")",anterograde axonal transport of mitochondrion,anterograde axonal transport of mitochondrion
+4920,BiologicalProcess,GO,"bp(GO:""response to nutrient levels"")",response to nutrient levels,response to nutrient levels
+4921,BiologicalProcess,GO,"bp(GO:""cellular response to nutrient"")",cellular response to nutrient,cellular response to nutrient
+4922,BiologicalProcess,MESH,"bp(MESH:""Mitosis"")",Mitosis,Mitosis
+4923,BiologicalProcess,GOBP,"bp(GOBP:""cell motility"")",cell motility,cell motility
+4924,BiologicalProcess,GOBP,"bp(GOBP:""p38MAPK cascade"")",p38MAPK cascade,p38MAPK cascade
+4925,BiologicalProcess,GOBP,"bp(GOBP:""neuron projection development"")",neuron projection development,neuron projection development
+4926,BiologicalProcess,GOBP,"bp(GOBP:""protein import into mitochondrial matrix"")",protein import into mitochondrial matrix,protein import into mitochondrial matrix
+4927,BiologicalProcess,GOBP,"bp(GOBP:""axon transport of mitochondrion"")",axon transport of mitochondrion,axon transport of mitochondrion
+4928,BiologicalProcess,GOBP,"bp(GOBP:""Wnt-activated receptor activity"")",Wnt-activated receptor activity,Wnt-activated receptor activity
+4929,BiologicalProcess,CBP,"bp(CBP:""mitochondrial dysfunction"")",mitochondrial dysfunction,mitochondrial dysfunction
+4930,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of apoptotic process"")",positive regulation of apoptotic process,positive regulation of apoptotic process
+4931,BiologicalProcess,GOBP,"bp(GOBP:""peroxidase reaction"")",peroxidase reaction,peroxidase reaction
+4932,BiologicalProcess,GOBP,"bp(GOBP:""nerve growth factor production"")",nerve growth factor production,nerve growth factor production
+4933,BiologicalProcess,GOBP,"bp(GOBP:""growth"")",growth,growth
+4934,BiologicalProcess,GOBP,"bp(GOBP:""response to heat"")",response to heat,response to heat
+4935,BiologicalProcess,GOBP,"bp(GOBP:""tricarboxylic acid cycle"")",tricarboxylic acid cycle,tricarboxylic acid cycle
+4936,BiologicalProcess,GOBP,"bp(GOBP:""regulation of cellular response to oxidative stress"")",regulation of cellular response to oxidative stress,regulation of cellular response to oxidative stress
+4937,BiologicalProcess,PMIBP,"bp(PMIBP:""beta amyloid induced neuron death"")",beta amyloid induced neuron death,beta amyloid induced neuron death
+4938,BiologicalProcess,MESHPP,"bp(MESHPP:""Virus Internalization"")",Virus Internalization,Virus Internalization
+4939,BiologicalProcess,GO,"bp(GO:""synapse organization"")",synapse organization,synapse organization
+4940,BiologicalProcess,MESH,"bp(MESH:""Heart Rate"")",Heart Rate,Heart Rate
+4941,BiologicalProcess,GO,"bp(GO:""cell death"")",cell death,cell death
+4942,BiologicalProcess,GO,"bp(GO:""Ras protein signal transduction"")",Ras protein signal transduction,Ras protein signal transduction
+4943,BiologicalProcess,GO,"bp(GO:""transcription, DNA-templated"")","transcription, DNA-templated","transcription, DNA-templated"
+4944,BiologicalProcess,GO,"bp(GO:""sphingolipid metabolic process"")",sphingolipid metabolic process,sphingolipid metabolic process
+4945,BiologicalProcess,GO,"bp(GO:""motor neuron apoptotic process"")",motor neuron apoptotic process,motor neuron apoptotic process
+4946,BiologicalProcess,GO,"bp(GO:""proteasome-mediated ubiquitin-dependent protein catabolic process"")",proteasome-mediated ubiquitin-dependent protein catabolic process,proteasome-mediated ubiquitin-dependent protein catabolic process
+4947,BiologicalProcess,MESH,"bp(MESH:""Energy Metabolism"")",Energy Metabolism,Energy Metabolism
+4948,BiologicalProcess,GO,"bp(GO:""regulation of cell cycle"")",regulation of cell cycle,regulation of cell cycle
+4949,BiologicalProcess,GO,"bp(GO:""apoptosome assembly"")",apoptosome assembly,apoptosome assembly
+4950,BiologicalProcess,MESH,"bp(MESH:""Cerebrovascular Circulation"")",Cerebrovascular Circulation,Cerebrovascular Circulation
+4951,BiologicalProcess,GO,"bp(GO:""mRNA polyadenylation"")",mRNA polyadenylation,mRNA polyadenylation
+4952,BiologicalProcess,GO,"bp(GO:""spindle disassembly"")",spindle disassembly,spindle disassembly
+4953,BiologicalProcess,GO,"bp(GO:""plasma membrane invagination"")",plasma membrane invagination,plasma membrane invagination
+4954,BiologicalProcess,GO,"bp(GO:""sarcoplasmic reticulum calcium ion transport"")",sarcoplasmic reticulum calcium ion transport,sarcoplasmic reticulum calcium ion transport
+4955,BiologicalProcess,GO,"bp(GO:""multicellular organism growth"")",multicellular organism growth,multicellular organism growth
+4956,BiologicalProcess,GO,"bp(GO:""lymphocyte proliferation"")",lymphocyte proliferation,lymphocyte proliferation
+4957,BiologicalProcess,GO,"bp(GO:""proteasome assembly"")",proteasome assembly,proteasome assembly
+4958,BiologicalProcess,GO,"bp(GO:""ATP synthesis coupled proton transport"")",ATP synthesis coupled proton transport,ATP synthesis coupled proton transport
+4959,BiologicalProcess,MESHPP,"bp(MESHPP:""oxidative stress"")",oxidative stress,oxidative stress
+4960,BiologicalProcess,GOBP,"bp(GOBP:""respiratory burst"")",respiratory burst,respiratory burst
+4961,BiologicalProcess,GOBP,"bp(GOBP:""signal transduction by p53 class mediator"")",signal transduction by p53 class mediator,signal transduction by p53 class mediator
+4962,BiologicalProcess,GOBP,"bp(GOBP:""B cell differentiation"")",B cell differentiation,B cell differentiation
+4963,BiologicalProcess,FIXME,"bp(FIXME:""nicotine discriminative stimulus"")",nicotine discriminative stimulus,nicotine discriminative stimulus
+4964,BiologicalProcess,GOBP,"bp(GOBP:""regulation of actin filament binding"")",regulation of actin filament binding,regulation of actin filament binding
+4965,BiologicalProcess,GOBP,"bp(GOBP:""tissue regeneration"")",tissue regeneration,tissue regeneration
+4966,BiologicalProcess,GOBP,"bp(GOBP:""peptidyl-tyrosine phosphorylation"")",peptidyl-tyrosine phosphorylation,peptidyl-tyrosine phosphorylation
+4967,BiologicalProcess,GOBP,"bp(GOBP:""T-helper 17 cell differentiation"")",T-helper 17 cell differentiation,T-helper 17 cell differentiation
+4968,BiologicalProcess,GOBP,"bp(GOBP:""cell death"")",cell death,cell death
+4969,BiologicalProcess,GOBP,"bp(GOBP:""astrocyte activation"")",astrocyte activation,astrocyte activation
+4970,BiologicalProcess,GOBP,"bp(GOBP:""regulation of dendritic cell dendrite assembly"")",regulation of dendritic cell dendrite assembly,regulation of dendritic cell dendrite assembly
+4971,BiologicalProcess,GOBP,"bp(GOBP:""tau-protein kinase activity"")",tau-protein kinase activity,tau-protein kinase activity
+4972,BiologicalProcess,GOBP,"bp(GOBP:""nitric oxide-cGMP-mediated signaling pathway"")",nitric oxide-cGMP-mediated signaling pathway,nitric oxide-cGMP-mediated signaling pathway
+4973,BiologicalProcess,GOBP,"bp(GOBP:""cell cycle arrest"")",cell cycle arrest,cell cycle arrest
+4974,BiologicalProcess,GOBP,"bp(GOBP:""protein kinase C activity"")",protein kinase C activity,protein kinase C activity
+4975,BiologicalProcess,PTS,"bp(PTS:""amyloid pathway"")",amyloid pathway,amyloid pathway
+4976,BiologicalProcess,GOBP,"bp(GOBP:""hormone binding"")",hormone binding,hormone binding
+4977,BiologicalProcess,GOBP,"bp(GOBP:""methylglyoxal catabolic process to D-lactate"")",methylglyoxal catabolic process to D-lactate,methylglyoxal catabolic process to D-lactate
+4978,BiologicalProcess,GOBP,"bp(GOBP:""regulation of dendritic cell antigen processing and presentation"")",regulation of dendritic cell antigen processing and presentation,regulation of dendritic cell antigen processing and presentation
+4979,BiologicalProcess,PTS,"bp(PTS:""Regulation of Wnt signaling pathway"")",Regulation of Wnt signaling pathway,Regulation of Wnt signaling pathway
+4980,BiologicalProcess,GO,"bp(GO:""calcium-mediated signaling"")",calcium-mediated signaling,calcium-mediated signaling
+4981,BiologicalProcess,GO,"bp(GO:""response to oxidative stress"")",response to oxidative stress,response to oxidative stress
+4982,BiologicalProcess,GO,"bp(GO:""synaptic transmission, cholinergic"")","synaptic transmission, cholinergic","synaptic transmission, cholinergic"
+4983,BiologicalProcess,GO,"bp(GO:""glutamate secretion"")",glutamate secretion,glutamate secretion
+4984,BiologicalProcess,GO,"bp(GO:""actin polymerization or depolymerization"")",actin polymerization or depolymerization,actin polymerization or depolymerization
+4985,BiologicalProcess,GO,"bp(GO:""protein folding"")",protein folding,protein folding
+4986,BiologicalProcess,GO,"bp(GO:""protein stabilization"")",protein stabilization,protein stabilization
+4987,BiologicalProcess,GO,"bp(GO:""dendrite development"")",dendrite development,dendrite development
+4988,BiologicalProcess,GO,"bp(GO:""complement-mediated synapse pruning"")",complement-mediated synapse pruning,complement-mediated synapse pruning
+4989,BiologicalProcess,MESH,"bp(MESH:""Facilitated Diffusion"")",Facilitated Diffusion,Facilitated Diffusion
+4990,BiologicalProcess,GO,"bp(GO:""establishment of blood-brain barrier"")",establishment of blood-brain barrier,establishment of blood-brain barrier
+4991,BiologicalProcess,GO,"bp(GO:""protein kinase B signaling"")",protein kinase B signaling,protein kinase B signaling
+4992,BiologicalProcess,GO,"bp(GO:""protein refolding"")",protein refolding,protein refolding
+4993,BiologicalProcess,MESH,"bp(MESH:""Lipid Peroxidation"")",Lipid Peroxidation,Lipid Peroxidation
+4994,BiologicalProcess,GO,"bp(GO:""associative learning"")",associative learning,associative learning
+4995,BiologicalProcess,MESH,"bp(MESH:""Exercise"")",Exercise,Exercise
+4996,BiologicalProcess,GOBP,"bp(GOBP:""brain development"")",brain development,brain development
+4997,BiologicalProcess,GOBP,"bp(GOBP:""pyroptosis"")",pyroptosis,pyroptosis
+4998,BiologicalProcess,GOBP,"bp(GOBP:""T-helper 17 type immune response"")",T-helper 17 type immune response,T-helper 17 type immune response
+4999,BiologicalProcess,GOBP,"bp(GOBP:""regulation of cell cycle"")",regulation of cell cycle,regulation of cell cycle
+5000,BiologicalProcess,GOBP,"bp(GOBP:""protein transport"")",protein transport,protein transport
+5001,BiologicalProcess,HP,"bp(HP:""acetyltransferase activity"")",acetyltransferase activity,acetyltransferase activity
+5002,BiologicalProcess,PMIBP,"bp(PMIBP:""PI3K-Akt signaling pathway"")",PI3K-Akt signaling pathway,PI3K-Akt signaling pathway
+5003,BiologicalProcess,GOBP,"bp(GOBP:""regulation of endoplasmic reticulum calcium ion concentration"")",regulation of endoplasmic reticulum calcium ion concentration,regulation of endoplasmic reticulum calcium ion concentration
+5004,BiologicalProcess,PMIBP,"bp(PMIBP:""growth cone collapse response"")",growth cone collapse response,growth cone collapse response
+5005,BiologicalProcess,GOBP,"bp(GOBP:""cholesterol transport"")",cholesterol transport,cholesterol transport
+5006,BiologicalProcess,PMIBP,"bp(PMIBP:""Neurotoxicity"")",Neurotoxicity,Neurotoxicity
+5007,BiologicalProcess,GOBP,"bp(GOBP:""reactive oxygen species biosynthetic process"")",reactive oxygen species biosynthetic process,reactive oxygen species biosynthetic process
+5008,BiologicalProcess,MESH,"bp(MESH:""Hand Strength"")",Hand Strength,Hand Strength
+5009,BiologicalProcess,GO,"bp(GO:""aging"")",aging,aging
+5010,BiologicalProcess,GO,"bp(GO:""protein neddylation"")",protein neddylation,protein neddylation
+5011,BiologicalProcess,GO,"bp(GO:""membrane lipid catabolic process"")",membrane lipid catabolic process,membrane lipid catabolic process
+5012,BiologicalProcess,GO,"bp(GO:""amyloid precursor protein metabolic process"")",amyloid precursor protein metabolic process,amyloid precursor protein metabolic process
+5013,BiologicalProcess,MESH,"bp(MESH:""Cell Death"")",Cell Death,Cell Death
+5014,BiologicalProcess,GO,"bp(GO:""histone H4 acetylation"")",histone H4 acetylation,histone H4 acetylation
+5015,BiologicalProcess,GO,"bp(GO:""cellular response to oxygen-glucose deprivation"")",cellular response to oxygen-glucose deprivation,cellular response to oxygen-glucose deprivation
+5016,BiologicalProcess,MESH,"bp(MESH:""Survival"")",Survival,Survival
+5017,BiologicalProcess,MESH,"bp(MESH:""Cell Proliferation"")",Cell Proliferation,Cell Proliferation
+5018,BiologicalProcess,GO,"bp(GO:""calmodulin dependent kinase signaling pathway"")",calmodulin dependent kinase signaling pathway,calmodulin dependent kinase signaling pathway
+5019,BiologicalProcess,GO,"bp(GO:""protein unfolding"")",protein unfolding,protein unfolding
+5020,BiologicalProcess,GO,"bp(GO:""response to misfolded protein"")",response to misfolded protein,response to misfolded protein
+5021,BiologicalProcess,GO,"bp(GO:""calcium ion transport into cytosol"")",calcium ion transport into cytosol,calcium ion transport into cytosol
+5022,BiologicalProcess,GO,"bp(GO:""pre-miRNA processing"")",pre-miRNA processing,pre-miRNA processing
+5023,BiologicalProcess,GO,"bp(GO:""cellular senescence"")",cellular senescence,cellular senescence
+5024,BiologicalProcess,MESHPP,"bp(MESHPP:""neuronal plasticity"")",neuronal plasticity,neuronal plasticity
+5025,BiologicalProcess,GOBP,"bp(GOBP:""hibernator"")",hibernator,hibernator
+5026,BiologicalProcess,NCIT,"bp(NCIT:""PI3K/AKT1 Signaling Pathway"")",PI3K/AKT1 Signaling Pathway,PI3K/AKT1 Signaling Pathway
+5027,BiologicalProcess,GOBP,"bp(GOBP:""TOR signaling"")",TOR signaling,TOR signaling
+5028,BiologicalProcess,GOBP,"bp(GOBP:""copper ion export"")",copper ion export,copper ion export
+5029,BiologicalProcess,GOBP,"bp(GOBP:""regulation of choline O-acetyltransferase activity"")",regulation of choline O-acetyltransferase activity,regulation of choline O-acetyltransferase activity
+5030,BiologicalProcess,GOBP,"bp(GOBP:""adenosine metabolic process"")",adenosine metabolic process,adenosine metabolic process
+5031,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of androgen receptor activity"")",positive regulation of androgen receptor activity,positive regulation of androgen receptor activity
+5032,BiologicalProcess,GOBP,"bp(GOBP:""ubiquitin protein ligase activity"")",ubiquitin protein ligase activity,ubiquitin protein ligase activity
+5033,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of calcium-mediated signaling"")",negative regulation of calcium-mediated signaling,negative regulation of calcium-mediated signaling
+5034,BiologicalProcess,GOBP,"bp(GOBP:""chronic inflammatory response"")",chronic inflammatory response,chronic inflammatory response
+5035,BiologicalProcess,GOBP,"bp(GOBP:""learning or memory"")",learning or memory,learning or memory
+5036,BiologicalProcess,GOBP,"bp(GOBP:""serotonin secretion, neurotransmission"")","serotonin secretion, neurotransmission","serotonin secretion, neurotransmission"
+5037,BiologicalProcess,GOBP,"bp(GOBP:""leukocyte mediated immunity"")",leukocyte mediated immunity,leukocyte mediated immunity
+5038,BiologicalProcess,GOBP,"bp(GOBP:""immune system process"")",immune system process,immune system process
+5039,BiologicalProcess,MESHPP,"bp(MESHPP:""Neurogenesis"")",Neurogenesis,Neurogenesis
+5040,BiologicalProcess,GOBP,"bp(GOBP:""CD8-positive, alpha-beta T cell activation"")","CD8-positive, alpha-beta T cell activation","CD8-positive, alpha-beta T cell activation"
+5041,BiologicalProcess,GOBP,"bp(GOBP:""regulation of oxidative phosphorylation"")",regulation of oxidative phosphorylation,regulation of oxidative phosphorylation
+5042,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of protein serine/threonine kinase activity"")",positive regulation of protein serine/threonine kinase activity,positive regulation of protein serine/threonine kinase activity
+5043,BiologicalProcess,GO,"bp(GO:""macrophage activation"")",macrophage activation,macrophage activation
+5044,BiologicalProcess,GO,"bp(GO:""cholesterol biosynthetic process"")",cholesterol biosynthetic process,cholesterol biosynthetic process
+5045,BiologicalProcess,CONSO,"bp(CONSO:""Glutamate excitotoxicity"")",Glutamate excitotoxicity,Glutamate excitotoxicity
+5046,BiologicalProcess,GO,"bp(GO:""negative regulation of ubiquitin protein ligase activity"")",negative regulation of ubiquitin protein ligase activity,negative regulation of ubiquitin protein ligase activity
+5047,BiologicalProcess,GO,"bp(GO:""ATP biosynthetic process"")",ATP biosynthetic process,ATP biosynthetic process
+5048,BiologicalProcess,GO,"bp(GO:""nuclear pore complex assembly"")",nuclear pore complex assembly,nuclear pore complex assembly
+5049,BiologicalProcess,GO,"bp(GO:""dendritic cell migration"")",dendritic cell migration,dendritic cell migration
+5050,BiologicalProcess,MESH,"bp(MESH:""Antigen Presentation"")",Antigen Presentation,Antigen Presentation
+5051,BiologicalProcess,GO,"bp(GO:""dendritic cell dendrite assembly"")",dendritic cell dendrite assembly,dendritic cell dendrite assembly
+5052,BiologicalProcess,GO,"bp(GO:""monocyte migration into blood stream"")",monocyte migration into blood stream,monocyte migration into blood stream
+5053,BiologicalProcess,GO,"bp(GO:""neuronal action potential"")",neuronal action potential,neuronal action potential
+5054,BiologicalProcess,GO,"bp(GO:""GO:0014047"")",GO:0014047,GO:0014047
+5055,BiologicalProcess,GO,"bp(GO:""nerve growth factor processing"")",nerve growth factor processing,nerve growth factor processing
+5056,BiologicalProcess,GO,"bp(GO:""activation of phospholipase C activity"")",activation of phospholipase C activity,activation of phospholipase C activity
+5057,BiologicalProcess,GO,"bp(GO:""positive regulation of mitochondrial calcium ion concentration"")",positive regulation of mitochondrial calcium ion concentration,positive regulation of mitochondrial calcium ion concentration
+5058,BiologicalProcess,GO,"bp(GO:""response to starvation"")",response to starvation,response to starvation
+5059,BiologicalProcess,GOBP,"bp(GOBP:""osteoclast development"")",osteoclast development,osteoclast development
+5060,BiologicalProcess,GOBP,"bp(GOBP:""sphingolipid metabolic process"")",sphingolipid metabolic process,sphingolipid metabolic process
+5061,BiologicalProcess,GOBP,"bp(GOBP:""NMDA selective glutamate receptor signaling pathway"")",NMDA selective glutamate receptor signaling pathway,NMDA selective glutamate receptor signaling pathway
+5062,BiologicalProcess,GOBP,"bp(GOBP:""response to oxidative stress"")",response to oxidative stress,response to oxidative stress
+5063,BiologicalProcess,GOBP,"bp(GOBP:""lipid oxidation"")",lipid oxidation,lipid oxidation
+5064,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of neuron apoptotic process"")",positive regulation of neuron apoptotic process,positive regulation of neuron apoptotic process
+5065,BiologicalProcess,GOBP,"bp(GOBP:""regulation of synaptic transmission, glutamatergic"")","regulation of synaptic transmission, glutamatergic","regulation of synaptic transmission, glutamatergic"
+5066,BiologicalProcess,GOBP,"bp(GOBP:""insulin-like growth factor receptor signaling pathway"")",insulin-like growth factor receptor signaling pathway,insulin-like growth factor receptor signaling pathway
+5067,BiologicalProcess,GOBP,"bp(GOBP:""blood circulation"")",blood circulation,blood circulation
+5068,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of synaptic transmission, glutamatergic"")","negative regulation of synaptic transmission, glutamatergic","negative regulation of synaptic transmission, glutamatergic"
+5069,BiologicalProcess,GOBP,"bp(GOBP:""neuron homeostasis"")",neuron homeostasis,neuron homeostasis
+5070,BiologicalProcess,GOBP,"bp(GOBP:""cell cycle process"")",cell cycle process,cell cycle process
+5071,BiologicalProcess,GOBP,"bp(GOBP:""endoplasmic reticulum unfolded protein response"")",endoplasmic reticulum unfolded protein response,endoplasmic reticulum unfolded protein response
+5072,BiologicalProcess,GOCC,"bp(GOCC:""focal adhesion"")",focal adhesion,focal adhesion
+5073,BiologicalProcess,GO,"bp(GO:""cognition"")",cognition,cognition
+5074,BiologicalProcess,GO,"bp(GO:""signal transduction"")",signal transduction,signal transduction
+5075,BiologicalProcess,GO,"bp(GO:""energy reserve metabolic process"")",energy reserve metabolic process,energy reserve metabolic process
+5076,BiologicalProcess,GO,"bp(GO:""synaptic vesicle budding from endosome"")",synaptic vesicle budding from endosome,synaptic vesicle budding from endosome
+5077,BiologicalProcess,GO,"bp(GO:""regulation of sphingomyelin catabolic process"")",regulation of sphingomyelin catabolic process,regulation of sphingomyelin catabolic process
+5078,BiologicalProcess,GO,"bp(GO:""autophagosome maturation"")",autophagosome maturation,autophagosome maturation
+5079,BiologicalProcess,GO,"bp(GO:""lysosomal microautophagy"")",lysosomal microautophagy,lysosomal microautophagy
+5080,BiologicalProcess,GO,"bp(GO:""cytokine secretion"")",cytokine secretion,cytokine secretion
+5081,BiologicalProcess,GO,"bp(GO:""fear response"")",fear response,fear response
+5082,BiologicalProcess,GO,"bp(GO:""mitochondrial transport"")",mitochondrial transport,mitochondrial transport
+5083,BiologicalProcess,GO,"bp(GO:""insulin receptor signaling pathway"")",insulin receptor signaling pathway,insulin receptor signaling pathway
+5084,BiologicalProcess,GO,"bp(GO:""response to nutrient"")",response to nutrient,response to nutrient
+5085,BiologicalProcess,MESH,"bp(MESH:""Pleckstrin Homology Domains"")",Pleckstrin Homology Domains,Pleckstrin Homology Domains
+5086,BiologicalProcess,GO,"bp(GO:""maintenance of synapse structure"")",maintenance of synapse structure,maintenance of synapse structure
+5087,BiologicalProcess,GO,"bp(GO:""actin filament bundle assembly"")",actin filament bundle assembly,actin filament bundle assembly
+5088,BiologicalProcess,GOBP,"bp(GOBP:""cytokine production involved in inflammatory response"")",cytokine production involved in inflammatory response,cytokine production involved in inflammatory response
+5089,BiologicalProcess,GOBP,"bp(GOBP:""neurogenesis"")",neurogenesis,neurogenesis
+5090,BiologicalProcess,GOBP,"bp(GOBP:""NIK/NF-kappaB signaling"")",NIK/NF-kappaB signaling,NIK/NF-kappaB signaling
+5091,BiologicalProcess,GOBP,"bp(GOBP:""macrophage fusion"")",macrophage fusion,macrophage fusion
+5092,BiologicalProcess,GOBP,"bp(GOBP:""complement activation, classical pathway"")","complement activation, classical pathway","complement activation, classical pathway"
+5093,BiologicalProcess,GOBP,"bp(GOBP:""T cell receptor signaling pathway"")",T cell receptor signaling pathway,T cell receptor signaling pathway
+5094,BiologicalProcess,GOBP,"bp(GOBP:""regulation of synaptic transmission, cholinergic"")","regulation of synaptic transmission, cholinergic","regulation of synaptic transmission, cholinergic"
+5095,BiologicalProcess,NCIT,"bp(NCIT:""Host Defense Mechanism"")",Host Defense Mechanism,Host Defense Mechanism
+5096,BiologicalProcess,HP,"bp(HP:""sodium channel activity"")",sodium channel activity,sodium channel activity
+5097,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of voltage-gated potassium channel activity"")",positive regulation of voltage-gated potassium channel activity,positive regulation of voltage-gated potassium channel activity
+5098,BiologicalProcess,GOBP,"bp(GOBP:""mammillary axonal complex development"")",mammillary axonal complex development,mammillary axonal complex development
+5099,BiologicalProcess,GOBP,"bp(GOBP:""DNA methylation on cytosine"")",DNA methylation on cytosine,DNA methylation on cytosine
+5100,BiologicalProcess,MESHPP,"bp(MESHPP:""Transfection"")",Transfection,Transfection
+5101,BiologicalProcess,GO,"bp(GO:""cell adhesion"")",cell adhesion,cell adhesion
+5102,BiologicalProcess,GO,"bp(GO:""neuroinflammatory response"")",neuroinflammatory response,neuroinflammatory response
+5103,BiologicalProcess,GO,"bp(GO:""cholesterol efflux"")",cholesterol efflux,cholesterol efflux
+5104,BiologicalProcess,GOBP,"bp(GOBP:""pattern recognition receptor activity"")",pattern recognition receptor activity,pattern recognition receptor activity
+5105,BiologicalProcess,NNS,"bp(NNS:""Mitochondrial Dysfunction"")",Mitochondrial Dysfunction,Mitochondrial Dysfunction
+5106,BiologicalProcess,PTS,"bp(PTS:""p53 signaling pathway"")",p53 signaling pathway,p53 signaling pathway
+5107,BiologicalProcess,MESH,"bp(MESH:""Neuronal Outgrowth"")",Neuronal Outgrowth,Neuronal Outgrowth
+5108,BiologicalProcess,GO,"bp(GO:""neuron death"")",neuron death,neuron death
+5109,BiologicalProcess,GO,"bp(GO:""regulation of synapse structure or activity"")",regulation of synapse structure or activity,regulation of synapse structure or activity
+5110,BiologicalProcess,GO,"bp(GO:""positive regulation of synaptic plasticity"")",positive regulation of synaptic plasticity,positive regulation of synaptic plasticity
+5111,BiologicalProcess,GO,"bp(GO:""activation of MAPKK activity"")",activation of MAPKK activity,activation of MAPKK activity
+5112,BiologicalProcess,GO,"bp(GO:""cap-independent translational initiation"")",cap-independent translational initiation,cap-independent translational initiation
+5113,BiologicalProcess,GO,"bp(GO:""endoplasmic reticulum unfolded protein response"")",endoplasmic reticulum unfolded protein response,endoplasmic reticulum unfolded protein response
+5114,BiologicalProcess,GO,"bp(GO:""regulation of membrane potential"")",regulation of membrane potential,regulation of membrane potential
+5115,BiologicalProcess,GO,"bp(GO:""cell migration"")",cell migration,cell migration
+5116,BiologicalProcess,GO,"bp(GO:""regulation of actin cytoskeleton organization"")",regulation of actin cytoskeleton organization,regulation of actin cytoskeleton organization
+5117,BiologicalProcess,MESH,"bp(MESH:""Lymphocyte Count"")",Lymphocyte Count,Lymphocyte Count
+5118,BiologicalProcess,GO,"bp(GO:""oligodendrocyte differentiation"")",oligodendrocyte differentiation,oligodendrocyte differentiation
+5119,BiologicalProcess,GO,"bp(GO:""NIK/NF-kappaB signaling"")",NIK/NF-kappaB signaling,NIK/NF-kappaB signaling
+5120,BiologicalProcess,GO,"bp(GO:""retrograde axonal protein transport"")",retrograde axonal protein transport,retrograde axonal protein transport
+5121,BiologicalProcess,GO,"bp(GO:""replication fork progression beyond termination site"")",replication fork progression beyond termination site,replication fork progression beyond termination site
+5122,BiologicalProcess,GO,"bp(GO:""reverse cholesterol transport"")",reverse cholesterol transport,reverse cholesterol transport
+5123,BiologicalProcess,GO,"bp(GO:""nodal receptor complex assembly"")",nodal receptor complex assembly,nodal receptor complex assembly
+5124,BiologicalProcess,GO,"bp(GO:""ribonucleoprotein complex disassembly"")",ribonucleoprotein complex disassembly,ribonucleoprotein complex disassembly
+5125,BiologicalProcess,GO,"bp(GO:""macropinocytosis"")",macropinocytosis,macropinocytosis
+5126,BiologicalProcess,GOBP,"bp(GOBP:""innate immune response"")",innate immune response,innate immune response
+5127,BiologicalProcess,GOBP,"bp(GOBP:""intracellular signal transduction"")",intracellular signal transduction,intracellular signal transduction
+5128,BiologicalProcess,GOBP,"bp(GOBP:""protein catabolic process"")",protein catabolic process,protein catabolic process
+5129,BiologicalProcess,GOBP,"bp(GOBP:""SMAD protein signal transduction"")",SMAD protein signal transduction,SMAD protein signal transduction
+5130,BiologicalProcess,GOBP,"bp(GOBP:""Wnt signaling pathway, planar cell polarity pathway"")","Wnt signaling pathway, planar cell polarity pathway","Wnt signaling pathway, planar cell polarity pathway"
+5131,BiologicalProcess,GOBP,"bp(GOBP:""cholesterol homeostasis"")",cholesterol homeostasis,cholesterol homeostasis
+5132,BiologicalProcess,GOBP,"bp(GOBP:""neuron migration"")",neuron migration,neuron migration
+5133,BiologicalProcess,GOBP,"bp(GOBP:""sodium ion homeostasis"")",sodium ion homeostasis,sodium ion homeostasis
+5134,BiologicalProcess,GOBP,"bp(GOBP:""cAMP-mediated signaling"")",cAMP-mediated signaling,cAMP-mediated signaling
+5135,BiologicalProcess,HP,"bp(HP:""protein tyrosine kinase activity"")",protein tyrosine kinase activity,protein tyrosine kinase activity
+5136,BiologicalProcess,HP,"bp(HP:""MAP kinase activity"")",MAP kinase activity,MAP kinase activity
+5137,BiologicalProcess,GOBP,"bp(GOBP:""beta-amyloid formation"")",beta-amyloid formation,beta-amyloid formation
+5138,BiologicalProcess,GOBP,"bp(GOBP:""regulation of nitric-oxide synthase activity"")",regulation of nitric-oxide synthase activity,regulation of nitric-oxide synthase activity
+5139,BiologicalProcess,GOBP,"bp(GOBP:""nerve growth factor signaling pathway"")",nerve growth factor signaling pathway,nerve growth factor signaling pathway
+5140,BiologicalProcess,PTS,"bp(PTS:""Wnt/beta_catenin pathway"")",Wnt/beta_catenin pathway,Wnt/beta_catenin pathway
+5141,BiologicalProcess,GOBP,"bp(GOBP:""regulation of neuron migration"")",regulation of neuron migration,regulation of neuron migration
+5142,BiologicalProcess,GOBP,"bp(GOBP:""glutamate secretion"")",glutamate secretion,glutamate secretion
+5143,BiologicalProcess,GO,"bp(GO:""long-term synaptic potentiation"")",long-term synaptic potentiation,long-term synaptic potentiation
+5144,BiologicalProcess,GO,"bp(GO:""positive regulation of NMDA glutamate receptor activity"")",positive regulation of NMDA glutamate receptor activity,positive regulation of NMDA glutamate receptor activity
+5145,BiologicalProcess,GO,"bp(GO:""dendritic spine maintenance"")",dendritic spine maintenance,dendritic spine maintenance
+5146,BiologicalProcess,GO,"bp(GO:""lipid transport"")",lipid transport,lipid transport
+5147,BiologicalProcess,CONSO,"bp(CONSO:""protein aggregation"")",protein aggregation,protein aggregation
+5148,BiologicalProcess,GO,"bp(GO:""microtubule polymerization"")",microtubule polymerization,microtubule polymerization
+5149,BiologicalProcess,GO,"bp(GO:""transport"")",transport,transport
+5150,BiologicalProcess,GO,"bp(GO:""cellular process"")",cellular process,cellular process
+5151,BiologicalProcess,NCIT,"bp(NCIT:""C94869"")",C94869,C94869
+5152,BiologicalProcess,MESH,"bp(MESH:""Molecular Mimicry"")",Molecular Mimicry,Molecular Mimicry
+5153,BiologicalProcess,MESH,"bp(MESH:""Immunoglobulin Class Switching"")",Immunoglobulin Class Switching,Immunoglobulin Class Switching
+5154,BiologicalProcess,GO,"bp(GO:""positive regulation of advanced glycation end-product receptor activity"")",positive regulation of advanced glycation end-product receptor activity,positive regulation of advanced glycation end-product receptor activity
+5155,BiologicalProcess,GO,"bp(GO:""ubiquitin recycling"")",ubiquitin recycling,ubiquitin recycling
+5156,BiologicalProcess,GO,"bp(GO:""depolarization of postsynaptic membrane"")",depolarization of postsynaptic membrane,depolarization of postsynaptic membrane
+5157,BiologicalProcess,GO,"bp(GO:""response to auditory stimulus"")",response to auditory stimulus,response to auditory stimulus
+5158,BiologicalProcess,MESH,"bp(MESH:""Dominance, Ocular"")","Dominance, Ocular","Dominance, Ocular"
+5159,BiologicalProcess,GO,"bp(GO:""calcium ion import across plasma membrane"")",calcium ion import across plasma membrane,calcium ion import across plasma membrane
+5160,BiologicalProcess,GO,"bp(GO:""protein import into mitochondrial matrix"")",protein import into mitochondrial matrix,protein import into mitochondrial matrix
+5161,BiologicalProcess,GO,"bp(GO:""oxygen transport"")",oxygen transport,oxygen transport
+5162,BiologicalProcess,GO,"bp(GO:""engulfment of target by autophagosome"")",engulfment of target by autophagosome,engulfment of target by autophagosome
+5163,BiologicalProcess,HP,"bp(HP:""decreased size"")",decreased size,decreased size
+5164,BiologicalProcess,GOBP,"bp(GOBP:""activation of protein kinase activity"")",activation of protein kinase activity,activation of protein kinase activity
+5165,BiologicalProcess,GOBP,"bp(GOBP:""chemokine production"")",chemokine production,chemokine production
+5166,BiologicalProcess,GOBP,"bp(GOBP:""fatty acid oxidation"")",fatty acid oxidation,fatty acid oxidation
+5167,BiologicalProcess,GOBP,"bp(GOBP:""clathrin-dependent endocytosis"")",clathrin-dependent endocytosis,clathrin-dependent endocytosis
+5168,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of neuron projection regeneration"")",negative regulation of neuron projection regeneration,negative regulation of neuron projection regeneration
+5169,BiologicalProcess,GOBP,"bp(GOBP:""monocyte aggregation"")",monocyte aggregation,monocyte aggregation
+5170,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of insulin-like growth factor receptor signaling pathway"")",negative regulation of insulin-like growth factor receptor signaling pathway,negative regulation of insulin-like growth factor receptor signaling pathway
+5171,BiologicalProcess,MESHD,"bp(MESHD:""Death"")",Death,Death
+5172,BiologicalProcess,GOBP,"bp(GOBP:""cholesterol biosynthetic process via desmosterol"")",cholesterol biosynthetic process via desmosterol,cholesterol biosynthetic process via desmosterol
+5173,BiologicalProcess,GOBP,"bp(GOBP:""amyloid precursor protein biosynthetic process"")",amyloid precursor protein biosynthetic process,amyloid precursor protein biosynthetic process
+5174,BiologicalProcess,MESHPP,"bp(MESHPP:""Stress"")",Stress,Stress
+5175,BiologicalProcess,NCIT,"bp(NCIT:""Apoptosis"")",Apoptosis,Apoptosis
+5176,BiologicalProcess,GOBP,"bp(GOBP:""neoangiogenesis"")",neoangiogenesis,neoangiogenesis
+5177,BiologicalProcess,GO,"bp(GO:""MAPK cascade"")",MAPK cascade,MAPK cascade
+5178,BiologicalProcess,GO,"bp(GO:""mitochondrial electron transport, cytochrome c to oxygen"")","mitochondrial electron transport, cytochrome c to oxygen","mitochondrial electron transport, cytochrome c to oxygen"
+5179,BiologicalProcess,MESH,"bp(MESH:""Bone Development"")",Bone Development,Bone Development
+5180,BiologicalProcess,GO,"bp(GO:""negative regulation of calcium ion transport"")",negative regulation of calcium ion transport,negative regulation of calcium ion transport
+5181,BiologicalProcess,MESH,"bp(MESH:""Mitochondrial Size"")",Mitochondrial Size,Mitochondrial Size
+5182,BiologicalProcess,GO,"bp(GO:""regulation of voltage-gated calcium channel activity"")",regulation of voltage-gated calcium channel activity,regulation of voltage-gated calcium channel activity
+5183,BiologicalProcess,GO,"bp(GO:""response to hypoxia"")",response to hypoxia,response to hypoxia
+5184,BiologicalProcess,GO,"bp(GO:""release of cytochrome c from mitochondria"")",release of cytochrome c from mitochondria,release of cytochrome c from mitochondria
+5185,BiologicalProcess,GO,"bp(GO:""glucose metabolic process"")",glucose metabolic process,glucose metabolic process
+5186,BiologicalProcess,MESH,"bp(MESH:""Mitochondrial Degradation"")",Mitochondrial Degradation,Mitochondrial Degradation
+5187,BiologicalProcess,GO,"bp(GO:""microtubule depolymerization"")",microtubule depolymerization,microtubule depolymerization
+5188,BiologicalProcess,GO,"bp(GO:""establishment or maintenance of transmembrane electrochemical gradient"")",establishment or maintenance of transmembrane electrochemical gradient,establishment or maintenance of transmembrane electrochemical gradient
+5189,BiologicalProcess,GO,"bp(GO:""regulation of autophagosome assembly"")",regulation of autophagosome assembly,regulation of autophagosome assembly
+5190,BiologicalProcess,GO,"bp(GO:""negative regulation of innate immune response"")",negative regulation of innate immune response,negative regulation of innate immune response
+5191,BiologicalProcess,MESH,"bp(MESH:""Gastrointestinal Microbiome"")",Gastrointestinal Microbiome,Gastrointestinal Microbiome
+5192,BiologicalProcess,GO,"bp(GO:""negative regulation of mitophagy"")",negative regulation of mitophagy,negative regulation of mitophagy
+5193,BiologicalProcess,GO,"bp(GO:""negative regulation of apoptotic process"")",negative regulation of apoptotic process,negative regulation of apoptotic process
+5194,BiologicalProcess,CONSO,"bp(CONSO:""Alpha-synuclein Oligomerization"")",Alpha-synuclein Oligomerization,Alpha-synuclein Oligomerization
+5195,BiologicalProcess,GO,"bp(GO:""protein monoubiquitination"")",protein monoubiquitination,protein monoubiquitination
+5196,BiologicalProcess,GO,"bp(GO:""cation transport"")",cation transport,cation transport
+5197,BiologicalProcess,GO,"bp(GO:""GO:0006868"")",GO:0006868,GO:0006868
+5198,BiologicalProcess,GO,"bp(GO:""amyloid fibril formation"")",amyloid fibril formation,amyloid fibril formation
+5199,BiologicalProcess,GO,"bp(GO:""pore complex assembly"")",pore complex assembly,pore complex assembly
+5200,BiologicalProcess,GO,"bp(GO:""mitotic G1 phase"")",mitotic G1 phase,mitotic G1 phase
+5201,BiologicalProcess,GO,"bp(GO:""cellular response to glucose starvation"")",cellular response to glucose starvation,cellular response to glucose starvation
+5202,BiologicalProcess,GO,"bp(GO:""calcium ion regulated lysosome exocytosis"")",calcium ion regulated lysosome exocytosis,calcium ion regulated lysosome exocytosis
+5203,BiologicalProcess,GO,"bp(GO:""response to nitrosative stress"")",response to nitrosative stress,response to nitrosative stress
+5204,BiologicalProcess,MESHPP,"bp(MESHPP:""Neuronal Plasticity"")",Neuronal Plasticity,Neuronal Plasticity
+5205,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial calcium ion homeostasis"")",mitochondrial calcium ion homeostasis,mitochondrial calcium ion homeostasis
+5206,BiologicalProcess,CBP,"bp(CBP:""free radical formation"")",free radical formation,free radical formation
+5207,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of protein neddylation"")",positive regulation of protein neddylation,positive regulation of protein neddylation
+5208,BiologicalProcess,GOBP,"bp(GOBP:""cell growth"")",cell growth,cell growth
+5209,BiologicalProcess,GOBP,"bp(GOBP:""glucose transport"")",glucose transport,glucose transport
+5210,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of microtubule depolymerization"")",negative regulation of microtubule depolymerization,negative regulation of microtubule depolymerization
+5211,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of heart rate"")",positive regulation of heart rate,positive regulation of heart rate
+5212,BiologicalProcess,GOBP,"bp(GOBP:""glucocorticoid receptor signaling pathway"")",glucocorticoid receptor signaling pathway,glucocorticoid receptor signaling pathway
+5213,BiologicalProcess,GOBP,"bp(GOBP:""regulation of MAPK cascade"")",regulation of MAPK cascade,regulation of MAPK cascade
+5214,BiologicalProcess,GOBP,"bp(GOBP:""cytokine activity"")",cytokine activity,cytokine activity
+5215,BiologicalProcess,GOBP,"bp(GOBP:""ERK5 cascade"")",ERK5 cascade,ERK5 cascade
+5216,BiologicalProcess,PTS,"bp(PTS:""AKT signaling"")",AKT signaling,AKT signaling
+5217,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of stress fiber assembly"")",positive regulation of stress fiber assembly,positive regulation of stress fiber assembly
+5218,BiologicalProcess,GO,"bp(GO:""memory"")",memory,memory
+5219,BiologicalProcess,MESH,"bp(MESH:""Heat-Shock Response"")",Heat-Shock Response,Heat-Shock Response
+5220,BiologicalProcess,GO,"bp(GO:""protein transport"")",protein transport,protein transport
+5221,BiologicalProcess,GO,"bp(GO:""membrane depolarization"")",membrane depolarization,membrane depolarization
+5222,BiologicalProcess,GO,"bp(GO:""response to endoplasmic reticulum stress"")",response to endoplasmic reticulum stress,response to endoplasmic reticulum stress
+5223,BiologicalProcess,GO,"bp(GO:""metabolic process"")",metabolic process,metabolic process
+5224,BiologicalProcess,GO,"bp(GO:""microtubule polymerization or depolymerization"")",microtubule polymerization or depolymerization,microtubule polymerization or depolymerization
+5225,BiologicalProcess,GO,"bp(GO:""synaptic transmission, dopaminergic"")","synaptic transmission, dopaminergic","synaptic transmission, dopaminergic"
+5226,BiologicalProcess,GO,"bp(GO:""cellular response to drug"")",cellular response to drug,cellular response to drug
+5227,BiologicalProcess,GO,"bp(GO:""p38MAPK cascade"")",p38MAPK cascade,p38MAPK cascade
+5228,BiologicalProcess,GO,"bp(GO:""interleukin-1-mediated signaling pathway"")",interleukin-1-mediated signaling pathway,interleukin-1-mediated signaling pathway
+5229,BiologicalProcess,HP,"bp(HP:""Optic neuropathy"")",Optic neuropathy,Optic neuropathy
+5230,BiologicalProcess,GO,"bp(GO:""dopamine secretion, neurotransmission"")","dopamine secretion, neurotransmission","dopamine secretion, neurotransmission"
+5231,BiologicalProcess,GO,"bp(GO:""pH reduction"")",pH reduction,pH reduction
+5232,BiologicalProcess,GO,"bp(GO:""negative regulation of inflammatory response"")",negative regulation of inflammatory response,negative regulation of inflammatory response
+5233,BiologicalProcess,GO,"bp(GO:""neuromuscular synaptic transmission"")",neuromuscular synaptic transmission,neuromuscular synaptic transmission
+5234,BiologicalProcess,GO,"bp(GO:""potassium ion transport"")",potassium ion transport,potassium ion transport
+5235,BiologicalProcess,GO,"bp(GO:""neuron projection maintenance"")",neuron projection maintenance,neuron projection maintenance
+5236,BiologicalProcess,MESH,"bp(MESH:""Protein Conformation, alpha-Helical"")","Protein Conformation, alpha-Helical","Protein Conformation, alpha-Helical"
+5237,BiologicalProcess,GOBP,"bp(GOBP:""microglial cell activation"")",microglial cell activation,microglial cell activation
+5238,BiologicalProcess,GOBP,"bp(GOBP:""signal transduction"")",signal transduction,signal transduction
+5239,BiologicalProcess,GOBP,"bp(GOBP:""osteoclast fusion"")",osteoclast fusion,osteoclast fusion
+5240,BiologicalProcess,GOBP,"bp(GOBP:""protein folding"")",protein folding,protein folding
+5241,BiologicalProcess,GOBP,"bp(GOBP:""Ras protein signal transduction"")",Ras protein signal transduction,Ras protein signal transduction
+5242,BiologicalProcess,GOBP,"bp(GOBP:""response to endoplasmic reticulum stress"")",response to endoplasmic reticulum stress,response to endoplasmic reticulum stress
+5243,BiologicalProcess,GOBP,"bp(GOBP:""calcium-dependent cell-matrix adhesion"")",calcium-dependent cell-matrix adhesion,calcium-dependent cell-matrix adhesion
+5244,BiologicalProcess,GOBP,"bp(GOBP:""long term synaptic depression"")",long term synaptic depression,long term synaptic depression
+5245,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of mitochondrial membrane potential"")",negative regulation of mitochondrial membrane potential,negative regulation of mitochondrial membrane potential
+5246,BiologicalProcess,GOBP,"bp(GOBP:""exocytosis"")",exocytosis,exocytosis
+5247,BiologicalProcess,PMIBP,"bp(PMIBP:""neuronal dysfunction"")",neuronal dysfunction,neuronal dysfunction
+5248,BiologicalProcess,GOBP,"bp(GOBP:""adenosine deaminase reaction"")",adenosine deaminase reaction,adenosine deaminase reaction
+5249,BiologicalProcess,MESHD,"bp(MESHD:""Amyloid Neuropathies"")",Amyloid Neuropathies,Amyloid Neuropathies
+5250,BiologicalProcess,ADO,"bp(ADO:""loss_of_synapses"")",loss_of_synapses,loss_of_synapses
+5251,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of calcium ion import"")",positive regulation of calcium ion import,positive regulation of calcium ion import
+5252,BiologicalProcess,GOBP,"bp(GOBP:""cell cycle G1/S phase transition"")",cell cycle G1/S phase transition,cell cycle G1/S phase transition
+5253,BiologicalProcess,GO,"bp(GO:""apoptotic process"")",apoptotic process,apoptotic process
+5254,BiologicalProcess,NCIT,"bp(NCIT:""mRNA Expression"")",mRNA Expression,mRNA Expression
+5255,BiologicalProcess,GO,"bp(GO:""TRIF-dependent toll-like receptor 4 signaling pathway"")",TRIF-dependent toll-like receptor 4 signaling pathway,TRIF-dependent toll-like receptor 4 signaling pathway
+5256,BiologicalProcess,OMIT,"bp(OMIT:""0016017"")",0016017,0016017
+5257,BiologicalProcess,GO,"bp(GO:""macrophage proliferation"")",macrophage proliferation,macrophage proliferation
+5258,BiologicalProcess,GO,"bp(GO:""antibody-dependent cellular cytotoxicity"")",antibody-dependent cellular cytotoxicity,antibody-dependent cellular cytotoxicity
+5259,BiologicalProcess,GO,"bp(GO:""cell cycle"")",cell cycle,cell cycle
+5260,BiologicalProcess,MESH,"bp(MESH:""Membrane Potential, Mitochondrial"")","Membrane Potential, Mitochondrial","Membrane Potential, Mitochondrial"
+5261,BiologicalProcess,GO,"bp(GO:""response to radiation"")",response to radiation,response to radiation
+5262,BiologicalProcess,GO,"bp(GO:""regulation of action potential firing rate"")",regulation of action potential firing rate,regulation of action potential firing rate
+5263,BiologicalProcess,GO,"bp(GO:""mitochondrial fission"")",mitochondrial fission,mitochondrial fission
+5264,BiologicalProcess,MESH,"bp(MESH:""Diet, Sodium-Restricted"")","Diet, Sodium-Restricted","Diet, Sodium-Restricted"
+5265,BiologicalProcess,GO,"bp(GO:""detection of wounding"")",detection of wounding,detection of wounding
+5266,BiologicalProcess,GO,"bp(GO:""stem cell division"")",stem cell division,stem cell division
+5267,BiologicalProcess,GO,"bp(GO:""intracellular signal transduction"")",intracellular signal transduction,intracellular signal transduction
+5268,BiologicalProcess,GO,"bp(GO:""7-methylguanosine mRNA capping"")",7-methylguanosine mRNA capping,7-methylguanosine mRNA capping
+5269,BiologicalProcess,GO,"bp(GO:""circadian sleep/wake cycle, REM sleep"")","circadian sleep/wake cycle, REM sleep","circadian sleep/wake cycle, REM sleep"
+5270,BiologicalProcess,GO,"bp(GO:""fat cell differentiation"")",fat cell differentiation,fat cell differentiation
+5271,BiologicalProcess,GO,"bp(GO:""JAK-STAT cascade"")",JAK-STAT cascade,JAK-STAT cascade
+5272,BiologicalProcess,GO,"bp(GO:""stress granule disassembly"")",stress granule disassembly,stress granule disassembly
+5273,BiologicalProcess,GO,"bp(GO:""ventral spinal cord development"")",ventral spinal cord development,ventral spinal cord development
+5274,BiologicalProcess,GOBP,"bp(GOBP:""long-term memory"")",long-term memory,long-term memory
+5275,BiologicalProcess,GOBP,"bp(GOBP:""endocytosis"")",endocytosis,endocytosis
+5276,BiologicalProcess,GOBP,"bp(GOBP:""T cell cytokine production"")",T cell cytokine production,T cell cytokine production
+5277,BiologicalProcess,FIXME,"bp(FIXME:""short term depression"")",short term depression,short term depression
+5278,BiologicalProcess,GOBP,"bp(GOBP:"" intrinsic apoptotic signaling pathway in response to oxidative stress"")",intrinsic apoptotic signaling pathway in response to oxidative stress,intrinsic apoptotic signaling pathway in response to oxidative stress
+5279,BiologicalProcess,GOBP,"bp(GOBP:""calcium ion import"")",calcium ion import,calcium ion import
+5280,BiologicalProcess,GOBP,"bp(GOBP:""regulation of transcription, DNA-templated"")","regulation of transcription, DNA-templated","regulation of transcription, DNA-templated"
+5281,BiologicalProcess,GOBP,"bp(GOBP:""plasma membrane fusion"")",plasma membrane fusion,plasma membrane fusion
+5282,BiologicalProcess,GOBP,"bp(GOBP:""activation of MAPKK activity"")",activation of MAPKK activity,activation of MAPKK activity
+5283,BiologicalProcess,GOBP,"bp(GOBP:""xenobiotic metabolic process"")",xenobiotic metabolic process,xenobiotic metabolic process
+5284,BiologicalProcess,GOBP,"bp(GOBP:""lymphocyte activation"")",lymphocyte activation,lymphocyte activation
+5285,BiologicalProcess,GOBP,"bp(GOBP:""regulation of growth"")",regulation of growth,regulation of growth
+5286,BiologicalProcess,GOBP,"bp(GOBP:""lactic acid secretion"")",lactic acid secretion,lactic acid secretion
+5287,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of synaptic transmission"")",positive regulation of synaptic transmission,positive regulation of synaptic transmission
+5288,BiologicalProcess,GO,"bp(GO:""motor behavior"")",motor behavior,motor behavior
+5289,BiologicalProcess,GO,"bp(GO:""long term synaptic depression"")",long term synaptic depression,long term synaptic depression
+5290,BiologicalProcess,GO,"bp(GO:""NADH oxidation"")",NADH oxidation,NADH oxidation
+5291,BiologicalProcess,GO,"bp(GO:""calcium ion transport"")",calcium ion transport,calcium ion transport
+5292,BiologicalProcess,GO,"bp(GO:""cytoskeleton organization"")",cytoskeleton organization,cytoskeleton organization
+5293,BiologicalProcess,GO,"bp(GO:""motor neuron axon guidance"")",motor neuron axon guidance,motor neuron axon guidance
+5294,BiologicalProcess,NCIT,"bp(NCIT:""C16559"")",C16559,C16559
+5295,BiologicalProcess,GO,"bp(GO:""response to stress"")",response to stress,response to stress
+5296,BiologicalProcess,MESH,"bp(MESH:""Immunity"")",Immunity,Immunity
+5297,BiologicalProcess,GO,"bp(GO:""CD8-positive, alpha-beta T cell differentiation involved in immune response"")","CD8-positive, alpha-beta T cell differentiation involved in immune response","CD8-positive, alpha-beta T cell differentiation involved in immune response"
+5298,BiologicalProcess,GO,"bp(GO:""stress-induced premature senescence"")",stress-induced premature senescence,stress-induced premature senescence
+5299,BiologicalProcess,MESH,"bp(MESH:""Microbiota"")",Microbiota,Microbiota
+5300,BiologicalProcess,CONSO,"bp(CONSO:""nAChR assembly"")",nAChR assembly,nAChR assembly
+5301,BiologicalProcess,MESH,"bp(MESH:""D009435"")",D009435,D009435
+5302,BiologicalProcess,GO,"bp(GO:""positive regulation of cAMP-dependent protein kinase activity"")",positive regulation of cAMP-dependent protein kinase activity,positive regulation of cAMP-dependent protein kinase activity
+5303,BiologicalProcess,GO,"bp(GO:""response to osmotic stress"")",response to osmotic stress,response to osmotic stress
+5304,BiologicalProcess,GO,"bp(GO:""cell killing"")",cell killing,cell killing
+5305,BiologicalProcess,GO,"bp(GO:""catabolic process"")",catabolic process,catabolic process
+5306,BiologicalProcess,GO,"bp(GO:""response to transition metal nanoparticle"")",response to transition metal nanoparticle,response to transition metal nanoparticle
+5307,BiologicalProcess,GOBP,"bp(GOBP:""protein activation cascade"")",protein activation cascade,protein activation cascade
+5308,BiologicalProcess,GOBP,"bp(GOBP:""T cell activation"")",T cell activation,T cell activation
+5309,BiologicalProcess,GOBP,"bp(GOBP:""response to wounding"")",response to wounding,response to wounding
+5310,BiologicalProcess,GOBP,"bp(GOBP:""dendritic cell differentiation"")",dendritic cell differentiation,dendritic cell differentiation
+5311,BiologicalProcess,MESHF,"bp(MESHF:""Spatial Memory"")",Spatial Memory,Spatial Memory
+5312,BiologicalProcess,GOBP,"bp(GOBP:""mitochondria-nucleus signaling pathway"")",mitochondria-nucleus signaling pathway,mitochondria-nucleus signaling pathway
+5313,BiologicalProcess,GOBP,"bp(GOBP:""transcription, DNA-templated"")","transcription, DNA-templated","transcription, DNA-templated"
+5314,BiologicalProcess,GOBP,"bp(GOBP:""insulin receptor signaling pathway via phosphatidylinositol 3-kinase"")",insulin receptor signaling pathway via phosphatidylinositol 3-kinase,insulin receptor signaling pathway via phosphatidylinositol 3-kinase
+5315,BiologicalProcess,GOBP,"bp(GOBP:""neurotransmitter secretion"")",neurotransmitter secretion,neurotransmitter secretion
+5316,BiologicalProcess,GOBP,"bp(GOBP:""rhythmic excitation"")",rhythmic excitation,rhythmic excitation
+5317,BiologicalProcess,HP,"bp(HP:""potassium channel activity"")",potassium channel activity,potassium channel activity
+5318,BiologicalProcess,GOBP,"bp(GOBP:""cAMP catabolic process"")",cAMP catabolic process,cAMP catabolic process
+5319,BiologicalProcess,GOBP,"bp(GOBP:""glial cell differentiation"")",glial cell differentiation,glial cell differentiation
+5320,BiologicalProcess,MESHPP,"bp(MESHPP:""Exercise"")",Exercise,Exercise
+5321,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of viral entry into host cell"")",positive regulation of viral entry into host cell,positive regulation of viral entry into host cell
+5322,BiologicalProcess,GO,"bp(GO:""nervous system development"")",nervous system development,nervous system development
+5323,BiologicalProcess,CONSO,"bp(CONSO:""Astrogliosis"")",Astrogliosis,Astrogliosis
+5324,BiologicalProcess,GO,"bp(GO:""cholesterol esterification"")",cholesterol esterification,cholesterol esterification
+5325,BiologicalProcess,GO,"bp(GO:""excitatory chemical synaptic transmission"")",excitatory chemical synaptic transmission,excitatory chemical synaptic transmission
+5326,BiologicalProcess,GO,"bp(GO:""negative regulation of NMDA glutamate receptor activity"")",negative regulation of NMDA glutamate receptor activity,negative regulation of NMDA glutamate receptor activity
+5327,BiologicalProcess,MESH,"bp(MESH:""Protein Stability"")",Protein Stability,Protein Stability
+5328,BiologicalProcess,GO,"bp(GO:""actin filament reorganization"")",actin filament reorganization,actin filament reorganization
+5329,BiologicalProcess,GO,"bp(GO:""glycolytic process"")",glycolytic process,glycolytic process
+5330,BiologicalProcess,GO,"bp(GO:""synaptic vesicle recycling via endosome"")",synaptic vesicle recycling via endosome,synaptic vesicle recycling via endosome
+5331,BiologicalProcess,NCIT,"bp(NCIT:""DNA Damage"")",DNA Damage,DNA Damage
+5332,BiologicalProcess,NCIT,"bp(NCIT:""Protein Expression"")",Protein Expression,Protein Expression
+5333,BiologicalProcess,GO,"bp(GO:""translational termination"")",translational termination,translational termination
+5334,BiologicalProcess,MESH,"bp(MESH:""Sensory Gating"")",Sensory Gating,Sensory Gating
+5335,BiologicalProcess,GO,"bp(GO:""actin filament depolymerization"")",actin filament depolymerization,actin filament depolymerization
+5336,BiologicalProcess,CONSO,"bp(CONSO:""Neurodegeneration"")",Neurodegeneration,Neurodegeneration
+5337,BiologicalProcess,GO,"bp(GO:""lysosomal lumen pH elevation"")",lysosomal lumen pH elevation,lysosomal lumen pH elevation
+5338,BiologicalProcess,GO,"bp(GO:""skeletal muscle acetylcholine-gated channel clustering"")",skeletal muscle acetylcholine-gated channel clustering,skeletal muscle acetylcholine-gated channel clustering
+5339,BiologicalProcess,GO,"bp(GO:""protein kinase A signaling"")",protein kinase A signaling,protein kinase A signaling
+5340,BiologicalProcess,GO,"bp(GO:""TOR signaling"")",TOR signaling,TOR signaling
+5341,BiologicalProcess,GO,"bp(GO:""secretion of lysosomal enzymes"")",secretion of lysosomal enzymes,secretion of lysosomal enzymes
+5342,BiologicalProcess,GO,"bp(GO:""nuclear protein quality control by the ubiquitin-proteasome system"")",nuclear protein quality control by the ubiquitin-proteasome system,nuclear protein quality control by the ubiquitin-proteasome system
+5343,BiologicalProcess,GOBP,"bp(GOBP:""microglial cell mediated cytotoxicity"")",microglial cell mediated cytotoxicity,microglial cell mediated cytotoxicity
+5344,BiologicalProcess,GOBP,"bp(GOBP:""cell migration"")",cell migration,cell migration
+5345,BiologicalProcess,HP,"bp(HP:""spatial learning"")",spatial learning,spatial learning
+5346,BiologicalProcess,GOBP,"bp(GOBP:""endothelial cell morphogenesis"")",endothelial cell morphogenesis,endothelial cell morphogenesis
+5347,BiologicalProcess,GOBP,"bp(GOBP:""synaptic signaling"")",synaptic signaling,synaptic signaling
+5348,BiologicalProcess,GOBP,"bp(GOBP:""neuron death"")",neuron death,neuron death
+5349,BiologicalProcess,GOBP,"bp(GOBP:""calcium ion homeostasis"")",calcium ion homeostasis,calcium ion homeostasis
+5350,BiologicalProcess,GOBP,"bp(GOBP:""cell cycle"")",cell cycle,cell cycle
+5351,BiologicalProcess,GOBP,"bp(GOBP:""cell redox homeostasis"")",cell redox homeostasis,cell redox homeostasis
+5352,BiologicalProcess,GOBP,"bp(GOBP:""telencephalon microglial cell migration"")",telencephalon microglial cell migration,telencephalon microglial cell migration
+5353,BiologicalProcess,GOBP,"bp(GOBP:""glucose import"")",glucose import,glucose import
+5354,BiologicalProcess,GOBP,"bp(GOBP:""oxygen homeostasis"")",oxygen homeostasis,oxygen homeostasis
+5355,BiologicalProcess,GOBP,"bp(GOBP:""cell senescence"")",cell senescence,cell senescence
+5356,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of gene expression"")",positive regulation of gene expression,positive regulation of gene expression
+5357,BiologicalProcess,GOBP,"bp(GOBP:""cell death in response to oxidative stress"")",cell death in response to oxidative stress,cell death in response to oxidative stress
+5358,BiologicalProcess,GOBP,"bp(GOBP:""response to misfolded protein"")",response to misfolded protein,response to misfolded protein
+5359,BiologicalProcess,GOBP,"bp(GOBP:""initiation of viral infection"")",initiation of viral infection,initiation of viral infection
+5360,BiologicalProcess,GOBP,"bp(GOBP:""macropinocytosis"")",macropinocytosis,macropinocytosis
+5361,BiologicalProcess,GO,"bp(GO:""Wnt signaling pathway, planar cell polarity pathway"")","Wnt signaling pathway, planar cell polarity pathway","Wnt signaling pathway, planar cell polarity pathway"
+5362,BiologicalProcess,GO,"bp(GO:""regulation of neuronal synaptic plasticity"")",regulation of neuronal synaptic plasticity,regulation of neuronal synaptic plasticity
+5363,BiologicalProcess,GO,"bp(GO:""positive regulation of voltage-gated potassium channel activity"")",positive regulation of voltage-gated potassium channel activity,positive regulation of voltage-gated potassium channel activity
+5364,BiologicalProcess,GO,"bp(GO:""PERK-mediated unfolded protein response"")",PERK-mediated unfolded protein response,PERK-mediated unfolded protein response
+5365,BiologicalProcess,GO,"bp(GO:""epidermal growth factor receptor signaling pathway"")",epidermal growth factor receptor signaling pathway,epidermal growth factor receptor signaling pathway
+5366,BiologicalProcess,GO,"bp(GO:""sensory perception"")",sensory perception,sensory perception
+5367,BiologicalProcess,MESH,"bp(MESH:""Muscle Strength"")",Muscle Strength,Muscle Strength
+5368,BiologicalProcess,GO,"bp(GO:""immune system process"")",immune system process,immune system process
+5369,BiologicalProcess,GO,"bp(GO:""receptor signaling pathway via JAK-STAT"")",receptor signaling pathway via JAK-STAT,receptor signaling pathway via JAK-STAT
+5370,BiologicalProcess,GO,"bp(GO:""generation of neurons"")",generation of neurons,generation of neurons
+5371,BiologicalProcess,GO,"bp(GO:""synaptic vesicle transport"")",synaptic vesicle transport,synaptic vesicle transport
+5372,BiologicalProcess,GO,"bp(GO:""'de novo' protein folding"")",'de novo' protein folding,'de novo' protein folding
+5373,BiologicalProcess,GO,"bp(GO:""response to acidic pH"")",response to acidic pH,response to acidic pH
+5374,BiologicalProcess,GO,"bp(GO:""behavioral fear response"")",behavioral fear response,behavioral fear response
+5375,BiologicalProcess,MESH,"bp(MESH:""Cell Movement"")",Cell Movement,Cell Movement
+5376,BiologicalProcess,GO,"bp(GO:""vacuolar acidification"")",vacuolar acidification,vacuolar acidification
+5377,BiologicalProcess,GOBP,"bp(GOBP:""phagocytosis"")",phagocytosis,phagocytosis
+5378,BiologicalProcess,MESHPP,"bp(MESHPP:""Immunoreceptor Tyrosine-Based Activation Motif"")",Immunoreceptor Tyrosine-Based Activation Motif,Immunoreceptor Tyrosine-Based Activation Motif
+5379,BiologicalProcess,GOBP,"bp(GOBP:""autophagy"")",autophagy,autophagy
+5380,BiologicalProcess,GOBP,"bp(GOBP:""morphogenesis of a branching structure"")",morphogenesis of a branching structure,morphogenesis of a branching structure
+5381,BiologicalProcess,GOBP,"bp(GOBP:""CD4-positive, alpha-beta T cell differentiation"")","CD4-positive, alpha-beta T cell differentiation","CD4-positive, alpha-beta T cell differentiation"
+5382,BiologicalProcess,GOBP,"bp(GOBP:""endoplasmic reticulum calcium ion homeostasis"")",endoplasmic reticulum calcium ion homeostasis,endoplasmic reticulum calcium ion homeostasis
+5383,BiologicalProcess,GOBP,"bp(GOBP:""regulation of cell-cell adhesion"")",regulation of cell-cell adhesion,regulation of cell-cell adhesion
+5384,BiologicalProcess,GOBP,"bp(GOBP:""cholesterol metabolic process"")",cholesterol metabolic process,cholesterol metabolic process
+5385,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of mitochondrial membrane potential"")",positive regulation of mitochondrial membrane potential,positive regulation of mitochondrial membrane potential
+5386,BiologicalProcess,GOBP,"bp(GOBP:""dopamine receptor signaling pathway"")",dopamine receptor signaling pathway,dopamine receptor signaling pathway
+5387,BiologicalProcess,GOBP,"bp(GOBP:""arachidonic acid secretion"")",arachidonic acid secretion,arachidonic acid secretion
+5388,BiologicalProcess,GOBP,"bp(GOBP:""JUN kinase activity"")",JUN kinase activity,JUN kinase activity
+5389,BiologicalProcess,GOBP,"bp(GOBP:""activation of phospholipase C activity"")",activation of phospholipase C activity,activation of phospholipase C activity
+5390,BiologicalProcess,MESHPP,"bp(MESHPP:""Endoplasmic Reticulum-Associated Degradation"")",Endoplasmic Reticulum-Associated Degradation,Endoplasmic Reticulum-Associated Degradation
+5391,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of neuron apoptotic process"")",negative regulation of neuron apoptotic process,negative regulation of neuron apoptotic process
+5392,BiologicalProcess,GOBP,"bp(GOBP:""neutrophil aggregation"")",neutrophil aggregation,neutrophil aggregation
+5393,BiologicalProcess,NNS,"bp(NNS:""renal hypertrophy"")",renal hypertrophy,renal hypertrophy
+5394,BiologicalProcess,GO,"bp(GO:""microglial cell activation"")",microglial cell activation,microglial cell activation
+5395,BiologicalProcess,GO,"bp(GO:""JNK cascade"")",JNK cascade,JNK cascade
+5396,BiologicalProcess,MESH,"bp(MESH:""Synaptic Transmission"")",Synaptic Transmission,Synaptic Transmission
+5397,BiologicalProcess,GO,"bp(GO:""negative regulation of mitochondrial membrane potential"")",negative regulation of mitochondrial membrane potential,negative regulation of mitochondrial membrane potential
+5398,BiologicalProcess,GO,"bp(GO:""protein secretion"")",protein secretion,protein secretion
+5399,BiologicalProcess,GO,"bp(GO:""respiratory gaseous exchange by respiratory system"")",respiratory gaseous exchange by respiratory system,respiratory gaseous exchange by respiratory system
+5400,BiologicalProcess,GO,"bp(GO:""mitochondrion organization"")",mitochondrion organization,mitochondrion organization
+5401,BiologicalProcess,GO,"bp(GO:""axon guidance"")",axon guidance,axon guidance
+5402,BiologicalProcess,MESH,"bp(MESH:""Adaptive Immunity"")",Adaptive Immunity,Adaptive Immunity
+5403,BiologicalProcess,MESH,"bp(MESH:""Synaptic Potentials"")",Synaptic Potentials,Synaptic Potentials
+5404,BiologicalProcess,GO,"bp(GO:""protein K63-linked ubiquitination"")",protein K63-linked ubiquitination,protein K63-linked ubiquitination
+5405,BiologicalProcess,GOBP,"bp(GOBP:""glycolysis"")",glycolysis,glycolysis
+5406,BiologicalProcess,NCIT,"bp(NCIT:""Membrane Fusion Activity"")",Membrane Fusion Activity,Membrane Fusion Activity
+5407,BiologicalProcess,GOBP,"bp(GOBP:""penile erection"")",penile erection,penile erection
+5408,BiologicalProcess,GOBP,"bp(GOBP:""myelination"")",myelination,myelination
+5409,BiologicalProcess,GOBP,"bp(GOBP:""phosphatidylinositol metabolic process"")",phosphatidylinositol metabolic process,phosphatidylinositol metabolic process
+5410,BiologicalProcess,MESHPP,"bp(MESHPP:""Oxidative Stress"")",Oxidative Stress,Oxidative Stress
+5411,BiologicalProcess,GOBP,"bp(GOBP:""cellular response to calcium ion"")",cellular response to calcium ion,cellular response to calcium ion
+5412,BiologicalProcess,GOBP,"bp(GOBP:""DNA repair"")",DNA repair,DNA repair
+5413,BiologicalProcess,GOBP,"bp(GOBP:""acetylcholine secretion"")",acetylcholine secretion,acetylcholine secretion
+5414,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of synaptic transmission, glutamatergic"")","positive regulation of synaptic transmission, glutamatergic","positive regulation of synaptic transmission, glutamatergic"
+5415,BiologicalProcess,GOBP,"bp(GOBP:""regulation of long-term synaptic potentiation"")",regulation of long-term synaptic potentiation,regulation of long-term synaptic potentiation
+5416,BiologicalProcess,GOBP,"bp(GOBP:""calcium channel regulator activity"")",calcium channel regulator activity,calcium channel regulator activity
+5417,BiologicalProcess,MESHPP,"bp(MESHPP:""Insulin Resistance"")",Insulin Resistance,Insulin Resistance
+5418,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of phosphatidylinositol 3-kinase activity"")",negative regulation of phosphatidylinositol 3-kinase activity,negative regulation of phosphatidylinositol 3-kinase activity
+5419,BiologicalProcess,GOBP,"bp(GOBP:""phosphoenolpyruvate carboxykinase activity"")",phosphoenolpyruvate carboxykinase activity,phosphoenolpyruvate carboxykinase activity
+5420,BiologicalProcess,GOBP,"bp(GOBP:""elevation of cytosolic calcium ion concentration"")",elevation of cytosolic calcium ion concentration,elevation of cytosolic calcium ion concentration
+5421,BiologicalProcess,GOBP,"bp(GOBP:""cellular response to nitrosative stress"")",cellular response to nitrosative stress,cellular response to nitrosative stress
+5422,BiologicalProcess,GOBP,"bp(GOBP:""cell-matrix adhesion"")",cell-matrix adhesion,cell-matrix adhesion
+5423,BiologicalProcess,GOBP,"bp(GOBP:""axonogenesis"")",axonogenesis,axonogenesis
+5424,BiologicalProcess,GO,"bp(GO:""sensory processing"")",sensory processing,sensory processing
+5425,BiologicalProcess,GO,"bp(GO:""NMDA selective glutamate receptor signaling pathway"")",NMDA selective glutamate receptor signaling pathway,NMDA selective glutamate receptor signaling pathway
+5426,BiologicalProcess,GO,"bp(GO:""Wnt signaling pathway"")",Wnt signaling pathway,Wnt signaling pathway
+5427,BiologicalProcess,GO,"bp(GO:""negative regulation of calcium-mediated signaling"")",negative regulation of calcium-mediated signaling,negative regulation of calcium-mediated signaling
+5428,BiologicalProcess,GO,"bp(GO:""regulation of protein oxidation"")",regulation of protein oxidation,regulation of protein oxidation
+5429,BiologicalProcess,GO,"bp(GO:""retrograde dendritic transport"")",retrograde dendritic transport,retrograde dendritic transport
+5430,BiologicalProcess,GO,"bp(GO:""reactive oxygen species biosynthetic process"")",reactive oxygen species biosynthetic process,reactive oxygen species biosynthetic process
+5431,BiologicalProcess,GO,"bp(GO:""cellular homeostasis"")",cellular homeostasis,cellular homeostasis
+5432,BiologicalProcess,GO,"bp(GO:""innate immune response"")",innate immune response,innate immune response
+5433,BiologicalProcess,MESH,"bp(MESH:""Immunity, Innate"")","Immunity, Innate","Immunity, Innate"
+5434,BiologicalProcess,GO,"bp(GO:""regulation of NMDA receptor activity"")",regulation of NMDA receptor activity,regulation of NMDA receptor activity
+5435,BiologicalProcess,MESH,"bp(MESH:""Self Tolerance"")",Self Tolerance,Self Tolerance
+5436,BiologicalProcess,GO,"bp(GO:""compartment boundary maintenance"")",compartment boundary maintenance,compartment boundary maintenance
+5437,BiologicalProcess,GO,"bp(GO:""exocytosis"")",exocytosis,exocytosis
+5438,BiologicalProcess,GO,"bp(GO:""action potential initiation"")",action potential initiation,action potential initiation
+5439,BiologicalProcess,GO,"bp(GO:""GO:0035249"")",GO:0035249,GO:0035249
+5440,BiologicalProcess,GO,"bp(GO:""innervation"")",innervation,innervation
+5441,BiologicalProcess,GO,"bp(GO:""T cell proliferation"")",T cell proliferation,T cell proliferation
+5442,BiologicalProcess,GO,"bp(GO:""cytoplasm protein quality control by the ubiquitin-proteasome system"")",cytoplasm protein quality control by the ubiquitin-proteasome system,cytoplasm protein quality control by the ubiquitin-proteasome system
+5443,BiologicalProcess,GO,"bp(GO:""cell aging"")",cell aging,cell aging
+5444,BiologicalProcess,GO,"bp(GO:""response to amino acid"")",response to amino acid,response to amino acid
+5445,BiologicalProcess,GO,"bp(GO:""response to doxorubicin"")",response to doxorubicin,response to doxorubicin
+5446,BiologicalProcess,GOBP,"bp(GOBP:""regulation of phagocytosis"")",regulation of phagocytosis,regulation of phagocytosis
+5447,BiologicalProcess,GOBP,"bp(GOBP:""positive chemotaxis"")",positive chemotaxis,positive chemotaxis
+5448,BiologicalProcess,GOBP,"bp(GOBP:""cognition"")",cognition,cognition
+5449,BiologicalProcess,GOBP,"bp(GOBP:""JNK cascade"")",JNK cascade,JNK cascade
+5450,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial transport"")",mitochondrial transport,mitochondrial transport
+5451,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial fission"")",mitochondrial fission,mitochondrial fission
+5452,BiologicalProcess,GOBP,"bp(GOBP:""stress-activated protein kinase signaling cascade"")",stress-activated protein kinase signaling cascade,stress-activated protein kinase signaling cascade
+5453,BiologicalProcess,MESHPP,"bp(MESHPP:""Energy Metabolism"")",Energy Metabolism,Energy Metabolism
+5454,BiologicalProcess,GOBP,"bp(GOBP:""ceramide biosynthetic process"")",ceramide biosynthetic process,ceramide biosynthetic process
+5455,BiologicalProcess,GOBP,"bp(GOBP:""regulation of prostaglandin-endoperoxide synthase activity"")",regulation of prostaglandin-endoperoxide synthase activity,regulation of prostaglandin-endoperoxide synthase activity
+5456,BiologicalProcess,GOBP,"bp(GOBP:""negative regulation of myelination"")",negative regulation of myelination,negative regulation of myelination
+5457,BiologicalProcess,PMIBP,"bp(PMIBP:""beta amyloid induced stress"")",beta amyloid induced stress,beta amyloid induced stress
+5458,BiologicalProcess,MESHPP,"bp(MESHPP:""Bacterial invasion"")",Bacterial invasion,Bacterial invasion
+5459,BiologicalProcess,GO,"bp(GO:""synaptic transmission, glutamatergic"")","synaptic transmission, glutamatergic","synaptic transmission, glutamatergic"
+12012,BiologicalProcess,GO,"bp(GO:""cellular respiration"")",cellular respiration,cellular respiration
+12013,BiologicalProcess,CONSO,"bp(CONSO:""APP processing"")",APP processing,APP processing
+12014,BiologicalProcess,GO,"bp(GO:""positive regulation of neuron apoptotic process"")",positive regulation of neuron apoptotic process,positive regulation of neuron apoptotic process
+12015,BiologicalProcess,MESH,"bp(MESH:""Oxidative Stress"")",Oxidative Stress,Oxidative Stress
+12016,BiologicalProcess,GO,"bp(GO:""protein quality control for misfolded or incompletely synthesized proteins"")",protein quality control for misfolded or incompletely synthesized proteins,protein quality control for misfolded or incompletely synthesized proteins
+12017,BiologicalProcess,GO,"bp(GO:""protein ubiquitination"")",protein ubiquitination,protein ubiquitination
+12018,BiologicalProcess,GO,"bp(GO:""ATP generation from ADP"")",ATP generation from ADP,ATP generation from ADP
+12019,BiologicalProcess,GO,"bp(GO:""cytokine production involved in inflammatory response"")",cytokine production involved in inflammatory response,cytokine production involved in inflammatory response
+12020,BiologicalProcess,GO,"bp(GO:""CD4-positive, alpha-beta T cell activation"")","CD4-positive, alpha-beta T cell activation","CD4-positive, alpha-beta T cell activation"
+12021,BiologicalProcess,MESH,"bp(MESH:""Homeostasis"")",Homeostasis,Homeostasis
+12022,BiologicalProcess,GO,"bp(GO:""NLRP3 inflammasome complex assembly"")",NLRP3 inflammasome complex assembly,NLRP3 inflammasome complex assembly
+12023,BiologicalProcess,GO,"bp(GO:""B cell activation"")",B cell activation,B cell activation
+12024,BiologicalProcess,GO,"bp(GO:""glial cell activation"")",glial cell activation,glial cell activation
+12025,BiologicalProcess,GO,"bp(GO:""cytokinesis"")",cytokinesis,cytokinesis
+12026,BiologicalProcess,MESH,"bp(MESH:""Metabolism"")",Metabolism,Metabolism
+12027,BiologicalProcess,GO,"bp(GO:""pituitary gland development"")",pituitary gland development,pituitary gland development
+12028,BiologicalProcess,GO,"bp(GO:""catecholamine secretion"")",catecholamine secretion,catecholamine secretion
+12029,BiologicalProcess,GO,"bp(GO:""lymphocyte activation"")",lymphocyte activation,lymphocyte activation
+12030,BiologicalProcess,MESH,"bp(MESH:""Longevity"")",Longevity,Longevity
+12031,BiologicalProcess,GO,"bp(GO:""mitochondrion transport along microtubule"")",mitochondrion transport along microtubule,mitochondrion transport along microtubule
+12032,BiologicalProcess,GO,"bp(GO:""GTPase activity"")",GTPase activity,GTPase activity
+12033,BiologicalProcess,GO,"bp(GO:""cellular metabolic process"")",cellular metabolic process,cellular metabolic process
+12034,BiologicalProcess,GOBP,"bp(GOBP:""pathogenesis"")",pathogenesis,pathogenesis
+12035,BiologicalProcess,HP,"bp(HP:""Neurodegeneration"")",Neurodegeneration,Neurodegeneration
+12036,BiologicalProcess,GOBP,"bp(GOBP:""T-helper 1 cell differentiation"")",T-helper 1 cell differentiation,T-helper 1 cell differentiation
+12037,BiologicalProcess,GOBP,"bp(GOBP:""neuron apoptotic process"")",neuron apoptotic process,neuron apoptotic process
+12038,BiologicalProcess,GOBP,"bp(GOBP:""cellular response to DNA damage stimulus"")",cellular response to DNA damage stimulus,cellular response to DNA damage stimulus
+12039,BiologicalProcess,GOBP,"bp(GOBP:""protein kinase B signaling cascade"")",protein kinase B signaling cascade,protein kinase B signaling cascade
+12040,BiologicalProcess,GOBP,"bp(GOBP:""dendrite development"")",dendrite development,dendrite development
+12041,BiologicalProcess,GOBP,"bp(GOBP:""hydrogen peroxide-mediated programmed cell death"")",hydrogen peroxide-mediated programmed cell death,hydrogen peroxide-mediated programmed cell death
+12042,BiologicalProcess,GOBP,"bp(GOBP:""vasoconstriction"")",vasoconstriction,vasoconstriction
+12043,BiologicalProcess,PTS,"bp(PTS:""APP processing pathway"")",APP processing pathway,APP processing pathway
+12044,BiologicalProcess,GOBP,"bp(GOBP:""receptor-mediated endocytosis"")",receptor-mediated endocytosis,receptor-mediated endocytosis
+12045,BiologicalProcess,ADO,"bp(ADO:""neuroinflammation"")",neuroinflammation,neuroinflammation
+12046,BiologicalProcess,GOBP,"bp(GOBP:""cytokine secretion"")",cytokine secretion,cytokine secretion
+12047,BiologicalProcess,GO,"bp(GO:""regulation of synaptic plasticity"")",regulation of synaptic plasticity,regulation of synaptic plasticity
+12048,BiologicalProcess,GO,"bp(GO:""amyloid-beta clearance"")",amyloid-beta clearance,amyloid-beta clearance
+12049,BiologicalProcess,GO,"bp(GO:""stem cell proliferation"")",stem cell proliferation,stem cell proliferation
+12050,BiologicalProcess,GO,"bp(GO:""calcium ion import"")",calcium ion import,calcium ion import
+12051,BiologicalProcess,GO,"bp(GO:""regulation of gene expression, epigenetic"")","regulation of gene expression, epigenetic","regulation of gene expression, epigenetic"
+12052,BiologicalProcess,GO,"bp(GO:""mRNA transcription"")",mRNA transcription,mRNA transcription
+12053,BiologicalProcess,GO,"bp(GO:""IRE1-mediated unfolded protein response"")",IRE1-mediated unfolded protein response,IRE1-mediated unfolded protein response
+12054,BiologicalProcess,GO,"bp(GO:""cell-cell adhesion"")",cell-cell adhesion,cell-cell adhesion
+12055,BiologicalProcess,GO,"bp(GO:""glucose import"")",glucose import,glucose import
+12056,BiologicalProcess,GO,"bp(GO:""brain development"")",brain development,brain development
+12057,BiologicalProcess,MESH,"bp(MESH:""Aging"")",Aging,Aging
+12058,BiologicalProcess,NCIT,"bp(NCIT:""C53611"")",C53611,C53611
+12059,BiologicalProcess,GO,"bp(GO:""neuron migration"")",neuron migration,neuron migration
+12060,BiologicalProcess,GO,"bp(GO:""macroautophagy"")",macroautophagy,macroautophagy
+12061,BiologicalProcess,MESH,"bp(MESH:""Stress, Physiological"")","Stress, Physiological","Stress, Physiological"
+12062,BiologicalProcess,MESH,"bp(MESH:""Protein Carbonylation"")",Protein Carbonylation,Protein Carbonylation
+12063,BiologicalProcess,MESH,"bp(MESH:""Endocytosis"")",Endocytosis,Endocytosis
+12064,BiologicalProcess,GOBP,"bp(GOBP:""microglial cell proliferation"")",microglial cell proliferation,microglial cell proliferation
+12065,BiologicalProcess,GOBP,"bp(GOBP:""complement activation"")",complement activation,complement activation
+12066,BiologicalProcess,GOBP,"bp(GOBP:""type I interferon production"")",type I interferon production,type I interferon production
+12067,BiologicalProcess,GOBP,"bp(GOBP:""proteolysis"")",proteolysis,proteolysis
+12068,BiologicalProcess,GOBP,"bp(GOBP:""T-helper 2 cell cytokine production"")",T-helper 2 cell cytokine production,T-helper 2 cell cytokine production
+12069,BiologicalProcess,GOBP,"bp(GOBP:""inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"")","inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity","inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"
+12070,BiologicalProcess,GOBP,"bp(GOBP:""regulation of microtubule cytoskeleton organization"")",regulation of microtubule cytoskeleton organization,regulation of microtubule cytoskeleton organization
+12071,BiologicalProcess,GOBP,"bp(GOBP:""positive regulation of CREB transcription factor activity"")",positive regulation of CREB transcription factor activity,positive regulation of CREB transcription factor activity
+12072,BiologicalProcess,PMIBP,"bp(PMIBP:""kainate induced neurtoxicity"")",kainate induced neurtoxicity,kainate induced neurtoxicity
+12073,BiologicalProcess,GOBP,"bp(GOBP:""mitochondrial depolarization"")",mitochondrial depolarization,mitochondrial depolarization
+12074,BiologicalProcess,NIFT,"bp(NIFT:""Synaptic plasticity"")",Synaptic plasticity,Synaptic plasticity
+12075,BiologicalProcess,GOBP,"bp(GOBP:""regulation of short-term neuronal synaptic plasticity"")",regulation of short-term neuronal synaptic plasticity,regulation of short-term neuronal synaptic plasticity
+12076,BiologicalProcess,GOBP,"bp(GOBP:""focal adhesion assembly"")",focal adhesion assembly,focal adhesion assembly
+12077,BiologicalProcess,GO,"bp(GO:""neuron apoptotic process"")",neuron apoptotic process,neuron apoptotic process
+12078,BiologicalProcess,GO,"bp(GO:""learning or memory"")",learning or memory,learning or memory
+12079,BiologicalProcess,GO,"bp(GO:""superoxide metabolic process"")",superoxide metabolic process,superoxide metabolic process
+12080,BiologicalProcess,MESH,"bp(MESH:""DNA Damage"")",DNA Damage,DNA Damage
+12081,BiologicalProcess,GO,"bp(GO:""cellular response to stress"")",cellular response to stress,cellular response to stress
+12082,BiologicalProcess,GO,"bp(GO:""histone H3 acetylation"")",histone H3 acetylation,histone H3 acetylation
+12083,BiologicalProcess,GO,"bp(GO:""pentose-phosphate shunt"")",pentose-phosphate shunt,pentose-phosphate shunt
+12084,BiologicalProcess,MESH,"bp(MESH:""Immunity, Cellular"")","Immunity, Cellular","Immunity, Cellular"
+12085,BiologicalProcess,GO,"bp(GO:""neurotransmitter secretion"")",neurotransmitter secretion,neurotransmitter secretion
+12086,BiologicalProcess,MESH,"bp(MESH:""Neutrophil Infiltration"")",Neutrophil Infiltration,Neutrophil Infiltration
+12087,BiologicalProcess,GO,"bp(GO:""cellular protein catabolic process"")",cellular protein catabolic process,cellular protein catabolic process
+12088,BiologicalProcess,GO,"bp(GO:""protein polyubiquitination"")",protein polyubiquitination,protein polyubiquitination
+12089,BiologicalProcess,GO,"bp(GO:""clathrin coat disassembly"")",clathrin coat disassembly,clathrin coat disassembly
+12090,BiologicalProcess,GO,"bp(GO:""inhibitory chemical synaptic transmission"")",inhibitory chemical synaptic transmission,inhibitory chemical synaptic transmission
+12091,BiologicalProcess,MESH,"bp(MESH:""Phagocytosis"")",Phagocytosis,Phagocytosis
+12092,BiologicalProcess,GO,"bp(GO:""cellular response to starvation"")",cellular response to starvation,cellular response to starvation
+12093,BiologicalProcess,MESHPP,"bp(MESHPP:""body composition"")",body composition,body composition
+12094,BiologicalProcess,MESHPP,"bp(MESHPP:""physical performance"")",physical performance,physical performance
+12095,BiologicalProcess,MESH,"bp(MESH:""immunity"")",immunity,immunity

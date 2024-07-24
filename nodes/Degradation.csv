@@ -1,0 +1,272 @@
+:ID,:LABEL,bel:string,involved_genes:string,involved_other:string,species:float
+7345,Degradation,"deg(a(CHEBI:""1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate""))",,"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate",
+7346,Degradation,"deg(p(MESH:""beta Catenin""))",beta Catenin,,
+7347,Degradation,"deg(p(MESH:""Cytoskeletal Proteins""))",Cytoskeletal Proteins,,
+7348,Degradation,"deg(p(HGNC:""MAPT"",pmod(CONSO:""misfolded"")))",MAPT,,9606.0
+7349,Degradation,"deg(a(CHEBI:""methylglyoxal""))",,methylglyoxal,
+7350,Degradation,"deg(p(MGI:""Mapt"",var(""p.Pro301Leu"")))",Mapt,,10090.0
+7351,Degradation,"deg(p(HGNC:""TP53"",var(""?"")))",TP53,,9606.0
+7352,Degradation,"deg(g(HGNC:""NAB2""))",NAB2,,9606.0
+7353,Degradation,"deg(p(HGNC:""SNCA""))",SNCA,,9606.0
+7354,Degradation,"deg(p(HGNCGENEFAMILY:""Tubulins""))",Tubulins,,
+7355,Degradation,"deg(p(HGNC:""LRP3""))",LRP3,,9606.0
+7356,Degradation,"deg(complex(p(HGNC:""APC""),p(HGNC:""AXIN1""),p(HGNC:""GSK3B""),p(HGNCGENEFAMILY:""Beta catenins"")))",GSK3B;APC;AXIN1;Beta catenins,,
+7357,Degradation,"deg(p(HGNC:""MAPT"",pmod(CONSO:""hyperphosphorylation"")))",MAPT,,9606.0
+7358,Degradation,"deg(p(HGNC:""SMAD2""))",SMAD2,,9606.0
+7359,Degradation,"deg(complex(a(MESH:""Microtubules""),p(HGNC:""MAPT"")))",MAPT,Microtubules,9606.0
+7360,Degradation,"deg(p(HGNC:""TARDBP"",pmod(CONSO:""protein aggregation"")))",TARDBP,,9606.0
+7361,Degradation,"deg(complex(GO:""cytoplasmic stress granule""))",,cytoplasmic stress granule,
+7362,Degradation,"deg(p(HGNC:""SERPINA1"",var(""?"")))",SERPINA1,,9606.0
+7363,Degradation,"deg(p(HGNC:""NAB2""))",NAB2,,9606.0
+7364,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ph,S,356)))",MAPT,,9606.0
+7365,Degradation,"deg(a(CHEBI:""amyloid-beta"",loc(GO:""intracellular"")))",,amyloid-beta,
+7366,Degradation,"deg(p(CONSO:""protein aggregates"",pmod(Ub)))",protein aggregates,,
+7367,Degradation,"deg(p(HGNC:""MAPT"",loc(MESH:""Dendrites"")))",MAPT,,9606.0
+7368,Degradation,"deg(p(HGNC:""APP"",pmod(ubiquitination)))",APP,,9606.0
+7369,Degradation,"deg(p(HGNC:""ARC""))",ARC,,9606.0
+7370,Degradation,"deg(p(HGNC:""APP"",frag(""672_713"")))",APP,,9606.0
+7371,Degradation,"deg(p(HGNC:""GSK3B""))",GSK3B,,9606.0
+7372,Degradation,"deg(p(HGNC:""SUMO3""))",SUMO3,,9606.0
+7373,Degradation,"deg(complex(CONSO:""alpha-7 beta-2 nAChR""))",,alpha-7 beta-2 nAChR,
+7374,Degradation,"deg(p(HGNC:""DKK1""))",DKK1,,9606.0
+7375,Degradation,"deg(a(MESH:""Proteins"",loc(GO:""lysosome"")))",,Proteins,
+7376,Degradation,"deg(p(HGNC:""SNCA"",pmod(CONSO:""O-GlcNAcylation"",S,87)))",SNCA,,9606.0
+7377,Degradation,"deg(a(GOCC:""extracellular matrix""))",,extracellular matrix,
+7378,Degradation,"deg(p(MESH:""Proteins"",pmod(GO:""protein K48-linked ubiquitination"")))",Proteins,,
+7379,Degradation,"deg(p(MESH:""Proteins"",pmod(ubiquitylation)))",Proteins,,
+7380,Degradation,"deg(p(CONSO:""APP C-terminally truncated carboxyl-terminal fragments""))",APP C-terminally truncated carboxyl-terminal fragments,,
+7381,Degradation,"deg(p(HGNC:""INS""))",INS,,9606.0
+7382,Degradation,"deg(p(HGNC:""FUS"",pmod(CONSO:""protein aggregation"")))",FUS,,9606.0
+7383,Degradation,"deg(p(MGI:""Mapt""))",Mapt,,10090.0
+7384,Degradation,"deg(p(HGNC:""KLF10""))",KLF10,,9606.0
+7385,Degradation,"deg(p(HGNC:""TARDBP""))",TARDBP,,9606.0
+7386,Degradation,"deg(complex(p(HGNC:""BIRC2""),p(HGNC:""TRAF2"")))",TRAF2;BIRC2,,9606.0
+7387,Degradation,"deg(p(HGNCGENEFAMILY:""Sphingosine 1-phosphate receptors""))",Sphingosine 1-phosphate receptors,,
+7388,Degradation,"deg(p(HGNC:""MARK4""))",MARK4,,9606.0
+7389,Degradation,"deg(p(MESH:""Motor Neurons""))",Motor Neurons,,
+7390,Degradation,"deg(p(MESH:""Mutant Proteins""))",Mutant Proteins,,
+7391,Degradation,"deg(p(MESH:""Proteins"",pmod(Ub)))",Proteins,,
+7392,Degradation,"deg(p(MGI:""Mapt"",pmod(Ph)))",Mapt,,10090.0
+7393,Degradation,"deg(p(HGNC:""NGF""))",NGF,,9606.0
+7394,Degradation,"deg(a(GO:""myelin sheath""))",,myelin sheath,
+7395,Degradation,"deg(p(CONSO:""C99""))",C99,,
+7396,Degradation,"deg(a(CHEBI:""amyloid-beta""))",,amyloid-beta,
+7397,Degradation,"deg(a(MESH:""Protein Aggregates""))",,Protein Aggregates,
+7398,Degradation,"deg(p(CONSO:""CONSO00053""))",CONSO00053,,
+7399,Degradation,"deg(a(CONSO:""alpha-synuclein fibrils""))",,alpha-synuclein fibrils,
+7400,Degradation,"deg(p(HGNC:""UBE2D3""))",UBE2D3,,9606.0
+7401,Degradation,"deg(p(MESH:""Proteins"",pmod(GO:""protein K63-linked ubiquitination"")))",Proteins,,
+7402,Degradation,"deg(complex(a(CHEBI:""amyloid-beta""),p(HGNC:""CHRNA7"")))",CHRNA7,amyloid-beta,9606.0
+7403,Degradation,"deg(p(HGNC:""INSR""))",INSR,,9606.0
+7404,Degradation,"deg(p(MESH:""Proteins"",pmod(CONSO:""misfolding"")))",Proteins,,
+7405,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,290)))",MAPT,,9606.0
+7406,Degradation,"deg(p(HGNC:""FOXO3""))",FOXO3,,9606.0
+7407,Degradation,"deg(a(CONSO:""protein aggregates""))",,protein aggregates,
+7408,Degradation,"deg(p(HGNC:""SOD1""))",SOD1,,9606.0
+7409,Degradation,"deg(p(HGNC:""TRAF2""))",TRAF2,,9606.0
+7410,Degradation,"deg(p(HGNCGENEFAMILY:""Glutamate ionotropic receptor AMPA type subunits"",loc(GO:""plasma membrane"")))",Glutamate ionotropic receptor AMPA type subunits,,
+7411,Degradation,"deg(p(HGNC:""CFTR""))",CFTR,,9606.0
+7412,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,281)))",MAPT,,9606.0
+7413,Degradation,"deg(a(CHEBI:""heme""))",,heme,
+7414,Degradation,"deg(a(CHEBI:""nicotine""))",,nicotine,
+7415,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ph,S,202),pmod(Ph,T,205)))",MAPT,,9606.0
+7416,Degradation,"deg(p(HGNC:""HTT""))",HTT,,9606.0
+7417,Degradation,"deg(p(HGNC:""CLSTN1""))",CLSTN1,,9606.0
+7418,Degradation,"deg(p(MGI:""Traf2""))",Traf2,,10090.0
+7419,Degradation,"deg(a(MESH:""Blood-Brain Barrier""))",,Blood-Brain Barrier,
+7420,Degradation,"deg(p(HGNC:""MAPT"",frag(""561_685"")))",MAPT,,9606.0
+7421,Degradation,"deg(p(HGNC:""DDIT3""))",DDIT3,,9606.0
+7422,Degradation,"deg(a(CHEBI:""acetylcholine""))",,acetylcholine,
+7423,Degradation,"deg(p(HGNC:""TREM2"",frag(""?_*""),loc(MESHA:""Cell Membrane"")))",TREM2,,9606.0
+7424,Degradation,"deg(a(CHEBI:""curcumin""))",,curcumin,
+7425,Degradation,"deg(a(MESH:""Tissues""))",,Tissues,
+7426,Degradation,"deg(a(CONSO:""alpha-synuclein oligomers""))",,alpha-synuclein oligomers,
+7427,Degradation,"deg(p(HGNC:""MAPT"",pmod(UbK63)))",MAPT,,9606.0
+7428,Degradation,"deg(p(HGNC:""CLSTN3""))",CLSTN3,,9606.0
+7429,Degradation,"deg(a(MESH:""Parasites""))",,Parasites,
+7430,Degradation,"deg(p(CONSO:""TDP-43 aggregates""))",TDP-43 aggregates,,
+7431,Degradation,"deg(p(HGNC:""LRP1""))",LRP1,,9606.0
+7432,Degradation,"deg(p(HGNC:""IL1B""))",IL1B,,9606.0
+7433,Degradation,"deg(p(MGI:""Tfeb""))",Tfeb,,10090.0
+7434,Degradation,"deg(p(RGD:""Mapt""))",Mapt,,10116.0
+7435,Degradation,"deg(a(CHEBI:""glyoxal""))",,glyoxal,
+7436,Degradation,"deg(p(HGNC:""HTT"",pmod(CONSO:""CAG repeats"")))",HTT,,9606.0
+7437,Degradation,"deg(p(HGNC:""TFEB"",pmod(Ph)))",TFEB,,9606.0
+7438,Degradation,"deg(a(MESH:""Autophagosomes""))",,Autophagosomes,
+7439,Degradation,"deg(p(HGNC:""CREB1""))",CREB1,,9606.0
+7440,Degradation,"deg(p(HGNC:""CD44""))",CD44,,9606.0
+7441,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,163)))",MAPT,,9606.0
+7442,Degradation,"deg(g(HGNC:""VLDLR""))",VLDLR,,9606.0
+7443,Degradation,"deg(g(HGNC:""KLF1""))",KLF1,,9606.0
+7444,Degradation,"deg(a(CHEBI:""triglyceride""))",,triglyceride,
+7445,Degradation,"deg(a(CONSO:""Tau fibrils""))",,Tau fibrils,
+7446,Degradation,"deg(p(HGNC:""LRP4""))",LRP4,,9606.0
+7447,Degradation,"deg(p(MESH:""Cytoskeleton""))",Cytoskeleton,,
+7448,Degradation,"deg(a(MESH:""Proteins""))",,Proteins,
+7449,Degradation,"deg(p(CONSO:""amyloid-beta oligomers""))",amyloid-beta oligomers,,
+7450,Degradation,"deg(a(MESH:""Axons""))",,Axons,
+7451,Degradation,"deg(p(HGNCGENEFAMILY:""Cholinergic receptors nicotinic subunits"",loc(GO:""endoplasmic reticulum"")))",Cholinergic receptors nicotinic subunits,,
+7452,Degradation,"deg(p(HGNC:""TARDBP"",pmod(GO:""protein complex oligomerization"")))",TARDBP,,9606.0
+7453,Degradation,"deg(p(HGNC:""CDH2""))",CDH2,,9606.0
+7454,Degradation,"deg(p(MGI:""Mapt"",var(""p.Ala152Thr"")))",Mapt,,10090.0
+7455,Degradation,"deg(p(RGD:""Mapt"",pmod(Ph,S,396),pmod(Ph,S,404)))",Mapt,,10116.0
+7456,Degradation,"deg(p(HGNC:""HTT"",frag(""?"")))",HTT,,9606.0
+7457,Degradation,"deg(p(HGNC:""SOD1"",loc(GO:""cytoplasm""),pmod(CONSO:""protein aggregates""),var(""p.Gly93Ala"")))",SOD1,,9606.0
+7458,Degradation,"deg(p(MESH:""Amyloid beta-Peptides""))",Amyloid beta-Peptides,,
+7459,Degradation,"deg(a(GO:""synapse""))",,synapse,
+7460,Degradation,"deg(p(HGNC:""SENP3""))",SENP3,,9606.0
+7461,Degradation,"deg(a(CONSO:""CONSO00093""))",,CONSO00093,
+7462,Degradation,"deg(p(HGNC:""AR"",pmod(CONSO:""CAG repeats"")))",AR,,9606.0
+7463,Degradation,"deg(p(HGNC:""CLU""))",CLU,,9606.0
+7464,Degradation,"deg(p(HGNC:""LAMP2""))",LAMP2,,9606.0
+7465,Degradation,"deg(p(CONSO:""CONSO00053"",pmod(Ph,S,396),pmod(Ph,S,404)))",CONSO00053,,
+7466,Degradation,"deg(p(HGNC:""MYC""))",MYC,,9606.0
+7467,Degradation,"deg(p(HGNC:""SIRT1""))",SIRT1,,9606.0
+7468,Degradation,"deg(p(FPLX:""PKA"",pmod(Ub)))",PKA,,
+7469,Degradation,"deg(p(SFAM:""AKT Family""))",AKT Family,,
+7470,Degradation,"deg(p(HGNC:""LRP11""))",LRP11,,9606.0
+7471,Degradation,"deg(p(FPLX:""IKB""))",IKB,,
+7472,Degradation,"deg(p(CONSO:""4R tau"",var(""p.Lys280del"")))",4R tau,,
+7473,Degradation,"deg(complex(a(MESH:""Proteins""),a(MESH:""Ubiquitin"")))",,Proteins;Ubiquitin,
+7474,Degradation,"deg(p(CONSO:""amyloid-beta fibrils""))",amyloid-beta fibrils,,
+7475,Degradation,"deg(a(MESH:""Synapses""))",,Synapses,
+7476,Degradation,"deg(p(HGNC:""SOD1"",pmod(HBP:""misfolded"")))",SOD1,,9606.0
+7477,Degradation,"deg(a(GO:""organelle""))",,organelle,
+7478,Degradation,"deg(p(MGI:""Mapt"",pmod(CONSO:""misfolded"")))",Mapt,,10090.0
+7479,Degradation,"deg(a(MESH:""White Matter""))",,White Matter,
+7480,Degradation,"deg(p(HGNC:""BACE1""))",BACE1,,9606.0
+7481,Degradation,"deg(p(HGNC:""PIN1""))",PIN1,,9606.0
+7482,Degradation,"deg(p(MESH:""Proteins""))",Proteins,,
+7483,Degradation,"deg(a(CONSO:""huntingtin aggregates""))",,huntingtin aggregates,
+7484,Degradation,"deg(p(HGNC:""IL18""))",IL18,,9606.0
+7485,Degradation,"deg(p(RGD:""Mapt"",pmod(CONSO:""hyperphosphorylation"")))",Mapt,,10116.0
+7486,Degradation,"deg(p(HGNC:""PARK7"",pmod(CONSO:""misfolded""),pmod(CONSO:""protein aggregates"")))",PARK7,,9606.0
+7487,Degradation,"deg(a(CHEBI:""amyloid-beta polypeptide 42""))",,amyloid-beta polypeptide 42,
+7488,Degradation,"deg(a(MESH:""DNA, Mitochondrial""))",,"DNA, Mitochondrial",
+7489,Degradation,"deg(p(CONSO:""CONSO00053"",pmod(Ph,S,202),pmod(Ph,T,205)))",CONSO00053,,
+7490,Degradation,"deg(p(HGNC:""EFNB2""))",EFNB2,,9606.0
+7491,Degradation,"deg(p(HGNC:""MFN2""))",MFN2,,9606.0
+7492,Degradation,"deg(p(HGNC:""PINK1""))",PINK1,,9606.0
+7493,Degradation,"deg(p(HGNC:""SNCA"",var(""Ala53Thr"")))",SNCA,,9606.0
+7494,Degradation,"deg(p(HGNC:""TRAF3"",pmod(GOBP:""protein K48-linked ubiquitination"")))",TRAF3,,9606.0
+7495,Degradation,"deg(p(HGNCGENEFAMILY:""Glutamate ionotropic receptor NMDA type subunits"",loc(GO:""plasma membrane"")))",Glutamate ionotropic receptor NMDA type subunits,,
+7496,Degradation,"deg(p(HGNC:""PRNP"",pmod(CONSO:""misfolding"")))",PRNP,,9606.0
+7497,Degradation,"deg(p(HGNC:""CDK5""))",CDK5,,9606.0
+7498,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ph,S,262),pmod(Ph,S,356)))",MAPT,,9606.0
+7499,Degradation,"deg(a(MESH:""Dendrites""))",,Dendrites,
+7500,Degradation,"deg(p(HGNC:""VHL""))",VHL,,9606.0
+7501,Degradation,"deg(a(CHEBI:""amyloid-beta"",loc(GO:""extracellular region"")))",,amyloid-beta,
+7502,Degradation,"deg(g(HGNC:""EGR1""))",EGR1,,9606.0
+7503,Degradation,"deg(a(CHEBI:""oligopeptide""))",,oligopeptide,
+7504,Degradation,"deg(p(HGNC:""MAP3K14""))",MAP3K14,,9606.0
+7505,Degradation,"deg(complex(p(HGNC:""PRKACA""),p(HGNC:""PRKAR1A"")))",PRKAR1A;PRKACA,,9606.0
+7506,Degradation,"deg(a(MESH:""Neurites""))",,Neurites,
+7507,Degradation,"deg(p(RGD:""Syp""))",Syp,,10116.0
+7508,Degradation,"deg(p(HGNC:""HTT"",pmod(HBP:""misfolded"")))",HTT,,9606.0
+7509,Degradation,"deg(a(MESH:""Neurons""))",,Neurons,
+7510,Degradation,"deg(p(MESH:""Proteins"",pmod(ubiquitination)))",Proteins,,
+7511,Degradation,"deg(p(HGNC:""CLSTN2""))",CLSTN2,,9606.0
+7512,Degradation,"deg(a(MESH:""Myelin Sheath""))",,Myelin Sheath,
+7513,Degradation,"deg(p(HGNC:""FUS"",pmod(MESH:""Protein Aggregates"")))",FUS,,9606.0
+7514,Degradation,"deg(p(MGI:""Mbp""))",Mbp,,10090.0
+7515,Degradation,"deg(p(HGNC:""MAPT"",frag(""?"")))",MAPT,,9606.0
+7516,Degradation,"deg(p(HGNC:""CTNNB1""))",CTNNB1,,9606.0
+7517,Degradation,"deg(p(CONSO:""sAPP-alpha""))",sAPP-alpha,,
+7518,Degradation,"deg(p(HGNC:""PSENEN""))",PSENEN,,9606.0
+7519,Degradation,"deg(a(CONSO:""Tau aggregates""))",,Tau aggregates,
+7520,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,321)))",MAPT,,9606.0
+7521,Degradation,"deg(a(MESH:""B-Lymphocytes""))",,B-Lymphocytes,
+7522,Degradation,"deg(p(HGNC:""SNCA"",pmod(CONSO:""O-GlcNAcylation"",T,72)))",SNCA,,9606.0
+7523,Degradation,"deg(a(CHEBI:""nitric oxide""))",,nitric oxide,
+7524,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ph)))",MAPT,,9606.0
+7525,Degradation,"deg(a(CHEBI:""lipid""))",,lipid,
+7526,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ub)))",MAPT,,9606.0
+7527,Degradation,"deg(p(HGNC:""LRP6""))",LRP6,,9606.0
+7528,Degradation,"deg(p(CONSO:""protein aggregates""))",protein aggregates,,
+7529,Degradation,"deg(a(MESH:""Amyloid beta-Peptides""))",,Amyloid beta-Peptides,
+7530,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,369)))",MAPT,,9606.0
+7531,Degradation,"deg(p(HGNC:""DPYSL2""))",DPYSL2,,9606.0
+7532,Degradation,"deg(p(HGNC:""MYD88""))",MYD88,,9606.0
+7533,Degradation,"deg(complex(GO:""protein phosphatase type 2A complex""))",,protein phosphatase type 2A complex,
+7534,Degradation,"deg(p(HGNC:""NFKBIA""))",NFKBIA,,9606.0
+7535,Degradation,"deg(p(HGNC:""SUMO2""))",SUMO2,,9606.0
+7536,Degradation,"deg(p(CONSO:""cis p-tau""))",cis p-tau,,
+7537,Degradation,"deg(p(HGNC:""LRP2""))",LRP2,,9606.0
+7538,Degradation,"deg(p(HGNCGENEFAMILY:""Beta catenins""))",Beta catenins,,
+7539,Degradation,"deg(a(MESH:""Basal Nucleus of Meynert""))",,Basal Nucleus of Meynert,
+7540,Degradation,"deg(p(HGNC:""APP""))",APP,,9606.0
+7541,Degradation,"deg(p(HGNC:""DNM1"",pmod(Ub)))",DNM1,,9606.0
+7542,Degradation,"deg(complex(GO:""ribonucleoprotein granule""))",,ribonucleoprotein granule,
+7543,Degradation,"deg(p(HGNC:""APP"",var(""?"")))",APP,,9606.0
+7544,Degradation,"deg(p(HGNC:""EGR1""))",EGR1,,9606.0
+7545,Degradation,"deg(p(HGNC:""PARK7""))",PARK7,,9606.0
+7546,Degradation,"deg(p(CONSO:""CONSO00053"",var(""p.Ser262Glu""),var(""p.Ser293Glu""),var(""p.Ser324Glu""),var(""p.Ser356Glu"")))",CONSO00053,,
+7547,Degradation,"deg(a(MESH:""Microglia""))",,Microglia,
+7548,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,259)))",MAPT,,9606.0
+7549,Degradation,"deg(a(MESH:""Mitochondria""))",,Mitochondria,
+7550,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ph,S,262)))",MAPT,,9606.0
+7551,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ph,S,396),pmod(Ph,S,404)))",MAPT,,9606.0
+7552,Degradation,"deg(a(CONSO:""alpha-synuclein aggregates""))",,alpha-synuclein aggregates,
+7553,Degradation,"deg(a(MESH:""Dopaminergic Neurons""))",,Dopaminergic Neurons,
+7554,Degradation,"deg(p(HGNC:""CHST1""))",CHST1,,9606.0
+7555,Degradation,"deg(p(HGNC:""PPP2CB""))",PPP2CB,,9606.0
+7556,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,280)))",MAPT,,9606.0
+7557,Degradation,"deg(g(HGNC:""LRP8""))",LRP8,,9606.0
+7558,Degradation,"deg(p(CONSO:""UBB+1"",pmod(UbPoly)))",UBB+1,,
+7559,Degradation,"deg(a(MESH:""Inclusion Bodies""))",,Inclusion Bodies,
+7560,Degradation,"deg(a(CONSO:""amyloid-beta derived diffusible ligands""))",,amyloid-beta derived diffusible ligands,
+7561,Degradation,"deg(a(CHEBI:""phospholipid""))",,phospholipid,
+7562,Degradation,"deg(a(MESH:""Gray Matter""))",,Gray Matter,
+7563,Degradation,"deg(complex(CONSO:""alpha-4 beta-2 nAChR""))",,alpha-4 beta-2 nAChR,
+7564,Degradation,"deg(p(MESH:""Proteins"",pmod(CONSO:""misfolded"")))",Proteins,,
+7565,Degradation,"deg(p(HGNC:""MAPT"",var(""p.Pro301Leu"")))",MAPT,,9606.0
+7566,Degradation,"deg(p(HGNC:""CDKN1B""))",CDKN1B,,9606.0
+7567,Degradation,"deg(p(HGNC:""HTT"",var(""?"")))",HTT,,9606.0
+7568,Degradation,"deg(p(HGNC:""LDLR""))",LDLR,,9606.0
+7569,Degradation,"deg(p(HGNC:""NQO1""))",NQO1,,9606.0
+7570,Degradation,"deg(p(HGNC:""TP53""))",TP53,,9606.0
+7571,Degradation,"deg(p(FPLX:""Caspase""))",Caspase,,
+7572,Degradation,"deg(p(HGNC:""CDK5R1""))",CDK5R1,,9606.0
+7573,Degradation,"deg(a(MESH:""Cerebral Cortex""))",,Cerebral Cortex,
+7574,Degradation,"deg(p(HGNC:""APP"",loc(GO:""lysosome"")))",APP,,9606.0
+7575,Degradation,"deg(p(HGNC:""DNM1""))",DNM1,,9606.0
+7576,Degradation,"deg(p(HGNC:""MFN1""))",MFN1,,9606.0
+7577,Degradation,"deg(p(HGNC:""IAPP""))",IAPP,,9606.0
+7578,Degradation,"deg(p(HGNC:""UBE2N""))",UBE2N,,9606.0
+7579,Degradation,"deg(a(MESH:""Cholinergic Neurons""))",,Cholinergic Neurons,
+7580,Degradation,"deg(p(HGNC:""PRNP""))",PRNP,,9606.0
+7581,Degradation,"deg(complex(a(CHEBI:""amyloid-beta""),complex(CONSO:""alpha-7-containing nAChR"")))",,amyloid-beta;alpha-7-containing nAChR,
+7582,Degradation,"deg(p(HGNC:""CTNNBIP1""))",CTNNBIP1,,9606.0
+7583,Degradation,"deg(complex(p(HGNC:""OAZ1""),p(HGNC:""ODC1"")))",ODC1;OAZ1,,9606.0
+7584,Degradation,"deg(p(SFAM:""NOTCH Family""))",NOTCH Family,,
+7585,Degradation,"deg(p(HGNC:""SLC25A21""))",SLC25A21,,9606.0
+7586,Degradation,"deg(r(HGNC:""BACE1""))",BACE1,,9606.0
+7587,Degradation,"deg(a(CONSO:""Tau oligomers""))",,Tau oligomers,
+7588,Degradation,"deg(p(HGNC:""TRAF3""))",TRAF3,,9606.0
+7589,Degradation,"deg(p(HGNCGENEFAMILY:""Glutamate ionotropic receptor AMPA type subunits""))",Glutamate ionotropic receptor AMPA type subunits,,
+7590,Degradation,"deg(p(HGNC:""GPR37""))",GPR37,,9606.0
+7591,Degradation,"deg(p(CONSO:""sAPP-beta""))",sAPP-beta,,
+7592,Degradation,"deg(a(GO:""actin cytoskeleton of dendritic spine""))",,actin cytoskeleton of dendritic spine,
+7593,Degradation,"deg(complex(p(HGNC:""CHRNA1""),p(HGNC:""CHRNA1""),p(HGNC:""CHRNB1""),p(HGNC:""CHRND""),p(HGNC:""CHRNE"")))",CHRNA1;CHRNB1;CHRND;CHRNE,,9606.0
+7594,Degradation,"deg(p(HGNC:""NFE2L2""))",NFE2L2,,9606.0
+7595,Degradation,"deg(complex(p(HGNC:""CREB1""),p(HGNC:""CRTC2"")))",CRTC2;CREB1,,9606.0
+7596,Degradation,"deg(p(HGNC:""MAPT""))",MAPT,,9606.0
+7597,Degradation,"deg(a(NCIT:""C120869""))",,C120869,
+7598,Degradation,"deg(p(HGNC:""LRP10""))",LRP10,,9606.0
+7599,Degradation,"deg(p(HGNC:""SOD1"",var(""?"")))",SOD1,,9606.0
+7600,Degradation,"deg(p(CONSO:""amyloid-beta aggregates""))",amyloid-beta aggregates,,
+7601,Degradation,"deg(p(HGNC:""HIF1A""))",HIF1A,,9606.0
+7602,Degradation,"deg(p(CONSO:""alpha-synuclein aggregates""))",alpha-synuclein aggregates,,
+7603,Degradation,"deg(p(HGNC:""CCP110""))",CCP110,,9606.0
+7604,Degradation,"deg(a(MESH:""Cytoskeleton""))",,Cytoskeleton,
+7605,Degradation,"deg(p(HGNC:""SNCA"",var(""?"")))",SNCA,,9606.0
+7606,Degradation,"deg(p(HGNC:""MAPT"",pmod(Ac,K,353)))",MAPT,,9606.0
+7607,Degradation,"deg(p(HGNC:""PRKCD""))",PRKCD,,9606.0
+7608,Degradation,"deg(a(MESH:""T-Lymphocytes""))",,T-Lymphocytes,
+7609,Degradation,"deg(p(CONSO:""CONSO00053"",pmod(Ph,S,214),pmod(Ph,T,212)))",CONSO00053,,
+7610,Degradation,"deg(p(HGNC:""BID""))",BID,,9606.0
+7611,Degradation,"deg(p(HGNC:""RHOT1""))",RHOT1,,9606.0
+7612,Degradation,"deg(a(CHEBI:""carbohydrate""))",,carbohydrate,
+7613,Degradation,"deg(p(CONSO:""Tau C3""))",Tau C3,,
+7614,Degradation,"deg(p(HGNC:""LRP8""))",LRP8,,9606.0
+7615,Degradation,"deg(p(CONSO:""protein aggregates"",loc(GO:""aggresome""),pmod(Ub)))",protein aggregates,,

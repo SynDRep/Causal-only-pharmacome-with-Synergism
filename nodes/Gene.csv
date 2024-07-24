@@ -1,0 +1,417 @@
+:ID,:LABEL,namespace:string,species:float,label:string,location:string,pure:boolean,bel:string,name:string,involved_genes:string,hgnc:string
+3822,Gene,HGNC,9606.0,CD33 molecule,"{""chromosome"": ""19"", ""band"": 41, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""CD33"")",CD33,CD33,1568X5656
+3823,Gene,dbSNP,,,,False,"g(dbSNP:""rs3757536"")",rs3757536,rs3757536,
+3824,Gene,dbSNP,,,,False,"g(dbSNP:""rs9331888"")",rs9331888,rs9331888,
+3825,Gene,HGNC,9606.0,complement C3b/C4b receptor 1 (Knops blood group),"{""chromosome"": ""1"", ""band"": 2, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""CR1"")",CR1,CR1,1567X5753
+3826,Gene,HGNC,9606.0,sterol O-acyltransferase 1,"{""chromosome"": ""1"", ""band"": 2, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""SOAT1"")",SOAT1,SOAT1,1565X7723
+3827,Gene,HGNC,9606.0,vascular endothelial growth factor A,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""VEGFA"")",VEGFA,VEGFA,1566X8030
+3828,Gene,HGNC,9606.0,fatty acid binding protein 4,"{""chromosome"": ""8"", ""band"": 13, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""FABP4"")",FABP4,FABP4,1567X5940
+3829,Gene,dbSNP,,,,False,"g(dbSNP:""rs616338"")",rs616338,rs616338,
+3830,Gene,dbSNP,,,,False,"g(dbSNP:""rs7975232"")",rs7975232,rs7975232,
+3831,Gene,HGNC,9606.0,cholinergic receptor nicotinic alpha 7 subunit,"{""chromosome"": ""15"", ""band"": 3, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""CHRNA7"")",CHRNA7,CHRNA7,1567X5704
+3832,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""APP"")",APP,APP,1575X5495
+3833,Gene,HGNC,9606.0,matrix metallopeptidase 14,"{""chromosome"": ""14"", ""band"": 2, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""MMP14"")",MMP14,MMP14,1568X6704
+3834,Gene,DBSNP,,,,False,"g(DBSNP:""rs1868402"")",rs1868402,rs1868402,
+3835,Gene,HGNC,9606.0,microRNA 196a-1,"{""chromosome"": ""17"", ""band"": 32, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""MIR196A1"")",MIR196A1,MIR196A1,1566X6584
+3836,Gene,HGNC,9606.0,transgelin,"{""chromosome"": ""11"", ""band"": 3, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""TAGLN"")",TAGLN,TAGLN,1562X7797
+3837,Gene,HGNC,9606.0,scavenger receptor class B member 1,"{""chromosome"": ""12"", ""band"": 31, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""SCARB1"")",SCARB1,SCARB1,1568X7574
+3838,Gene,HGNC,9606.0,chromatin assembly factor 1 subunit A,"{""chromosome"": ""19"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""CHAF1A"")",CHAF1A,CHAF1A,1573X5694
+3839,Gene,HGNC,9606.0,C-C motif chemokine ligand 2,"{""chromosome"": ""17"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""CCL2"")",CCL2,CCL2,1565X5645
+3840,Gene,HGNC,9606.0,prostaglandin-endoperoxide synthase 2,"{""chromosome"": ""1"", ""band"": 1, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""PTGS2"")",PTGS2,PTGS2,1568X7114
+3841,Gene,HGNC,9606.0,glycogen synthase kinase 3 alpha,"{""chromosome"": ""19"", ""band"": 2, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""GSK3A"")",GSK3A,GSK3A,1569X6092
+3842,Gene,DBSNP,,,,False,"g(DBSNP:""rs393152"")",rs393152,rs393152,
+3843,Gene,HGNC,9606.0,methylenetetrahydrofolate reductase,"{""chromosome"": ""1"", ""band"": 22, ""region"": 36, ""arm"": ""p""}",,"g(HGNC:""MTHFR"",var(""c.677C>T""))",MTHFR,MTHFR,1571X6755
+3844,Gene,HGNC,9606.0,prosaposin,"{""chromosome"": ""10"", ""band"": 1, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""PSAP"")",PSAP,PSAP,1575X7099
+3845,Gene,HGNC,9606.0,stearoyl-CoA desaturase,"{""chromosome"": ""10"", ""band"": 31, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""SCD"")",SCD,SCD,1574X7575
+3846,Gene,dbSNP,,,,False,"g(dbSNP:""rs201258663"")",rs201258663,rs201258663,
+3847,Gene,HGNCGENEFAMILY,,,,False,"g(HGNCGENEFAMILY:""Toll like receptors"")",Toll like receptors,Toll like receptors,
+3848,Gene,dbSNP,,,,False,"g(dbSNP:""rs1569686"")",rs1569686,rs1569686,
+3849,Gene,MGI,10090.0,,,False,"g(MGI:""Sirt1"")",Sirt1,Sirt1,
+3850,Gene,HGNC,9606.0,slit guidance ligand 2,"{""chromosome"": ""4"", ""band"": 31, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""SLIT2"")",SLIT2,SLIT2,1574X7658
+3851,Gene,HGNC,9606.0,microRNA 205,"{""chromosome"": ""1"", ""band"": 2, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""MIR205"")",MIR205,MIR205,1567X6585
+3852,Gene,HGNC,9606.0,calpastatin,"{""chromosome"": ""5"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""CAST"")",CAST,CAST,1571X5627
+3853,Gene,dbSNP,,,,False,"g(dbSNP:""rs371702633"")",rs371702633,rs371702633,
+3854,Gene,HGNC,9606.0,microRNA 34b,"{""chromosome"": ""11"", ""band"": 1, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""MIR34B"")",MIR34B,MIR34B,1568X6577
+3855,Gene,HGNC,9606.0,epidermal growth factor receptor pathway substrate 15,"{""chromosome"": ""1"", ""band"": 3, ""region"": 32, ""arm"": ""p""}",False,"g(HGNC:""EPS15"")",EPS15,EPS15,1565X5917
+3856,Gene,HGNC,9606.0,microRNA 196b,"{""chromosome"": ""7"", ""band"": 2, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""MIR196B"")",MIR196B,MIR196B,1568X6584
+3857,Gene,HGNC,9606.0,piggyBac transposable element derived 1,"{""chromosome"": ""6"", ""band"": 1, ""region"": 22, ""arm"": ""p""}",False,"g(HGNC:""PGBD1"")",PGBD1,PGBD1,1567X6995
+3858,Gene,HGNC,9606.0,marker of proliferation Ki-67,"{""chromosome"": ""10"", ""band"": 2, ""region"": 26, ""arm"": ""q""}",False,"g(HGNC:""MKI67"")",MKI67,MKI67,1571X6698
+3859,Gene,HGNC,9606.0,cyclin dependent kinase 1,"{""chromosome"": ""10"", ""band"": 2, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""CDK1"")",CDK1,CDK1,1563X5669
+3860,Gene,HGNC,9606.0,glutathione peroxidase 3,"{""chromosome"": ""5"", ""band"": 1, ""region"": 33, ""arm"": ""q""}",False,"g(HGNC:""GPX3"")",GPX3,GPX3,1571X6084
+3861,Gene,HGNC,9606.0,microRNA 124-1,"{""chromosome"": ""8"", ""band"": 1, ""region"": 23, ""arm"": ""p""}",False,"g(HGNC:""MIR124-1"")",MIR124-1,MIR124-1,1565X6579
+3862,Gene,HGNC,9606.0,transmembrane protein 97,"{""chromosome"": ""17"", ""band"": 2, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""TMEM97"")",TMEM97,TMEM97,1574X7851
+3863,Gene,dbSNP,,,,False,"g(dbSNP:""rs9807444"")",rs9807444,rs9807444,
+3864,Gene,HGNC,9606.0,cathepsin D,"{""chromosome"": ""11"", ""band"": 5, ""region"": 15, ""arm"": ""p""}",,"g(HGNC:""CTSD"",var(""c.224C>T""))",CTSD,CTSD,1570X5774
+3865,Gene,HGNC,9606.0,protein tyrosine phosphatase non-receptor type 6,"{""chromosome"": ""12"", ""band"": 31, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""PTPN6"")",PTPN6,PTPN6,1574X7116
+3866,Gene,HGNC,9606.0,selenium binding protein 1,"{""chromosome"": ""1"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""SELENBP1"")",SELENBP1,SELENBP1,1571X7589
+3867,Gene,HGNC,9606.0,nerve growth factor receptor,"{""chromosome"": ""17"", ""band"": 33, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""NGFR"")",NGFR,NGFR,1564X6827
+3868,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""p.Thr96Lys""))",TREM2,TREM2,1573X7915
+3869,Gene,dbSNP,,,,False,"g(dbSNP:""rs17757879"")",rs17757879,rs17757879,
+3870,Gene,HGNC,9606.0,heat shock protein family B (small) member 1,"{""chromosome"": ""7"", ""band"": 23, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""HSPB1"")",HSPB1,HSPB1,1574X6181
+3871,Gene,HGNC,9606.0,dual specificity phosphatase 22,"{""chromosome"": ""6"", ""band"": 3, ""region"": 25, ""arm"": ""p""}",False,"g(HGNC:""DUSP22"")",DUSP22,DUSP22,1561X5862
+3872,Gene,HGNC,9606.0,"ADP ribosylation factor 2, pseudogene","{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""ARF2P"")",ARF2P,ARF2P,1564X5500
+3873,Gene,HGNC,9606.0,ATPase H+ transporting V1 subunit H,"{""chromosome"": ""8"", ""band"": 23, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""ATP6V1H"")",ATP6V1H,ATP6V1H,1561X5538
+3874,Gene,dbSNP,,,,False,"g(dbSNP:""rs142232675"")",rs142232675,rs142232675,
+3875,Gene,HGNCGENEFAMILY,,,,False,"g(HGNCGENEFAMILY:""Heat shock 70kDa proteins"")",Heat shock 70kDa proteins,Heat shock 70kDa proteins,
+3876,Gene,HGNC,9606.0,8-oxoguanine DNA glycosylase,"{""chromosome"": ""3"", ""band"": 3, ""region"": 25, ""arm"": ""p""}",False,"g(HGNC:""OGG1"")",OGG1,OGG1,1576X6878
+3877,Gene,HGNC,9606.0,DNA methyltransferase 3 beta,"{""chromosome"": ""20"", ""band"": 21, ""region"": 11, ""arm"": ""q""}",,"g(HGNC:""DNMT3B"",var(""c.79G>T""))",DNMT3B,DNMT3B,1569X5844
+3878,Gene,MGI,10090.0,,,False,"g(MGI:""Ncstn"")",Ncstn,Ncstn,
+3879,Gene,HGNC,9606.0,cyclin A2,"{""chromosome"": ""4"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""CCNA2"")",CCNA2,CCNA2,1573X5646
+3880,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""p.Arg47His""))",TREM2,TREM2,1573X7915
+3881,Gene,DBSNP,,,,False,"g(DBSNP:""rs936465"")",rs936465,rs936465,
+3882,Gene,HGNC,9606.0,NAD(P)H quinone dehydrogenase 1,"{""chromosome"": ""16"", ""band"": 1, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""NQO1"")",NQO1,NQO1,1576X6852
+3883,Gene,dbSNP,,,,False,"g(dbSNP:""rs2424913"")",rs2424913,rs2424913,
+3884,Gene,HGNC,9606.0,alpha-2-macroglobulin,"{""chromosome"": ""12"", ""band"": 31, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""A2M"")",A2M,A2M,1564X5413
+3885,Gene,HGNC,9606.0,microtubule associated protein tau,"{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""MAPT"")",MAPT,MAPT,1563X6540
+3886,Gene,HGNC,9606.0,"MEFV innate immunity regulator, pyrin","{""chromosome"": ""16"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""MEFV"")",MEFV,MEFV,1573X6556
+3887,Gene,HGNC,9606.0,"Fos proto-oncogene, AP-1 transcription factor subunit","{""chromosome"": ""14"", ""band"": 3, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""FOS"")",FOS,FOS,1573X5997
+3888,Gene,dbSNP,,,,False,"g(dbSNP:""rs72824905"")",rs72824905,rs72824905,
+3889,Gene,dbSNP,,,,False,"g(dbSNP:""rs1800497"")",rs1800497,rs1800497,
+3890,Gene,dbSNP,,,,False,"g(dbSNP:""rs10932886"")",rs10932886,rs10932886,
+3891,Gene,HGNC,9606.0,GRB2 associated binding protein 2,"{""chromosome"": ""11"", ""band"": 1, ""region"": 14, ""arm"": ""q""}",False,"g(HGNC:""GAB2"")",GAB2,GAB2,1576X6022
+3892,Gene,CONSO,,,,False,"g(CONSO:""CONSO00030"")",CONSO00030,CONSO00030,
+3893,Gene,HGNC,9606.0,RAN binding protein 9,"{""chromosome"": ""6"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""RANBP9"")",RANBP9,RANBP9,1573X7141
+3894,Gene,MGI,10090.0,,,False,"g(MGI:""Mir138-1"")",Mir138-1,Mir138-1,
+3895,Gene,HGNC,9606.0,thymidine kinase 1,"{""chromosome"": ""17"", ""band"": 3, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""TK1"")",TK1,TK1,1568X7839
+3896,Gene,HGNC,9606.0,tumor necrosis factor,"{""chromosome"": ""6"", ""band"": 33, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""TNF"")",TNF,TNF,1575X7869
+3897,Gene,dbSNP,,,,False,"g(dbSNP:""rs17571"")",rs17571,rs17571,
+3898,Gene,HGNC,9606.0,protein S,"{""chromosome"": ""3"", ""band"": 1, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""PROS1"")",PROS1,PROS1,1575X7088
+3899,Gene,DBSNP,,,,False,"g(DBSNP:""rs2070045"")",rs2070045,rs2070045,
+3900,Gene,HGNC,9606.0,membrane metalloendopeptidase,"{""chromosome"": ""3"", ""band"": 2, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""MME"")",MME,MME,1568X6703
+3901,Gene,HGNC,9606.0,cathepsin D,"{""chromosome"": ""11"", ""band"": 5, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""CTSD"")",CTSD,CTSD,1570X5774
+3902,Gene,HGNC,9606.0,phosphatidylinositol 3-kinase catalytic subunit type 3,"{""chromosome"": ""18"", ""band"": 3, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""PIK3C3"")",PIK3C3,PIK3C3,1568X7010
+3903,Gene,HGNC,9606.0,oxidized low density lipoprotein receptor 1,"{""chromosome"": ""12"", ""band"": 2, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""OLR1"")",OLR1,OLR1,1568X6882
+3904,Gene,HGNC,9606.0,"leucine rich repeat containing 37 member A4, pseudogene","{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""LRRC37A4P"")",LRRC37A4P,LRRC37A4P,1574X6508
+3905,Gene,HGNC,9606.0,signal recognition particle 14,"{""chromosome"": ""15"", ""band"": null, ""region"": null, ""arm"": null}",,"g(HGNC:""SRP14"",gmod(GPBP:""DNA methylation""))",SRP14,SRP14,1573X7750
+3906,Gene,HGNC,9606.0,dynactin subunit 1,"{""chromosome"": ""2"", ""band"": 1, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""DCTN1"")",DCTN1,DCTN1,1564X5804
+3907,Gene,HGNC,9606.0,low density lipoprotein receptor,"{""chromosome"": ""19"", ""band"": 2, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""LDLR"")",LDLR,LDLR,1572X6335
+3908,Gene,HGNC,9606.0,Parkinsonism associated deglycase,"{""chromosome"": ""1"", ""band"": 23, ""region"": 36, ""arm"": ""p""}",,"g(HGNC:""PARK7"",var(""?""))",PARK7,PARK7,1561X6960
+3909,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""p.Thr66Met""))",TREM2,TREM2,1573X7915
+3910,Gene,dbSNP,,,,False,"g(dbSNP:""rs10173717"")",rs10173717,rs10173717,
+3911,Gene,HGNC,9606.0,MHC class I polypeptide-related sequence B,"{""chromosome"": ""6"", ""band"": 33, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""MICB"")",MICB,MICB,1571X6568
+3912,Gene,HGNC,9606.0,reticulon 4,"{""chromosome"": ""2"", ""band"": 1, ""region"": 16, ""arm"": ""p""}",False,"g(HGNC:""RTN4"")",RTN4,RTN4,1567X7558
+3913,Gene,HGNC,9606.0,insulin like growth factor 1,"{""chromosome"": ""12"", ""band"": 2, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""IGF1"")",IGF1,IGF1,1563X6202
+3914,Gene,DBSNP,,,,False,"g(DBSNP:""rs57095329"")",rs57095329,rs57095329,
+3915,Gene,HGNC,9606.0,acidic nuclear phosphoprotein 32 family member A,"{""chromosome"": ""15"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""ANP32A"")",ANP32A,ANP32A,1576X5484
+3916,Gene,HGNC,9606.0,microRNA 7-1,"{""chromosome"": ""9"", ""band"": 32, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""MIR7-1"")",MIR7-1,MIR7-1,1572X6572
+3917,Gene,HGNC,9606.0,solute carrier family 7 member 11,"{""chromosome"": ""4"", ""band"": 3, ""region"": 28, ""arm"": ""q""}",False,"g(HGNC:""SLC7A11"")",SLC7A11,SLC7A11,1576X7629
+3918,Gene,DBSNP,,,,False,"g(DBSNP:""rs2986017"")",rs2986017,rs2986017,
+3919,Gene,MIRBASE,,,,False,"g(MIRBASE:""hsa-mir-10b"")",hsa-mir-10b,hsa-mir-10b,
+3920,Gene,MGI,10090.0,,,,"g(MGI:""Fkbp1b"",loc(MESH:""Hippocampus""))",Fkbp1b,Fkbp1b,
+3921,Gene,HGNC,9606.0,lysosomal associated membrane protein 1,"{""chromosome"": ""13"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""LAMP1"")",LAMP1,LAMP1,1564X6327
+3922,Gene,HGNC,9606.0,nuclear factor of activated T cells 1,"{""chromosome"": ""18"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""NFATC1"")",NFATC1,NFATC1,1561X6824
+3923,Gene,HGNC,9606.0,calpain 1,"{""chromosome"": ""11"", ""band"": 1, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""CAPN1"")",CAPN1,CAPN1,1571X5620
+3924,Gene,HGNC,9606.0,microRNA 494,"{""chromosome"": ""14"", ""band"": 31, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""MIR494"")",MIR494,MIR494,1572X6593
+3925,Gene,HGNC,9606.0,oxidative stress induced growth inhibitor 1,"{""chromosome"": ""16"", ""band"": 3, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""OSGIN1"")",OSGIN1,OSGIN1,1570X6941
+3926,Gene,HGNC,9606.0,EBF transcription factor 3,"{""chromosome"": ""10"", ""band"": 3, ""region"": 26, ""arm"": ""q""}",False,"g(HGNC:""EBF3"")",EBF3,EBF3,1569X5871
+3927,Gene,HGNC,9606.0,nerve growth factor,"{""chromosome"": ""1"", ""band"": 2, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""NGF"")",NGF,NGF,1562X6827
+3928,Gene,CONSO,,,,False,"g(CONSO:""APOE e4"")",APOE e4,APOE e4,
+3929,Gene,HGNC,9606.0,phosphodiesterase 7B,"{""chromosome"": ""6"", ""band"": 3, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""PDE7B"")",PDE7B,PDE7B,1568X6981
+3930,Gene,HGNC,9606.0,SPC25 component of NDC80 kinetochore complex,"{""chromosome"": ""2"", ""band"": 1, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""SPC25"")",SPC25,SPC25,1565X7736
+3931,Gene,HGNC,9606.0,sequestosome 1,"{""chromosome"": ""5"", ""band"": 3, ""region"": 35, ""arm"": ""q""}",False,"g(HGNC:""SQSTM1"")",SQSTM1,SQSTM1,1571X7747
+3932,Gene,HGNC,9606.0,uracil DNA glycosylase,"{""chromosome"": ""12"", ""band"": 11, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""UNG"")",UNG,UNG,1576X8007
+3933,Gene,HGNC,9606.0,CD2 associated protein,"{""chromosome"": ""6"", ""band"": 3, ""region"": 12, ""arm"": ""p""}",False,"g(HGNC:""CD2AP"")",CD2AP,CD2AP,1572X5653
+3934,Gene,HGNC,9606.0,prolyl endopeptidase,"{""chromosome"": ""6"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""PREP"")",PREP,PREP,1565X7082
+3935,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""p.Tyr38Cys""))",TREM2,TREM2,1573X7915
+3936,Gene,DBSNP,,,,False,"g(DBSNP:""rs1699102"")",rs1699102,rs1699102,
+3937,Gene,HGNC,9606.0,transferrin receptor,"{""chromosome"": ""3"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""TFRC"")",TFRC,TFRC,1562X7827
+3938,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""TREM2"")",TREM2,TREM2,1573X7915
+3939,Gene,DBSNP,,,,False,"g(DBSNP:""rs17757879"")",rs17757879,rs17757879,
+3940,Gene,DBSNP,,,,False,"g(DBSNP:""rs1800547"")",rs1800547,rs1800547,
+3941,Gene,HGNC,9606.0,C-X-C motif chemokine receptor 4,"{""chromosome"": ""2"", ""band"": 1, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""CXCR4"")",CXCR4,CXCR4,1562X5781
+3942,Gene,HGNC,9606.0,DNA methyltransferase 3 beta,"{""chromosome"": ""20"", ""band"": 21, ""region"": 11, ""arm"": ""q""}",,"g(HGNC:""DNMT3B"",var(""c.149C>T""))",DNMT3B,DNMT3B,1569X5844
+3943,Gene,HGNC,9606.0,interleukin 13,"{""chromosome"": ""5"", ""band"": 1, ""region"": 31, ""arm"": ""q""}",,"g(HGNC:""IL13"",var(""NCIT:C121521""))",IL13,IL13,1575X6235
+3944,Gene,HGNC,9606.0,"protein kinase, DNA-activated, catalytic subunit","{""chromosome"": ""8"", ""band"": 21, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""PRKDC"")",PRKDC,PRKDC,1569X7085
+3945,Gene,HGNC,9606.0,teashirt zinc finger homeobox 1,"{""chromosome"": ""18"", ""band"": 3, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""TSHZ1"")",TSHZ1,TSHZ1,1573X7962
+3946,Gene,HGNC,9606.0,agrin,"{""chromosome"": ""1"", ""band"": 33, ""region"": 36, ""arm"": ""p""}",False,"g(HGNC:""AGRN"")",AGRN,AGRN,1572X5453
+3947,Gene,RGD,10116.0,,,False,"g(RGD:""Cdk5"")",Cdk5,Cdk5,
+3948,Gene,dbSNP,,,,False,"g(dbSNP:""rs768745050"")",rs768745050,rs768745050,
+3949,Gene,DBSNP,,,,False,"g(DBSNP:""rs734194"")",rs734194,rs734194,
+3950,Gene,HGNC,9606.0,insulin like growth factor binding protein 3,"{""chromosome"": ""7"", ""band"": 3, ""region"": 12, ""arm"": ""p""}",False,"g(HGNC:""IGFBP3"")",IGFBP3,IGFBP3,1576X6200
+3951,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""?""))",TREM2,TREM2,1573X7915
+3952,Gene,dbSNP,,,,False,"g(dbSNP:""rs1544410"")",rs1544410,rs1544410,
+3953,Gene,HGNC,9606.0,methylenetetrahydrofolate reductase,"{""chromosome"": ""1"", ""band"": 22, ""region"": 36, ""arm"": ""p""}",False,"g(HGNC:""MTHFR"")",MTHFR,MTHFR,1571X6755
+3954,Gene,HGNC,9606.0,apoptosis inducing factor mitochondria associated 2,"{""chromosome"": ""10"", ""band"": 1, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""AIFM2"")",AIFM2,AIFM2,1566X5457
+3955,Gene,HGNC,9606.0,acetylcholinesterase (Cartwright blood group),"{""chromosome"": ""7"", ""band"": 1, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""ACHE"")",ACHE,ACHE,1574X5424
+3956,Gene,HGNC,9606.0,IQCJ-SCHIP1 readthrough,"{""chromosome"": ""3"", ""band"": 32, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""IQCJ-SCHIP1"")",IQCJ-SCHIP1,IQCJ-SCHIP1,1564X6251
+3957,Gene,HGNC,9606.0,ribonuclease H2 subunit A,"{""chromosome"": ""19"", ""band"": 13, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""RNASEH2A"")",RNASEH2A,RNASEH2A,1576X7281
+3958,Gene,HGNC,9606.0,apolipoprotein C2,"{""chromosome"": ""19"", ""band"": 32, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""APOC2"")",APOC2,APOC2,1567X5495
+3959,Gene,HGNC,9606.0,insulin degrading enzyme,"{""chromosome"": ""10"", ""band"": 33, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""IDE"")",IDE,IDE,1564X6193
+3960,Gene,HGNC,9606.0,parkin RBR E3 ubiquitin protein ligase,"{""chromosome"": ""6"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""PRKN"")",PRKN,PRKN,1574X7085
+3961,Gene,HGNC,9606.0,"neural proliferation, differentiation and control 1","{""chromosome"": ""9"", ""band"": 3, ""region"": 34, ""arm"": ""q""}",False,"g(HGNC:""NPDC1"")",NPDC1,NPDC1,1566X6847
+3962,Gene,DBSNP,,,,False,"g(DBSNP:""rs3818361"")",rs3818361,rs3818361,
+3963,Gene,HGNC,9606.0,microRNA 146a,"{""chromosome"": ""5"", ""band"": 3, ""region"": 33, ""arm"": ""q""}",False,"g(HGNC:""MIR146A"")",MIR146A,MIR146A,1572X6580
+3964,Gene,HGNC,9606.0,LINE1 retrotransposable element 1,"{""chromosome"": ""22"", ""band"": 1, ""region"": 12, ""arm"": ""q""}",,"g(HGNC:""L1RE1"",gmod(GPBP:""DNA methylation""))",L1RE1,L1RE1,
+3965,Gene,HGNC,9606.0,microtubule associated protein tau,"{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""MAPT"",var(""?""))",MAPT,MAPT,1563X6540
+3966,Gene,HGNC,9606.0,PHD finger protein 1,"{""chromosome"": ""6"", ""band"": 32, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""PHF1"")",PHF1,PHF1,1570X7000
+3967,Gene,HGNC,9606.0,nuclear receptor subfamily 3 group C member 1,"{""chromosome"": ""5"", ""band"": 3, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""NR3C1"")",NR3C1,NR3C1,1567X6856
+3968,Gene,HGNC,9606.0,neuritin 1,"{""chromosome"": ""6"", ""band"": 1, ""region"": 25, ""arm"": ""p""}",False,"g(HGNC:""NRN1"")",NRN1,NRN1,1569X6858
+3969,Gene,DBSNP,,,,False,"g(DBSNP:""rs3824968"")",rs3824968,rs3824968,
+3970,Gene,HGNC,9606.0,dihydrofolate reductase,"{""chromosome"": ""5"", ""band"": 1, ""region"": 14, ""arm"": ""q""}",False,"g(HGNC:""DHFR"")",DHFR,DHFR,1572X5821
+3971,Gene,HGNC,9606.0,brain derived neurotrophic factor,"{""chromosome"": ""11"", ""band"": 1, ""region"": 14, ""arm"": ""p""}",False,"g(HGNC:""BDNF"")",BDNF,BDNF,1569X5558
+3972,Gene,dbSNP,,,,False,"g(dbSNP:""rs1800547"")",rs1800547,rs1800547,
+3973,Gene,HGNC,9606.0,adipose secreted signaling protein,"{""chromosome"": ""20"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""ADISSP"")",ADISSP,C20orf27,1574X5445
+3974,Gene,DBSNP,,,,False,"g(DBSNP:""rs11246228"")",rs11246228,rs11246228,
+3975,Gene,HGNC,9606.0,neuronal pentraxin 1,"{""chromosome"": ""17"", ""band"": 3, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""NPTX1"")",NPTX1,NPTX1,1563X6854
+3976,Gene,HGNC,9606.0,phosphatidylinositol-4-phosphate 5-kinase type 1 alpha,"{""chromosome"": ""1"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""PIP5K1A"")",PIP5K1A,PIP5K1A,1566X7013
+3977,Gene,MGI,10090.0,,,False,"g(MGI:""Ebf3"")",Ebf3,Ebf3,
+3978,Gene,NCBIGENE,,,,False,"g(NCBIGENE:""406915"")",406915,406915,
+3979,Gene,HGNC,9606.0,TNF receptor superfamily member 9,"{""chromosome"": ""1"", ""band"": 23, ""region"": 36, ""arm"": ""p""}",False,"g(HGNC:""TNFRSF9"")",TNFRSF9,TNFRSF9,1573X7870
+3980,Gene,HGNC,9606.0,histone deacetylase 5,"{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""HDAC5"")",HDAC5,HDAC5,1565X6127
+3981,Gene,HGNC,9606.0,prostaglandin reductase 1,"{""chromosome"": ""9"", ""band"": 3, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""PTGR1"")",PTGR1,PTGR1,1564X7114
+3982,Gene,HGNC,9606.0,dynamin 2,"{""chromosome"": ""19"", ""band"": 2, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""DNM2"")",DNM2,DNM2,1576X5842
+3983,Gene,HGNC,9606.0,cathepsin B,"{""chromosome"": ""8"", ""band"": 1, ""region"": 23, ""arm"": ""p""}",False,"g(HGNC:""CTSB"")",CTSB,CTSB,1568X5775
+3984,Gene,HGNC,9606.0,minichromosome maintenance complex component 4,"{""chromosome"": ""8"", ""band"": 21, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""MCM4"")",MCM4,MCM4,1575X6548
+3985,Gene,HGNC,9606.0,heme oxygenase 1,"{""chromosome"": ""22"", ""band"": 3, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""HMOX1"")",HMOX1,HMOX1,1569X6155
+3986,Gene,HGNC,9606.0,tumor necrosis factor,"{""chromosome"": ""6"", ""band"": 33, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TNF"",var(""c.224G>A""))",TNF,TNF,1575X7869
+3987,Gene,HGNC,9606.0,histone deacetylase 6,"{""chromosome"": ""X"", ""band"": 23, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""HDAC6"")",HDAC6,HDAC6,1566X6127
+3988,Gene,HGNC,9606.0,translocase of outer mitochondrial membrane 40,"{""chromosome"": ""19"", ""band"": 32, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""TOMM40"")",TOMM40,TOMM40,1576X7876
+3989,Gene,HGNC,9606.0,insulin like growth factor binding protein 2,"{""chromosome"": ""2"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""IGFBP2"")",IGFBP2,IGFBP2,1575X6201
+3990,Gene,HGNC,9606.0,protein kinase C epsilon,"{""chromosome"": ""2"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""PRKCE"")",PRKCE,PRKCE,1568X7085
+3991,Gene,dbSNP,,,,False,"g(dbSNP:""rs79011726"")",rs79011726,rs79011726,
+3992,Gene,HGNC,9606.0,insulin like growth factor 2,"{""chromosome"": ""11"", ""band"": 5, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""IGF2"")",IGF2,IGF2,1565X6202
+3993,Gene,HGNC,9606.0,presenilin 1,"{""chromosome"": ""14"", ""band"": 2, ""region"": 24, ""arm"": ""q""}",,"g(HGNC:""PSEN1"",gmod(GPBP:""DNA methylation""))",PSEN1,PSEN1,1572X7100
+3994,Gene,HGNC,9606.0,neurotrophic receptor tyrosine kinase 2,"{""chromosome"": ""9"", ""band"": 33, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""NTRK2"")",NTRK2,NTRK2,1570X6864
+3995,Gene,MGI,10090.0,,,False,"g(MGI:""Mir29c"")",Mir29c,Mir29c,
+3996,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells like 4,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREML4"",var(""?""))",TREML4,TREML4,1561X7917
+3997,Gene,HGNC,9606.0,BRCA1 DNA repair associated,"{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""BRCA1"")",BRCA1,BRCA1,1566X5577
+3998,Gene,dbSNP,,,,False,"g(dbSNP:""rs187116"")",rs187116,rs187116,
+3999,Gene,HGNC,9606.0,glutaredoxin 2,"{""chromosome"": ""1"", ""band"": 2, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""GLRX2"")",GLRX2,GLRX2,1563X6058
+4000,Gene,dbSNP,,,,False,"g(dbSNP:""rs3865444"")",rs3865444,rs3865444,
+4001,Gene,HGNC,9606.0,presenilin 2,"{""chromosome"": ""1"", ""band"": 13, ""region"": 42, ""arm"": ""q""}",False,"g(HGNC:""PSEN2"")",PSEN2,PSEN2,1573X7100
+4002,Gene,HGNC,9606.0,peroxisome proliferator activated receptor alpha,"{""chromosome"": ""22"", ""band"": 31, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""PPARA"")",PPARA,PPARA,1568X7055
+4003,Gene,HGNC,9606.0,LDL receptor related protein 2,"{""chromosome"": ""2"", ""band"": 1, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""LRP2"")",LRP2,LRP2,1574X6504
+4004,Gene,HGNC,9606.0,membrane spanning 4-domains A6E,"{""chromosome"": ""11"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""MS4A6E"")",MS4A6E,MS4A6E,1566X6730
+4005,Gene,HGNC,9606.0,CYLD lysine 63 deubiquitinase,"{""chromosome"": ""16"", ""band"": 1, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""CYLD"")",CYLD,CYLD,1574X5785
+4006,Gene,HGNC,9606.0,early growth response 1,"{""chromosome"": ""5"", ""band"": 2, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""EGR1"")",EGR1,EGR1,1573X5885
+4007,Gene,HGNC,9606.0,aldo-keto reductase family 1 member B10,"{""chromosome"": ""7"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""AKR1B10"")",AKR1B10,AKR1B10,1568X5462
+4008,Gene,HGNC,9606.0,24-dehydrocholesterol reductase,"{""chromosome"": ""1"", ""band"": 3, ""region"": 32, ""arm"": ""p""}",False,"g(HGNC:""DHCR24"")",DHCR24,DHCR24,1567X5822
+4009,Gene,HGNC,9606.0,minichromosome maintenance 10 replication initiation factor,"{""chromosome"": ""10"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""MCM10"")",MCM10,MCM10,1566X6550
+4010,Gene,DBSNP,,,,False,"g(DBSNP:""rs6656401"")",rs6656401,rs6656401,
+4011,Gene,HGNC,9606.0,8-oxoguanine DNA glycosylase,"{""chromosome"": ""3"", ""band"": 3, ""region"": 25, ""arm"": ""p""}",,"g(HGNC:""OGG1"",var(""c.796Cdel""))",OGG1,OGG1,1576X6878
+4012,Gene,HGNC,9606.0,monoamine oxidase A,"{""chromosome"": ""X"", ""band"": 3, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""MAOA"")",MAOA,MAOA,1567X6533
+4013,Gene,HGNC,9606.0,calcium dependent secretion activator 2,"{""chromosome"": ""7"", ""band"": 32, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""CADPS2"")",CADPS2,CADPS2,1571X5615
+4014,Gene,HGNC,9606.0,forkhead box P3,"{""chromosome"": ""X"", ""band"": 23, ""region"": 11, ""arm"": ""p""}",,"g(HGNC:""FOXP3"",var(""NCIT:C121521""))",FOXP3,FOXP3,1562X6003
+4015,Gene,HGNC,9606.0,ATPase family AAA domain containing 2,"{""chromosome"": ""8"", ""band"": 13, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""ATAD2"")",ATAD2,ATAD2,1574X5524
+4016,Gene,DBSNP,,,,False,"g(DBSNP:""rs752306"")",rs752306,rs752306,
+4017,Gene,HGNC,9606.0,neurotrophic receptor tyrosine kinase 3,"{""chromosome"": ""15"", ""band"": 3, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""NTRK3"")",NTRK3,NTRK3,1571X6864
+4018,Gene,HGNC,9606.0,endothelin 1,"{""chromosome"": ""6"", ""band"": 1, ""region"": 24, ""arm"": ""p""}",False,"g(HGNC:""EDN1"")",EDN1,EDN1,1562X5876
+4019,Gene,HGNC,9606.0,vesicle associated membrane protein 2,"{""chromosome"": ""17"", ""band"": 1, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""VAMP2"")",VAMP2,VAMP2,1564X8026
+4020,Gene,DBSNP,,,,False,"g(DBSNP:""rs10932886"")",rs10932886,rs10932886,
+4021,Gene,HGNC,9606.0,HtrA serine peptidase 1,"{""chromosome"": ""10"", ""band"": 13, ""region"": 26, ""arm"": ""q""}",False,"g(HGNC:""HTRA1"")",HTRA1,HTRA1,1561X6189
+4022,Gene,HGNC,9606.0,microRNA 9-1,"{""chromosome"": ""1"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""MIR9-1"")",MIR9-1,MIR9-1,1576X6571
+4023,Gene,HGNC,9606.0,transforming growth factor beta 1,"{""chromosome"": ""19"", ""band"": 2, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""TGFB1"")",TGFB1,TGFB1,1567X7827
+4024,Gene,MGI,10090.0,,,False,"g(MGI:""Hmox1"")",Hmox1,Hmox1,
+4025,Gene,HGNC,9606.0,butyrylcholinesterase,"{""chromosome"": ""3"", ""band"": 1, ""region"": 26, ""arm"": ""q""}",False,"g(HGNC:""BCHE"")",BCHE,BCHE,1573X5554
+4026,Gene,HGNC,9606.0,presenilin 2,"{""chromosome"": ""1"", ""band"": 13, ""region"": 42, ""arm"": ""q""}",,"g(HGNC:""PSEN2"",var(""?""))",PSEN2,PSEN2,1573X7100
+4027,Gene,dbSNP,,,,False,"g(dbSNP:""rs75932628"")",rs75932628,rs75932628,
+4028,Gene,HGNC,9606.0,autophagy related 5,"{""chromosome"": ""6"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""ATG5"")",ATG5,ATG5,1562X5528
+4029,Gene,HGNC,9606.0,histamine receptor H1,"{""chromosome"": ""3"", ""band"": 3, ""region"": 25, ""arm"": ""p""}",False,"g(HGNC:""HRH1"")",HRH1,HRH1,1565X6174
+4030,Gene,HGNC,9606.0,FERM domain containing 4A,"{""chromosome"": ""10"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""FRMD4A"")",FRMD4A,FRMD4A,1572X6012
+4031,Gene,HGNC,9606.0,methyl-CpG binding protein 2,"{""chromosome"": ""X"", ""band"": null, ""region"": null, ""arm"": null}",,"g(HGNC:""MECP2"",var(""?""))",MECP2,MECP2,1574X6552
+4032,Gene,HGNC,9606.0,eukaryotic translation initiation factor 4E binding protein 1,"{""chromosome"": ""8"", ""band"": 23, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""EIF4EBP1"")",EIF4EBP1,EIF4EBP1,1574X5894
+4033,Gene,HGNC,9606.0,microRNA 133b,"{""chromosome"": ""6"", ""band"": 2, ""region"": 12, ""arm"": ""p""}",False,"g(HGNC:""MIR133B"")",MIR133B,MIR133B,1570X6579
+4034,Gene,HGNC,9606.0,synaptophysin,"{""chromosome"": ""X"", ""band"": 23, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""SYP"")",SYP,SYP,1561X7789
+4035,Gene,dbSNP,,,,False,"g(dbSNP:""rs3824968"")",rs3824968,rs3824968,
+4036,Gene,HGNC,9606.0,ATP citrate lyase,"{""chromosome"": ""17"", ""band"": 2, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""ACLY"")",ACLY,ACLY,1565X5426
+4037,Gene,HGNC,9606.0,LDL receptor related protein 8,"{""chromosome"": ""1"", ""band"": 3, ""region"": 32, ""arm"": ""p""}",False,"g(HGNC:""LRP8"")",LRP8,LRP8,1567X6506
+4038,Gene,HGNC,9606.0,apolipoprotein C1,"{""chromosome"": ""19"", ""band"": 32, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""APOC1"")",APOC1,APOC1,1565X5495
+4039,Gene,dbSNP,,,,False,"g(dbSNP:""rs2234252"")",rs2234252,rs2234252,
+4040,Gene,HGNC,9606.0,thymidylate synthetase,"{""chromosome"": ""18"", ""band"": 32, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""TYMS"")",TYMS,TYMS,1562X7988
+4041,Gene,MGI,10090.0,,,,"g(MGI:""Apoe"",var(""p.His158Arg""),var(""p.Leu115Arg""))",Apoe,Apoe,
+4042,Gene,HGNC,9606.0,"RAB5A, member RAS oncogene family","{""chromosome"": ""3"", ""band"": 3, ""region"": 24, ""arm"": ""p""}",False,"g(HGNC:""RAB5A"")",RAB5A,RAB5A,1574X7128
+4043,Gene,MGI,10090.0,,,False,"g(MGI:""Tnf"")",Tnf,Tnf,
+4044,Gene,HGNC,9606.0,beta-secretase 1,"{""chromosome"": ""11"", ""band"": 3, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""BACE1"")",BACE1,BACE1,1576X5546
+4045,Gene,NCBIGENE,,,,False,"g(NCBIGENE:""732489"")",732489,732489,
+4046,Gene,HGNC,9606.0,cyclin dependent kinase inhibitor 2A,"{""chromosome"": ""9"", ""band"": 3, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""CDKN2A"")",CDKN2A,CDKN2A,1565X5672
+4047,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""p.Val126Gly""))",TREM2,TREM2,1573X7915
+4048,Gene,HGNC,9606.0,choline O-acetyltransferase,"{""chromosome"": ""10"", ""band"": 23, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""CHAT"")",CHAT,CHAT,1561X5696
+4049,Gene,HGNC,9606.0,GINS complex subunit 2,"{""chromosome"": ""16"", ""band"": 1, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""GINS2"")",GINS2,GINS2,1569X6051
+4050,Gene,dbSNP,,,,False,"g(dbSNP:""rs2234255"")",rs2234255,rs2234255,
+4051,Gene,HGNC,9606.0,fibroblast growth factor 2,"{""chromosome"": ""4"", ""band"": 1, ""region"": 28, ""arm"": ""q""}",False,"g(HGNC:""FGF2"")",FGF2,FGF2,1568X5984
+4052,Gene,HGNC,9606.0,protein kinase C delta,"{""chromosome"": ""3"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""PRKCD"")",PRKCD,PRKCD,1567X7085
+4053,Gene,MGI,10090.0,,,,"g(MGI:""Npc2"",var(""?""))",Npc2,Npc2,
+4054,Gene,dbSNP,,,,False,"g(dbSNP:""rs12129547"")",rs12129547,rs12129547,
+4055,Gene,HGNC,9606.0,apolipoprotein C4,"{""chromosome"": ""19"", ""band"": 32, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""APOC4"")",APOC4,APOC4,1569X5494
+4056,Gene,MGI,10090.0,,,False,"g(MGI:""Bace1"")",Bace1,Bace1,
+4057,Gene,HGNC,9606.0,dickkopf WNT signaling pathway inhibitor 1,"{""chromosome"": ""10"", ""band"": 1, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""DKK1"")",DKK1,DKK1,1573X5827
+4058,Gene,HGNC,9606.0,neurotrophic receptor tyrosine kinase 1,"{""chromosome"": ""1"", ""band"": 1, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""NTRK1"")",NTRK1,NTRK1,1569X6864
+4059,Gene,MGI,10090.0,,,False,"g(MGI:""Mir22"")",Mir22,Mir22,
+4060,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells like 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREML2"",var(""?""))",TREML2,TREML2,1575X7915
+4061,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""APP"",var(""c.717G>C""))",APP,APP,1575X5495
+4062,Gene,HGNC,9606.0,very low density lipoprotein receptor,"{""chromosome"": ""9"", ""band"": 2, ""region"": 24, ""arm"": ""p""}",False,"g(HGNC:""VLDLR"")",VLDLR,VLDLR,1562X8033
+4063,Gene,HGNC,9606.0,ATP binding cassette subfamily D member 3,"{""chromosome"": ""1"", ""band"": 3, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""ABCD3"")",ABCD3,ABCD3,1575X5417
+4064,Gene,HGNC,9606.0,integrin subunit beta 3,"{""chromosome"": ""17"", ""band"": 32, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""ITGB3"")",ITGB3,ITGB3,1561X6259
+4065,Gene,HGNC,9606.0,beta-secretase 2,"{""chromosome"": ""21"", ""band"": 2, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""BACE2"")",BACE2,BACE2,1562X5549
+4066,Gene,HGNC,9606.0,solute carrier family 6 member 6,"{""chromosome"": ""3"", ""band"": 1, ""region"": 25, ""arm"": ""p""}",False,"g(HGNC:""SLC6A6"")",SLC6A6,SLC6A6,1572X7628
+4067,Gene,HGNC,9606.0,NLR family pyrin domain containing 3,"{""chromosome"": ""1"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""NLRP3"")",NLRP3,NLRP3,1568X6835
+4068,Gene,HGNC,9606.0,ANTXR cell adhesion molecule 1,"{""chromosome"": ""2"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""ANTXR1"")",ANTXR1,ANTXR1,1572X5486
+4069,Gene,DBSNP,,,,False,"g(DBSNP:""rs1569686"")",rs1569686,rs1569686,
+4070,Gene,HGNC,9606.0,IST1 factor associated with ESCRT-III,"{""chromosome"": ""16"", ""band"": 2, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""IST1"")",IST1,IST1,1568X6256
+4071,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""APP"",var(""c.673A>T""))",APP,APP,1575X5495
+4072,Gene,HGNC,9606.0,N-sulfoglucosamine sulfohydrolase,"{""chromosome"": ""17"", ""band"": 3, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""SGSH"")",SGSH,SGSH,1571X7609
+4073,Gene,HGNC,9606.0,vesicle associated membrane protein 3,"{""chromosome"": ""1"", ""band"": 23, ""region"": 36, ""arm"": ""p""}",False,"g(HGNC:""VAMP3"")",VAMP3,VAMP3,1565X8026
+4074,Gene,HGNC,9606.0,phosphatidylinositol binding clathrin assembly protein,"{""chromosome"": ""11"", ""band"": 2, ""region"": 14, ""arm"": ""q""}",False,"g(HGNC:""PICALM"")",PICALM,PICALM,1575X7005
+4075,Gene,DBSNP,,,,False,"g(DBSNP:""rs6463843"")",rs6463843,rs6463843,
+4076,Gene,HGNC,9606.0,microRNA 22,"{""chromosome"": ""17"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""MIR22"")",MIR22,MIR22,1566X6575
+4077,Gene,dbSNP,,,,False,"g(dbSNP:""rs1050283"")",rs1050283,rs1050283,
+4078,Gene,HGNC,9606.0,microRNA 101-1,"{""chromosome"": ""1"", ""band"": 3, ""region"": 31, ""arm"": ""p""}",False,"g(HGNC:""MIR101-1"")",MIR101-1,MIR101-1,1567X6578
+4079,Gene,HGNC,9606.0,matrix metallopeptidase 1,"{""chromosome"": ""11"", ""band"": 2, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""MMP1"")",MMP1,MMP1,1573X6702
+4080,Gene,HGNC,9606.0,TAR DNA binding protein,"{""chromosome"": ""1"", ""band"": 22, ""region"": 36, ""arm"": ""p""}",False,"g(HGNC:""TARDBP"")",TARDBP,TARDBP,1562X7799
+4081,Gene,HGNC,9606.0,presenilin 1,"{""chromosome"": ""14"", ""band"": 2, ""region"": 24, ""arm"": ""q""}",,"g(HGNC:""PSEN1"",var(""?""))",PSEN1,PSEN1,1572X7100
+4082,Gene,HGNC,9606.0,KLF transcription factor 10,"{""chromosome"": ""8"", ""band"": 3, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""KLF10"")",KLF10,KLF10,1565X6293
+4083,Gene,HGNC,9606.0,PRSS3 pseudogene 2,"{""chromosome"": ""7"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""PRSS3P2"")",PRSS3P2,PRSS3P2,1564X7097
+4084,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""APP"",gmod(GPBP:""DNA methylation""))",APP,APP,1575X5495
+4085,Gene,HGNC,9606.0,cyclin dependent kinase 2,"{""chromosome"": ""12"", ""band"": 2, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""CDK2"")",CDK2,CDK2,1564X5669
+4086,Gene,HGNC,9606.0,"adiponectin, C1Q and collagen domain containing","{""chromosome"": ""3"", ""band"": 3, ""region"": 27, ""arm"": ""q""}",False,"g(HGNC:""ADIPOQ"")",ADIPOQ,ADIPOQ,1566X5446
+4087,Gene,HGNC,9606.0,colony stimulating factor 2,"{""chromosome"": ""5"", ""band"": 1, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""CSF2"")",CSF2,CSF2,1568X5762
+4088,Gene,HGNC,9606.0,synoviolin 1,"{""chromosome"": ""11"", ""band"": 1, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""SYVN1"")",SYVN1,SYVN1,1564X7791
+4089,Gene,HGNC,9606.0,beclin 1,"{""chromosome"": ""17"", ""band"": 31, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""BECN1"")",BECN1,BECN1,1575X5558
+4090,Gene,HGNC,9606.0,histone deacetylase 3,"{""chromosome"": ""5"", ""band"": 3, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""HDAC3"")",HDAC3,HDAC3,1562X6127
+4091,Gene,dbSNP,,,,False,"g(dbSNP:""rs6656401"")",rs6656401,rs6656401,
+4092,Gene,HGNC,9606.0,PTEN induced kinase 1,"{""chromosome"": ""1"", ""band"": 12, ""region"": 36, ""arm"": ""p""}",,"g(HGNC:""PINK1"",var(""?""))",PINK1,PINK1,1571X7011
+4093,Gene,HGNC,9606.0,heat shock protein family B (small) member 8,"{""chromosome"": ""12"", ""band"": 23, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""HSPB8"")",HSPB8,HSPB8,1566X6183
+4094,Gene,HGNC,9606.0,interferon gamma,"{""chromosome"": ""12"", ""band"": null, ""region"": null, ""arm"": null}",,"g(HGNC:""IFNG"",var(""NCIT:C121521""))",IFNG,IFNG,1569X6197
+4095,Gene,HGNC,9606.0,dihydropyrimidinase like 2,"{""chromosome"": ""8"", ""band"": 2, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""DPYSL2"")",DPYSL2,DPYSL2,1565X5854
+4096,Gene,HGNC,9606.0,5-methyltetrahydrofolate-homocysteine methyltransferase,"{""chromosome"": ""1"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""MTR"")",MTR,MTR,1572X6773
+4097,Gene,HGNC,9606.0,neurofilament heavy chain,"{""chromosome"": ""22"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""NEFH"")",NEFH,NEFH,1566X6818
+4098,Gene,HGNC,9606.0,CHRNA7 (exons 5-10) and FAM7A (exons A-E) fusion,"{""chromosome"": ""15"", ""band"": 2, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""CHRFAM7A"")",CHRFAM7A,CHRFAM7A,1567X5703
+4099,Gene,HGNC,9606.0,RNA binding motif protein 8A,"{""chromosome"": ""1"", ""band"": 1, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""RBM8A"")",RBM8A,RBM8A,1573X7151
+4100,Gene,dbSNP,,,,False,"g(dbSNP:""rs610932"")",rs610932,rs610932,
+4101,Gene,HGNC,9606.0,superoxide dismutase 1,"{""chromosome"": ""21"", ""band"": 11, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""SOD1"")",SOD1,SOD1,1570X7723
+4102,Gene,HGNC,9606.0,protein tyrosine kinase 2 beta,"{""chromosome"": ""8"", ""band"": 2, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""PTK2B"")",PTK2B,PTK2B,1575X7113
+4103,Gene,HGNC,9606.0,microRNA 153-1,"{""chromosome"": ""2"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""MIR153-1"")",MIR153-1,MIR153-1,1567X6582
+4104,Gene,HGNC,9606.0,membrane metalloendopeptidase,"{""chromosome"": ""3"", ""band"": 2, ""region"": 25, ""arm"": ""q""}",,"g(HGNC:""MME"",gmod(GPBP:""DNA methylation""))",MME,MME,1568X6703
+4105,Gene,MGI,10090.0,,,False,"g(MGI:""Apoc1"")",Apoc1,Apoc1,
+4106,Gene,HGNC,9606.0,synuclein alpha,"{""chromosome"": ""4"", ""band"": 1, ""region"": 22, ""arm"": ""q""}",,"g(HGNC:""SNCA"",var(""?""))",SNCA,SNCA,1574X7674
+4107,Gene,NCBIGENE,,,,False,"g(NCBIGENE:""723931"")",723931,723931,
+4108,Gene,dbSNP,,,,False,"g(dbSNP:""rs3747742"")",rs3747742,rs3747742,
+4109,Gene,HGNC,9606.0,flap structure-specific endonuclease 1,"{""chromosome"": ""11"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""FEN1"")",FEN1,FEN1,1563X5982
+4110,Gene,HGNC,9606.0,discs large MAGUK scaffold protein 4,"{""chromosome"": ""17"", ""band"": 1, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""DLG4"")",DLG4,DLG4,1565X5830
+4111,Gene,HGNC,9606.0,homer scaffold protein 1,"{""chromosome"": ""5"", ""band"": 1, ""region"": 14, ""arm"": ""q""}",False,"g(HGNC:""HOMER1"")",HOMER1,HOMER1,1565X6167
+4112,Gene,dbSNP,,,,False,"g(dbSNP:""rs777808487"")",rs777808487,rs777808487,
+4113,Gene,HGNC,9606.0,catenin beta 1,"{""chromosome"": ""3"", ""band"": 1, ""region"": 22, ""arm"": ""p""}",False,"g(HGNC:""CTNNB1"")",CTNNB1,CTNNB1,1568X5774
+4114,Gene,HGNC,9606.0,dopamine receptor D4,"{""chromosome"": ""11"", ""band"": 5, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""DRD4"")",DRD4,DRD4,1567X5855
+4115,Gene,HGNC,9606.0,telomerase reverse transcriptase,"{""chromosome"": ""5"", ""band"": 33, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""TERT"")",TERT,TERT,1562X7821
+4116,Gene,HGNC,9606.0,folate hydrolase 1,"{""chromosome"": ""11"", ""band"": 12, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""FOLH1"")",FOLH1,FOLH1,1566X5998
+4117,Gene,NCBIGENE,,,,False,"g(NCBIGENE:""406950"")",406950,406950,
+4118,Gene,dbSNP,,,,False,"g(dbSNP:""rs1535500"")",rs1535500,rs1535500,
+4119,Gene,HGNC,9606.0,C9orf72-SMCR8 complex subunit,"{""chromosome"": ""9"", ""band"": 2, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""C9orf72"")",C9orf72,C9orf72,1574X5600
+4120,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""APP"",var(""c.75341G>C""))",APP,APP,1575X5495
+4121,Gene,HGNC,9606.0,ATP binding cassette subfamily A member 7,"{""chromosome"": ""19"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""ABCA7"")",ABCA7,ABCA7,1563X5416
+4122,Gene,HGNC,9606.0,cytochrome P450 family 46 subfamily A member 1,"{""chromosome"": ""14"", ""band"": 2, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""CYP46A1"")",CYP46A1,CYP46A1,1563X5794
+4123,Gene,HGNC,9606.0,tubulin beta 3 class III,"{""chromosome"": ""16"", ""band"": 3, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""TUBB3"")",TUBB3,TUBB3,1563X7980
+4124,Gene,dbSNP,,,,False,"g(dbSNP:""rs2070045"")",rs2070045,rs2070045,
+4125,Gene,HGNC,9606.0,ubiquitin like modifier activating enzyme 1,"{""chromosome"": ""X"", ""band"": 3, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""UBA1"")",UBA1,UBA1,1571X7988
+4126,Gene,DBSNP,,,,False,"g(DBSNP:""rs1887922"")",rs1887922,rs1887922,
+4127,Gene,dbSNP,,,,False,"g(dbSNP:""rs1887922"")",rs1887922,rs1887922,
+4128,Gene,HGNC,9606.0,glucosaminyl (N-acetyl) transferase 2 (I blood group),"{""chromosome"": ""6"", ""band"": 3, ""region"": 24, ""arm"": ""p""}",False,"g(HGNC:""GCNT2"")",GCNT2,GCNT2,1570X6042
+4129,Gene,HGNC,9606.0,vesicle associated membrane protein 8,"{""chromosome"": ""2"", ""band"": 2, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""VAMP8"")",VAMP8,VAMP8,1569X8025
+4130,Gene,HGNC,9606.0,DNA methyltransferase 3 beta,"{""chromosome"": ""20"", ""band"": 21, ""region"": 11, ""arm"": ""q""}",,"g(HGNC:""DNMT3B"",var(""p.Glu79Thr""))",DNMT3B,DNMT3B,1569X5844
+4131,Gene,DBSNP,,,,False,"g(DBSNP:""rs75932628"")",rs75932628,rs75932628,
+4132,Gene,dbSNP,,,,False,"g(dbSNP:""rs746216516"")",rs746216516,rs746216516,
+4133,Gene,HGNC,9606.0,NGFI-A binding protein 2,"{""chromosome"": ""12"", ""band"": 3, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""NAB2"")",NAB2,NAB2,1570X6791
+4134,Gene,HGNC,9606.0,membrane spanning 4-domains A6A,"{""chromosome"": ""11"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""MS4A6A"")",MS4A6A,MS4A6A,1565X6730
+4135,Gene,HGNC,9606.0,glutaredoxin,"{""chromosome"": ""5"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""GLRX"")",GLRX,GLRX,1562X6058
+4136,Gene,MGI,10090.0,,,,"g(MGI:""Trem2"",var(""p.Thr66Met""))",Trem2,Trem2,
+4137,Gene,HGNC,9606.0,neurogranin,"{""chromosome"": ""11"", ""band"": 2, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""NRGN"")",NRGN,NRGN,1576X6856
+4138,Gene,HGNC,9606.0,apolipoprotein E,"{""chromosome"": ""19"", ""band"": 32, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""APOE"")",APOE,APOE,1572X5494
+4139,Gene,HGNC,9606.0,microRNA 1247,"{""chromosome"": ""14"", ""band"": 31, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""MIR1247"")",MIR1247,MIR1247,1573X6617
+4140,Gene,HGNC,9606.0,triggering receptor expressed on myeloid cells 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",,"g(HGNC:""TREM2"",var(""p.Lys186Asn""))",TREM2,TREM2,1573X7915
+4141,Gene,HGNC,9606.0,LDL receptor related protein 2,"{""chromosome"": ""2"", ""band"": 1, ""region"": 31, ""arm"": ""q""}",,"g(HGNC:""LRP2"",var(""?""))",LRP2,LRP2,1574X6504
+4142,Gene,HGNC,9606.0,golgi membrane protein 1,"{""chromosome"": ""9"", ""band"": 33, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""GOLM1"")",GOLM1,GOLM1,1575X6070
+4143,Gene,dbSNP,,,,False,"g(dbSNP:""rs3745842"")",rs3745842,rs3745842,
+4144,Gene,HGNC,9606.0,presenilin 1,"{""chromosome"": ""14"", ""band"": 2, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""PSEN1"")",PSEN1,PSEN1,1572X7100
+4145,Gene,dbSNP,,,,False,"g(dbSNP:""rs3826656"")",rs3826656,rs3826656,
+4146,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""APP"",var(""?""))",APP,APP,1575X5495
+4147,Gene,HGNC,9606.0,"plasminogen activator, urokinase","{""chromosome"": ""10"", ""band"": 2, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""PLAU"")",PLAU,PLAU,1562X7029
+4148,Gene,MGI,10090.0,,,False,"g(MGI:""Mir222"")",Mir222,Mir222,
+4149,Gene,HGNC,9606.0,thioredoxin,"{""chromosome"": ""9"", ""band"": 3, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""TXN"")",TXN,TXN,1562X7986
+4150,Gene,dbSNP,,,,False,"g(dbSNP:""rs936465"")",rs936465,rs936465,
+4151,Gene,HGNC,9606.0,VRK serine/threonine kinase 1,"{""chromosome"": ""14"", ""band"": 2, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""VRK1"")",VRK1,VRK1,1562X8046
+4152,Gene,HGNC,9606.0,beta-secretase 1,"{""chromosome"": ""11"", ""band"": 3, ""region"": 23, ""arm"": ""q""}",,"g(HGNC:""BACE1"",gmod(GPBP:""DNA methylation""))",BACE1,BACE1,1576X5546
+4153,Gene,HGNC,9606.0,cyclin B1,"{""chromosome"": ""5"", ""band"": 2, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""CCNB1"")",CCNB1,CCNB1,1574X5646
+4154,Gene,HGNC,9606.0,matrix metallopeptidase 2,"{""chromosome"": ""16"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""MMP2"")",MMP2,MMP2,1574X6702
+4155,Gene,HGNC,9606.0,replication factor C subunit 1,"{""chromosome"": ""4"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""RFC1"")",RFC1,RFC1,1563X7170
+4156,Gene,HGNC,9606.0,ribosomal protein L13,"{""chromosome"": ""16"", ""band"": 3, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""RPL13"")",RPL13,RPL13,1565X7443
+4157,Gene,HGNC,9606.0,interleukin 17A,"{""chromosome"": ""6"", ""band"": 2, ""region"": 12, ""arm"": ""p""}",,"g(HGNC:""IL17A"",var(""NCIT:C121521""))",IL17A,IL17A,1565X6237
+4158,Gene,HGNC,9606.0,phosphodiesterase 7A,"{""chromosome"": ""8"", ""band"": 1, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""PDE7A"")",PDE7A,PDE7A,1566X6981
+4159,Gene,HGNC,9606.0,hexokinase 2,"{""chromosome"": ""2"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""HK2"")",HK2,HK2,1568X6139
+4160,Gene,HGNC,9606.0,parkin RBR E3 ubiquitin protein ligase,"{""chromosome"": ""6"", ""band"": null, ""region"": null, ""arm"": null}",,"g(HGNC:""PRKN"",var(""?""))",PRKN,PRKN,1574X7085
+4161,Gene,HGNC,9606.0,ubiquitin protein ligase E3 component n-recognin 5,"{""chromosome"": ""8"", ""band"": 3, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""UBR5"")",UBR5,UBR5,1574X7999
+4162,Gene,HGNC,9606.0,amyloid beta precursor protein,"{""chromosome"": ""21"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",,"g(HGNC:""APP"",var(""c.275341G>C""))",APP,APP,1575X5495
+4163,Gene,HGNC,9606.0,clusterin,"{""chromosome"": ""8"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""CLU"")",CLU,CLU,1566X5723
+4164,Gene,dbSNP,,,,False,"g(dbSNP:""rs1699102"")",rs1699102,rs1699102,
+4165,Gene,HGNC,9606.0,solute carrier family 40 member 1,"{""chromosome"": ""2"", ""band"": 2, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""SLC40A1"")",SLC40A1,SLC40A1,1564X7655
+4166,Gene,HGNC,9606.0,bridging integrator 1,"{""chromosome"": ""2"", ""band"": 3, ""region"": 14, ""arm"": ""q""}",False,"g(HGNC:""BIN1"")",BIN1,BIN1,1571X5562
+4167,Gene,HGNC,9606.0,matrix metallopeptidase 11,"{""chromosome"": ""22"", ""band"": 23, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""MMP11"")",MMP11,MMP11,1565X6704
+4168,Gene,HGNC,9606.0,tubulin beta class I,"{""chromosome"": ""6"", ""band"": 33, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""TUBB"")",TUBB,TUBB,1572X7978
+4169,Gene,HGNC,9606.0,prostaglandin-endoperoxide synthase 1,"{""chromosome"": ""9"", ""band"": 2, ""region"": 33, ""arm"": ""q""}",False,"g(HGNC:""PTGS1"")",PTGS1,PTGS1,1567X7114
+4170,Gene,HGNC,9606.0,"SEC22 homolog A, vesicle trafficking protein","{""chromosome"": ""3"", ""band"": 1, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""SEC22A"")",SEC22A,SEC22A,1566X7588
+4171,Gene,HGNC,9606.0,DNA methyltransferase 3 beta,"{""chromosome"": ""20"", ""band"": 21, ""region"": 11, ""arm"": ""q""}",,"g(HGNC:""DNMT3B"",var(""p.Cys149Thr""))",DNMT3B,DNMT3B,1569X5844
+4172,Gene,HGNC,9606.0,calnexin,"{""chromosome"": ""5"", ""band"": 3, ""region"": 35, ""arm"": ""q""}",False,"g(HGNC:""CANX"")",CANX,CANX,1564X5621
+4173,Gene,HGNC,9606.0,unc-51 like autophagy activating kinase 1,"{""chromosome"": ""12"", ""band"": 33, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""ULK1"")",ULK1,ULK1,1567X8007
+4174,Gene,HGNC,9606.0,"spectrin beta, non-erythrocytic 4","{""chromosome"": ""19"", ""band"": 2, ""region"": 13, ""arm"": ""q""}",,"g(HGNC:""SPTBN4"",gmod(GPBP:""DNA methylation""))",SPTBN4,SPTBN4,1569X7746
+4175,Gene,dbSNP,,,,False,"g(dbSNP:""rs7019241"")",rs7019241,rs7019241,
+4176,Gene,HGNC,9606.0,transcobalamin 2,"{""chromosome"": ""22"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",False,"g(HGNC:""TCN2"")",TCN2,TCN2,1566X7814
+4177,Gene,DBSNP,,,,False,"g(DBSNP:""rs63751011"")",rs63751011,rs63751011,
+4178,Gene,HGNC,9606.0,nuclear receptor subfamily 1 group H member 3,"{""chromosome"": ""11"", ""band"": 2, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""NR1H3"")",NR1H3,NR1H3,1567X6855
+4179,Gene,dbSNP,,,,False,"g(dbSNP:""rs104894002"")",rs104894002,rs104894002,
+4180,Gene,HGNC,9606.0,EF-hand calcium binding domain 11,"{""chromosome"": ""14"", ""band"": 11, ""region"": 32, ""arm"": ""q""}",False,"g(HGNC:""EFCAB11"")",EFCAB11,EFCAB11,1569X5882
+4181,Gene,dbSNP,,,,False,"g(dbSNP:""rs11246228"")",rs11246228,rs11246228,
+4182,Gene,dbSNP,,,,False,"g(dbSNP:""rs6463843"")",rs6463843,rs6463843,
+4183,Gene,MGI,10090.0,,,False,"g(MGI:""Mir132"")",Mir132,Mir132,
+4184,Gene,dbSNP,,,,False,"g(dbSNP:""rs393152"")",rs393152,rs393152,
+4185,Gene,HGNC,9606.0,microRNA 34c,"{""chromosome"": ""11"", ""band"": 1, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""MIR34C"")",MIR34C,MIR34C,1570X6576
+4186,Gene,HGNC,9606.0,BCL2 interacting protein 3 like,"{""chromosome"": ""8"", ""band"": 2, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""BNIP3L"")",BNIP3L,BNIP3L,1568X5570
+4187,Gene,HGNC,9606.0,"BCL2 associated X, apoptosis regulator","{""chromosome"": ""19"", ""band"": 33, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""BAX"")",BAX,BAX,1570X5551
+4188,Gene,dbSNP,,,,False,"g(dbSNP:""rs143332484"")",rs143332484,rs143332484,
+4189,Gene,HGNC,9606.0,vitamin D receptor,"{""chromosome"": ""12"", ""band"": 11, ""region"": 13, ""arm"": ""q""}",,"g(HGNC:""VDR"",var(""?""))",VDR,VDR,1565X8030
+4190,Gene,dbSNP,,,,False,"g(dbSNP:""rs72973581"")",rs72973581,rs72973581,
+4191,Gene,DBSNP,,,,False,"g(DBSNP:""rs3785883"")",rs3785883,rs3785883,
+4192,Gene,HGNC,9606.0,glycogen synthase kinase 3 beta,"{""chromosome"": ""3"", ""band"": 33, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""GSK3B"")",GSK3B,GSK3B,1570X6092
+4193,Gene,HGNC,9606.0,RB1 inducible coiled-coil 1,"{""chromosome"": ""8"", ""band"": 23, ""region"": 11, ""arm"": ""q""}",False,"g(HGNC:""RB1CC1"")",RB1CC1,RB1CC1,1576X7147
+4194,Gene,HGNC,9606.0,ubiquitin protein ligase E3 component n-recognin 2,"{""chromosome"": ""6"", ""band"": 1, ""region"": 21, ""arm"": ""p""}",False,"g(HGNC:""UBR2"")",UBR2,UBR2,1571X7999
+4195,Gene,HGNC,9606.0,cholinergic receptor nicotinic alpha 7 subunit,"{""chromosome"": ""15"", ""band"": 3, ""region"": 13, ""arm"": ""q""}",,"g(HGNC:""CHRNA7"",var(""p.345A""),var(""p.346A""),var(""p.347A""),var(""p.348A""))",CHRNA7,CHRNA7,1567X5704
+4196,Gene,HGNC,9606.0,peroxisome proliferator activated receptor gamma,"{""chromosome"": ""3"", ""band"": 2, ""region"": 25, ""arm"": ""p""}",False,"g(HGNC:""PPARG"")",PPARG,PPARG,1570X7054
+4197,Gene,dbSNP,,,,False,"g(dbSNP:""rs10868366"")",rs10868366,rs10868366,
+4198,Gene,HGNC,9606.0,transcobalamin 2,"{""chromosome"": ""22"", ""band"": 2, ""region"": 12, ""arm"": ""q""}",,"g(HGNC:""TCN2"",var(""c.776C>G""))",TCN2,TCN2,1566X7814
+4199,Gene,HGNC,9606.0,interleukin 6 receptor,"{""chromosome"": ""1"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""IL6R"")",IL6R,IL6R,1566X6235
+4200,Gene,HGNC,9606.0,metastasis associated lung adenocarcinoma transcript 1,"{""chromosome"": ""11"", ""band"": 1, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""MALAT1"")",MALAT1,MALAT1,1576X6528
+4201,Gene,HGNC,9606.0,sirtuin 1,"{""chromosome"": ""10"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""SIRT1"")",SIRT1,SIRT1,1564X7622
+4202,Gene,HGNC,9606.0,ATPase Na+/K+ transporting subunit alpha 1,"{""chromosome"": ""1"", ""band"": 1, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""ATP1A1"")",ATP1A1,ATP1A1,1576X5527
+4203,Gene,dbSNP,,,,False,"g(dbSNP:""rs752306"")",rs752306,rs752306,
+4204,Gene,HGNC,9606.0,microRNA 184,"{""chromosome"": ""15"", ""band"": 1, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""MIR184"")",MIR184,MIR184,1566X6583
+4205,Gene,HGNC,9606.0,tumor protein p53,"{""chromosome"": ""17"", ""band"": 1, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""TP53"")",TP53,TP53,1566X7881
+4206,Gene,dbSNP,,,,False,"g(dbSNP:""rs2986017"")",rs2986017,rs2986017,
+4207,Gene,HGNC,9606.0,heterogeneous nuclear ribonucleoprotein A1,"{""chromosome"": ""12"", ""band"": 13, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""HNRNPA1"")",HNRNPA1,HNRNPA1,1568X6157
+4208,Gene,MGI,10090.0,,,False,"g(MGI:""Mir128-1"")",Mir128-1,Mir128-1,
+4209,Gene,HGNC,9606.0,neuregulin 1,"{""chromosome"": ""8"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""NRG1"")",NRG1,NRG1,1569X6857
+4210,Gene,dbSNP,,,,False,"g(dbSNP:""rs3818361"")",rs3818361,rs3818361,
+4211,Gene,HGNC,9606.0,microRNA 615,"{""chromosome"": ""12"", ""band"": 13, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""MIR615"")",MIR615,MIR615,1575X6607
+4212,Gene,HGNCGENEFAMILY,,,,False,"g(HGNCGENEFAMILY:""Histocompatibility complex"")",Histocompatibility complex,Histocompatibility complex,
+4213,Gene,HGNC,9606.0,sortilin related VPS10 domain containing receptor 1,"{""chromosome"": ""10"", ""band"": 1, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""SORCS1"")",SORCS1,SORCS1,1573X7724
+4214,Gene,HGNC,9606.0,SNAP associated protein,"{""chromosome"": ""1"", ""band"": 3, ""region"": 21, ""arm"": ""q""}",False,"g(HGNC:""SNAPIN"")",SNAPIN,SNAPIN,1561X7674
+4215,Gene,HGNC,9606.0,solute carrier family 2 member 1,"{""chromosome"": ""1"", ""band"": 2, ""region"": 34, ""arm"": ""p""}",False,"g(HGNC:""SLC2A1"")",SLC2A1,SLC2A1,1562X7626
+4216,Gene,HGNC,9606.0,TNF superfamily member 9,"{""chromosome"": ""19"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""TNFSF9"")",TNFSF9,TNFSF9,1562X7873
+4217,Gene,dbSNP,,,,False,"g(dbSNP:""rs734194"")",rs734194,rs734194,
+4218,Gene,HGNC,9606.0,EPH receptor A1,"{""chromosome"": ""7"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""EPHA1"")",EPHA1,EPHA1,1571X5913
+4219,Gene,DBSNP,,,,False,"g(DBSNP:""rs2424913"")",rs2424913,rs2424913,
+4220,Gene,HGNC,9606.0,thyroid hormone receptor interactor 13,"{""chromosome"": ""5"", ""band"": 33, ""region"": 15, ""arm"": ""p""}",False,"g(HGNC:""TRIP13"")",TRIP13,TRIP13,1565X7933
+4221,Gene,HGNC,9606.0,sortilin related receptor 1,"{""chromosome"": ""11"", ""band"": 1, ""region"": 24, ""arm"": ""q""}",False,"g(HGNC:""SORL1"")",SORL1,SORL1,1563X7726
+4222,Gene,DBSNP,,,,False,"g(DBSNP:""rs9807444"")",rs9807444,rs9807444,
+4223,Gene,HGNC,9606.0,nuclear factor kappa B subunit 1,"{""chromosome"": ""4"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""NFKB1"")",NFKB1,NFKB1,1568X6825
+4224,Gene,HGNC,9606.0,vitamin K epoxide reductase complex subunit 1,"{""chromosome"": ""16"", ""band"": 2, ""region"": 11, ""arm"": ""p""}",False,"g(HGNC:""VKORC1"")",VKORC1,VKORC1,1574X8031
+4225,Gene,HGNC,9606.0,transmembrane immune signaling adaptor TYROBP,"{""chromosome"": ""19"", ""band"": 12, ""region"": 13, ""arm"": ""q""}",,"g(HGNC:""TYROBP"",var(""?""))",TYROBP,TYROBP,1570X7987
+4226,Gene,HGNC,9606.0,microRNA 132,"{""chromosome"": ""17"", ""band"": 3, ""region"": 13, ""arm"": ""p""}",False,"g(HGNC:""MIR132"")",MIR132,MIR132,1566X6580
+4227,Gene,HGNC,9606.0,O-GlcNAcase,"{""chromosome"": ""10"", ""band"": 32, ""region"": 24, ""arm"": ""q""}",,"g(HGNC:""OGA"",var(""?""))",OGA,OGA,1565X6880
+4228,Gene,HGNC,9606.0,regulatory associated protein of MTOR complex 1,"{""chromosome"": ""17"", ""band"": 3, ""region"": 25, ""arm"": ""q""}",False,"g(HGNC:""RPTOR"")",RPTOR,RPTOR,1564X7551
+4229,Gene,MGI,10090.0,,,False,"g(MGI:""Mir218-1"")",Mir218-1,Mir218-1,
+4230,Gene,HGNC,9606.0,clathrin heavy chain,"{""chromosome"": ""17"", ""band"": 1, ""region"": 23, ""arm"": ""q""}",False,"g(HGNC:""CLTC"")",CLTC,CLTC,1563X5723
+4231,Gene,HGNC,9606.0,biglycan,"{""chromosome"": ""X"", ""band"": null, ""region"": null, ""arm"": null}",False,"g(HGNC:""BGN"")",BGN,BGN,1562X5562
+4232,Gene,HGNC,9606.0,replication factor C subunit 1,"{""chromosome"": ""4"", ""band"": null, ""region"": null, ""arm"": null}",,"g(HGNC:""RFC1"",var(""c.80G>A""))",RFC1,RFC1,1563X7170
+4233,Gene,HGNC,9606.0,nuclear paraspeckle assembly transcript 1,"{""chromosome"": ""11"", ""band"": 1, ""region"": 13, ""arm"": ""q""}",False,"g(HGNC:""NEAT1"")",NEAT1,NEAT1,1571X6815
+4234,Gene,dbSNP,,,,False,"g(dbSNP:""rs753325601"")",rs753325601,rs753325601,
+4235,Gene,HGNC,9606.0,dopamine receptor D4,"{""chromosome"": ""11"", ""band"": 5, ""region"": 15, ""arm"": ""p""}",,"g(HGNC:""DRD4"",gmod(GPBP:""DNA methylation""))",DRD4,DRD4,1567X5855
+4236,Gene,HGNC,9606.0,NFE2 like bZIP transcription factor 2,"{""chromosome"": ""2"", ""band"": 2, ""region"": 31, ""arm"": ""q""}",False,"g(HGNC:""NFE2L2"")",NFE2L2,NFE2L2,1570X6823
+4237,Gene,HGNC,9606.0,microRNA let-7a-1,"{""chromosome"": ""9"", ""band"": 32, ""region"": 22, ""arm"": ""q""}",False,"g(HGNC:""MIRLET7A1"")",MIRLET7A1,MIRLET7A1,1572X6696

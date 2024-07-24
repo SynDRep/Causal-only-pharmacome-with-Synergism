@@ -1,0 +1,794 @@
+:ID,:LABEL,namespace:string,bel:string,name:string,involved_other:string
+1092,Pathology,MESH,"path(MESH:""Endocytosis"")",Endocytosis,Endocytosis
+1093,Pathology,MESH,"path(MESH:""Cardiovascular Diseases"")",Cardiovascular Diseases,Cardiovascular Diseases
+1094,Pathology,HP,"path(HP:""Abdominal pain"")",Abdominal pain,Abdominal pain
+1095,Pathology,HP,"path(HP:""Neurological speech impairment"")",Neurological speech impairment,Neurological speech impairment
+1096,Pathology,EFO,"path(EFO:""behavioural disinhibition measurement"")",behavioural disinhibition measurement,behavioural disinhibition measurement
+1097,Pathology,MESH,"path(MESH:""Neuroaxonal Dystrophies"")",Neuroaxonal Dystrophies,Neuroaxonal Dystrophies
+1098,Pathology,MESH,"path(MESH:""Intellectual Disability"")",Intellectual Disability,Intellectual Disability
+1099,Pathology,MESHD,"path(MESHD:""Gliosis"")",Gliosis,Gliosis
+1100,Pathology,MESH,"path(MESH:""Survival"")",Survival,Survival
+1101,Pathology,MESH,"path(MESH:""AIDS-Associated Nephropathy"")",AIDS-Associated Nephropathy,AIDS-Associated Nephropathy
+1102,Pathology,MESH,"path(MESH:""Wound Healing"")",Wound Healing,Wound Healing
+1103,Pathology,GO,"path(GO:""cognition"")",cognition,cognition
+1104,Pathology,HP,"path(HP:""Nausea and vomiting"")",Nausea and vomiting,Nausea and vomiting
+1105,Pathology,HP,"path(HP:""Autoimmunity"")",Autoimmunity,Autoimmunity
+1106,Pathology,NCIT,"path(NCIT:""C19375"")",C19375,C19375
+1107,Pathology,MESH,"path(MESH:""Mitochondrial Dynamics"")",Mitochondrial Dynamics,Mitochondrial Dynamics
+1108,Pathology,MESH,"path(MESH:""Neoplasms"")",Neoplasms,Neoplasms
+1109,Pathology,MESH,"path(MESH:""Cell Survival"")",Cell Survival,Cell Survival
+1110,Pathology,MESH,"path(MESH:""Myopia"")",Myopia,Myopia
+1111,Pathology,HP,"path(HP:""Brain atrophy"")",Brain atrophy,Brain atrophy
+1112,Pathology,MESHD,"path(MESHD:""Inflammation"")",Inflammation,Inflammation
+1113,Pathology,MESH,"path(MESH:""Cerebral Small Vessel Diseases"")",Cerebral Small Vessel Diseases,Cerebral Small Vessel Diseases
+1114,Pathology,HP,"path(HP:""Anhedonia"")",Anhedonia,Anhedonia
+1115,Pathology,MESH,"path(MESH:""Tobacco Use"")",Tobacco Use,Tobacco Use
+1116,Pathology,MESH,"path(MESH:""Neural Conduction"")",Neural Conduction,Neural Conduction
+1117,Pathology,MESH,"path(MESH:""Arrhythmias, Cardiac"")","Arrhythmias, Cardiac","Arrhythmias, Cardiac"
+1118,Pathology,EFO,"path(EFO:""Anti-cytomegalovirus IgG measurement"")",Anti-cytomegalovirus IgG measurement,Anti-cytomegalovirus IgG measurement
+1119,Pathology,DOID,"path(DOID:""primary progressive multiple sclerosis"")",primary progressive multiple sclerosis,primary progressive multiple sclerosis
+1120,Pathology,HP,"path(HP:""Abnormality of movement"")",Abnormality of movement,Abnormality of movement
+1121,Pathology,NCIT,"path(NCIT:""C27988"")",C27988,C27988
+1122,Pathology,DOID,"path(DOID:""neuroblastoma"")",neuroblastoma,neuroblastoma
+1123,Pathology,EFO,"path(EFO:""microtubule-associated protein tau"")",microtubule-associated protein tau,microtubule-associated protein tau
+1124,Pathology,CONSO,"path(CONSO:""4R tauopathy"")",4R tauopathy,4R tauopathy
+1125,Pathology,MESH,"path(MESH:""Bipolar Disorder"")",Bipolar Disorder,Bipolar Disorder
+1126,Pathology,HP,"path(HP:""Rheumatoid arthritis"")",Rheumatoid arthritis,Rheumatoid arthritis
+1127,Pathology,MESHD,"path(MESHD:""Breast Neoplasms"")",Breast Neoplasms,Breast Neoplasms
+1128,Pathology,DOID,"path(DOID:""lysosomal storage disease"")",lysosomal storage disease,lysosomal storage disease
+1129,Pathology,MESH,"path(MESH:""Sweating"")",Sweating,Sweating
+1130,Pathology,MESH,"path(MESH:""Neuronal Outgrowth"")",Neuronal Outgrowth,Neuronal Outgrowth
+1131,Pathology,HP,"path(HP:""Chest tightness"")",Chest tightness,Chest tightness
+1132,Pathology,MESH,"path(MESH:""Visual Perception"")",Visual Perception,Visual Perception
+1133,Pathology,MESH,"path(MESH:""Wounds and Injuries"")",Wounds and Injuries,Wounds and Injuries
+1134,Pathology,DOID,"path(DOID:""mental depression"")",mental depression,mental depression
+1135,Pathology,HP,"path(HP:""Behavioral abnormality"")",Behavioral abnormality,Behavioral abnormality
+1136,Pathology,MESH,"path(MESH:""Problem Solving"")",Problem Solving,Problem Solving
+1137,Pathology,HP,"path(HP:""Postural instability"")",Postural instability,Postural instability
+1138,Pathology,MESH,"path(MESH:""Neurodegenerative Diseases"")",Neurodegenerative Diseases,Neurodegenerative Diseases
+1139,Pathology,MESH,"path(MESH:""Motor Skills Disorders"")",Motor Skills Disorders,Motor Skills Disorders
+1140,Pathology,MESHD,"path(MESHD:""Ischemia"")",Ischemia,Ischemia
+1141,Pathology,MESHD,"path(MESHD:""Hyperinsulinism"")",Hyperinsulinism,Hyperinsulinism
+1142,Pathology,CONSO,"path(CONSO:""Pathological Tau Spreading"")",Pathological Tau Spreading,Pathological Tau Spreading
+1143,Pathology,MESHD,"path(MESHD:""spinocerebellar ataxia"")",spinocerebellar ataxia,spinocerebellar ataxia
+1144,Pathology,NCIT,"path(NCIT:""Alzheimer's Disease"")",Alzheimer's Disease,Alzheimer's Disease
+1145,Pathology,DO,"path(DO:""inflammation"")",inflammation,inflammation
+1146,Pathology,DO,"path(DO:""chronic inflammation"")",chronic inflammation,chronic inflammation
+1147,Pathology,MESH,"path(MESH:""Aggression"")",Aggression,Aggression
+1148,Pathology,MESH,"path(MESH:""Remyelination"")",Remyelination,Remyelination
+1149,Pathology,HP,"path(HP:""Axonal loss"")",Axonal loss,Axonal loss
+1150,Pathology,DOID,"path(DOID:""neurosarcoidosis"")",neurosarcoidosis,neurosarcoidosis
+1151,Pathology,MESH,"path(MESH:""Host-Pathogen Interactions"")",Host-Pathogen Interactions,Host-Pathogen Interactions
+1152,Pathology,MESH,"path(MESH:""Antiretroviral Therapy, Highly Active"")","Antiretroviral Therapy, Highly Active","Antiretroviral Therapy, Highly Active"
+1153,Pathology,HP,"path(HP:""Neuronal loss in the cerebral cortex"")",Neuronal loss in the cerebral cortex,Neuronal loss in the cerebral cortex
+1154,Pathology,EFO,"path(EFO:""physical activity"")",physical activity,physical activity
+1155,Pathology,MESH,"path(MESH:""Organelle Biogenesis"")",Organelle Biogenesis,Organelle Biogenesis
+1156,Pathology,DOID,"path(DOID:""Neurodegenerative disease"")",Neurodegenerative disease,Neurodegenerative disease
+1157,Pathology,MESH,"path(MESH:""Vision, Ocular"")","Vision, Ocular","Vision, Ocular"
+1158,Pathology,MESHD,"path(MESHD:""Diarrhea"")",Diarrhea,Diarrhea
+1159,Pathology,DO,"path(DO:""Nasu-Hakola disease"")",Nasu-Hakola disease,Nasu-Hakola disease
+1160,Pathology,MESH,"path(MESH:""Hypertrophy, Right Ventricular"")","Hypertrophy, Right Ventricular","Hypertrophy, Right Ventricular"
+1161,Pathology,MESH,"path(MESH:""Edema"")",Edema,Edema
+1162,Pathology,MESH,"path(MESH:""Population Density"")",Population Density,Population Density
+1163,Pathology,MESH,"path(MESH:""Physical Therapy Modalities"")",Physical Therapy Modalities,Physical Therapy Modalities
+1164,Pathology,ORPHANET,"path(ORPHANET:""477738"")",477738,477738
+1165,Pathology,DOID,"path(DOID:""alcoholic hepatitis"")",alcoholic hepatitis,alcoholic hepatitis
+1166,Pathology,HP,"path(HP:""Memory impairment"")",Memory impairment,Memory impairment
+1167,Pathology,DOID,"path(DOID:""hypoglycemia"")",hypoglycemia,hypoglycemia
+1168,Pathology,MESH,"path(MESH:""Caloric Restriction"")",Caloric Restriction,Caloric Restriction
+1169,Pathology,DOID,"path(DOID:""amyotrophic lateral sclerosis"")",amyotrophic lateral sclerosis,amyotrophic lateral sclerosis
+1170,Pathology,MESH,"path(MESH:""Cerebrovascular Disorders"")",Cerebrovascular Disorders,Cerebrovascular Disorders
+1171,Pathology,MESH,"path(MESH:""Hypertension"")",Hypertension,Hypertension
+1172,Pathology,ADO,"path(ADO:""anxiety"")",anxiety,anxiety
+1173,Pathology,MESHD,"path(MESHD:""Respiratory Tract Infections"")",Respiratory Tract Infections,Respiratory Tract Infections
+1174,Pathology,MESH,"path(MESH:""Nociceptive Pain"")",Nociceptive Pain,Nociceptive Pain
+1175,Pathology,MESH,"path(MESH:""Vitamin B Deficiency"")",Vitamin B Deficiency,Vitamin B Deficiency
+1176,Pathology,MESH,"path(MESH:""Hypotension"")",Hypotension,Hypotension
+1177,Pathology,NCIT,"path(NCIT:""C78302"")",C78302,C78302
+1178,Pathology,DOID,"path(DOID:""myelitis"")",myelitis,myelitis
+1179,Pathology,MESH,"path(MESH:""Memory"")",Memory,Memory
+1180,Pathology,MESH,"path(MESH:""Spatial Memory"")",Spatial Memory,Spatial Memory
+1181,Pathology,MESH,"path(MESH:""Age of Onset"")",Age of Onset,Age of Onset
+1182,Pathology,MESH,"path(MESH:""Nausea"")",Nausea,Nausea
+1183,Pathology,MESH,"path(MESH:""Motor Activity"")",Motor Activity,Motor Activity
+1184,Pathology,MESHD,"path(MESHD:""Hypercholesterolemia"")",Hypercholesterolemia,Hypercholesterolemia
+1185,Pathology,MESHD,"path(MESHD:""Obesity"")",Obesity,Obesity
+1186,Pathology,HP,"path(HP:""Bone cyst"")",Bone cyst,Bone cyst
+1187,Pathology,CONSO,"path(CONSO:""Chronic cerebral hypoperfusion"")",Chronic cerebral hypoperfusion,Chronic cerebral hypoperfusion
+1188,Pathology,MESH,"path(MESH:""Viscosity"")",Viscosity,Viscosity
+1189,Pathology,MESH,"path(MESH:""Machado-Joseph Disease"")",Machado-Joseph Disease,Machado-Joseph Disease
+1190,Pathology,HP,"path(HP:""Macular edema"")",Macular edema,Macular edema
+1191,Pathology,DOID,"path(DOID:""thrombocytopenia"")",thrombocytopenia,thrombocytopenia
+1192,Pathology,DOID,"path(DOID:""central nervous system vasculitis"")",central nervous system vasculitis,central nervous system vasculitis
+1193,Pathology,MESH,"path(MESH:""Autoimmunity"")",Autoimmunity,Autoimmunity
+1194,Pathology,HP,"path(HP:""Helicobacter pylori infection"")",Helicobacter pylori infection,Helicobacter pylori infection
+1195,Pathology,HP,"path(HP:""Abnormality of the cerebral subcortex"")",Abnormality of the cerebral subcortex,Abnormality of the cerebral subcortex
+1196,Pathology,MESH,"path(MESH:""Fibrosis"")",Fibrosis,Fibrosis
+1197,Pathology,MESH,"path(MESH:""Protein Modification, Translational"")","Protein Modification, Translational","Protein Modification, Translational"
+1198,Pathology,MESH,"path(MESH:""Neuroprotection"")",Neuroprotection,Neuroprotection
+1199,Pathology,GO,"path(GO:""neurofibrillary tangle"")",neurofibrillary tangle,neurofibrillary tangle
+1200,Pathology,MESHD,"path(MESHD:""taupathies"")",taupathies,taupathies
+1201,Pathology,HP,"path(HP:""Vomiting"")",Vomiting,Vomiting
+1202,Pathology,MESH,"path(MESH:""Pick Disease of the Brain"")",Pick Disease of the Brain,Pick Disease of the Brain
+1203,Pathology,CONSO,"path(CONSO:""neuroinflammation"")",neuroinflammation,neuroinflammation
+1204,Pathology,MESH,"path(MESH:""Alzheimer disease, familial, type 3"")","Alzheimer disease, familial, type 3","Alzheimer disease, familial, type 3"
+1205,Pathology,MESH,"path(MESH:""Social Distance"")",Social Distance,Social Distance
+1206,Pathology,MESH,"path(MESH:""Anhedonia"")",Anhedonia,Anhedonia
+1207,Pathology,CONSO,"path(CONSO:""Clonal Expansion"")",Clonal Expansion,Clonal Expansion
+1208,Pathology,MESH,"path(MESH:""Amnesia, Retrograde"")","Amnesia, Retrograde","Amnesia, Retrograde"
+1209,Pathology,MESH,"path(MESH:""Mortality"")",Mortality,Mortality
+1210,Pathology,EFO,"path(EFO:""endothelial dysfunction"")",endothelial dysfunction,endothelial dysfunction
+1211,Pathology,DOID,"path(DOID:""encephalitis"")",encephalitis,encephalitis
+1212,Pathology,DOID,"path(DOID:""migraine"")",migraine,migraine
+1213,Pathology,MESH,"path(MESH:""Weight Loss"")",Weight Loss,Weight Loss
+1214,Pathology,MESH,"path(MESH:""Atrophy"")",Atrophy,Atrophy
+1215,Pathology,MESHD,"path(MESHD:""Mitochondrial Diseases"")",Mitochondrial Diseases,Mitochondrial Diseases
+1216,Pathology,MESHD,"path(MESHD:""Anemia"")",Anemia,Anemia
+1217,Pathology,HBP,"path(HBP:""mitochondrial dysfunction"")",mitochondrial dysfunction,mitochondrial dysfunction
+1218,Pathology,MESH,"path(MESH:""Back Pain"")",Back Pain,Back Pain
+1219,Pathology,MESH,"path(MESH:""Deglutition Disorders"")",Deglutition Disorders,Deglutition Disorders
+1220,Pathology,MESH,"path(MESH:""Systemic Inflammatory Response Syndrome"")",Systemic Inflammatory Response Syndrome,Systemic Inflammatory Response Syndrome
+1221,Pathology,HP,"path(HP:""Rigidity"")",Rigidity,Rigidity
+1222,Pathology,MESH,"path(MESH:""Plaque, Amyloid"")","Plaque, Amyloid","Plaque, Amyloid"
+1223,Pathology,MESH,"path(MESH:""Psychomotor Performance"")",Psychomotor Performance,Psychomotor Performance
+1224,Pathology,MESHD,"path(MESHD:""Memory Disorders"")",Memory Disorders,Memory Disorders
+1225,Pathology,MESHD,"path(MESHD:""Plaque, Amyloid"")","Plaque, Amyloid","Plaque, Amyloid"
+1226,Pathology,CONSO,"path(CONSO:""Microgliosis"")",Microgliosis,Microgliosis
+1227,Pathology,CONSO,"path(CONSO:""Autosomal Dominant Nocturnal Frontal Lobe Epilepsy"")",Autosomal Dominant Nocturnal Frontal Lobe Epilepsy,Autosomal Dominant Nocturnal Frontal Lobe Epilepsy
+1228,Pathology,MESH,"path(MESH:""Necrosis"")",Necrosis,Necrosis
+1229,Pathology,DOID,"path(DOID:""leukemia"")",leukemia,leukemia
+1230,Pathology,MESH,"path(MESH:""Stomatitis, Herpetic"")","Stomatitis, Herpetic","Stomatitis, Herpetic"
+1231,Pathology,MESH,"path(MESH:""Susac Syndrome"")",Susac Syndrome,Susac Syndrome
+1232,Pathology,DOID,"path(DOID:""familial Mediterranean fever"")",familial Mediterranean fever,familial Mediterranean fever
+1233,Pathology,MESH,"path(MESH:""Cytomegalovirus Infections"")",Cytomegalovirus Infections,Cytomegalovirus Infections
+1234,Pathology,MESH,"path(MESH:""Cognitive Dissonance"")",Cognitive Dissonance,Cognitive Dissonance
+1235,Pathology,DOID,"path(DOID:""Parkinson's disease"")",Parkinson's disease,Parkinson's disease
+1236,Pathology,EFO,"path(EFO:""Endoplasmic Reticulum Stress"")",Endoplasmic Reticulum Stress,Endoplasmic Reticulum Stress
+1237,Pathology,MESH,"path(MESH:""Anxiety"")",Anxiety,Anxiety
+1238,Pathology,MESHD,"path(MESHD:""Creutzfeldt-Jakob Syndrome"")",Creutzfeldt-Jakob Syndrome,Creutzfeldt-Jakob Syndrome
+1239,Pathology,MESHD,"path(MESHD:""Delirium"")",Delirium,Delirium
+1240,Pathology,MESHD,"path(MESHD:""Atrophy"")",Atrophy,Atrophy
+1241,Pathology,MESH,"path(MESH:""Proteostasis Deficiencies"")",Proteostasis Deficiencies,Proteostasis Deficiencies
+1242,Pathology,MESH,"path(MESH:""Antigen Presentation"")",Antigen Presentation,Antigen Presentation
+1243,Pathology,EFO,"path(EFO:""movement disorder"")",movement disorder,movement disorder
+1244,Pathology,NCIT,"path(NCIT:""C118474"")",C118474,C118474
+1245,Pathology,HP,"path(HP:""Recurrent upper respiratory tract infections"")",Recurrent upper respiratory tract infections,Recurrent upper respiratory tract infections
+1246,Pathology,MESHD,"path(MESHD:""insulin resistance"")",insulin resistance,insulin resistance
+1247,Pathology,DO,"path(DO:""breast cancer"")",breast cancer,breast cancer
+1248,Pathology,NCIT,"path(NCIT:""Dysfunction"")",Dysfunction,Dysfunction
+1249,Pathology,MESHD,"path(MESHD:""Kaufman oculocerebrofacial syndrome"")",Kaufman oculocerebrofacial syndrome,Kaufman oculocerebrofacial syndrome
+1250,Pathology,MESHD,"path(MESHD:""Insulin Resistance"")",Insulin Resistance,Insulin Resistance
+1251,Pathology,MESH,"path(MESH:""Dyspnea"")",Dyspnea,Dyspnea
+1252,Pathology,MESH,"path(MESH:""Psychosocial Deprivation"")",Psychosocial Deprivation,Psychosocial Deprivation
+1253,Pathology,MESH,"path(MESH:""Neurologic Manifestations"")",Neurologic Manifestations,Neurologic Manifestations
+1254,Pathology,MESHD,"path(MESHD:""Ataxia"")",Ataxia,Ataxia
+1255,Pathology,MESH,"path(MESH:""Calcification, Physiologic"")","Calcification, Physiologic","Calcification, Physiologic"
+1256,Pathology,OMIT,"path(OMIT:""0026893"")",0026893,0026893
+1257,Pathology,MESH,"path(MESH:""Cerebral Infarction"")",Cerebral Infarction,Cerebral Infarction
+1258,Pathology,MESH,"path(MESH:""Ketosis"")",Ketosis,Ketosis
+1259,Pathology,EFO,"path(EFO:""relapsing-remitting multiple sclerosis"")",relapsing-remitting multiple sclerosis,relapsing-remitting multiple sclerosis
+1260,Pathology,MESH,"path(MESH:""Stroke"")",Stroke,Stroke
+1261,Pathology,MESH,"path(MESH:""Movement"")",Movement,Movement
+1262,Pathology,DOID,"path(DOID:""Charcot-Marie-Tooth disease"")",Charcot-Marie-Tooth disease,Charcot-Marie-Tooth disease
+1263,Pathology,MESH,"path(MESH:""Ischemia"")",Ischemia,Ischemia
+1264,Pathology,MESH,"path(MESH:""Appetite"")",Appetite,Appetite
+1265,Pathology,CONSO,"path(CONSO:""Neurodegeneration"")",Neurodegeneration,Neurodegeneration
+1266,Pathology,MESHD,"path(MESHD:""Sarcopenia"")",Sarcopenia,Sarcopenia
+1267,Pathology,MESHD,"path(MESHD:""Neurogenic Inflammation"")",Neurogenic Inflammation,Neurogenic Inflammation
+1268,Pathology,HP,"path(HP:""Neurodegeneration"")",Neurodegeneration,Neurodegeneration
+1269,Pathology,DOID,"path(DOID:""glycogen storage disease II"")",glycogen storage disease II,glycogen storage disease II
+1270,Pathology,MESH,"path(MESH:""Protein Binding"")",Protein Binding,Protein Binding
+1271,Pathology,MESH,"path(MESH:""Cystic Fibrosis"")",Cystic Fibrosis,Cystic Fibrosis
+1272,Pathology,HP,"path(HP:""Flushing"")",Flushing,Flushing
+1273,Pathology,HP,"path(HP:""Severe varicella zoster infection"")",Severe varicella zoster infection,Severe varicella zoster infection
+1274,Pathology,DOID,"path(DOID:""thrombosis"")",thrombosis,thrombosis
+1275,Pathology,NCIT,"path(NCIT:""C50773"")",C50773,C50773
+1276,Pathology,MESH,"path(MESH:""Streptococcal Infections"")",Streptococcal Infections,Streptococcal Infections
+1277,Pathology,HP,"path(HP:""Hypokinesia"")",Hypokinesia,Hypokinesia
+1278,Pathology,MESH,"path(MESH:""Pathologic Processes"")",Pathologic Processes,Pathologic Processes
+1279,Pathology,MESH,"path(MESH:""Spongiform Encephalopathy with Neuropsychiatric Features"")",Spongiform Encephalopathy with Neuropsychiatric Features,Spongiform Encephalopathy with Neuropsychiatric Features
+1280,Pathology,MESH,"path(MESH:""Down Syndrome"")",Down Syndrome,Down Syndrome
+1281,Pathology,MESH,"path(MESH:""Autism Spectrum Disorder"")",Autism Spectrum Disorder,Autism Spectrum Disorder
+1282,Pathology,MESHD,"path(MESHD:""Liver Failure"")",Liver Failure,Liver Failure
+1283,Pathology,HP,"path(HP:""Anxiety"")",Anxiety,Anxiety
+1284,Pathology,MESH,"path(MESH:""Breast Neoplasms"")",Breast Neoplasms,Breast Neoplasms
+1285,Pathology,MESH,"path(MESH:""Neurogenic Inflammation"")",Neurogenic Inflammation,Neurogenic Inflammation
+1286,Pathology,MESH,"path(MESH:""Disease Resistance"")",Disease Resistance,Disease Resistance
+1287,Pathology,MESH,"path(MESH:""Multiple Sclerosis, Chronic Progressive"")","Multiple Sclerosis, Chronic Progressive","Multiple Sclerosis, Chronic Progressive"
+1288,Pathology,MESH,"path(MESH:""Leukocytosis"")",Leukocytosis,Leukocytosis
+1289,Pathology,HP,"path(HP:""Anterior cortical cataract"")",Anterior cortical cataract,Anterior cortical cataract
+1290,Pathology,HP,"path(HP:""Hemiparesis"")",Hemiparesis,Hemiparesis
+1291,Pathology,HP,"path(HP:""Tardive dyskinesia"")",Tardive dyskinesia,Tardive dyskinesia
+1292,Pathology,MESH,"path(MESH:""Ataxia"")",Ataxia,Ataxia
+1293,Pathology,MESH,"path(MESH:""Memory Disorders"")",Memory Disorders,Memory Disorders
+1294,Pathology,MESH,"path(MESH:""Frontotemporal Dementia"")",Frontotemporal Dementia,Frontotemporal Dementia
+1295,Pathology,MESH,"path(MESH:""Paralysis"")",Paralysis,Paralysis
+1296,Pathology,MESHD,"path(MESHD:""microgliosis"")",microgliosis,microgliosis
+1297,Pathology,MESHD,"path(MESHD:""RNA Virus Infections"")",RNA Virus Infections,RNA Virus Infections
+1298,Pathology,DOID,"path(DOID:""parasitic helminthiasis infectious disease"")",parasitic helminthiasis infectious disease,parasitic helminthiasis infectious disease
+1299,Pathology,MESH,"path(MESH:""D000544"")",D000544,D000544
+1300,Pathology,MESH,"path(MESH:""Psychoses, Substance-Induced"")","Psychoses, Substance-Induced","Psychoses, Substance-Induced"
+1301,Pathology,MESHD,"path(MESHD:""neurodegeneration"")",neurodegeneration,neurodegeneration
+1302,Pathology,NCIT,"path(NCIT:""Human Herpesvirus 6"")",Human Herpesvirus 6,Human Herpesvirus 6
+1303,Pathology,DOID,"path(DOID:""spinal muscular atrophy"")",spinal muscular atrophy,spinal muscular atrophy
+1304,Pathology,MESH,"path(MESH:""RNA Transport"")",RNA Transport,RNA Transport
+1305,Pathology,MESH,"path(MESH:""Memory, Episodic"")","Memory, Episodic","Memory, Episodic"
+1306,Pathology,MESH,"path(MESH:""Atherosclerosis"")",Atherosclerosis,Atherosclerosis
+1307,Pathology,MESH,"path(MESH:""Dystonia"")",Dystonia,Dystonia
+1308,Pathology,HP,"path(HP:""Abnormal synaptic transmission"")",Abnormal synaptic transmission,Abnormal synaptic transmission
+1309,Pathology,MESH,"path(MESH:""Prion Diseases"")",Prion Diseases,Prion Diseases
+1310,Pathology,MESH,"path(MESH:""Sleep Wake Disorders"")",Sleep Wake Disorders,Sleep Wake Disorders
+1311,Pathology,MESH,"path(MESH:""Autistic Disorder"")",Autistic Disorder,Autistic Disorder
+1312,Pathology,MESHD,"path(MESHD:""Cerebral Amyloid Angiopathy"")",Cerebral Amyloid Angiopathy,Cerebral Amyloid Angiopathy
+1313,Pathology,MESHD,"path(MESHD:""Asthma"")",Asthma,Asthma
+1314,Pathology,MESH,"path(MESH:""Translations"")",Translations,Translations
+1315,Pathology,MESH,"path(MESH:""Lung Neoplasms"")",Lung Neoplasms,Lung Neoplasms
+1316,Pathology,MESH,"path(MESH:""Acidosis"")",Acidosis,Acidosis
+1317,Pathology,DOID,"path(DOID:""pain disorder"")",pain disorder,pain disorder
+1318,Pathology,MESH,"path(MESH:""Atrioventricular Block"")",Atrioventricular Block,Atrioventricular Block
+1319,Pathology,DOID,"path(DOID:""Sjogren's syndrome"")",Sjogren's syndrome,Sjogren's syndrome
+1320,Pathology,NCIT,"path(NCIT:""C27990"")",C27990,C27990
+1321,Pathology,MESH,"path(MESH:""Neurodevelopmental Disorders"")",Neurodevelopmental Disorders,Neurodevelopmental Disorders
+1322,Pathology,HP,"path(HP:""Abnormal putamen morphology"")",Abnormal putamen morphology,Abnormal putamen morphology
+1323,Pathology,MESH,"path(MESH:""DNA Damage"")",DNA Damage,DNA Damage
+1324,Pathology,DOID,"path(DOID:""variant Creutzfeldt-Jakob disease"")",variant Creutzfeldt-Jakob disease,variant Creutzfeldt-Jakob disease
+1325,Pathology,MESH,"path(MESH:""Cognitive Dysfunction"")",Cognitive Dysfunction,Cognitive Dysfunction
+1326,Pathology,MESH,"path(MESH:""Language Development Disorders"")",Language Development Disorders,Language Development Disorders
+1327,Pathology,MESHD,"path(MESHD:""Brain Edema"")",Brain Edema,Brain Edema
+1328,Pathology,MESHD,"path(MESHD:""Encephalomyelitis, Autoimmune, Experimental"")","Encephalomyelitis, Autoimmune, Experimental","Encephalomyelitis, Autoimmune, Experimental"
+1329,Pathology,MESH,"path(MESH:""Protein Carbonylation"")",Protein Carbonylation,Protein Carbonylation
+1330,Pathology,MESH,"path(MESH:""Renal Insufficiency"")",Renal Insufficiency,Renal Insufficiency
+1331,Pathology,MESH,"path(MESH:""Diabetes Mellitus, Type 1"")","Diabetes Mellitus, Type 1","Diabetes Mellitus, Type 1"
+1332,Pathology,NCIT,"path(NCIT:""C3824"")",C3824,C3824
+1333,Pathology,NCIT,"path(NCIT:""C20613"")",C20613,C20613
+1334,Pathology,MESH,"path(MESH:""Neuralgia"")",Neuralgia,Neuralgia
+1335,Pathology,HP,"path(HP:""CNS demyelination"")",CNS demyelination,CNS demyelination
+1336,Pathology,HP,"path(HP:""Abnormal saccadic eye movements"")",Abnormal saccadic eye movements,Abnormal saccadic eye movements
+1337,Pathology,MESH,"path(MESH:""Neurotoxicity Syndromes"")",Neurotoxicity Syndromes,Neurotoxicity Syndromes
+1338,Pathology,MESH,"path(MESH:""Protein Biosynthesis"")",Protein Biosynthesis,Protein Biosynthesis
+1339,Pathology,HP,"path(HP:""Abnormal cell morphology"")",Abnormal cell morphology,Abnormal cell morphology
+1340,Pathology,MESHD,"path(MESHD:""Hereditary Autoinflammatory Diseases"")",Hereditary Autoinflammatory Diseases,Hereditary Autoinflammatory Diseases
+1341,Pathology,NCIT,"path(NCIT:""C78349"")",C78349,C78349
+1342,Pathology,MESH,"path(MESH:""Neuromuscular Diseases"")",Neuromuscular Diseases,Neuromuscular Diseases
+1343,Pathology,MESH,"path(MESH:""Lewy Body Disease"")",Lewy Body Disease,Lewy Body Disease
+1344,Pathology,MESH,"path(MESH:""Sleep Initiation and Maintenance Disorders"")",Sleep Initiation and Maintenance Disorders,Sleep Initiation and Maintenance Disorders
+1345,Pathology,MESH,"path(MESH:""Body Weight"")",Body Weight,Body Weight
+1346,Pathology,DOID,"path(DOID:""lupus nephritis"")",lupus nephritis,lupus nephritis
+1347,Pathology,DOID,"path(DOID:""Machado-Joseph disease"")",Machado-Joseph disease,Machado-Joseph disease
+1348,Pathology,HP,"path(HP:""Increased reactive oxygen species production"")",Increased reactive oxygen species production,Increased reactive oxygen species production
+1349,Pathology,DOID,"path(DOID:""Huntington's disease"")",Huntington's disease,Huntington's disease
+1350,Pathology,MESH,"path(MESH:""Irritable Mood"")",Irritable Mood,Irritable Mood
+1351,Pathology,MESHD,"path(MESHD:""Parkinson disease"")",Parkinson disease,Parkinson disease
+1352,Pathology,MESH,"path(MESH:""Brain Injuries"")",Brain Injuries,Brain Injuries
+1353,Pathology,MESHD,"path(MESHD:""Brain Injuries"")",Brain Injuries,Brain Injuries
+1354,Pathology,HP,"path(HP:""Atrophy/Degeneration affecting the brainstem"")",Atrophy/Degeneration affecting the brainstem,Atrophy/Degeneration affecting the brainstem
+1355,Pathology,MESH,"path(MESH:""Gastrointestinal Diseases"")",Gastrointestinal Diseases,Gastrointestinal Diseases
+1356,Pathology,DOID,"path(DOID:""Behcet's disease"")",Behcet's disease,Behcet's disease
+1357,Pathology,OMIT,"path(OMIT:""0002643"")",0002643,0002643
+1358,Pathology,DOID,"path(DOID:""obesity"")",obesity,obesity
+1359,Pathology,MESH,"path(MESH:""Perceptual Disorders"")",Perceptual Disorders,Perceptual Disorders
+1360,Pathology,EFO,"path(EFO:""tauopathy"")",tauopathy,tauopathy
+1361,Pathology,DOID,"path(DOID:""autosomal dominant Parkinson's disease 1"")",autosomal dominant Parkinson's disease 1,autosomal dominant Parkinson's disease 1
+1362,Pathology,MESH,"path(MESH:""Dementia"")",Dementia,Dementia
+1363,Pathology,MESH,"path(MESH:""Developmental Disabilities"")",Developmental Disabilities,Developmental Disabilities
+1364,Pathology,MESHD,"path(MESHD:""Cerebral Hemorrhage"")",Cerebral Hemorrhage,Cerebral Hemorrhage
+1365,Pathology,MESH,"path(MESH:""Hyperalgesia"")",Hyperalgesia,Hyperalgesia
+1366,Pathology,MESH,"path(MESH:""Skin Aging"")",Skin Aging,Skin Aging
+1367,Pathology,DOID,"path(DOID:""progressive relapsing multiple sclerosis"")",progressive relapsing multiple sclerosis,progressive relapsing multiple sclerosis
+1368,Pathology,HP,"path(HP:""Seizures"")",Seizures,Seizures
+1369,Pathology,DOID,"path(DOID:""allergic rhinitis"")",allergic rhinitis,allergic rhinitis
+1370,Pathology,DOID,"path(DOID:""neuromyelitis optica"")",neuromyelitis optica,neuromyelitis optica
+1371,Pathology,MESH,"path(MESH:""Movement Disorders"")",Movement Disorders,Movement Disorders
+1372,Pathology,MESH,"path(MESH:""Protein Transport"")",Protein Transport,Protein Transport
+1373,Pathology,MESH,"path(MESH:""Astigmatism"")",Astigmatism,Astigmatism
+1374,Pathology,ADO,"path(ADO:""neuroinflammation"")",neuroinflammation,neuroinflammation
+1375,Pathology,ADO,"path(ADO:""Late_Onset_Alzheimer_s_Disease"")",Late_Onset_Alzheimer_s_Disease,Late_Onset_Alzheimer_s_Disease
+1376,Pathology,HP,"path(HP:""Hyperintensity of cerebral white matter on MRI"")",Hyperintensity of cerebral white matter on MRI,Hyperintensity of cerebral white matter on MRI
+1377,Pathology,HP,"path(HP:""Delusions"")",Delusions,Delusions
+1378,Pathology,NCIT,"path(NCIT:""C28004"")",C28004,C28004
+1379,Pathology,MESH,"path(MESH:""Leukemia, Myeloid, Acute"")","Leukemia, Myeloid, Acute","Leukemia, Myeloid, Acute"
+1380,Pathology,DOID,"path(DOID:""osteoarthritis"")",osteoarthritis,osteoarthritis
+1381,Pathology,DOID,"path(DOID:""systemic lupus erythematosus"")",systemic lupus erythematosus,systemic lupus erythematosus
+1382,Pathology,MESH,"path(MESH:""Virulence"")",Virulence,Virulence
+1383,Pathology,MP,"path(MP:""0008235"")",0008235,0008235
+1384,Pathology,MESH,"path(MESH:""Bulbo-Spinal Atrophy, X-Linked"")","Bulbo-Spinal Atrophy, X-Linked","Bulbo-Spinal Atrophy, X-Linked"
+1385,Pathology,MESH,"path(MESH:""Neuronal Plasticity"")",Neuronal Plasticity,Neuronal Plasticity
+1386,Pathology,MESH,"path(MESH:""Depression"")",Depression,Depression
+1387,Pathology,DO,"path(DO:""Huntington's disease"")",Huntington's disease,Huntington's disease
+1388,Pathology,MESHD,"path(MESHD:""Arthritis"")",Arthritis,Arthritis
+1389,Pathology,MESHD,"path(MESHD:""Stroke"")",Stroke,Stroke
+1390,Pathology,DOID,"path(DOID:""Niemann-Pick disease type C1"")",Niemann-Pick disease type C1,Niemann-Pick disease type C1
+1391,Pathology,MESH,"path(MESH:""Inclusion Bodies"")",Inclusion Bodies,Inclusion Bodies
+1392,Pathology,MESH,"path(MESH:""Salivation"")",Salivation,Salivation
+1393,Pathology,MESH,"path(MESH:""Diarrhea"")",Diarrhea,Diarrhea
+1394,Pathology,HP,"path(HP:""Abnormality of the cerebrospinal fluid"")",Abnormality of the cerebrospinal fluid,Abnormality of the cerebrospinal fluid
+1395,Pathology,DOID,"path(DOID:""brain ischemia"")",brain ischemia,brain ischemia
+1396,Pathology,DOID,"path(DOID:""schizophrenia"")",schizophrenia,schizophrenia
+1397,Pathology,DOID,"path(DOID:""dystonia"")",dystonia,dystonia
+1398,Pathology,EFO,"path(EFO:""maximal oxygen uptake measurement"")",maximal oxygen uptake measurement,maximal oxygen uptake measurement
+1399,Pathology,MESH,"path(MESH:""Obesity"")",Obesity,Obesity
+1400,Pathology,MESHD,"path(MESHD:""myocardial infarction"")",myocardial infarction,myocardial infarction
+1401,Pathology,HP,"path(HP:""Sleep disturbance"")",Sleep disturbance,Sleep disturbance
+1402,Pathology,EFO,"path(EFO:""hypoxia"")",hypoxia,hypoxia
+1403,Pathology,MESH,"path(MESH:""Protein Unfolding"")",Protein Unfolding,Protein Unfolding
+1404,Pathology,MESH,"path(MESH:""Oxidative Stress"")",Oxidative Stress,Oxidative Stress
+1405,Pathology,MESH,"path(MESH:""Endosomes"")",Endosomes,Endosomes
+1406,Pathology,DOID,"path(DOID:""lymphopenia"")",lymphopenia,lymphopenia
+1407,Pathology,HP,"path(HP:""Optic neuropathy"")",Optic neuropathy,Optic neuropathy
+1408,Pathology,DOID,"path(DOID:""inflammatory bowel disease"")",inflammatory bowel disease,inflammatory bowel disease
+1409,Pathology,MESH,"path(MESH:""Autoimmune Diseases"")",Autoimmune Diseases,Autoimmune Diseases
+1410,Pathology,HP,"path(HP:""Cerebellar atrophy"")",Cerebellar atrophy,Cerebellar atrophy
+1411,Pathology,MESH,"path(MESH:""Huntington Disease"")",Huntington Disease,Huntington Disease
+1412,Pathology,MESH,"path(MESH:""Endoplasmic Reticulum Stress"")",Endoplasmic Reticulum Stress,Endoplasmic Reticulum Stress
+1413,Pathology,MESH,"path(MESH:""Stress, Physiological"")","Stress, Physiological","Stress, Physiological"
+1414,Pathology,MESH,"path(MESH:""Hyperopia"")",Hyperopia,Hyperopia
+1415,Pathology,MESHD,"path(MESHD:""Frontotemporal Dementia"")",Frontotemporal Dementia,Frontotemporal Dementia
+1416,Pathology,MESH,"path(MESH:""Hypertrophy, Left Ventricular"")","Hypertrophy, Left Ventricular","Hypertrophy, Left Ventricular"
+1417,Pathology,MESH,"path(MESH:""Heating"")",Heating,Heating
+1418,Pathology,MESH,"path(MESH:""Arousal"")",Arousal,Arousal
+1419,Pathology,MESH,"path(MESH:""Disease"")",Disease,Disease
+1420,Pathology,MESH,"path(MESH:""JC Virus"")",JC Virus,JC Virus
+1421,Pathology,MESH,"path(MESH:""Epstein-Barr Virus Infections"")",Epstein-Barr Virus Infections,Epstein-Barr Virus Infections
+1422,Pathology,NCIT,"path(NCIT:""C78739"")",C78739,C78739
+1423,Pathology,MESH,"path(MESH:""Language Disorders"")",Language Disorders,Language Disorders
+1424,Pathology,HP,"path(HP:""Caudate atrophy"")",Caudate atrophy,Caudate atrophy
+1425,Pathology,DOID,"path(DOID:""Niemann-Pick disease"")",Niemann-Pick disease,Niemann-Pick disease
+1426,Pathology,DOID,"path(DOID:""progressive supranuclear palsy"")",progressive supranuclear palsy,progressive supranuclear palsy
+1427,Pathology,MESH,"path(MESH:""Tremor"")",Tremor,Tremor
+1428,Pathology,MESHD,"path(MESHD:""Alcoholism"")",Alcoholism,Alcoholism
+1429,Pathology,MESHD,"path(MESHD:""Learning Disorders"")",Learning Disorders,Learning Disorders
+1430,Pathology,MESH,"path(MESH:""Late Onset Disorders"")",Late Onset Disorders,Late Onset Disorders
+1431,Pathology,MESH,"path(MESH:""Sjogren's Syndrome"")",Sjogren's Syndrome,Sjogren's Syndrome
+1432,Pathology,MESH,"path(MESH:""Muscular Atrophy"")",Muscular Atrophy,Muscular Atrophy
+1433,Pathology,MESH,"path(MESH:""Herpes Simplex"")",Herpes Simplex,Herpes Simplex
+1434,Pathology,MESH,"path(MESH:""Injection Site Reaction"")",Injection Site Reaction,Injection Site Reaction
+1435,Pathology,DOID,"path(DOID:""optic atrophy"")",optic atrophy,optic atrophy
+1436,Pathology,MESH,"path(MESH:""Social Behavior Disorders"")",Social Behavior Disorders,Social Behavior Disorders
+1437,Pathology,HP,"path(HP:""Autosomal dominant inheritance"")",Autosomal dominant inheritance,Autosomal dominant inheritance
+1438,Pathology,EFO,"path(EFO:""peripheral neuropathy"")",peripheral neuropathy,peripheral neuropathy
+1439,Pathology,HP,"path(HP:""Dyskinesia"")",Dyskinesia,Dyskinesia
+1440,Pathology,MESH,"path(MESH:""Vomiting"")",Vomiting,Vomiting
+1441,Pathology,MESH,"path(MESH:""Recognition (Psychology)"")",Recognition (Psychology),Recognition (Psychology)
+1442,Pathology,MESHD,"path(MESHD:""Glaucoma"")",Glaucoma,Glaucoma
+1443,Pathology,MESHD,"path(MESHD:""Cerebrovascular Disorders"")",Cerebrovascular Disorders,Cerebrovascular Disorders
+1444,Pathology,MESH,"path(MESH:""Axonal Transport"")",Axonal Transport,Axonal Transport
+1445,Pathology,DOID,"path(DOID:""diarrhea"")",diarrhea,diarrhea
+1446,Pathology,DOID,"path(DOID:""glomerulonephritis"")",glomerulonephritis,glomerulonephritis
+1447,Pathology,HP,"path(HP:""Headache"")",Headache,Headache
+1448,Pathology,MESH,"path(MESH:""Pyroptosis"")",Pyroptosis,Pyroptosis
+1449,Pathology,MESH,"path(MESH:""Toxoplasmosis"")",Toxoplasmosis,Toxoplasmosis
+1450,Pathology,DO,"path(DO:""neuroinflammation"")",neuroinflammation,neuroinflammation
+1451,Pathology,MESHD,"path(MESHD:""Alzheimer disease"")",Alzheimer disease,Alzheimer disease
+1452,Pathology,MESH,"path(MESH:""Paraparesis, Spastic"")","Paraparesis, Spastic","Paraparesis, Spastic"
+1453,Pathology,MESH,"path(MESH:""Wallerian Degeneration"")",Wallerian Degeneration,Wallerian Degeneration
+1454,Pathology,MESH,"path(MESH:""Attention Deficit Disorder with Hyperactivity"")",Attention Deficit Disorder with Hyperactivity,Attention Deficit Disorder with Hyperactivity
+1455,Pathology,HP,"path(HP:""Neurofibrillary tangles"")",Neurofibrillary tangles,Neurofibrillary tangles
+1456,Pathology,MESH,"path(MESH:""Nicotine Chewing Gum"")",Nicotine Chewing Gum,Nicotine Chewing Gum
+1457,Pathology,MESH,"path(MESH:""Memory, Short-Term"")","Memory, Short-Term","Memory, Short-Term"
+1458,Pathology,MESH,"path(MESH:""Immunity, Humoral"")","Immunity, Humoral","Immunity, Humoral"
+1459,Pathology,MESH,"path(MESH:""Work"")",Work,Work
+1460,Pathology,DOID,"path(DOID:""anxiety disorder"")",anxiety disorder,anxiety disorder
+1461,Pathology,MESH,"path(MESH:""Cell Differentiation"")",Cell Differentiation,Cell Differentiation
+1462,Pathology,CONSO,"path(CONSO:""Corticobasal Degeneration"")",Corticobasal Degeneration,Corticobasal Degeneration
+1463,Pathology,MESHD,"path(MESHD:""DNA Virus Infections"")",DNA Virus Infections,DNA Virus Infections
+1464,Pathology,MESHD,"path(MESHD:""Infection"")",Infection,Infection
+1465,Pathology,EFO,"path(EFO:""neurodegenerative disease"")",neurodegenerative disease,neurodegenerative disease
+1466,Pathology,GO,"path(GO:""mitophagy"")",mitophagy,mitophagy
+1467,Pathology,NCIT,"path(NCIT:""C78251"")",C78251,C78251
+1468,Pathology,MESH,"path(MESH:""Exercise"")",Exercise,Exercise
+1469,Pathology,MESH,"path(MESH:""Aphasia"")",Aphasia,Aphasia
+1470,Pathology,MESH,"path(MESH:""Illness Behavior"")",Illness Behavior,Illness Behavior
+1471,Pathology,MESH,"path(MESH:""Neurocognitive Disorders"")",Neurocognitive Disorders,Neurocognitive Disorders
+1472,Pathology,EFO,"path(EFO:""Thyroid Gland Undifferentiated (Anaplastic) Carcinoma"")",Thyroid Gland Undifferentiated (Anaplastic) Carcinoma,Thyroid Gland Undifferentiated (Anaplastic) Carcinoma
+1473,Pathology,HP,"path(HP:""Senile plaques"")",Senile plaques,Senile plaques
+1474,Pathology,MESH,"path(MESH:""Stress Disorders, Traumatic"")","Stress Disorders, Traumatic","Stress Disorders, Traumatic"
+1475,Pathology,MESH,"path(MESH:""Vestibular Diseases"")",Vestibular Diseases,Vestibular Diseases
+1476,Pathology,MESHD,"path(MESHD:""Hypoxia, Brain"")","Hypoxia, Brain","Hypoxia, Brain"
+1477,Pathology,MESHD,"path(MESHD:""Diabetes Mellitus"")",Diabetes Mellitus,Diabetes Mellitus
+1478,Pathology,MESH,"path(MESH:""RING Finger Domains"")",RING Finger Domains,RING Finger Domains
+1479,Pathology,DOID,"path(DOID:""atrioventricular block"")",atrioventricular block,atrioventricular block
+1480,Pathology,MESH,"path(MESH:""Mycoses"")",Mycoses,Mycoses
+1481,Pathology,HP,"path(HP:""Encephalopathy"")",Encephalopathy,Encephalopathy
+1482,Pathology,HP,"path(HP:""Abnormal proportion of CD4+ effector memory cells"")",Abnormal proportion of CD4+ effector memory cells,Abnormal proportion of CD4+ effector memory cells
+1483,Pathology,MESH,"path(MESH:""Apathy"")",Apathy,Apathy
+1484,Pathology,MESH,"path(MESH:""Protein Aggregation, Pathological"")","Protein Aggregation, Pathological","Protein Aggregation, Pathological"
+1485,Pathology,MESH,"path(MESH:""Unfolded Protein Response"")",Unfolded Protein Response,Unfolded Protein Response
+1486,Pathology,CONSO,"path(CONSO:""neurotoxicity"")",neurotoxicity,neurotoxicity
+1487,Pathology,MESHD,"path(MESHD:""Nausea"")",Nausea,Nausea
+1488,Pathology,MESHD,"path(MESHD:""Amyotrophic Lateral Sclerosis"")",Amyotrophic Lateral Sclerosis,Amyotrophic Lateral Sclerosis
+1489,Pathology,MESH,"path(MESH:""Hypertrophy"")",Hypertrophy,Hypertrophy
+1490,Pathology,MESH,"path(MESH:""Maze Learning"")",Maze Learning,Maze Learning
+1491,Pathology,MESH,"path(MESH:""Tertiary Lymphoid Structures"")",Tertiary Lymphoid Structures,Tertiary Lymphoid Structures
+1492,Pathology,NCIT,"path(NCIT:""Cognitive Impairment"")",Cognitive Impairment,Cognitive Impairment
+1493,Pathology,MESHD,"path(MESHD:""Neuroimmunomodulation"")",Neuroimmunomodulation,Neuroimmunomodulation
+1494,Pathology,MESH,"path(MESH:""Diet, High-Fat"")","Diet, High-Fat","Diet, High-Fat"
+1495,Pathology,HP,"path(HP:""Confusion"")",Confusion,Confusion
+1496,Pathology,MESH,"path(MESH:""Psychotic Disorders"")",Psychotic Disorders,Psychotic Disorders
+1497,Pathology,MESH,"path(MESH:""Dizziness"")",Dizziness,Dizziness
+1498,Pathology,MESH,"path(MESH:""Hyperglycemia"")",Hyperglycemia,Hyperglycemia
+1499,Pathology,MESH,"path(MESH:""Behavior and Behavior Mechanisms"")",Behavior and Behavior Mechanisms,Behavior and Behavior Mechanisms
+1500,Pathology,MESH,"path(MESH:""Alcoholism"")",Alcoholism,Alcoholism
+1501,Pathology,MESH,"path(MESH:""Spatial Learning"")",Spatial Learning,Spatial Learning
+1502,Pathology,NNS,"path(NNS:""chronic CNS injury"")",chronic CNS injury,chronic CNS injury
+1503,Pathology,MESHD,"path(MESHD:""Glioma"")",Glioma,Glioma
+1504,Pathology,MESH,"path(MESH:""Motor Neuron Disease"")",Motor Neuron Disease,Motor Neuron Disease
+1505,Pathology,HP,"path(HP:""Ischemic stroke"")",Ischemic stroke,Ischemic stroke
+1506,Pathology,MESH,"path(MESH:""Proteinuria"")",Proteinuria,Proteinuria
+1507,Pathology,HP,"path(HP:""Myelopathy"")",Myelopathy,Myelopathy
+1508,Pathology,MESH,"path(MESH:""Problem Behavior"")",Problem Behavior,Problem Behavior
+1509,Pathology,MESH,"path(MESH:""Spinal Cord Injuries"")",Spinal Cord Injuries,Spinal Cord Injuries
+1510,Pathology,MESH,"path(MESH:""Stereotypic Movement Disorder"")",Stereotypic Movement Disorder,Stereotypic Movement Disorder
+1511,Pathology,DOID,"path(DOID:""Rett syndrome"")",Rett syndrome,Rett syndrome
+1512,Pathology,MESH,"path(MESH:""Gliosis"")",Gliosis,Gliosis
+1513,Pathology,MESH,"path(MESH:""Inflammation"")",Inflammation,Inflammation
+1514,Pathology,MESHD,"path(MESHD:""Prostatic Neoplasms"")",Prostatic Neoplasms,Prostatic Neoplasms
+1515,Pathology,MESHD,"path(MESHD:""Diffuse Axonal Injury"")",Diffuse Axonal Injury,Diffuse Axonal Injury
+1516,Pathology,MESH,"path(MESH:""Fasting"")",Fasting,Fasting
+1517,Pathology,EFO,"path(EFO:""familial amyotrophic lateral sclerosis"")",familial amyotrophic lateral sclerosis,familial amyotrophic lateral sclerosis
+1518,Pathology,MESH,"path(MESH:""Encephalopathy, Bovine Spongiform"")","Encephalopathy, Bovine Spongiform","Encephalopathy, Bovine Spongiform"
+1519,Pathology,HP,"path(HP:""Dyspnea"")",Dyspnea,Dyspnea
+1520,Pathology,MESH,"path(MESH:""Opportunistic Infections"")",Opportunistic Infections,Opportunistic Infections
+1521,Pathology,DOID,"path(DOID:""CADASIL"")",CADASIL,CADASIL
+1522,Pathology,MESH,"path(MESH:""Metabolome"")",Metabolome,Metabolome
+1523,Pathology,DOID,"path(DOID:""tic disorder"")",tic disorder,tic disorder
+1524,Pathology,HP,"path(HP:""Bradykinesia"")",Bradykinesia,Bradykinesia
+1525,Pathology,DOID,"path(DOID:""cognitive disorder"")",cognitive disorder,cognitive disorder
+1526,Pathology,CONSO,"path(CONSO:""CONSO00027"")",CONSO00027,CONSO00027
+1527,Pathology,MESH,"path(MESH:""Compulsive Behavior"")",Compulsive Behavior,Compulsive Behavior
+1528,Pathology,HP,"path(HP:""Paranoia"")",Paranoia,Paranoia
+1529,Pathology,MESH,"path(MESH:""Hypokinesia"")",Hypokinesia,Hypokinesia
+1530,Pathology,MESH,"path(MESH:""Diffuse Axonal Injury"")",Diffuse Axonal Injury,Diffuse Axonal Injury
+1531,Pathology,DOID,"path(DOID:""hepatocellular carcinoma"")",hepatocellular carcinoma,hepatocellular carcinoma
+1532,Pathology,DOID,"path(DOID:""secondary progressive multiple sclerosis"")",secondary progressive multiple sclerosis,secondary progressive multiple sclerosis
+1533,Pathology,HP,"path(HP:""Dysphasia"")",Dysphasia,Dysphasia
+1534,Pathology,MESH,"path(MESH:""Longevity"")",Longevity,Longevity
+1535,Pathology,MESH,"path(MESH:""Nerve Degeneration"")",Nerve Degeneration,Nerve Degeneration
+1536,Pathology,MESH,"path(MESH:""Chromosome Aberrations"")",Chromosome Aberrations,Chromosome Aberrations
+1537,Pathology,HP,"path(HP:""Limb muscle weakness"")",Limb muscle weakness,Limb muscle weakness
+1538,Pathology,NCIT,"path(NCIT:""Hypertension"")",Hypertension,Hypertension
+1539,Pathology,MESHD,"path(MESHD:""Brain Injuries, Traumatic "")","Brain Injuries, Traumatic ","Brain Injuries, Traumatic "
+1540,Pathology,MESHD,"path(MESHD:""Neuroblastoma"")",Neuroblastoma,Neuroblastoma
+1541,Pathology,MESHPP,"path(MESHPP:""DNA Damage"")",DNA Damage,DNA Damage
+1542,Pathology,MESH,"path(MESH:""Chest Pain"")",Chest Pain,Chest Pain
+1543,Pathology,MESH,"path(MESH:""Immunity"")",Immunity,Immunity
+1544,Pathology,NCIT,"path(NCIT:""C21007"")",C21007,C21007
+1545,Pathology,MESH,"path(MESH:""Social Isolation"")",Social Isolation,Social Isolation
+1546,Pathology,DOID,"path(DOID:""neuropathy"")",neuropathy,neuropathy
+1547,Pathology,MESH,"path(MESH:""Hypoxia"")",Hypoxia,Hypoxia
+1548,Pathology,MESH,"path(MESH:""Craving"")",Craving,Craving
+1549,Pathology,MESH,"path(MESH:""Proteus Syndrome"")",Proteus Syndrome,Proteus Syndrome
+1550,Pathology,MESHD,"path(MESHD:""Hyperglycemia"")",Hyperglycemia,Hyperglycemia
+1551,Pathology,MESH,"path(MESH:""Cysts"")",Cysts,Cysts
+1552,Pathology,MESH,"path(MESH:""Protein Stability"")",Protein Stability,Protein Stability
+1553,Pathology,MESH,"path(MESH:""Pain"")",Pain,Pain
+1554,Pathology,DOID,"path(DOID:""thyroid gland disease"")",thyroid gland disease,thyroid gland disease
+1555,Pathology,MESH,"path(MESH:""Macular Edema"")",Macular Edema,Macular Edema
+1556,Pathology,DOID,"path(DOID:""antiphospholipid syndrome"")",antiphospholipid syndrome,antiphospholipid syndrome
+1557,Pathology,MESH,"path(MESH:""Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections"")",Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections,Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infections
+1558,Pathology,MESH,"path(MESH:""Suicidal Ideation"")",Suicidal Ideation,Suicidal Ideation
+1559,Pathology,HP,"path(HP:""Abnormality of the cell cycle"")",Abnormality of the cell cycle,Abnormality of the cell cycle
+1560,Pathology,DOID,"path(DOID:""prion disease"")",prion disease,prion disease
+1561,Pathology,MESH,"path(MESH:""Cerebral Amyloid Angiopathy, Familial"")","Cerebral Amyloid Angiopathy, Familial","Cerebral Amyloid Angiopathy, Familial"
+1562,Pathology,MESH,"path(MESH:""Seizures"")",Seizures,Seizures
+1563,Pathology,MESH,"path(MESH:""Cell Death"")",Cell Death,Cell Death
+1564,Pathology,MESH,"path(MESH:""Reward"")",Reward,Reward
+1565,Pathology,MESH,"path(MESH:""Light"")",Light,Light
+1566,Pathology,MESH,"path(MESH:""Mitochondrial Diseases"")",Mitochondrial Diseases,Mitochondrial Diseases
+1567,Pathology,DOID,"path(DOID:""myocardial infarction"")",myocardial infarction,myocardial infarction
+1568,Pathology,DOID,"path(DOID:""relapsing-remitting multiple sclerosis"")",relapsing-remitting multiple sclerosis,relapsing-remitting multiple sclerosis
+1569,Pathology,DOID,"path(DOID:""cerebellar ataxia"")",cerebellar ataxia,cerebellar ataxia
+1570,Pathology,MESH,"path(MESH:""Cell Enlargement"")",Cell Enlargement,Cell Enlargement
+1571,Pathology,MESH,"path(MESH:""Apoptosis"")",Apoptosis,Apoptosis
+1572,Pathology,DOID,"path(DOID:""amyloidosis"")",amyloidosis,amyloidosis
+1573,Pathology,MESH,"path(MESH:""Colitis, Ulcerative"")","Colitis, Ulcerative","Colitis, Ulcerative"
+1574,Pathology,MESHD,"path(MESHD:""Neurodegenerative Diseases"")",Neurodegenerative Diseases,Neurodegenerative Diseases
+1575,Pathology,MESH,"path(MESH:""Delusions"")",Delusions,Delusions
+1576,Pathology,MESH,"path(MESH:""Liver Diseases"")",Liver Diseases,Liver Diseases
+1577,Pathology,MESH,"path(MESH:""Body Mass Index"")",Body Mass Index,Body Mass Index
+1578,Pathology,DOID,"path(DOID:""Crohn's disease"")",Crohn's disease,Crohn's disease
+1579,Pathology,HP,"path(HP:""Autism"")",Autism,Autism
+1580,Pathology,MESH,"path(MESH:""Cognition"")",Cognition,Cognition
+1581,Pathology,MESH,"path(MESH:""Anger"")",Anger,Anger
+1582,Pathology,MESHD,"path(MESHD:""inflammatory response"")",inflammatory response,inflammatory response
+1583,Pathology,NCIT,"path(NCIT:""Hyperhomocysteinemia"")",Hyperhomocysteinemia,Hyperhomocysteinemia
+1584,Pathology,DOID,"path(DOID:""sleep disorder"")",sleep disorder,sleep disorder
+1585,Pathology,MESH,"path(MESH:""Mortality, Premature"")","Mortality, Premature","Mortality, Premature"
+1586,Pathology,MESH,"path(MESH:""Diabetes Mellitus"")",Diabetes Mellitus,Diabetes Mellitus
+1587,Pathology,CONSO,"path(CONSO:""protein aggregation"")",protein aggregation,protein aggregation
+1588,Pathology,MESH,"path(MESH:""RNA Recognition Motif"")",RNA Recognition Motif,RNA Recognition Motif
+1589,Pathology,MESH,"path(MESH:""Tobacco Smoking"")",Tobacco Smoking,Tobacco Smoking
+1590,Pathology,MESH,"path(MESH:""Cachexia"")",Cachexia,Cachexia
+1591,Pathology,HP,"path(HP:""Spasticity"")",Spasticity,Spasticity
+1592,Pathology,DOID,"path(DOID:""progressive multifocal leukoencephalopathy"")",progressive multifocal leukoencephalopathy,progressive multifocal leukoencephalopathy
+1593,Pathology,MESH,"path(MESH:""Oral Ulcer"")",Oral Ulcer,Oral Ulcer
+1594,Pathology,MESH,"path(MESH:""Cell Aggregation"")",Cell Aggregation,Cell Aggregation
+1595,Pathology,DOID,"path(DOID:""learning disability"")",learning disability,learning disability
+1596,Pathology,MESH,"path(MESH:""Neuropathology"")",Neuropathology,Neuropathology
+1597,Pathology,DOID,"path(DOID:""bipolar disorder"")",bipolar disorder,bipolar disorder
+1598,Pathology,DOID,"path(DOID:""autosomal recessive Parkinson's disease 14"")",autosomal recessive Parkinson's disease 14,autosomal recessive Parkinson's disease 14
+1599,Pathology,CONSO,"path(CONSO:""CONSO00068"")",CONSO00068,CONSO00068
+1600,Pathology,MESH,"path(MESH:""Muscle Hypotonia"")",Muscle Hypotonia,Muscle Hypotonia
+1601,Pathology,MESHD,"path(MESHD:""Nervous System Diseases"")",Nervous System Diseases,Nervous System Diseases
+1602,Pathology,MESH,"path(MESH:""Mitochondrial Size"")",Mitochondrial Size,Mitochondrial Size
+1603,Pathology,MESH,"path(MESH:""Crohn Disease"")",Crohn Disease,Crohn Disease
+1604,Pathology,MESH,"path(MESH:""Meningitis"")",Meningitis,Meningitis
+1605,Pathology,HP,"path(HP:""Myocardial immune cell infiltration"")",Myocardial immune cell infiltration,Myocardial immune cell infiltration
+1606,Pathology,HP,"path(HP:""Parkinsonism"")",Parkinsonism,Parkinsonism
+1607,Pathology,MESH,"path(MESH:""Carbohydrate Metabolism"")",Carbohydrate Metabolism,Carbohydrate Metabolism
+1608,Pathology,MESH,"path(MESH:""Hallucinations"")",Hallucinations,Hallucinations
+1609,Pathology,MESH,"path(MESH:""Alcohol Drinking"")",Alcohol Drinking,Alcohol Drinking
+1610,Pathology,HP,"path(HP:""Decreased antibody level in blood"")",Decreased antibody level in blood,Decreased antibody level in blood
+1611,Pathology,MESH,"path(MESH:""Retinal Degeneration"")",Retinal Degeneration,Retinal Degeneration
+1612,Pathology,HP,"path(HP:""Hallucinations"")",Hallucinations,Hallucinations
+1613,Pathology,MESH,"path(MESH:""Tachyphylaxis"")",Tachyphylaxis,Tachyphylaxis
+1614,Pathology,MESH,"path(MESH:""Cardiomyopathies"")",Cardiomyopathies,Cardiomyopathies
+1615,Pathology,MESH,"path(MESH:""Headache"")",Headache,Headache
+1616,Pathology,EFO,"path(EFO:""developmental disability"")",developmental disability,developmental disability
+1617,Pathology,DOID,"path(DOID:""Lewy body dementia"")",Lewy body dementia,Lewy body dementia
+1618,Pathology,EFO,"path(EFO:""stroke"")",stroke,stroke
+1619,Pathology,DOID,"path(DOID:""ciliopathy"")",ciliopathy,ciliopathy
+1620,Pathology,DOID,"path(DOID:""axonal neuropathy"")",axonal neuropathy,axonal neuropathy
+1621,Pathology,MESH,"path(MESH:""Behavior, Addictive"")","Behavior, Addictive","Behavior, Addictive"
+1622,Pathology,MESHD,"path(MESHD:""Stress"")",Stress,Stress
+1623,Pathology,MESHD,"path(MESHD:""Wounds and Injuries"")",Wounds and Injuries,Wounds and Injuries
+1624,Pathology,DOID,"path(DOID:""Niemann-Pick disease type C2"")",Niemann-Pick disease type C2,Niemann-Pick disease type C2
+1625,Pathology,MESH,"path(MESH:""RNA Splicing"")",RNA Splicing,RNA Splicing
+1626,Pathology,MESH,"path(MESH:""Hypothermia"")",Hypothermia,Hypothermia
+1627,Pathology,MESH,"path(MESH:""Supranuclear Palsy, Progressive"")","Supranuclear Palsy, Progressive","Supranuclear Palsy, Progressive"
+1628,Pathology,HP,"path(HP:""Allergy"")",Allergy,Allergy
+1629,Pathology,MESH,"path(MESH:""Alopecia"")",Alopecia,Alopecia
+1630,Pathology,MESH,"path(MESH:""Optic Atrophy, Hereditary, Leber"")","Optic Atrophy, Hereditary, Leber","Optic Atrophy, Hereditary, Leber"
+1631,Pathology,OMIT,"path(OMIT:""0016183"")",0016183,0016183
+1632,Pathology,MESH,"path(MESH:""Mental Disorders"")",Mental Disorders,Mental Disorders
+1633,Pathology,MESHD,"path(MESHD:""hypertrophy"")",hypertrophy,hypertrophy
+1634,Pathology,NCIT,"path(NCIT:""Diabetes Mellitus"")",Diabetes Mellitus,Diabetes Mellitus
+1635,Pathology,MESHD,"path(MESHD:""Status Epilepticus"")",Status Epilepticus,Status Epilepticus
+1636,Pathology,MESH,"path(MESH:""Life Expectancy"")",Life Expectancy,Life Expectancy
+1637,Pathology,HP,"path(HP:""Ataxia"")",Ataxia,Ataxia
+7098,Pathology,MESH,"path(MESH:""HIV Infections"")",HIV Infections,HIV Infections
+7099,Pathology,CONSO,"path(CONSO:""Excitotoxicity"")",Excitotoxicity,Excitotoxicity
+7100,Pathology,MESH,"path(MESH:""Growth"")",Growth,Growth
+7101,Pathology,MESH,"path(MESH:""Diabetic Neuropathies"")",Diabetic Neuropathies,Diabetic Neuropathies
+7102,Pathology,MESH,"path(MESH:""Tobacco Use Disorder"")",Tobacco Use Disorder,Tobacco Use Disorder
+7103,Pathology,MESH,"path(MESH:""Vision Disorders"")",Vision Disorders,Vision Disorders
+7104,Pathology,HP,"path(HP:""Facial palsy"")",Facial palsy,Facial palsy
+7105,Pathology,MESH,"path(MESH:""RNA Stability"")",RNA Stability,RNA Stability
+7106,Pathology,MESH,"path(MESH:""Pathology"")",Pathology,Pathology
+7107,Pathology,HP,"path(HP:""Increased inflammatory response"")",Increased inflammatory response,Increased inflammatory response
+7108,Pathology,MESH,"path(MESH:""Transport Vesicles"")",Transport Vesicles,Transport Vesicles
+7109,Pathology,MESH,"path(MESH:""DNA Fragmentation"")",DNA Fragmentation,DNA Fragmentation
+7110,Pathology,MESH,"path(MESH:""Strabismus"")",Strabismus,Strabismus
+7111,Pathology,MESHD,"path(MESHD:""Neurotoxicity Syndromes"")",Neurotoxicity Syndromes,Neurotoxicity Syndromes
+7112,Pathology,MESHD,"path(MESHD:""Multiple Sclerosis"")",Multiple Sclerosis,Multiple Sclerosis
+7113,Pathology,HP,"path(HP:""cardiac ventricle"")",cardiac ventricle,cardiac ventricle
+7114,Pathology,CONSO,"path(CONSO:""isolation rearing"")",isolation rearing,isolation rearing
+7115,Pathology,MESH,"path(MESH:""Encephalomyelitis, Autoimmune, Experimental"")","Encephalomyelitis, Autoimmune, Experimental","Encephalomyelitis, Autoimmune, Experimental"
+7116,Pathology,MESH,"path(MESH:""Leukoencephalopathy, Progressive Multifocal"")","Leukoencephalopathy, Progressive Multifocal","Leukoencephalopathy, Progressive Multifocal"
+7117,Pathology,EFO,"path(EFO:""cytomegalovirus infection"")",cytomegalovirus infection,cytomegalovirus infection
+7118,Pathology,DOID,"path(DOID:""rheumatoid arthritis"")",rheumatoid arthritis,rheumatoid arthritis
+7119,Pathology,MESH,"path(MESH:""Catatonia"")",Catatonia,Catatonia
+7120,Pathology,DOID,"path(DOID:""ischemia"")",ischemia,ischemia
+7121,Pathology,DOID,"path(DOID:""muscular atrophy"")",muscular atrophy,muscular atrophy
+7122,Pathology,MESH,"path(MESH:""Tauopathies"")",Tauopathies,Tauopathies
+7123,Pathology,DOID,"path(DOID:""tauopathy"")",tauopathy,tauopathy
+7124,Pathology,MESH,"path(MESH:""Confusion"")",Confusion,Confusion
+7125,Pathology,MESHD,"path(MESHD:""Autoimmune Diseases"")",Autoimmune Diseases,Autoimmune Diseases
+7126,Pathology,MESHD,"path(MESHD:""Neoplasms"")",Neoplasms,Neoplasms
+7127,Pathology,DOID,"path(DOID:""malaria"")",malaria,malaria
+7128,Pathology,MESH,"path(MESH:""Asthenia"")",Asthenia,Asthenia
+7129,Pathology,CONSO,"path(CONSO:""proteotoxicity"")",proteotoxicity,proteotoxicity
+7130,Pathology,MESH,"path(MESH:""POEMS Syndrome"")",POEMS Syndrome,POEMS Syndrome
+7131,Pathology,HP,"path(HP:""Palpitations"")",Palpitations,Palpitations
+7132,Pathology,HP,"path(HP:""Paraparesis"")",Paraparesis,Paraparesis
+7133,Pathology,EFO,"path(EFO:""neurotic disorder"")",neurotic disorder,neurotic disorder
+7134,Pathology,HP,"path(HP:""Fatigue"")",Fatigue,Fatigue
+7135,Pathology,MESH,"path(MESH:""Hyperkinesis"")",Hyperkinesis,Hyperkinesis
+7136,Pathology,MESH,"path(MESH:""Executive Function"")",Executive Function,Executive Function
+7137,Pathology,MESH,"path(MESH:""Muscle Rigidity"")",Muscle Rigidity,Muscle Rigidity
+7138,Pathology,CONSO,"path(CONSO:""mitochondrial dysfunction"")",mitochondrial dysfunction,mitochondrial dysfunction
+7139,Pathology,MESH,"path(MESH:""Smell"")",Smell,Smell
+7140,Pathology,MESHD,"path(MESHD:""Paralysis"")",Paralysis,Paralysis
+7141,Pathology,MESHD,"path(MESHD:""Amyloidosis"")",Amyloidosis,Amyloidosis
+7142,Pathology,CONSO,"path(CONSO:""peripheral nervous system injury"")",peripheral nervous system injury,peripheral nervous system injury
+7143,Pathology,MESH,"path(MESH:""Cholinergic Neurons"")",Cholinergic Neurons,Cholinergic Neurons
+7144,Pathology,MESH,"path(MESH:""Neuronal Ceroid-Lipofuscinoses"")",Neuronal Ceroid-Lipofuscinoses,Neuronal Ceroid-Lipofuscinoses
+7145,Pathology,DOID,"path(DOID:""tuberculosis"")",tuberculosis,tuberculosis
+7146,Pathology,MESHD,"path(MESHD:""inflammation"")",inflammation,inflammation
+7147,Pathology,MESHD,"path(MESHD:""fibrosis"")",fibrosis,fibrosis
+7148,Pathology,NCIT,"path(NCIT:""Insulin Resistance"")",Insulin Resistance,Insulin Resistance
+7149,Pathology,MESHD,"path(MESHD:""dysbiosis"")",dysbiosis,dysbiosis
+7150,Pathology,DO,"path(DO:""CDKL5-deficiency disorder"")",CDKL5-deficiency disorder,CDKL5-deficiency disorder
+7151,Pathology,MESHD,"path(MESHD:""Hepatitis B"")",Hepatitis B,Hepatitis B
+7152,Pathology,CONSO,"path(CONSO:""neurite retraction"")",neurite retraction,neurite retraction
+7153,Pathology,MESH,"path(MESH:""Lethargy"")",Lethargy,Lethargy
+7154,Pathology,MESH,"path(MESH:""Mental Processes"")",Mental Processes,Mental Processes
+7155,Pathology,HP,"path(HP:""Cerebral white matter atrophy"")",Cerebral white matter atrophy,Cerebral white matter atrophy
+7156,Pathology,NCIT,"path(NCIT:""C82901"")",C82901,C82901
+7157,Pathology,MESH,"path(MESH:""Homeostasis"")",Homeostasis,Homeostasis
+7158,Pathology,MESH,"path(MESH:""Mitochondrial Swelling"")",Mitochondrial Swelling,Mitochondrial Swelling
+7159,Pathology,MESH,"path(MESH:""Malformations of Cortical Development"")",Malformations of Cortical Development,Malformations of Cortical Development
+7160,Pathology,MESHD,"path(MESHD:""Dizziness"")",Dizziness,Dizziness
+7161,Pathology,MESHD,"path(MESHD:""Alzheimer Disease"")",Alzheimer Disease,Alzheimer Disease
+7162,Pathology,MESH,"path(MESH:""Body Temperature"")",Body Temperature,Body Temperature
+7163,Pathology,MESH,"path(MESH:""Avoidance Learning"")",Avoidance Learning,Avoidance Learning
+7164,Pathology,MESH,"path(MESH:""Phagocytosis"")",Phagocytosis,Phagocytosis
+7165,Pathology,MESH,"path(MESH:""Plasma Exchange"")",Plasma Exchange,Plasma Exchange
+7166,Pathology,EFO,"path(EFO:""experimental autoimmune encephalomyelitis"")",experimental autoimmune encephalomyelitis,experimental autoimmune encephalomyelitis
+7167,Pathology,EFO,"path(EFO:""arthritis"")",arthritis,arthritis
+7168,Pathology,HP,"path(HP:""Mania"")",Mania,Mania
+7169,Pathology,MESH,"path(MESH:""X Chromosome Inactivation"")",X Chromosome Inactivation,X Chromosome Inactivation
+7170,Pathology,MESH,"path(MESH:""Insulin Resistance"")",Insulin Resistance,Insulin Resistance
+7171,Pathology,DOID,"path(DOID:""dementia"")",dementia,dementia
+7172,Pathology,MESH,"path(MESH:""Amyloid Neuropathies"")",Amyloid Neuropathies,Amyloid Neuropathies
+7173,Pathology,MESH,"path(MESH:""Death"")",Death,Death
+7174,Pathology,MESHD,"path(MESHD:""Stress Disorders"")",Stress Disorders,Stress Disorders
+7175,Pathology,MESHD,"path(MESHD:""Eosinophilia"")",Eosinophilia,Eosinophilia
+7176,Pathology,MESHD,"path(MESHD:""Osteoporosis"")",Osteoporosis,Osteoporosis
+7177,Pathology,MESH,"path(MESH:""Intranuclear Inclusion Bodies"")",Intranuclear Inclusion Bodies,Intranuclear Inclusion Bodies
+7178,Pathology,MESH,"path(MESH:""Nociception"")",Nociception,Nociception
+7179,Pathology,MESH,"path(MESH:""Fever"")",Fever,Fever
+7180,Pathology,MESH,"path(MESH:""Multiple Sclerosis, Relapsing-Remitting"")","Multiple Sclerosis, Relapsing-Remitting","Multiple Sclerosis, Relapsing-Remitting"
+7181,Pathology,MESH,"path(MESH:""Demyelinating Diseases"")",Demyelinating Diseases,Demyelinating Diseases
+7182,Pathology,MESH,"path(MESH:""Infection"")",Infection,Infection
+7183,Pathology,MESH,"path(MESH:""Thinking"")",Thinking,Thinking
+7184,Pathology,CONSO,"path(CONSO:""CONSO00061"")",CONSO00061,CONSO00061
+7185,Pathology,MESHD,"path(MESHD:""Dementia"")",Dementia,Dementia
+7186,Pathology,MESH,"path(MESH:""Acidosis, Lactic"")","Acidosis, Lactic","Acidosis, Lactic"
+7187,Pathology,MESH,"path(MESH:""Aneuploidy"")",Aneuploidy,Aneuploidy
+7188,Pathology,DOID,"path(DOID:""herpes simplex"")",herpes simplex,herpes simplex
+7189,Pathology,MESH,"path(MESH:""Thyroid Diseases"")",Thyroid Diseases,Thyroid Diseases
+7190,Pathology,MESH,"path(MESH:""Deafness"")",Deafness,Deafness
+7191,Pathology,DOID,"path(DOID:""rheumatic disease"")",rheumatic disease,rheumatic disease
+7192,Pathology,HP,"path(HP:""Reduced proportion of naive T cells"")",Reduced proportion of naive T cells,Reduced proportion of naive T cells
+7193,Pathology,HP,"path(HP:""Irritability"")",Irritability,Irritability
+7194,Pathology,HBP,"path(HBP:""proteotoxicity"")",proteotoxicity,proteotoxicity
+7195,Pathology,CONSO,"path(CONSO:""PI3K-Akt signaling pathway"")",PI3K-Akt signaling pathway,PI3K-Akt signaling pathway
+7196,Pathology,MESHD,"path(MESHD:""Vomiting"")",Vomiting,Vomiting
+7197,Pathology,MESHD,"path(MESHD:""heart failure"")",heart failure,heart failure
+7198,Pathology,NCIT,"path(NCIT:""Hypercholesterolemia"")",Hypercholesterolemia,Hypercholesterolemia
+7199,Pathology,DO,"path(DO:""colibactin"")",colibactin,colibactin
+7200,Pathology,MESHD,"path(MESHD:""Cataract"")",Cataract,Cataract
+7201,Pathology,MESH,"path(MESH:""Amnesia, Anterograde"")","Amnesia, Anterograde","Amnesia, Anterograde"
+7202,Pathology,MESH,"path(MESH:""Sunlight"")",Sunlight,Sunlight
+7203,Pathology,DOID,"path(DOID:""atherosclerosis"")",atherosclerosis,atherosclerosis
+7204,Pathology,HP,"path(HP:""Psychosis"")",Psychosis,Psychosis
+7205,Pathology,MESH,"path(MESH:""Striatal Degeneration, Autosomal Dominant"")","Striatal Degeneration, Autosomal Dominant","Striatal Degeneration, Autosomal Dominant"
+7206,Pathology,MESH,"path(MESH:""Glucose Intolerance"")",Glucose Intolerance,Glucose Intolerance
+7207,Pathology,MESH,"path(MESH:""Energy Metabolism"")",Energy Metabolism,Energy Metabolism
+7208,Pathology,MESH,"path(MESH:""Multiple Sclerosis"")",Multiple Sclerosis,Multiple Sclerosis
+7209,Pathology,MESH,"path(MESH:""Blood Pressure"")",Blood Pressure,Blood Pressure
+7210,Pathology,ADO,"path(ADO:""depression"")",depression,depression
+7211,Pathology,MESH,"path(MESH:""Colorectal Neoplasms"")",Colorectal Neoplasms,Colorectal Neoplasms
+7212,Pathology,MESH,"path(MESH:""Cough"")",Cough,Cough
+7213,Pathology,HP,"path(HP:""Abnormal lymphatic vessel morphology"")",Abnormal lymphatic vessel morphology,Abnormal lymphatic vessel morphology
+7214,Pathology,MESH,"path(MESH:""Periodontitis"")",Periodontitis,Periodontitis
+7215,Pathology,MESH,"path(MESH:""Obsessive-Compulsive Disorder"")",Obsessive-Compulsive Disorder,Obsessive-Compulsive Disorder
+7216,Pathology,DOID,"path(DOID:""antisocial personality disorder"")",antisocial personality disorder,antisocial personality disorder
+7217,Pathology,MESH,"path(MESH:""Brain Injuries, Traumatic"")","Brain Injuries, Traumatic","Brain Injuries, Traumatic"
+7218,Pathology,MESH,"path(MESH:""Interpersonal Relations"")",Interpersonal Relations,Interpersonal Relations
+7219,Pathology,MESHD,"path(MESHD:""Diabetes Mellitus, Type 2"")","Diabetes Mellitus, Type 2","Diabetes Mellitus, Type 2"
+7220,Pathology,MESHD,"path(MESHD:""Brain Ischemia"")",Brain Ischemia,Brain Ischemia
+7221,Pathology,CONSO,"path(CONSO:""Astrogliosis"")",Astrogliosis,Astrogliosis
+7222,Pathology,MESH,"path(MESH:""Cardiotoxicity"")",Cardiotoxicity,Cardiotoxicity
+7223,Pathology,MESH,"path(MESH:""Meningitis, Cryptococcal"")","Meningitis, Cryptococcal","Meningitis, Cryptococcal"
+7224,Pathology,MESH,"path(MESH:""Vascular Diseases"")",Vascular Diseases,Vascular Diseases
+7225,Pathology,NCIT,"path(NCIT:""C84657"")",C84657,C84657
+7226,Pathology,HP,"path(HP:""Herpes simplex encephalitis"")",Herpes simplex encephalitis,Herpes simplex encephalitis
+7227,Pathology,HP,"path(HP:""Oculomotor apraxia"")",Oculomotor apraxia,Oculomotor apraxia
+7228,Pathology,MESH,"path(MESH:""Transcription, Genetic"")","Transcription, Genetic","Transcription, Genetic"
+7229,Pathology,MESH,"path(MESH:""Motor Disorders"")",Motor Disorders,Motor Disorders
+7230,Pathology,MESH,"path(MESH:""Perinatal Death"")",Perinatal Death,Perinatal Death
+7231,Pathology,MESH,"path(MESH:""Mood Disorders"")",Mood Disorders,Mood Disorders
+7232,Pathology,MESHD,"path(MESHD:""Coronary Artery Disease"")",Coronary Artery Disease,Coronary Artery Disease
+7233,Pathology,MESHD,"path(MESHD:""Hypertension"")",Hypertension,Hypertension
+7234,Pathology,MESH,"path(MESH:""Gaucher Disease"")",Gaucher Disease,Gaucher Disease
+7235,Pathology,MESH,"path(MESH:""Substance Withdrawal Syndrome"")",Substance Withdrawal Syndrome,Substance Withdrawal Syndrome
+7236,Pathology,MESH,"path(MESH:""Antibody Formation"")",Antibody Formation,Antibody Formation
+7237,Pathology,MESH,"path(MESH:""Spinal Cord Diseases"")",Spinal Cord Diseases,Spinal Cord Diseases
+7238,Pathology,OMIT,"path(OMIT:""0016001"")",0016001,0016001
+7239,Pathology,MESH,"path(MESH:""Recurrence"")",Recurrence,Recurrence
+7240,Pathology,HP,"path(HP:""Nausea"")",Nausea,Nausea
+7241,Pathology,MESH,"path(MESH:""Autophagy"")",Autophagy,Autophagy
+7242,Pathology,MESH,"path(MESH:""Diabetes Mellitus, Type 2"")","Diabetes Mellitus, Type 2","Diabetes Mellitus, Type 2"
+7243,Pathology,MESH,"path(MESH:""Encephalomyelitis"")",Encephalomyelitis,Encephalomyelitis
+7244,Pathology,MESHD,"path(MESHD:""TBI"")",TBI,TBI
+7245,Pathology,NCIT,"path(NCIT:""Obesity"")",Obesity,Obesity
+7246,Pathology,MESH,"path(MESH:""Chorea"")",Chorea,Chorea
+7247,Pathology,MESH,"path(MESH:""Cytotoxicity, Immunologic"")","Cytotoxicity, Immunologic","Cytotoxicity, Immunologic"
+7248,Pathology,MESH,"path(MESH:""Amyotrophic Lateral Sclerosis"")",Amyotrophic Lateral Sclerosis,Amyotrophic Lateral Sclerosis
+7249,Pathology,MESH,"path(MESH:""Stress, Psychological"")","Stress, Psychological","Stress, Psychological"
+7250,Pathology,MESH,"path(MESH:""Sleep"")",Sleep,Sleep
+7251,Pathology,MESH,"path(MESH:""Glioblastoma"")",Glioblastoma,Glioblastoma
+7252,Pathology,MESH,"path(MESH:""Exanthema"")",Exanthema,Exanthema
+7253,Pathology,MESH,"path(MESH:""Immune Tolerance"")",Immune Tolerance,Immune Tolerance
+7254,Pathology,MESH,"path(MESH:""Growth and Development"")",Growth and Development,Growth and Development
+7255,Pathology,MESH,"path(MESH:""Trauma, Nervous System"")","Trauma, Nervous System","Trauma, Nervous System"
+7256,Pathology,MESH,"path(MESH:""Schizophrenia, Disorganized"")","Schizophrenia, Disorganized","Schizophrenia, Disorganized"
+7257,Pathology,DOID,"path(DOID:""cancer"")",cancer,cancer
+7258,Pathology,MESH,"path(MESH:""Starvation"")",Starvation,Starvation
+7259,Pathology,MESH,"path(MESH:""Attention"")",Attention,Attention
+7260,Pathology,MESH,"path(MESH:""Alzheimer Disease"")",Alzheimer Disease,Alzheimer Disease
+7261,Pathology,MESHD,"path(MESHD:""Hypertriglyceridemia"")",Hypertriglyceridemia,Hypertriglyceridemia
+7262,Pathology,HP,"path(HP:""Cognitive impairment"")",Cognitive impairment,Cognitive impairment
+7263,Pathology,DOID,"path(DOID:""pancreatic ductal adenocarcinoma"")",pancreatic ductal adenocarcinoma,pancreatic ductal adenocarcinoma
+7264,Pathology,MESH,"path(MESH:""Proteolysis"")",Proteolysis,Proteolysis
+7265,Pathology,MESH,"path(MESH:""Parkinsonian Disorders"")",Parkinsonian Disorders,Parkinsonian Disorders
+7266,Pathology,DOID,"path(DOID:""leukopenia"")",leukopenia,leukopenia
+7267,Pathology,MESH,"path(MESH:""Liver Function Tests"")",Liver Function Tests,Liver Function Tests
+7268,Pathology,MESH,"path(MESH:""Abortion, Habitual"")","Abortion, Habitual","Abortion, Habitual"
+7269,Pathology,DOID,"path(DOID:""motor neuron disease"")",motor neuron disease,motor neuron disease
+7270,Pathology,MESH,"path(MESH:""Westphal disease"")",Westphal disease,Westphal disease
+7271,Pathology,DOID,"path(DOID:""demyelinating disease"")",demyelinating disease,demyelinating disease
+7272,Pathology,DOID,"path(DOID:""neurodegenerative disease"")",neurodegenerative disease,neurodegenerative disease
+7273,Pathology,DOID,"path(DOID:""Alzheimer's disease"")",Alzheimer's disease,Alzheimer's disease
+7274,Pathology,MESH,"path(MESH:""Epilepsy"")",Epilepsy,Epilepsy
+7275,Pathology,MESHD,"path(MESHD:""Mitochondrial Encephalomyopathies"")",Mitochondrial Encephalomyopathies,Mitochondrial Encephalomyopathies
+7276,Pathology,MESHD,"path(MESHD:""Dementia, Vascular"")","Dementia, Vascular","Dementia, Vascular"
+7277,Pathology,MESH,"path(MESH:""Recovery of Function"")",Recovery of Function,Recovery of Function
+7278,Pathology,MESH,"path(MESH:""Neurofibrillary Tangles"")",Neurofibrillary Tangles,Neurofibrillary Tangles
+7279,Pathology,MESH,"path(MESH:""Mitochondrial Degradation"")",Mitochondrial Degradation,Mitochondrial Degradation
+7280,Pathology,NCIT,"path(NCIT:""C95603"")",C95603,C95603
+7281,Pathology,DOID,"path(DOID:""acute disseminated encephalomyelitis"")",acute disseminated encephalomyelitis,acute disseminated encephalomyelitis
+7282,Pathology,EFO,"path(EFO:""ischemia reperfusion injury"")",ischemia reperfusion injury,ischemia reperfusion injury
+7283,Pathology,DOID,"path(DOID:""optic neuritis"")",optic neuritis,optic neuritis
+7284,Pathology,HP,"path(HP:""Hyperkinesis"")",Hyperkinesis,Hyperkinesis
+7285,Pathology,MESH,"path(MESH:""Aging"")",Aging,Aging
+7286,Pathology,MESH,"path(MESH:""Organogenesis"")",Organogenesis,Organogenesis
+7287,Pathology,MESH,"path(MESH:""Parkinson Disease"")",Parkinson Disease,Parkinson Disease
+7288,Pathology,MESH,"path(MESH:""Thyroiditis, Autoimmune"")","Thyroiditis, Autoimmune","Thyroiditis, Autoimmune"
+7289,Pathology,MESHD,"path(MESHD:""Infarction, Middle Cerebral Artery"")","Infarction, Middle Cerebral Artery","Infarction, Middle Cerebral Artery"
+7290,Pathology,HP,"path(HP:""glomerulonephritis"")",glomerulonephritis,glomerulonephritis
+7291,Pathology,MESHD,"path(MESHD:""Parkinson Disease"")",Parkinson Disease,Parkinson Disease
+7292,Pathology,MESH,"path(MESH:""Craniocerebral Trauma"")",Craniocerebral Trauma,Craniocerebral Trauma
+7293,Pathology,MESH,"path(MESH:""Psychomotor Agitation"")",Psychomotor Agitation,Psychomotor Agitation
+7294,Pathology,MESH,"path(MESH:""Schizophrenia"")",Schizophrenia,Schizophrenia
+7295,Pathology,HP,"path(HP:""Lipoatrophy"")",Lipoatrophy,Lipoatrophy
+7296,Pathology,DOID,"path(DOID:""ulcerative colitis"")",ulcerative colitis,ulcerative colitis
+7297,Pathology,MESH,"path(MESH:""Plasmapheresis"")",Plasmapheresis,Plasmapheresis
+7298,Pathology,MESH,"path(MESH:""Immune System Diseases"")",Immune System Diseases,Immune System Diseases
+7299,Pathology,NCIT,"path(NCIT:""Cognitive Disorder"")",Cognitive Disorder,Cognitive Disorder
+7300,Pathology,MESHD,"path(MESHD:""COVID-19"")",COVID-19,COVID-19
+7301,Pathology,MESHD,"path(MESHD:""Chronic Traumatic Encephalopathy"")",Chronic Traumatic Encephalopathy,Chronic Traumatic Encephalopathy
+7302,Pathology,DOID,"path(DOID:""chronic inflammation"")",chronic inflammation,chronic inflammation
+7303,Pathology,MESH,"path(MESH:""Flushing"")",Flushing,Flushing
+7304,Pathology,MESH,"path(MESH:""Vision, Low"")","Vision, Low","Vision, Low"
+7305,Pathology,MESH,"path(MESH:""Signs and Symptoms"")",Signs and Symptoms,Signs and Symptoms
+7306,Pathology,DOID,"path(DOID:""Birt-Hogg-Dube syndrome"")",Birt-Hogg-Dube syndrome,Birt-Hogg-Dube syndrome
+7307,Pathology,MESH,"path(MESH:""Cardiovascular Deconditioning"")",Cardiovascular Deconditioning,Cardiovascular Deconditioning
+7308,Pathology,MESH,"path(MESH:""Sepsis"")",Sepsis,Sepsis
+7309,Pathology,HP,"path(HP:""Gallbladder dysfunction"")",Gallbladder dysfunction,Gallbladder dysfunction
+7310,Pathology,HP,"path(HP:""Bradycardia"")",Bradycardia,Bradycardia
+7311,Pathology,MESH,"path(MESH:""Ulcer"")",Ulcer,Ulcer
+7312,Pathology,HP,"path(HP:""Abnormality of forebrain morphology"")",Abnormality of forebrain morphology,Abnormality of forebrain morphology
+7313,Pathology,DOID,"path(DOID:""autism spectrum disorder"")",autism spectrum disorder,autism spectrum disorder
+7314,Pathology,HP,"path(HP:""Atrophy/Degeneration involving the caudate nucleus"")",Atrophy/Degeneration involving the caudate nucleus,Atrophy/Degeneration involving the caudate nucleus
+7315,Pathology,MESH,"path(MESH:""Cytoprotection"")",Cytoprotection,Cytoprotection
+7316,Pathology,MESH,"path(MESH:""Frontotemporal Lobar Degeneration"")",Frontotemporal Lobar Degeneration,Frontotemporal Lobar Degeneration
+7317,Pathology,CONSO,"path(CONSO:""CONSO00037"")",CONSO00037,CONSO00037
+7318,Pathology,MESH,"path(MESH:""Muscle Hypertonia"")",Muscle Hypertonia,Muscle Hypertonia
+7319,Pathology,MESHD,"path(MESHD:""Myositis, Inclusion Body"")","Myositis, Inclusion Body","Myositis, Inclusion Body"
+7320,Pathology,MESH,"path(MESH:""Verbal Learning"")",Verbal Learning,Verbal Learning
+7321,Pathology,MESH,"path(MESH:""Inflammatory Bowel Diseases"")",Inflammatory Bowel Diseases,Inflammatory Bowel Diseases
+7322,Pathology,NCIT,"path(NCIT:""C117277"")",C117277,C117277
+7323,Pathology,DOID,"path(DOID:""trigeminal neuralgia"")",trigeminal neuralgia,trigeminal neuralgia
+7324,Pathology,HP,"path(HP:""Agitation"")",Agitation,Agitation
+7325,Pathology,MESH,"path(MESH:""Lipid Metabolism"")",Lipid Metabolism,Lipid Metabolism
+7326,Pathology,EFO,"path(EFO:""late-onset Alzheimers disease"")",late-onset Alzheimers disease,late-onset Alzheimers disease
+7327,Pathology,MESH,"path(MESH:""Smoking"")",Smoking,Smoking
+7328,Pathology,HP,"path(HP:""Immune dysregulation"")",Immune dysregulation,Immune dysregulation
+7329,Pathology,DOID,"path(DOID:""aphasia"")",aphasia,aphasia
+7330,Pathology,MESH,"path(MESH:""Fear"")",Fear,Fear
+7331,Pathology,MESH,"path(MESH:""Leukemia, Promyelocytic, Acute"")","Leukemia, Promyelocytic, Acute","Leukemia, Promyelocytic, Acute"
+7332,Pathology,MESH,"path(MESH:""Lymphopenia"")",Lymphopenia,Lymphopenia
+7333,Pathology,MESH,"path(MESH:""Pediatric Obesity"")",Pediatric Obesity,Pediatric Obesity
+7334,Pathology,MESH,"path(MESH:""TDP-43 Proteinopathies"")",TDP-43 Proteinopathies,TDP-43 Proteinopathies
+7335,Pathology,DOID,"path(DOID:""multiple sclerosis"")",multiple sclerosis,multiple sclerosis
+7336,Pathology,EFO,"path(EFO:""memory impairment"")",memory impairment,memory impairment
+7337,Pathology,MESH,"path(MESH:""Smoking Cessation"")",Smoking Cessation,Smoking Cessation
+7338,Pathology,MESHD,"path(MESHD:""Prion Diseases"")",Prion Diseases,Prion Diseases
+7339,Pathology,DOID,"path(DOID:""mucopolysaccharidosis"")",mucopolysaccharidosis,mucopolysaccharidosis
+7340,Pathology,MESH,"path(MESH:""Solubility"")",Solubility,Solubility
+7341,Pathology,MESH,"path(MESH:""Cognition Disorders"")",Cognition Disorders,Cognition Disorders
+7342,Pathology,HP,"path(HP:""Disseminated viral infection"")",Disseminated viral infection,Disseminated viral infection
+7343,Pathology,MESHD,"path(MESHD:""cerebral edema"")",cerebral edema,cerebral edema
+7344,Pathology,MESHD,"path(MESHD:""Muscular Diseases"")",Muscular Diseases,Muscular Diseases

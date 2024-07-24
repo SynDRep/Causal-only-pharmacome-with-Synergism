@@ -1,0 +1,12 @@
+:ID,:LABEL,bel:string,involved_genes:string,involved_other:string,species:float
+7616,CellSurfaceExpression,"surf(p(FPLX:""CHRN""))",CHRN,,
+7617,CellSurfaceExpression,"surf(p(CONSO:""alpha-7 beta-2 nAChR""))",alpha-7 beta-2 nAChR,,
+7618,CellSurfaceExpression,"surf(a(MESH:""alpha7 Nicotinic Acetylcholine Receptor""))",,alpha7 Nicotinic Acetylcholine Receptor,
+7619,CellSurfaceExpression,"surf(p(CONSO:""CONSO00174""))",CONSO00174,,
+7620,CellSurfaceExpression,"surf(a(MESH:""nicotinic receptor alpha3beta2""))",,nicotinic receptor alpha3beta2,
+7621,CellSurfaceExpression,"surf(a(MESH:""nicotinic receptor alpha3beta4""))",,nicotinic receptor alpha3beta4,
+7622,CellSurfaceExpression,"surf(p(HGNC:""HTR3A""))",HTR3A,,9606.0
+7623,CellSurfaceExpression,"surf(p(HGNC:""CHRNA7""))",CHRNA7,,9606.0
+7624,CellSurfaceExpression,"surf(p(CONSO:""6-O-sulfated heparin""))",6-O-sulfated heparin,,
+7625,CellSurfaceExpression,"surf(p(HGNC:""APP""))",APP,,9606.0
+7626,CellSurfaceExpression,"surf(p(HGNC:""GRIK2""))",GRIK2,,9606.0

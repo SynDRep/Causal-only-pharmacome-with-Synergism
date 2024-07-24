@@ -1,0 +1,301 @@
+:ID,:LABEL,bel:string,involved_genes:string,involved_other:string,species:float
+12202,Translocation,"tloc(p(HGNC:""TREM2""),fromLoc(MESHA:""Cell Membrane""),toLoc(MESHA:""Cytoplasmic Vesicles""))",TREM2,,9606.0
+12203,Translocation,"tloc(a(CONSO:""Tau aggregates""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular part""))",,Tau aggregates,
+12204,Translocation,"tloc(a(GO:""cytoplasm""),fromLoc(GO:""intracellular""),toLoc(GO:""multivesicular body""))",,cytoplasm,
+12205,Translocation,"tloc(p(HGNC:""HTT"",frag(""?"")),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",HTT,,9606.0
+12206,Translocation,"tloc(p(INTERPRO:""Amyloidogenic glycoprotein, intracellular domain, conserved site""),fromLoc(MESHCS:""Cytoplasm""),toLoc(MESHCS:""Cell Nucleus""))","Amyloidogenic glycoprotein, intracellular domain, conserved site",,
+12207,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Intracellular Space""))",,calcium(2+),
+12208,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Brain""))",,amyloid-beta,
+12209,Translocation,"tloc(p(MGI:""Lrrk2"",var(""?"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",Lrrk2,,10090.0
+12210,Translocation,"tloc(p(HGNC:""BAX""),fromLoc(GO:""cytosol""),toLoc(GO:""mitochondrion""))",BAX,,9606.0
+12211,Translocation,"tloc(a(CHEBI:""macromolecule""),fromLoc(HP:""interstitial fluid""),toLoc(MESH:""Lymph Nodes""))",,macromolecule,
+12212,Translocation,"tloc(a(CHEBI:""saccharin""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular""))",,saccharin,
+12213,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESHCS:""Extracellular Space""),toLoc(MESHCS:""Cytoplasm""))",,calcium(2+),
+12214,Translocation,"tloc(p(CONSO:""Tau aggregates""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",Tau aggregates,,
+12215,Translocation,"tloc(p(HGNC:""MAPT"",var(""p.Pro301Ser"")),fromLoc(GO:""extracellular region""),toLoc(GO:""cell body""))",MAPT,,9606.0
+12216,Translocation,"tloc(a(CHEBI:""proton""),fromLoc(MESH:""Synaptic Vesicles""),toLoc(GO:""cytosol""))",,proton,
+12217,Translocation,"tloc(p(HGNC:""RELA""),fromLoc(MESH:""Cytosol""),toLoc(MESH:""Cell Nucleus""))",RELA,,9606.0
+12218,Translocation,"tloc(p(HGNC:""MAPK1""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",MAPK1,,9606.0
+12219,Translocation,"tloc(p(HGNC:""SNCA""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",SNCA,,9606.0
+12220,Translocation,"tloc(a(MESH:""Cations, Monovalent""),fromLoc(MESH:""Intracellular Space""),toLoc(MESH:""Extracellular Space""))",,"Cations, Monovalent",
+12221,Translocation,"tloc(p(MESH:""Proteins"",pmod(Ub)),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosome""))",Proteins,,
+12222,Translocation,"tloc(a(CHEBI:""amyloid-beta polypeptide 42""),fromLoc(GO:""intracellular""),toLoc(MESH:""Plasma""))",,amyloid-beta polypeptide 42,
+12223,Translocation,"tloc(p(HGNC:""APP""),fromLoc(GO:""cell surface""),toLoc(GO:""intracellular""))",APP,,9606.0
+12224,Translocation,"tloc(a(GO:""autophagosome""),fromLoc(GO:""extracellular space""),toLoc(MESH:""Neurons""))",,autophagosome,
+12225,Translocation,"tloc(p(HGNCGENEFAMILY:""Beta catenins""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",Beta catenins,,
+12226,Translocation,"tloc(p(HGNC:""BAX""),fromLoc(MESHCS:""Cytosol""),toLoc(MESHCS:""Mitochondria""))",BAX,,9606.0
+12227,Translocation,"tloc(p(HGNC:""DOK3""),fromLoc(MESHA:""Cytoplasm""),toLoc(MESHA:""Cell Membrane""))",DOK3,,9606.0
+12228,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular part""))",MAPT,,9606.0
+12229,Translocation,"tloc(a(CHEBI:""acetylcholine""),fromLoc(GO:""cytosol""),toLoc(GO:""vesicle""))",,acetylcholine,
+12230,Translocation,"tloc(p(HGNC:""HTT"",frag(""1_586"")),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",HTT,,9606.0
+12231,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""Cytoplasm""),toLoc(MESHCS:""Mitochondria""))",APP,,9606.0
+12232,Translocation,"tloc(p(HGNC:""BACE1""),fromLoc(MESHCS:""Cell Surface Extensions""),toLoc(MESHCS:""Endosomes""))",BACE1,,9606.0
+12233,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Cardiovascular System""))",,amyloid-beta,
+12234,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",Mapt,,10090.0
+12235,Translocation,"tloc(a(MESH:""Cations, Monovalent""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",,"Cations, Monovalent",
+12236,Translocation,"tloc(a(CHEBI:""macromolecule""),fromLoc(MESH:""Cerebrospinal Fluid""),toLoc(MESH:""Parenchymal Tissue""))",,macromolecule,
+12237,Translocation,"tloc(p(HGNC:""APP"",frag(""672_713"")),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",APP,,9606.0
+12238,Translocation,"tloc(a(CHEBI:""phosphatidyl-L-serine""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Cell Surface Extensions""))",,phosphatidyl-L-serine,
+12239,Translocation,"tloc(p(CONSO:""CONSO00053"",var(""p.Lys280del"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12240,Translocation,"tloc(p(HGNC:""TARDBP""),fromLoc(GO:""nucleus""),toLoc(GO:""cytoplasm""))",TARDBP,,9606.0
+12241,Translocation,"tloc(a(CHEBI:""acetylcholine""),fromLoc(MESH:""Synaptic Vesicles""),toLoc(GO:""synaptic cleft""))",,acetylcholine,
+12242,Translocation,"tloc(p(HGNC:""PRNP""),fromLoc(MESH:""Endoplasmic Reticulum""),toLoc(GO:""cytosol""))",PRNP,,9606.0
+12243,Translocation,"tloc(p(HGNCGENEFAMILY:""Glutamate ionotropic receptor NMDA type subunits""),fromLoc(GO:""plasma membrane""),toLoc(GO:""intracellular""))",Glutamate ionotropic receptor NMDA type subunits,,
+12244,Translocation,"tloc(p(HGNC:""CTSC""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSC,,9606.0
+12245,Translocation,"tloc(p(HGNCGENEFAMILY:""MTOR complex 1""),fromLoc(GO:""cytoplasm""),toLoc(GO:""plasma membrane""))",MTOR complex 1,,
+12246,Translocation,"tloc(p(CONSO:""Tau isoform F (441 aa)""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",Tau isoform F (441 aa),,
+12247,Translocation,"tloc(a(CHEBI:""calcium ion""),fromLoc(GO:""pore complex""),toLoc(MESH:""Intracellular Space""))",,calcium ion,
+12248,Translocation,"tloc(p(MESH:""Proteins"",pmod(ubiquitination)),fromLoc(GO:""cytosol""),toLoc(GO:""proteasome complex""))",Proteins,,
+12249,Translocation,"tloc(p(HGNC:""HDAC1""),fromLoc(GO:""nucleus""),toLoc(GO:""cytosol""))",HDAC1,,9606.0
+12250,Translocation,"tloc(p(HGNC:""TREM2""),fromLoc(MESHA:""Endoplasmic Reticulum""),toLoc(MESHCS:""Golgi Apparatus""))",TREM2,,9606.0
+12251,Translocation,"tloc(p(HGNC:""TTLL6""),fromLoc(GO:""axon""),toLoc(MESH:""Dendritic Spines""))",TTLL6,,9606.0
+12252,Translocation,"tloc(a(CHEBI:""acetylcholine""),fromLoc(GO:""vesicle""),toLoc(GO:""synapse""))",,acetylcholine,
+12253,Translocation,"tloc(p(HGNC:""SNCA""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",SNCA,,9606.0
+12254,Translocation,"tloc(a(MESHC:""Cell-Penetrating Peptides""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasmic side of plasma membrane""))",,Cell-Penetrating Peptides,
+12255,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""trans-Golgi Network""),toLoc(MESHCS:""Endosomes""))",APP,,9606.0
+12256,Translocation,"tloc(p(HGNC:""APOE""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Cardiovascular System""))",APOE,,9606.0
+12257,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""cytosol""),toLoc(CONSO:""20 S Proteasome""))",,Proteins,
+12258,Translocation,"tloc(p(HGNC:""MARCKS""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Cytosol""))",MARCKS,,9606.0
+12259,Translocation,"tloc(a(CHEBI:""macromolecule""),fromLoc(MESH:""Cerebrospinal Fluid""),toLoc(MESH:""Brain""))",,macromolecule,
+12260,Translocation,"tloc(a(MESH:""Autophagosomes""),fromLoc(GO:""distal axon""),toLoc(GO:""cell body""))",,Autophagosomes,
+12261,Translocation,"tloc(a(CHEBI:""cholesterol""),fromLoc(HP:""brain""),toLoc(HP:""blood""))",,cholesterol,
+12262,Translocation,"tloc(a(CONSO:""alpha-synuclein fibrils""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,alpha-synuclein fibrils,
+12263,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Neurons""))",MAPT,,9606.0
+12264,Translocation,"tloc(p(HGNC:""ACHE""),fromLoc(MESH:""Synaptic Vesicles""),toLoc(GO:""synaptic cleft""))",ACHE,,9606.0
+12265,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""intracellular""),toLoc(GO:""lysosome""))",,Proteins,
+12266,Translocation,"tloc(a(MESH:""Calcium""),fromLoc(MESH:""Cell Membrane""),toLoc(GO:""intracellular""))",,Calcium,
+12267,Translocation,"tloc(p(HGNC:""CTSD""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSD,,9606.0
+12268,Translocation,"tloc(p(HGNC:""MITF""),fromLoc(MESH:""Lysosomes""),toLoc(GO:""nucleus""))",MITF,,9606.0
+12269,Translocation,"tloc(a(CONSO:""Tau oligomers""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,Tau oligomers,
+12270,Translocation,"tloc(p(CONSO:""CONSO00053"",var(""p.Ser262Ala""),var(""p.Ser293Ala""),var(""p.Ser324Ala""),var(""p.Ser356Ala"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12271,Translocation,"tloc(p(HGNC:""SNCAIP"",pmod(ubiquitination)),fromLoc(GO:""cytosol""),toLoc(MESH:""Inclusion Bodies""))",SNCAIP,,9606.0
+12272,Translocation,"tloc(p(HGNC:""HDAC4""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",HDAC4,,9606.0
+12273,Translocation,"tloc(p(HGNC:""NFE2L2""),fromLoc(MESHCS:""Cytoplasm""),toLoc(MESHCS:""Cell Nucleus""))",NFE2L2,,9606.0
+12274,Translocation,"tloc(p(MGI:""Siglech""),fromLoc(MESHA:""Cell Membrane""),toLoc(MESHA:""Cytoplasm""))",Siglech,,10090.0
+12275,Translocation,"tloc(p(HGNCGENEFAMILY:""MTOR complex 1""),fromLoc(GO:""lysosomal membrane""),toLoc(GO:""cytoplasm""))",MTOR complex 1,,
+12276,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(GO:""endoplasmic reticulum""),toLoc(MESH:""Cytoplasm""))",,calcium(2+),
+12277,Translocation,"tloc(p(CONSO:""protein aggregates"",pmod(Ub)),fromLoc(GO:""cytoplasm""),toLoc(GO:""aggresome""))",protein aggregates,,
+12278,Translocation,"tloc(p(HGNC:""MITF""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",MITF,,9606.0
+12279,Translocation,"tloc(a(MESHC:""penetratin""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasmic side of plasma membrane""))",,penetratin,
+12280,Translocation,"tloc(p(SFAM:""NOTCH Family""),fromLoc(MESHCS:""Cytoplasm""),toLoc(MESHCS:""Cell Nucleus""))",NOTCH Family,,
+12281,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""dendritic shaft""),toLoc(GO:""excitatory synapse""))",MAPT,,9606.0
+12282,Translocation,"tloc(p(CONSO:""CONSO00053"",var(""p.Lys280Pro"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12283,Translocation,"tloc(a(MESH:""Cations, Divalent""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",,"Cations, Divalent",
+12284,Translocation,"tloc(p(HGNC:""DNM1L""),fromLoc(GO:""cytosol""),toLoc(GO:""mitochondrial outer membrane""))",DNM1L,,9606.0
+12285,Translocation,"tloc(a(MESH:""Macrophages""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Spinal Cord""))",,Macrophages,
+12286,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""Cell Surface Extensions""),toLoc(MESHCS:""Endosomes""))",APP,,9606.0
+12287,Translocation,"tloc(p(HGNC:""ZNF45""),fromLoc(GO:""nucleus""),toLoc(GO:""cytoplasm""))",ZNF45,,9606.0
+12288,Translocation,"tloc(a(CHEBI:""dextran""),fromLoc(GO:""extracellular region""),toLoc(GO:""cell body""))",,dextran,
+12289,Translocation,"tloc(a(CHEBI:""choline""),fromLoc(GO:""synaptic cleft""),toLoc(MESH:""Cholinergic Neurons""))",,choline,
+12290,Translocation,"tloc(complex(GO:""protein phosphatase type 2A complex""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",,protein phosphatase type 2A complex,
+12291,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""axon""),toLoc(GO:""cell body""))",MAPT,,9606.0
+12292,Translocation,"tloc(p(HGNC:""CTSE""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSE,,9606.0
+12293,Translocation,"tloc(p(HGNC:""TFE3""),fromLoc(MESH:""Lysosomes""),toLoc(GO:""nucleus""))",TFE3,,9606.0
+12294,Translocation,"tloc(p(MESH:""Proteins"",pmod(CONSO:""misfolding"")),fromLoc(GO:""endoplasmic reticulum lumen""),toLoc(GO:""cytosol""))",Proteins,,
+12295,Translocation,"tloc(p(HGNC:""CTSF""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSF,,9606.0
+12296,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESHA:""Extracellular Space""),toLoc(MESHA:""Cytoplasm""))",,amyloid-beta,
+12297,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",Mapt,,10090.0
+12298,Translocation,"tloc(a(CHEBI:""calcium ion""),fromLoc(GO:""endoplasmic reticulum""),toLoc(MESH:""Cytoplasm""))",,calcium ion,
+12299,Translocation,"tloc(p(HGNC:""HSF1""),fromLoc(MESH:""Cytosol""),toLoc(MESH:""Cell Nucleus""))",HSF1,,9606.0
+12300,Translocation,"tloc(p(HGNC:""CASP7""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",CASP7,,9606.0
+12301,Translocation,"tloc(a(MESHC:""octaarginine""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasmic side of plasma membrane""))",,octaarginine,
+12302,Translocation,"tloc(p(HGNC:""CDH2""),fromLoc(MESHCS:""Endoplasmic Reticulum""),toLoc(MESHCS:""Cell Membrane""))",CDH2,,9606.0
+12303,Translocation,"tloc(p(HGNC:""APP""),fromLoc(GO:""cytoplasm""),toLoc(GO:""cell surface""))",APP,,9606.0
+12304,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""multivesicular body""))",Mapt,,10090.0
+12305,Translocation,"tloc(a(MESH:""Cations, Divalent""),fromLoc(MESH:""Intracellular Space""),toLoc(MESH:""Extracellular Space""))",,"Cations, Divalent",
+12306,Translocation,"tloc(a(CHEBI:""ATP""),fromLoc(GO:""mitochondrion""),toLoc(GO:""axon cytoplasm""))",,ATP,
+12307,Translocation,"tloc(a(MESH:""Microglia""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Spinal Cord""))",,Microglia,
+12308,Translocation,"tloc(p(HGNC:""BAX""),fromLoc(MESHCS:""Cytosol""),toLoc(MESHCS:""Lysosomes""))",BAX,,9606.0
+12309,Translocation,"tloc(p(HGNC:""TFEB""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",TFEB,,9606.0
+12310,Translocation,"tloc(a(CONSO:""Tau fibrils""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Neurons""))",,Tau fibrils,
+12311,Translocation,"tloc(a(CHEBI:""choline""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,choline,
+12312,Translocation,"tloc(complex(GO:""protein phosphatase type 2A complex""),fromLoc(GO:""cytoplasm""),toLoc(GO:""centrosome""))",,protein phosphatase type 2A complex,
+12313,Translocation,"tloc(a(MESH:""Protein Aggregates""),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosome""))",,Protein Aggregates,
+12314,Translocation,"tloc(p(HGNC:""FOXO3""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",FOXO3,,9606.0
+12315,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESH:""Intracellular Space""),toLoc(GO:""cytosol""))",,calcium(2+),
+12316,Translocation,"tloc(a(PUBCHEM:""135566354""),fromLoc(MESH:""Blood""),toLoc(MESH:""Brain""))",,135566354,
+12317,Translocation,"tloc(complex(CONSO:""alpha-4 beta-2 nAChR""),fromLoc(MESH:""Cytoplasm""),toLoc(MESH:""Cell Membrane""))",,alpha-4 beta-2 nAChR,
+12318,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosomal lumen""))",,Proteins,
+12319,Translocation,"tloc(p(HGNC:""PRKN""),fromLoc(GO:""cytoplasm""),toLoc(GO:""centrosome""))",PRKN,,9606.0
+12320,Translocation,"tloc(p(HGNC:""TRAF6""),fromLoc(MESHA:""Cytoplasm""),toLoc(MESHA:""Mitochondria""))",TRAF6,,9606.0
+12321,Translocation,"tloc(a(CONSO:""amyloid-beta derived diffusible ligands""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Intracellular Space""))",,amyloid-beta derived diffusible ligands,
+12322,Translocation,"tloc(p(CONSO:""CONSO00053"",var(""p.Ser262Glu""),var(""p.Ser293Glu""),var(""p.Ser324Glu""),var(""p.Ser356Glu"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12323,Translocation,"tloc(p(HGNC:""ATF6""),fromLoc(MESH:""Endoplasmic Reticulum""),toLoc(MESH:""Golgi Apparatus""))",ATF6,,9606.0
+12324,Translocation,"tloc(p(HGNC:""CYCS""),fromLoc(MESH:""Mitochondria""),toLoc(MESH:""Cytosol""))",CYCS,,9606.0
+12325,Translocation,"tloc(a(MESHC:""TAT Peptide""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasmic side of plasma membrane""))",,TAT Peptide,
+12326,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESHCS:""Endoplasmic Reticulum""),toLoc(MESHCS:""Cytoplasm""))",,calcium(2+),
+12327,Translocation,"tloc(p(HGNC:""CARM1""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",CARM1,,9606.0
+12328,Translocation,"tloc(p(CONSO:""CONSO00053"",pmod(Ph,S,202),pmod(Ph,T,205)),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12329,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESH:""Intracellular Space""),toLoc(MESH:""Extracellular Space""))",,calcium(2+),
+12330,Translocation,"tloc(a(MESH:""Lymphocytes""),fromLoc(MESH:""Blood""),toLoc(MESH:""Brain""))",,Lymphocytes,
+12331,Translocation,"tloc(a(CHEBI:""Hexamethonium""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Central Nervous System""))",,Hexamethonium,
+12332,Translocation,"tloc(complex(p(HGNC:""APP""),p(HGNC:""ITGB1BP1"")),fromLoc(MESHCS:""Axons""),toLoc(MESHCS:""Synapses""))",APP;ITGB1BP1,,9606.0
+12333,Translocation,"tloc(p(CONSO:""CONSO00053"",pmod(Ph,S,214),pmod(Ph,T,212)),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12334,Translocation,"tloc(a(CHEBI:""neurotransmitter""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,neurotransmitter,
+12335,Translocation,"tloc(a(MESH:""Cytoplasmic Vesicles""),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosome""))",,Cytoplasmic Vesicles,
+12336,Translocation,"tloc(a(CHEBI:""macromolecule""),fromLoc(MESH:""Parenchymal Tissue""),toLoc(MESH:""Lymph Nodes""))",,macromolecule,
+12337,Translocation,"tloc(p(HGNC:""CTSG""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSG,,9606.0
+12338,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(GO:""cytoplasm""),toLoc(MESH:""Astrocytes""))",,amyloid-beta,
+12339,Translocation,"tloc(p(HGNC:""APP""),fromLoc(GO:""trans-Golgi network""),toLoc(GO:""plasma membrane""))",APP,,9606.0
+12340,Translocation,"tloc(a(CHEBI:""dopamine""),fromLoc(MESH:""Presynaptic Terminals""),toLoc(GO:""extracellular region""))",,dopamine,
+12341,Translocation,"tloc(a(CHEBI:""acetylcholine""),fromLoc(GO:""cytosol""),toLoc(MESH:""Synaptic Vesicles""))",,acetylcholine,
+12342,Translocation,"tloc(p(HGNCGENEFAMILY:""Glutamate ionotropic receptor NMDA type subunits""),fromLoc(GO:""cytoplasm""),toLoc(GO:""plasma membrane""))",Glutamate ionotropic receptor NMDA type subunits,,
+12343,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""trans-Golgi Network""),toLoc(MESHCS:""Cell Surface Extensions""))",APP,,9606.0
+12344,Translocation,"tloc(p(HGNC:""IRF3""),fromLoc(MESHA:""Cytoplasm""),toLoc(MESHA:""Cell Nucleus""))",IRF3,,9606.0
+12345,Translocation,"tloc(a(CONSO:""amyloid-beta derived diffusible ligands""),fromLoc(MESH:""Brain""),toLoc(MESH:""Blood""))",,amyloid-beta derived diffusible ligands,
+12346,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(GO:""intracellular""),toLoc(MESH:""Plasma""))",,amyloid-beta,
+12347,Translocation,"tloc(p(CONSO:""N-terminal fragment of ATF6""),fromLoc(MESH:""Cytosol""),toLoc(MESH:""Cell Nucleus""))",N-terminal fragment of ATF6,,
+12348,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",,calcium(2+),
+12349,Translocation,"tloc(a(MESHC:""tau fibrils""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasm""))",,tau fibrils,
+12350,Translocation,"tloc(p(HGNC:""CYCS""),fromLoc(MESHCS:""Mitochondria""),toLoc(MESHCS:""Cytosol""))",CYCS,,9606.0
+12351,Translocation,"tloc(p(HGNC:""TFEB""),fromLoc(GO:""nucleus""),toLoc(GO:""cytoplasm""))",TFEB,,9606.0
+12352,Translocation,"tloc(a(GO:""organelle""),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosome""))",,organelle,
+12353,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""trans-Golgi Network""),toLoc(MESHCS:""Cell Membrane""))",APP,,9606.0
+12354,Translocation,"tloc(a(MESH:""Lymphocytes""),fromLoc(GO:""cytoplasm""),toLoc(MESH:""Brain""))",,Lymphocytes,
+12355,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular part""))",,calcium(2+),
+12356,Translocation,"tloc(p(HGNC:""LRP8""),fromLoc(MESHCS:""Cell Surface Extensions""),toLoc(MESHCS:""Endosomes""))",LRP8,,9606.0
+12357,Translocation,"tloc(p(HGNCGENEFAMILY:""MTOR complex 1""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",MTOR complex 1,,
+12358,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""axon""),toLoc(MESH:""Dendritic Spines""))",MAPT,,9606.0
+12359,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(GO:""extracellular region""),toLoc(GO:""synapse""))",,calcium(2+),
+12360,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosome""))",,Proteins,
+12361,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""endoplasmic reticulum""),toLoc(GO:""Golgi apparatus""))",,Proteins,
+12362,Translocation,"tloc(p(HGNC:""CTSL""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSL,,9606.0
+12363,Translocation,"tloc(p(MGI:""Fyn""),fromLoc(GO:""cytoplasm""),toLoc(GO:""membrane raft""))",Fyn,,10090.0
+12364,Translocation,"tloc(p(HGNC:""APP""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",APP,,9606.0
+12365,Translocation,"tloc(p(CONSO:""alpha-4-containing nAChR""),fromLoc(GO:""endoplasmic reticulum""),toLoc(GO:""extracellular region""))",alpha-4-containing nAChR,,
+12366,Translocation,"tloc(a(GO:""intrinsic component of plasma membrane""),fromLoc(GO:""plasma membrane""),toLoc(GO:""lysosome""))",,intrinsic component of plasma membrane,
+12367,Translocation,"tloc(p(HGNC:""HTT"",pmod(CONSO:""CAG repeats"")),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",HTT,,9606.0
+12368,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""Axons""),toLoc(MESHCS:""Cell Membrane""))",APP,,9606.0
+12369,Translocation,"tloc(p(HGNC:""IRF7""),fromLoc(MESHA:""Cytoplasm""),toLoc(MESHA:""Cell Nucleus""))",IRF7,,9606.0
+12370,Translocation,"tloc(a(CONSO:""amyloid-beta derived diffusible ligands""),fromLoc(MESH:""Blood""),toLoc(MESH:""Cerebrospinal Fluid""))",,amyloid-beta derived diffusible ligands,
+12371,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""proteasome regulatory particle""),toLoc(CONSO:""20 S Proteasome""))",,Proteins,
+12372,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",MAPT,,9606.0
+12373,Translocation,"tloc(a(MESHC:""alpha-Synuclein fibrils""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasm""))",,alpha-Synuclein fibrils,
+12374,Translocation,"tloc(p(HGNC:""BACE1""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Endosomes""))",BACE1,,9606.0
+12375,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Blood-Brain Barrier""),toLoc(MESH:""Blood""))",,amyloid-beta,
+12376,Translocation,"tloc(p(CONSO:""CONSO00053"",pmod(Ph,S,396),pmod(Ph,S,404)),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",CONSO00053,,
+12377,Translocation,"tloc(a(CHEBI:""sodium(1+)""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",,sodium(1+),
+12378,Translocation,"tloc(a(MESH:""T-Lymphocytes""),fromLoc(MESH:""Peripheral Nervous System""),toLoc(MESH:""Central Nervous System""))",,T-Lymphocytes,
+12379,Translocation,"tloc(p(HGNC:""TFE3""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",TFE3,,9606.0
+12380,Translocation,"tloc(a(CONSO:""Tau fibrils""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,Tau fibrils,
+12381,Translocation,"tloc(a(CHEBI:""glutamate(2-)""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,glutamate(2-),
+12382,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""cytosol""),toLoc(GO:""lysosome""))",MAPT,,9606.0
+12383,Translocation,"tloc(p(MESH:""Proteins"",pmod(CONSO:""misfolded"")),fromLoc(GO:""endoplasmic reticulum""),toLoc(GO:""cytoplasm""))",Proteins,,
+12384,Translocation,"tloc(p(HGNC:""APP"",frag(""672_713"")),fromLoc(MESHCS:""COP-Coated Vesicles""),toLoc(MESHCS:""Lysosomes""))",APP,,9606.0
+12385,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(GO:""cytoplasm""),toLoc(GO:""membrane raft""))",Mapt,,10090.0
+12386,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""axon""),toLoc(GO:""somatodendritic compartment""))",MAPT,,9606.0
+12387,Translocation,"tloc(p(HGNC:""CHRNA7""),fromLoc(GO:""cell surface""),toLoc(GO:""endosome""))",CHRNA7,,9606.0
+12388,Translocation,"tloc(a(CHEBI:""calcium cation""),fromLoc(GO:""endoplasmic reticulum""),toLoc(GO:""cytoplasm""))",,calcium cation,
+12389,Translocation,"tloc(a(MESH:""Leukocytes""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Spinal Cord""))",,Leukocytes,
+12390,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",Mapt,,10090.0
+12391,Translocation,"tloc(complex(p(HGNC:""IRF3""),p(HGNC:""IRF3"")),fromLoc(MESHA:""Cytoplasm""),toLoc(MESHA:""Cell Nucleus""))",IRF3,,9606.0
+12392,Translocation,"tloc(a(CONSO:""amyloid-beta derived diffusible ligands""),fromLoc(MESH:""Brain""),toLoc(MESH:""Extracellular Fluid""))",,amyloid-beta derived diffusible ligands,
+12393,Translocation,"tloc(p(HGNC:""CHCHD10""),fromLoc(GO:""mitochondrion""),toLoc(GO:""nucleus""))",CHCHD10,,9606.0
+12394,Translocation,"tloc(a(CHEBI:""macromolecule""),fromLoc(MESH:""Cerebrospinal Fluid""),toLoc(MESH:""Lymph Nodes""))",,macromolecule,
+12395,Translocation,"tloc(a(MESHC:""SOD1 G93A protein""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasm""))",,SOD1 G93A protein,
+12396,Translocation,"tloc(p(HGNC:""BACE1""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Lysosomes""))",BACE1,,9606.0
+12397,Translocation,"tloc(a(CHEBI:""amyloid-beta polypeptide 42""),fromLoc(MESH:""Brain""),toLoc(MESH:""Plasma""))",,amyloid-beta polypeptide 42,
+12398,Translocation,"tloc(a(CHEBI:""sodium(1+)""),fromLoc(MESH:""Intracellular Space""),toLoc(MESH:""Extracellular Space""))",,sodium(1+),
+12399,Translocation,"tloc(a(MESH:""T-Lymphocytes""),fromLoc(MESH:""Lymph Nodes""),toLoc(MESH:""Central Nervous System""))",,T-Lymphocytes,
+12400,Translocation,"tloc(p(HGNC:""CYP46A1""),fromLoc(MESHCS:""Intracellular Space""),toLoc(MESHCS:""Cell Membrane""))",CYP46A1,,9606.0
+12401,Translocation,"tloc(a(CONSO:""Tau fibrils""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",,Tau fibrils,
+12402,Translocation,"tloc(a(CHEBI:""gamma-aminobutyric acid""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,gamma-aminobutyric acid,
+12403,Translocation,"tloc(p(HGNC:""TFEB""),fromLoc(GO:""cytosol""),toLoc(GO:""nucleus""))",TFEB,,9606.0
+12404,Translocation,"tloc(a(BRCO:""Microglia""),fromLoc(MESHCS:""Bone Marrow Cells""),toLoc(BRCO:""Brain""))",,Microglia,
+12405,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(GO:""axon""),toLoc(GO:""somatodendritic compartment""))",Mapt,,10090.0
+12406,Translocation,"tloc(a(CHEBI:""potassium(1+)""),fromLoc(MESH:""Intracellular Space""),toLoc(MESH:""Extracellular Space""))",,potassium(1+),
+12407,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""neuron part""),toLoc(GO:""neuron part""))",MAPT,,9606.0
+12408,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Cytoplasm""))",,calcium(2+),
+12409,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""cytoplasm""),toLoc(GO:""multivesicular body""))",,Proteins,
+12410,Translocation,"tloc(a(CHEBI:""cystine""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,cystine,
+12411,Translocation,"tloc(complex(p(HGNC:""APP"",frag(""672_713"")),p(HGNC:""LRP1"")),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Endosomes""))",APP;LRP1,,9606.0
+12412,Translocation,"tloc(p(HGNC:""ATM""),fromLoc(MESHA:""Cell Nucleus""),toLoc(MESHA:""Cytoplasm""))",ATM,,9606.0
+12413,Translocation,"tloc(a(CONSO:""amyloid-beta derived diffusible ligands""),fromLoc(MESH:""Cerebrospinal Fluid""),toLoc(MESH:""Cardiovascular System""))",,amyloid-beta derived diffusible ligands,
+12414,Translocation,"tloc(p(HGNC:""TFEB""),fromLoc(MESH:""Cytoplasm""),toLoc(MESH:""Cell Nucleus""))",TFEB,,9606.0
+12415,Translocation,"tloc(a(CHEBI:""macromolecule""),fromLoc(GO:""extracellular space""),toLoc(MESH:""Intracellular Space""))",,macromolecule,
+12416,Translocation,"tloc(a(CHEBI:""HPV-16""),fromLoc(GOCC:""external side of plasma membrane""),toLoc(GOCC:""cytoplasm""))",,HPV-16,
+12417,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""Cell Surface Extensions""),toLoc(MESHCS:""Cell Membrane Structures""))",APP,,9606.0
+12418,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Brain""),toLoc(GO:""extracellular region""))",,amyloid-beta,
+12419,Translocation,"tloc(p(MGI:""Mapt""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Neurons""))",Mapt,,10090.0
+12420,Translocation,"tloc(a(CHEBI:""potassium(1+)""),fromLoc(MESH:""Extracellular Space""),toLoc(MESH:""Intracellular Space""))",,potassium(1+),
+12421,Translocation,"tloc(a(CHEBI:""2 L-glutamate""),fromLoc(MESH:""Astrocytes""),toLoc(MESH:""Synapses""))",,2 L-glutamate,
+12422,Translocation,"tloc(p(HGNC:""APP""),fromLoc(GO:""cell surface""),toLoc(GO:""endocytic vesicle""))",APP,,9606.0
+12423,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,amyloid-beta,
+12424,Translocation,"tloc(p(MESH:""Proteins"",pmod(ubiquitination)),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosome""))",Proteins,,
+12425,Translocation,"tloc(complex(p(FPLX:""NFkappaB""),p(FPLX:""NFkappaB"")),fromLoc(MESH:""Cytosol""),toLoc(MESH:""Cell Nucleus""))",NFkappaB,,
+12426,Translocation,"tloc(a(CHEBI:""dopamine""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,dopamine,
+12427,Translocation,"tloc(complex(GO:""gamma-secretase complex""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular""))",,gamma-secretase complex,
+12428,Translocation,"tloc(p(HGNC:""SNCA""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular space""))",SNCA,,9606.0
+12429,Translocation,"tloc(p(HGNC:""SLC2A4""),fromLoc(MESHCS:""Intracellular Space""),toLoc(MESHCS:""Cell Membrane""))",SLC2A4,,9606.0
+12430,Translocation,"tloc(p(HGNC:""TARDBP"",pmod(Ph)),fromLoc(GO:""nucleus""),toLoc(GO:""cytoplasm""))",TARDBP,,9606.0
+12431,Translocation,"tloc(a(MESH:""Sodium""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,Sodium,
+12432,Translocation,"tloc(a(MESH:""Cathepsins""),fromLoc(GO:""trans-Golgi network""),toLoc(GO:""multivesicular body""))",,Cathepsins,
+12433,Translocation,"tloc(p(MGI:""Pcm1""),fromLoc(GO:""Golgi apparatus""),toLoc(GO:""plasma membrane""))",Pcm1,,10090.0
+12434,Translocation,"tloc(p(HGNC:""APP"",frag(""672_713"")),fromLoc(HP:""brain""),toLoc(HP:""blood""))",APP,,9606.0
+12435,Translocation,"tloc(complex(SCOMP:""MHC Class II Complex""),fromLoc(MESHA:""Cytoplasm""),toLoc(MESHA:""Cell Membrane""))",,MHC Class II Complex,
+12436,Translocation,"tloc(a(CONSO:""amyloid-beta derived diffusible ligands""),fromLoc(MESH:""Cerebrospinal Fluid""),toLoc(MESH:""Lymphatic System""))",,amyloid-beta derived diffusible ligands,
+12437,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(MESH:""Lysosomes""),toLoc(MESH:""Cytoplasm""))",,calcium(2+),
+12438,Translocation,"tloc(p(HGNC:""SNCA"",var(""?"")),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosomal lumen""))",SNCA,,9606.0
+12439,Translocation,"tloc(a(CHEBI:""gadolinium atom""),fromLoc(GO:""extracellular space""),toLoc(MESH:""Cerebrospinal Fluid""))",,gadolinium atom,
+12440,Translocation,"tloc(a(PUBCHEM:""9832404""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Brain""))",,9832404,
+12441,Translocation,"tloc(p(HGNC:""SORL1""),fromLoc(MESHCS:""Endosomes""),toLoc(MESHCS:""trans-Golgi Network""))",SORL1,,9606.0
+12442,Translocation,"tloc(p(MGI:""Mapt"",var(""p.Pro301Leu"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",Mapt,,10090.0
+12443,Translocation,"tloc(p(HGNC:""HIF1A""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",HIF1A,,9606.0
+12444,Translocation,"tloc(p(HGNC:""ATF6""),fromLoc(GO:""endoplasmic reticulum membrane""),toLoc(GO:""Golgi apparatus""))",ATF6,,9606.0
+12445,Translocation,"tloc(p(MESH:""Mitochondria""),fromLoc(GO:""cell body""),toLoc(GO:""axon""))",Mitochondria,,
+12446,Translocation,"tloc(p(MESH:""Receptors, N-Methyl-D-Aspartate""),fromLoc(GO:""cell surface""),toLoc(GO:""cytosol""))","Receptors, N-Methyl-D-Aspartate",,
+12447,Translocation,"tloc(a(CHEBI:""copper(1+)""),fromLoc(HP:""brain""),toLoc(HP:""cerebrospinal fluid""))",,copper(1+),
+12448,Translocation,"tloc(a(MESH:""Lysosomes""),fromLoc(GO:""extracellular space""),toLoc(GO:""cell""))",,Lysosomes,
+12449,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",MAPT,,9606.0
+12450,Translocation,"tloc(a(CHEBI:""serotonin""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,serotonin,
+12451,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Endothelial Cells""),toLoc(MESH:""Blood""))",,amyloid-beta,
+12452,Translocation,"tloc(p(HGNC:""ATF6""),fromLoc(GO:""endoplasmic reticulum""),toLoc(GO:""Golgi apparatus""))",ATF6,,9606.0
+12453,Translocation,"tloc(p(HGNC:""SLC2A8""),fromLoc(MESHCS:""Intracellular Space""),toLoc(MESHCS:""Cell Membrane""))",SLC2A8,,9606.0
+12454,Translocation,"tloc(a(CHEBI:""cholesterol""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Extracellular Space""))",,cholesterol,
+12455,Translocation,"tloc(p(HGNC:""MAPT""),fromLoc(GO:""cell""),toLoc(GO:""cell""))",MAPT,,9606.0
+12456,Translocation,"tloc(a(CHEBI:""calcium cation""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",,calcium cation,
+12457,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(GO:""cytosol""),toLoc(GO:""lysosomal lumen""))",,Proteins,
+12458,Translocation,"tloc(a(CHEBI:""D-glutamate residue""),fromLoc(GO:""cytoplasm""),toLoc(GO:""extracellular space""))",,D-glutamate residue,
+12459,Translocation,"tloc(a(CHEBI:""quinine""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular""))",,quinine,
+12460,Translocation,"tloc(a(CHEBI:""calcium ion""),fromLoc(GOCC:""extracellular space""),toLoc(GOCC:""cytoplasm""))",,calcium ion,
+12461,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Brain""),toLoc(MESH:""Blood""))",,amyloid-beta,
+12462,Translocation,"tloc(a(GO:""cytoplasm""),fromLoc(GO:""intracellular""),toLoc(GO:""lysosome""))",,cytoplasm,
+12463,Translocation,"tloc(p(HGNC:""RELA""),fromLoc(MESHCS:""Cytosol""),toLoc(MESHCS:""Cell Nucleus""))",RELA,,9606.0
+12464,Translocation,"tloc(a(PUBCHEM:""9832404""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Cell Body""))",,9832404,
+12465,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""Endosomes""),toLoc(MESHCS:""trans-Golgi Network""))",APP,,9606.0
+12466,Translocation,"tloc(a(CHEBI:""water""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Cerebrospinal Fluid""))",,water,
+12467,Translocation,"tloc(p(HGNC:""MAPT"",var(""p.Pro301Ser"")),fromLoc(GO:""extracellular region""),toLoc(MESH:""Neurons""))",MAPT,,9606.0
+12468,Translocation,"tloc(p(HGNC:""APP""),fromLoc(GO:""Golgi apparatus""),toLoc(GO:""cell surface""))",APP,,9606.0
+12469,Translocation,"tloc(a(CHEBI:""dopamine""),fromLoc(MESH:""Nerve Endings""),toLoc(MESH:""Limbic System""))",,dopamine,
+12470,Translocation,"tloc(p(HGNC:""CTNNB1""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",CTNNB1,,9606.0
+12471,Translocation,"tloc(p(HGNC:""APP""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Endosomes""))",APP,,9606.0
+12472,Translocation,"tloc(a(MESH:""Lysosomes""),fromLoc(GO:""cell""),toLoc(GO:""extracellular space""))",,Lysosomes,
+12473,Translocation,"tloc(a(CONSO:""Tau aggregates""),fromLoc(MESH:""Neurons""),toLoc(MESH:""Neurons""))",,Tau aggregates,
+12474,Translocation,"tloc(a(CHEBI:""noradrenaline""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,noradrenaline,
+12475,Translocation,"tloc(complex(GO:""SNARE complex""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular""))",,SNARE complex,
+12476,Translocation,"tloc(p(HGNC:""MAPT"",pmod(CONSO:""misfolded"")),fromLoc(GO:""cytoplasm""),toLoc(MESH:""Neurons""))",MAPT,,9606.0
+12477,Translocation,"tloc(p(MGI:""App""),fromLoc(MESHCS:""Cell Surface Extensions""),toLoc(MESHCS:""Endosomes""))",App,,10090.0
+12478,Translocation,"tloc(p(HGNC:""BACE2""),fromLoc(MESHCS:""Cell Surface Extensions""),toLoc(MESHCS:""Endosomes""))",BACE2,,9606.0
+12479,Translocation,"tloc(a(CONSO:""Tau aggregates""),fromLoc(GO:""endosome""),toLoc(GO:""lysosome""))",,Tau aggregates,
+12480,Translocation,"tloc(a(CHEBI:""potassium(1+)""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,potassium(1+),
+12481,Translocation,"tloc(a(PUBCHEM:""132157820""),fromLoc(MESH:""Blood""),toLoc(MESH:""Brain""))",,132157820,
+12482,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(GO:""lysosome""),toLoc(GO:""cytoplasm""))",,calcium(2+),
+12483,Translocation,"tloc(p(RGD:""Plcd1""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Cytoplasm""))",Plcd1,,10116.0
+12484,Translocation,"tloc(a(CHEBI:""amyloid-beta""),fromLoc(MESH:""Cardiovascular System""),toLoc(MESH:""Extracellular Space""))",,amyloid-beta,
+12485,Translocation,"tloc(p(MGI:""Snca"",var(""?"")),fromLoc(MESH:""Extracellular Space""),toLoc(GO:""lysosome""))",Snca,,10090.0
+12486,Translocation,"tloc(p(HGNC:""WDFY3""),fromLoc(GO:""nucleus""),toLoc(GO:""cytoplasm""))",WDFY3,,9606.0
+12487,Translocation,"tloc(p(HGNC:""ATXN3"",pmod(ubiquitination)),fromLoc(GO:""cytosol""),toLoc(GO:""proteasome complex""))",ATXN3,,9606.0
+12488,Translocation,"tloc(a(PUBCHEM:""9832404""),fromLoc(GO:""extracellular region""),toLoc(GO:""cell periphery""))",,9832404,
+12489,Translocation,"tloc(p(HGNC:""MARCKS""),fromLoc(MESHCS:""Cell Membrane""),toLoc(MESHCS:""Cytoplasm""))",MARCKS,,9606.0
+12490,Translocation,"tloc(a(CHEBI:""amyloid-beta polypeptide 40""),fromLoc(MESH:""Brain""),toLoc(MESH:""Blood""))",,amyloid-beta polypeptide 40,
+12491,Translocation,"tloc(a(CONSO:""Tau aggregates""),fromLoc(GO:""extracellular region""),toLoc(MESH:""Neurons""))",,Tau aggregates,
+12492,Translocation,"tloc(a(CHEBI:""calcium(2+)""),fromLoc(GO:""extracellular space""),toLoc(GO:""intracellular part""))",,calcium(2+),
+12493,Translocation,"tloc(p(FPLX:""NFkappaB""),fromLoc(MESH:""Cytosol""),toLoc(MESH:""Cell Nucleus""))",NFkappaB,,
+12494,Translocation,"tloc(p(HGNC:""MAPK3""),fromLoc(GO:""cytoplasm""),toLoc(GO:""nucleus""))",MAPK3,,9606.0
+12495,Translocation,"tloc(p(HGNC:""CTSA""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSA,,9606.0
+12496,Translocation,"tloc(p(HGNCGENEFAMILY:""MTOR complex 1""),fromLoc(GO:""cytoplasm""),toLoc(GO:""lysosomal membrane""))",MTOR complex 1,,
+12497,Translocation,"tloc(a(MESH:""Proteins""),fromLoc(MESH:""Brain""),toLoc(MESH:""Blood""))",,Proteins,
+12498,Translocation,"tloc(a(CHEBI:""acetylcholine""),fromLoc(GO:""intracellular""),toLoc(GO:""extracellular region""))",,acetylcholine,
+12499,Translocation,"tloc(p(HGNC:""TREM2""),fromLoc(GO:""extracellular region""),toLoc(GO:""intracellular""))",TREM2,,9606.0
+12500,Translocation,"tloc(p(HGNC:""CTSB""),fromLoc(MESHCS:""Lysosomes""),toLoc(MESHCS:""Cytosol""))",CTSB,,9606.0
+12501,Translocation,"tloc(a(CONSO:""Tau aggregates""),fromLoc(GO:""extracellular region""),toLoc(GO:""cell body""))",,Tau aggregates,
